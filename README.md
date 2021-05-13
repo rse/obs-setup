@@ -2,9 +2,9 @@
 OBS Setup
 =========
 
-This is Dr. Ralf S. Engelschall's opinionated list of software
-components for installing a full-featured Open Broadcaster Software
-(OBS) Studio setup.
+This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
+list of software components for installing a full-featured Open
+Broadcaster Software (OBS) Studio setup.
 
 - **OBS Studio** 26.1.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
