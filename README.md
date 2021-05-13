@@ -62,15 +62,15 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-audio-monitor<br/>
   Download: https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946
 
-- **Media Controls** 0.3.2 (GPL)<br/>
+- **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
   Homepage: https://github.com/exeldro/obs-media-controls<br/>
-  Download: https://obsproject.com/forum/resources/media-controls.1032/version/3184/download?file=68192
+  Download: https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772
 
-- **Source Switcher** 0.2.8 (GPL)<br/>
+- **Source Switcher** 0.3.0 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
   Homepage: https://github.com/exeldro/obs-source-switcher<br/>
-  Download: https://obsproject.com/forum/resources/source-switcher.941/version/3183/download?file=68182
+  Download: https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930
 
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -86,6 +86,11 @@ under Windows 10.
   Individual Source Recording<br/>
   Homepage: https://github.com/exeldro/obs-source-record<br/>
   Download: https://obsproject.com/forum/resources/source-record.1285/version/3369/download?file=71095
+
+- **Background Removal - Portrait Segmentation** 0.2.4 (GPL)<br/>
+  AI-Based Greenscreen Effect</br/>
+  Homepage: https://github.com/royshil/obs-backgroundremoval<br/>
+  Download: https://github.com/royshil/obs-backgroundremoval/releases/download/v0.2.4-beta/obs-backgroundremoval-win64.zip
 
 - **RSE OBS Scripts** 2020-04 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
