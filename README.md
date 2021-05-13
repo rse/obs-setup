@@ -3,14 +3,13 @@ OBS Setup
 =========
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
-list of software components for installing a full-featured Open
-Broadcaster Software (OBS) Studio setup.
+list of software components for installing a full-featured
+[Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup.
 
 - **OBS Studio** 26.1.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
-  https://obsproject.com/<br/>
-  https://github.com/obsproject/obs-studio<br/>
-  https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.1.1-Full-Installer-x64.exe
+  Homepage: https://obsproject.com/<br/>
+  Download: https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.1.1-Full-Installer-x64.exe
 
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
