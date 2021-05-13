@@ -4,7 +4,8 @@ OBS Setup
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
-[Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup.
+[Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
+under Windows 10.
 
 - **OBS Studio** 26.1.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
@@ -41,10 +42,10 @@ list of software components for installing a full-featured
   Homepage: https://github.com/exeldro/obs-downstream-keyer<br/>
   Download: https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171
 
-- **Move Transition** 2.4.0 (GPL)<br/>
+- **Move Transition** 2.4.1 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   Homepage: https://github.com/exeldro/obs-move-transition<br/>
-  Download: https://obsproject.com/forum/resources/move-transition.913/version/3283/download?file=70031
+  Download: https://obsproject.com/forum/resources/move-transition.913/version/3364/download?file=71062
 
 - **Transition Table** 0.1.5 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -78,8 +79,13 @@ list of software components for installing a full-featured
 
 - **Gradient Source** 0.1.0 (GPL)<br/>
   Source for Rendered Gradient<br/>
-  Homepage: https://github.com/exeldro/obs-gradient-source <br/>
+  Homepage: https://github.com/exeldro/obs-gradient-source<br/>
   Download: https://obsproject.com/forum/resources/gradient-source.1172/version/2995/download?file=65467
+
+- **Source Record** 0.1.0 (GPL)<br/>
+  Individual Source Recording<br/>
+  Homepage: https://github.com/exeldro/obs-source-record<br/>
+  Download: https://obsproject.com/forum/resources/source-record.1285/version/3369/download?file=71095
 
 - **RSE OBS Scripts** 2020-04 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
