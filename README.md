@@ -21,11 +21,6 @@ list of software components for installing a full-featured
   Homepage: https://github.com/Palakis/obs-websocket<br/>
   Download: https://github.com/Palakis/obs-websocket/releases/download/4.9.0/obs-websocket-4.9.0-Windows-Installer.exe
 
-- **Speachy** 1.0 (COMMERCIAL)<br/>
-  Voice Audio "all-in-one" VST plugin<br/>
-  Homepage: https://www.neverdieaudio.com<br/>
-  Download: https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP
-
 - **StreamFX** 0.10.0 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   Homepage: https://github.com/Xaymar/obs-StreamFX<br/>
@@ -46,48 +41,53 @@ list of software components for installing a full-featured
   Homepage: https://github.com/exeldro/obs-downstream-keyer<br/>
   Download: https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171
 
-- **Move Transition** 2.4.0<br/>
+- **Move Transition** 2.4.0 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   Homepage: https://github.com/exeldro/obs-move-transition<br/>
   Download: https://obsproject.com/forum/resources/move-transition.913/version/3283/download?file=70031
 
-- **Transition Table** 0.1.5<br/>
+- **Transition Table** 0.1.5 (GPL)<br/>
   Override Scene Transitions<br/>
   Homepage: https://github.com/exeldro/obs-transition-table <br/>
   Download: https://obsproject.com/forum/resources/transition-table.1174/version/3051/download?file=66260
 
-- **Virtual Cam Filter** 0.0.3<br/>
+- **Virtual Cam Filter** 0.0.3 (GPL)<br/>
   Export Scene Via Virtual Camera<br/>
   Homepage: https://github.com/exeldro/obs-virtual-cam-filter<br/>
   Download: https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3263/download?file=69800
 
-- **Audio Monitor** 0.7.1<br/>
+- **Audio Monitor** 0.7.1 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   Homepage: https://github.com/exeldro/obs-audio-monitor<br/>
   Download: https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946
 
-- **Media Controls** 0.3.2<br/>
+- **Media Controls** 0.3.2 (GPL)<br/>
   Control Dock for Media Playing<br/>
   Homepage: https://github.com/exeldro/obs-media-controls<br/>
   Download: https://obsproject.com/forum/resources/media-controls.1032/version/3184/download?file=68192
 
-- **Source Switcher** 0.2.8<br/>
+- **Source Switcher** 0.2.8 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
   Homepage: https://github.com/exeldro/obs-source-switcher<br/>
   Download: https://obsproject.com/forum/resources/source-switcher.941/version/3183/download?file=68182
 
-- **Directory Watch Media** 0.5.3<br/>
+- **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   Homepage: https://github.com/exeldro/obs-dir-watch-media<br/>
   Download: https://obsproject.com/forum/resources/directory-watch-media.801/version/3036/download?file=66027
 
-- **Gradient Source** 0.1.0<br/>
+- **Gradient Source** 0.1.0 (GPL)<br/>
   Source for Rendered Gradient<br/>
   Homepage: https://github.com/exeldro/obs-gradient-source <br/>
   Download: https://obsproject.com/forum/resources/gradient-source.1172/version/2995/download?file=65467
 
-- **RSE OBS Scripts** 2020-04<br/>
+- **RSE OBS Scripts** 2020-04 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
   Homepage: https://github.com/rse/obs-scripts<br/>
   Download: https://github.com/rse/obs-scripts/archive/refs/heads/master.zip
+
+- **Speachy** 1.0 (COMMERCIAL)<br/>
+  Voice Audio "all-in-one" VST plugin<br/>
+  Homepage: https://www.neverdieaudio.com<br/>
+  Download: https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP
 
