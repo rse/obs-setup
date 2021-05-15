@@ -141,6 +141,16 @@ under Windows 10.
   Homepage: https://vb-audio.com/Voicemeeter/potato.htm
   Download: https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip
 
+- **Vingester** 2.1.1 (GPL)<br/>
+  Web Contents Ingesting Tool (NDI-enabled)<br/>
+  Homepage: https://vingester.app/
+  Download: https://github.oscdn.org/rse/vingester/2.1.1/Vingester-win-x64.zip
+
+- **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
+  NDI MultiViewer and Recorder<br/>
+  Homepage: https://livemind.tv/recorder/
+  Download: https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe
+
 - **Lossless Cut** 3.36.0 (GPL)<br/>
   Video Cutter<br/>
   Homepage: https://github.com/mifi/lossless-cut/
@@ -156,13 +166,8 @@ under Windows 10.
   Homepage: https://handbrake.fr/
   Download: https://handbrake.fr/rotation.php?file=HandBrake-1.3.3-x86_64-Win_GUI.exe
 
-- **Vingester** 2.1.1 (GPL)<br/>
-  Web Contents Ingesting Tool<br/>
-  Homepage: https://vingester.app/
-  Download: https://github.oscdn.org/rse/vingester/2.1.1/Vingester-win-x64.zip
-
-- **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
-  NDI MultiViewer and Recorder<br/>
-  Homepage: https://livemind.tv/recorder/
-  Download: https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe
+- **VLC** 3.0.14 (GPL)<br/>
+  Video Player<br/>
+  Homepage: https://www.videolan.org/vlc/
+  Download: https://get.videolan.org/vlc/3.0.14/win64/vlc-3.0.14-win64.exe
 
