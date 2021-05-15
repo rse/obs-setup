@@ -88,7 +88,7 @@ under Windows 10.
   Download: https://obsproject.com/forum/resources/source-record.1285/version/3369/download?file=71095
 
 - **Background Removal - Portrait Segmentation** 0.2.4 (GPL)<br/>
-  AI-Based Greenscreen Effect</br/>
+  AI-Based Greenscreen Effect<br/>
   Homepage: https://github.com/royshil/obs-backgroundremoval<br/>
   Download: https://github.com/royshil/obs-backgroundremoval/releases/download/v0.2.4-beta/obs-backgroundremoval-win64.zip
 
