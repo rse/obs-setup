@@ -141,6 +141,11 @@ under Windows 10.
   Homepage: https://vb-audio.com/Voicemeeter/potato.htm
   Download: https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip
 
+- **Lossless Cut** 3.36.0 (GPL)<br/>
+  Video Cutter<br/>
+  Homepage: https://github.com/mifi/lossless-cut/
+  Download: https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe
+
 - **Shotcut** 21.05.01 (GPL)<br/>
   Video Editor<br/>
   Homepage: https://shotcut.org/
