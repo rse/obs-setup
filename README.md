@@ -27,10 +27,10 @@ under Windows 10.
   Homepage: https://github.com/Xaymar/obs-StreamFX<br/>
   Download: https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.0/StreamFX-Windows-Installer.exe
 
-- **Advanced Scene Switcher** 1.11.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.12 (GPL)<br/>
   Powerful Scene Switching<br/>
   Homepage: https://obsproject.com/forum/resources/advanced-scene-switcher.395/<br/>
-  Download: https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.11.2/SceneSwitcher.zip
+  Download: https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.12/SceneSwitcher.zip
 
 - **Source Copy** 0.1.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -82,10 +82,10 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-gradient-source<br/>
   Download: https://obsproject.com/forum/resources/gradient-source.1172/version/2995/download?file=65467
 
-- **Source Record** 0.1.0 (GPL)<br/>
+- **Source Record** 0.1.3 (GPL)<br/>
   Individual Source Recording<br/>
   Homepage: https://github.com/exeldro/obs-source-record<br/>
-  Download: https://obsproject.com/forum/resources/source-record.1285/version/3369/download?file=71095
+  Download: https://obsproject.com/forum/resources/source-record.1285/version/3377/download?file=71178
 
 - **Background Removal - Portrait Segmentation** 0.2.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
