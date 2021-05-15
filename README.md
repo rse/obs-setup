@@ -14,17 +14,19 @@ under Windows 10.
   Homepage: https://obsproject.com/<br/>
   Download: https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.1.1-Full-Installer-x64.exe
 
-### Essential Plugins
-
-- **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
-  Network Display Interface (NDI) input/output sources<br/>
-  Homepage: https://github.com/Palakis/obs-ndi<br/>
-  Download: https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe
+### Base Extensions
 
 - **OBS WebSocket** 4.9.0 (GPL)<br/>
   Remote Control via WebSockets (for StreamDeck, etc)<br/>
   Homepage: https://github.com/Palakis/obs-websocket<br/>
   Download: https://github.com/Palakis/obs-websocket/releases/download/4.9.0/obs-websocket-4.9.0-Windows-Installer.exe
+
+### Essential Source/Scene/Filter Plugins
+
+- **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
+  Network Display Interface (NDI) input/output sources<br/>
+  Homepage: https://github.com/Palakis/obs-ndi<br/>
+  Download: https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe
 
 - **StreamFX** 0.10.0 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
@@ -61,7 +63,7 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-audio-monitor<br/>
   Download: https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946
 
-### Useful Plugins
+### Useful Source/Scene/Filter Plugins
 
 - **Source Copy** 0.1.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -98,12 +100,24 @@ under Windows 10.
   Homepage: https://github.com/royshil/obs-backgroundremoval<br/>
   Download: https://github.com/royshil/obs-backgroundremoval/releases/download/v0.2.4-beta/obs-backgroundremoval-win64.zip
 
+### Useful Audio VST Plugins
+
+- **Reaper ReaPlugs** 2.36<br/>
+  Audio VST Plugin-Suite<br/>
+  Homepage: https://www.reaper.fm/reaplugs/
+  Download: https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe
+
+- **MFreeFXBundle** 4.16<br/>
+  Audio VST Plugin-Suite<br/>
+  Homepage: https://www.meldaproduction.com/MFreeFxBundle
+  Download: https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=14.16&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_14_16_setup.exe&checksum=905bf677fb7772fa9dabcdf27b71cff4e7bd9061
+
 - **Speachy** 1.0 (COMMERCIAL)<br/>
-  Voice Audio "all-in-one" VST plugin<br/>
+  Voice Audio "all-in-one" VST Plugin<br/>
   Homepage: https://www.neverdieaudio.com<br/>
   Download: https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP
 
-### Useful Scripts
+### Useful Extensions
 
 - **RSE OBS Scripts** 2020-04 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
