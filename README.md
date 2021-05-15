@@ -28,7 +28,7 @@ under Windows 10 (x64).
 
 - **NDI Tools** 4.6.2 (FREEWARE)<br/>
   Network Display Interface (NDI) Toolkit (dependency to OBS NDI)<br/>
-  Homepage: https://www.ndi.tv/tools/
+  [Homepage](https://www.ndi.tv/tools/)
   [Download](https://downloads.ndi.tv/Tools/NDI%204%20Tools.exe)
 
 ### Essential Source/Scene/Filter Plugins
@@ -114,7 +114,7 @@ under Windows 10 (x64).
 
 - **MFreeFXBundle** 4.16 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
-  Homepage: https://www.meldaproduction.com/MFreeFxBundle
+  [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=14.16&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_14_16_setup.exe&checksum=905bf677fb7772fa9dabcdf27b71cff4e7bd9061)
 
 - **Speachy** 1.0 (COMMERCIAL)<br/>
