@@ -7,14 +7,14 @@ list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
 under Windows 10.
 
-### Base Components
+### Base Application
 
 - **OBS Studio** 26.1.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   Homepage: https://obsproject.com/<br/>
   Download: https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.1.1-Full-Installer-x64.exe
 
-### Essential Components
+### Essential Plugins
 
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
@@ -56,7 +56,12 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-source-record<br/>
   Download: https://obsproject.com/forum/resources/source-record.1285/version/3377/download?file=71178
 
-### Useful Components
+- **Audio Monitor** 0.7.1 (GPL)<br/>
+  Export Source Audio To (Virtual) Speaker Device<br/>
+  Homepage: https://github.com/exeldro/obs-audio-monitor<br/>
+  Download: https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946
+
+### Useful Plugins
 
 - **Source Copy** 0.1.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -78,11 +83,6 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-virtual-cam-filter<br/>
   Download: https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3263/download?file=69800
 
-- **Audio Monitor** 0.7.1 (GPL)<br/>
-  Export Source Audio To (Virtual) Speaker Device<br/>
-  Homepage: https://github.com/exeldro/obs-audio-monitor<br/>
-  Download: https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946
-
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   Homepage: https://github.com/exeldro/obs-dir-watch-media<br/>
@@ -98,13 +98,15 @@ under Windows 10.
   Homepage: https://github.com/royshil/obs-backgroundremoval<br/>
   Download: https://github.com/royshil/obs-backgroundremoval/releases/download/v0.2.4-beta/obs-backgroundremoval-win64.zip
 
-- **RSE OBS Scripts** 2020-04 (GPL)<br/>
-  Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
-  Homepage: https://github.com/rse/obs-scripts<br/>
-  Download: https://github.com/rse/obs-scripts/archive/refs/heads/master.zip
-
 - **Speachy** 1.0 (COMMERCIAL)<br/>
   Voice Audio "all-in-one" VST plugin<br/>
   Homepage: https://www.neverdieaudio.com<br/>
   Download: https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP
+
+### Useful Scripts
+
+- **RSE OBS Scripts** 2020-04 (GPL)<br/>
+  Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
+  Homepage: https://github.com/rse/obs-scripts<br/>
+  Download: https://github.com/rse/obs-scripts/archive/refs/heads/master.zip
 
