@@ -7,10 +7,14 @@ list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
 under Windows 10.
 
+### Base Components
+
 - **OBS Studio** 26.1.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   Homepage: https://obsproject.com/<br/>
   Download: https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.1.1-Full-Installer-x64.exe
+
+### Essential Components
 
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
@@ -18,7 +22,7 @@ under Windows 10.
   Download: https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe
 
 - **OBS WebSocket** 4.9.0 (GPL)<br/>
-  Remote Control via WebSockets<br/>
+  Remote Control via WebSockets (for StreamDeck, etc)<br/>
   Homepage: https://github.com/Palakis/obs-websocket<br/>
   Download: https://github.com/Palakis/obs-websocket/releases/download/4.9.0/obs-websocket-4.9.0-Windows-Installer.exe
 
@@ -31,6 +35,28 @@ under Windows 10.
   Powerful Scene Switching<br/>
   Homepage: https://obsproject.com/forum/resources/advanced-scene-switcher.395/<br/>
   Download: https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.12/SceneSwitcher.zip
+  
+- **Move Transition** 2.4.1 (GPL)<br/>
+  Move Sources to New Position During Scene Transition<br/>
+  Homepage: https://github.com/exeldro/obs-move-transition<br/>
+  Download: https://obsproject.com/forum/resources/move-transition.913/version/3364/download?file=71062
+
+- **Media Controls** 0.3.4 (GPL)<br/>
+  Control Dock for Media Playing<br/>
+  Homepage: https://github.com/exeldro/obs-media-controls<br/>
+  Download: https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772
+
+- **Source Switcher** 0.3.0 (GPL)<br/>
+  Source Switching between Multiple Sources<br/>
+  Homepage: https://github.com/exeldro/obs-source-switcher<br/>
+  Download: https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930
+
+- **Source Record** 0.1.3 (GPL)<br/>
+  Individual Source Recording<br/>
+  Homepage: https://github.com/exeldro/obs-source-record<br/>
+  Download: https://obsproject.com/forum/resources/source-record.1285/version/3377/download?file=71178
+
+### Useful Components
 
 - **Source Copy** 0.1.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -41,11 +67,6 @@ under Windows 10.
   Scene-Independent Overlay Sources<br/>
   Homepage: https://github.com/exeldro/obs-downstream-keyer<br/>
   Download: https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171
-
-- **Move Transition** 2.4.1 (GPL)<br/>
-  Move Sources to New Position During Scene Transition<br/>
-  Homepage: https://github.com/exeldro/obs-move-transition<br/>
-  Download: https://obsproject.com/forum/resources/move-transition.913/version/3364/download?file=71062
 
 - **Transition Table** 0.1.5 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -62,16 +83,6 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-audio-monitor<br/>
   Download: https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946
 
-- **Media Controls** 0.3.4 (GPL)<br/>
-  Control Dock for Media Playing<br/>
-  Homepage: https://github.com/exeldro/obs-media-controls<br/>
-  Download: https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772
-
-- **Source Switcher** 0.3.0 (GPL)<br/>
-  Source Switching between Multiple Sources<br/>
-  Homepage: https://github.com/exeldro/obs-source-switcher<br/>
-  Download: https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930
-
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   Homepage: https://github.com/exeldro/obs-dir-watch-media<br/>
@@ -81,11 +92,6 @@ under Windows 10.
   Source for Rendered Gradient<br/>
   Homepage: https://github.com/exeldro/obs-gradient-source<br/>
   Download: https://obsproject.com/forum/resources/gradient-source.1172/version/2995/download?file=65467
-
-- **Source Record** 0.1.3 (GPL)<br/>
-  Individual Source Recording<br/>
-  Homepage: https://github.com/exeldro/obs-source-record<br/>
-  Download: https://obsproject.com/forum/resources/source-record.1285/version/3377/download?file=71178
 
 - **Background Removal - Portrait Segmentation** 0.2.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
