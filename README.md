@@ -21,12 +21,12 @@ under Windows 10.
   Homepage: https://github.com/Palakis/obs-websocket<br/>
   Download: https://github.com/Palakis/obs-websocket/releases/download/4.9.0/obs-websocket-4.9.0-Windows-Installer.exe
 
-### Essential Source/Scene/Filter Plugins
-
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   Homepage: https://github.com/Palakis/obs-ndi<br/>
   Download: https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe
+
+### Essential Source/Scene/Filter Plugins
 
 - **StreamFX** 0.10.0 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
