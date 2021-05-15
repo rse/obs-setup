@@ -133,41 +133,41 @@ under Windows 10.
 
 - **OBS Audio Sync** (FREEWARE)<br/>
   Audio/Video Synchronization Tool<br/>
-  Homepage: http://obsaudiosync.com/
+  Homepage: http://obsaudiosync.com/<br/>
   Download: https://share.hsforms.com/1GRBSRUxoTSCz56pblQR-WA8z4i
 
 - **VoiceMeeter Potato** 3.0.1.8 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
-  Homepage: https://vb-audio.com/Voicemeeter/potato.htm
+  Homepage: https://vb-audio.com/Voicemeeter/potato.htm<br/>
   Download: https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip
 
 - **Vingester** 2.1.1 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
-  Homepage: https://vingester.app/
+  Homepage: https://vingester.app/<br/>
   Download: https://github.oscdn.org/rse/vingester/2.1.1/Vingester-win-x64.zip
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
-  Homepage: https://livemind.tv/recorder/
+  Homepage: https://livemind.tv/recorder/<br/>
   Download: https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe
 
 - **Lossless Cut** 3.36.0 (GPL)<br/>
   Video Cutter<br/>
-  Homepage: https://github.com/mifi/lossless-cut/
+  Homepage: https://github.com/mifi/lossless-cut/<br/>
   Download: https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe
 
 - **Shotcut** 21.05.01 (GPL)<br/>
   Video Editor<br/>
-  Homepage: https://shotcut.org/
+  Homepage: https://shotcut.org/<br/>
   Download: https://github.com/mltframework/shotcut/releases/download/v21.05.01/shotcut-win64-210501.exe
 
 - **Handbrake** 1.3.3 (GPL)<br/>
   Video Converter<br/>
-  Homepage: https://handbrake.fr/
+  Homepage: https://handbrake.fr/<br/>
   Download: https://handbrake.fr/rotation.php?file=HandBrake-1.3.3-x86_64-Win_GUI.exe
 
 - **VLC** 3.0.14 (GPL)<br/>
   Video Player<br/>
-  Homepage: https://www.videolan.org/vlc/
+  Homepage: https://www.videolan.org/vlc/<br/>
   Download: https://get.videolan.org/vlc/3.0.14/win64/vlc-3.0.14-win64.exe
 
