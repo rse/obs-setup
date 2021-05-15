@@ -70,7 +70,7 @@ under Windows 10.
   Homepage: https://github.com/exeldro/obs-source-copy <br/>
   Download: https://obsproject.com/forum/resources/source-copy.1261/version/3300/download?file=70209
 
-- **Downstream Keyer** 0.1.3 (GPL) BROKEN!<br/>
+- **Downstream Keyer** 0.1.3 (GPL) [CURRENTLY BREAKS]<br/>
   Scene-Independent Overlay Sources<br/>
   Homepage: https://github.com/exeldro/obs-downstream-keyer<br/>
   Download: https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171
@@ -102,12 +102,12 @@ under Windows 10.
 
 ### Useful Audio VST Plugins
 
-- **Reaper ReaPlugs** 2.36<br/>
+- **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
   Homepage: https://www.reaper.fm/reaplugs/
   Download: https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe
 
-- **MFreeFXBundle** 4.16<br/>
+- **MFreeFXBundle** 4.16 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
   Homepage: https://www.meldaproduction.com/MFreeFxBundle
   Download: https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=14.16&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_14_16_setup.exe&checksum=905bf677fb7772fa9dabcdf27b71cff4e7bd9061
