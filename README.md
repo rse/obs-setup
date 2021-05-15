@@ -5,7 +5,7 @@ OBS Setup
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
-under Windows 10.
+under Windows 10 (x64).
 
 ### Base Application
 
