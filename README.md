@@ -161,6 +161,26 @@ under Windows 10 (x64).
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v21.05.01/shotcut-win64-210501.exe)
 
+- **OcenAudio** 3.10.6 (FREEWARE)<br/>
+  Digital Audio Workstation (with VST support)<br/>
+  [Homepage](https://www.ocenaudio.com/)
+  [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
+
+- **Audacity** 3.0.2 (GPL)<br/>
+  Audio Editor<br/>
+  [Homepage](https://www.audacityteam.org/)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.2/audacity-win-3.0.2.exe)
+
+- **Cantabile** 3-3683 (FREEWARE)<br/>
+  VST Host<br/>
+  [Homepage](https://www.cantabilesoftware.com/)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3683.exe)
+
+- **LightHost** 1.2.1 (GPL)<br/>
+  VST Host<br/>
+  [Homepage](https://github.com/rolandoislas/LightHost)
+  [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
+
 - **Handbrake** 1.3.3 (GPL)<br/>
   Video Converter<br/>
   [Homepage](https://handbrake.fr/)
