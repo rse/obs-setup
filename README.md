@@ -2,6 +2,8 @@
 OBS Setup
 =========
 
+Version 1.0.1 (2021-06-03)
+
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
@@ -9,10 +11,10 @@ under Windows 10 (x64).
 
 ### Base Application
 
-- **OBS Studio** 26.1.1 (GPL)<br/>
+- **OBS Studio** 27.0.0 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-26.1.1-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.0-Full-Installer-x64.exe)
 
 ### Base Extensions
 
@@ -33,10 +35,10 @@ under Windows 10 (x64).
 
 ### Essential Source/Scene/Filter Plugins
 
-- **StreamFX** 0.10.0 (GPL)<br/>
+- **StreamFX** 0.10.1 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.0/StreamFX-Windows-Installer.exe)
+  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/StreamFX-Windows-Installer.exe)
 
 - **Advanced Scene Switcher** 1.12 (GPL)<br/>
   Powerful Scene Switching<br/>
