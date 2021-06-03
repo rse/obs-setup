@@ -60,10 +60,10 @@ under Windows 10 (x64).
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.1.3 (GPL)<br/>
+- **Source Record** 0.1.4 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3377/download?file=71178)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3382/download?file=71228)
 
 - **Audio Monitor** 0.7.1 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
