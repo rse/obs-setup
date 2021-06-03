@@ -97,10 +97,10 @@ under Windows 10 (x64).
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/3036/download?file=66027)
 
-- **Gradient Source** 0.1.0 (GPL)<br/>
+- **Gradient Source** 0.2.0 (GPL)<br/>
   Source for Rendered Gradient<br/>
   [Homepage](https://github.com/exeldro/obs-gradient-source)
-  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/2995/download?file=65467)
+  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3406/download?file=71805)
 
 - **Background Removal - Portrait Segmentation** 0.2.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
