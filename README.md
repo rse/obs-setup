@@ -38,7 +38,7 @@ under Windows 10 (x64).
 - **StreamFX** 0.10.1 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/StreamFX-Windows-Installer.exe)
+  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/streamfx-windows-2019-0.10.1.0-gc8484f65.exe)
 
 - **Advanced Scene Switcher** 1.12 (GPL)<br/>
   Powerful Scene Switching<br/>
