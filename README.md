@@ -72,10 +72,10 @@ under Windows 10 (x64).
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Copy** 0.1.0 (GPL)<br/>
+- **Source Copy** 0.1.2 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy )
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3300/download?file=70209)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3407/download?file=71813)
 
 - **Downstream Keyer** 0.1.3 (GPL) [CURRENTLY BREAKS]<br/>
   Scene-Independent Overlay Sources<br/>
