@@ -79,10 +79,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Copy** 0.1.2 (GPL)<br/>
+- **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
-  [Homepage](https://github.com/exeldro/obs-source-copy )
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3407/download?file=71813)
+  [Homepage](https://github.com/exeldro/obs-source-copy)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3410/download?file=71875)
 
 - **Downstream Keyer** 0.1.3 (GPL) [CURRENTLY BREAKS]<br/>
   Scene-Independent Overlay Sources<br/>
