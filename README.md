@@ -67,15 +67,15 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/3382/download?file=71228)
 
-- **Audio Monitor** 0.7.1 (GPL)<br/>
-  Export Source Audio To (Virtual) Speaker Device<br/>
-  [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
-
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
   [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3318/download?file=70648)
+
+- **Audio Monitor** 0.7.1 (GPL)<br/>
+  Export Source Audio To (Virtual) Speaker Device<br/>
+  [Homepage](https://github.com/exeldro/obs-audio-monitor)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
 
 ### Useful Source/Scene/Filter Plugins
 
@@ -93,11 +93,6 @@ should be installed.
   Override Scene Transitions<br/>
   [Homepage](https://github.com/exeldro/obs-transition-table )
   [Download](https://obsproject.com/forum/resources/transition-table.1174/version/3051/download?file=66260)
-
-- **Virtual Cam Filter** 0.0.3 (GPL)<br/>
-  Export Scene Via Virtual Camera<br/>
-  [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
-  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3263/download?file=69800)
 
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
