@@ -2,12 +2,14 @@
 OBS Setup
 =========
 
-Version 1.0.1 (2021-06-03)
+Version 1.0.2 (2021-06-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
-under Windows 10 (x64).
+under Windows 10 (x64). For this, beside the base application, multiple
+[OBS Studio Plugins](https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/)
+should be installed.
 
 ### Base Application
 
@@ -40,10 +42,10 @@ under Windows 10 (x64).
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/streamfx-windows-2019-0.10.1.0-gc8484f65.exe)
 
-- **Advanced Scene Switcher** 1.12 (GPL)<br/>
+- **Advanced Scene Switcher** 1.13 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.12/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.13/SceneSwitcher.zip)
   
 - **Move Transition** 2.4.1 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -69,6 +71,11 @@ under Windows 10 (x64).
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
+
+- **Virtual Cam Filter** 0.0.4 (GPL)<br/>
+  Export Source Video To (Virtual) Camera Device<br/>
+  [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
+  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3318/download?file=70648)
 
 ### Useful Source/Scene/Filter Plugins
 
