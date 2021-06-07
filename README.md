@@ -135,7 +135,7 @@ should be installed.
 
 ### Useful Companion Tools
 
-- **OBS Audio Sync** (FREEWARE)<br/>
+- **OBS Audio Sync** 2019 (FREEWARE)<br/>
   Audio/Video Synchronization Tool<br/>
   [Homepage](http://obsaudiosync.com/)
   [Download](https://share.hsforms.com/1GRBSRUxoTSCz56pblQR-WA8z4i)
@@ -145,10 +145,10 @@ should be installed.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip)
 
-- **Vingester** 2.1.1 (GPL)<br/>
+- **Vingester** 2.2.4 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.1.1/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.2.4/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
@@ -175,10 +175,10 @@ should be installed.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.2/audacity-win-3.0.2.exe)
 
-- **Cantabile** 3-3683 (FREEWARE)<br/>
+- **Cantabile** 3-3686 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3683.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3686.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
