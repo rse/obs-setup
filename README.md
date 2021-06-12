@@ -13,10 +13,10 @@ should be installed.
 
 ### Base Application
 
-- **OBS Studio** 27.0.0 (GPL)<br/>
+- **OBS Studio** 27.0.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.1-Full-Installer-x64.exe)
 
 ### Base Extensions
 
