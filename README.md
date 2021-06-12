@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.2 (2021-06-07)
+Version 1.0.3 (2021-06-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -20,10 +20,10 @@ should be installed.
 
 ### Base Extensions
 
-- **OBS WebSocket** 4.9.0 (GPL)<br/>
+- **OBS WebSocket** 4.9.1 (GPL)<br/>
   Remote Control via WebSockets (for StreamDeck, etc)<br/>
   [Homepage](https://github.com/Palakis/obs-websocket)
-  [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.0/obs-websocket-4.9.0-Windows-Installer.exe)
+  [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
@@ -62,10 +62,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.1.4 (GPL)<br/>
+- **Source Record** 0.2.0 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3382/download?file=71228)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3434/download?file=72153)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
@@ -84,7 +84,7 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3410/download?file=71875)
 
-- **Downstream Keyer** 0.1.3 (GPL) [CURRENTLY BREAKS]<br/>
+- **Downstream Keyer** 0.1.3 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171)
