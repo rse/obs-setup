@@ -109,6 +109,11 @@ should be installed.
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.0.0/obs-text-slideshow-1.0.0-Windows-Installer-64-bit.exe)
 
+- **Stereo Pan** 0.1.0 (GPL)<br/>
+  Stereo Panning<br/>
+  [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
+  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.0/obs-audio-pan-filter-0.1.0-windows.zip)
+
 ### Experimental Plugins
 
 - **Background Removal - Portrait Segmentation** 0.3.0 (GPL)<br/>
