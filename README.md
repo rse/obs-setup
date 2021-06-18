@@ -47,10 +47,10 @@ should be installed.
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.13/SceneSwitcher.zip)
   
-- **Move Transition** 2.4.1 (GPL)<br/>
+- **Move Transition** 2.4.3 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3364/download?file=71062)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3439/download?file=72272)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -103,6 +103,11 @@ should be installed.
   Source for Rendered Gradient<br/>
   [Homepage](https://github.com/exeldro/obs-gradient-source)
   [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3406/download?file=71805)
+
+- **Text Slideshow** 1.0.0 (GPL)<br/>
+  Text Slideshow<br/>
+  [Homepage](https://github.com/jbwong05/obs-text-slideshow)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.0.0/obs-text-slideshow-1.0.0-Windows-Installer-64-bit.exe)
 
 ### Experimental Plugins
 
