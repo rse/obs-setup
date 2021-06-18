@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.3 (2021-06-12)
+Version 1.0.4 (2021-06-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -104,10 +104,17 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-gradient-source)
   [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3406/download?file=71805)
 
-- **Background Removal - Portrait Segmentation** 0.2.4 (GPL)<br/>
+### Experimental Plugins
+
+- **Background Removal - Portrait Segmentation** 0.3.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v0.2.4-beta/obs-backgroundremoval-win64.zip)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v0.3.0-beta/obs-backgroundremoval-win64.zip)
+
+- **Face Tracker** 0.1.2 (GPL)<br/>
+  AI-Based Face Tracking Effect<br/>
+  [Homepage](https://github.com/norihiro/obs-face-tracker/)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.1.2/obs-face-tracker-0.1.2-Windows-Installer.exe)
 
 ### Useful Audio VST Plugins
 
