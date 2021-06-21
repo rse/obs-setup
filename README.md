@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.4 (2021-06-18)
+Version 1.0.5 (2021-06-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -47,10 +47,10 @@ should be installed.
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.13/SceneSwitcher.zip)
   
-- **Move Transition** 2.4.3 (GPL)<br/>
+- **Move Transition** 2.4.4 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3439/download?file=72272)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3452/download?file=72428)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -211,4 +211,9 @@ should be installed.
   Video Player<br/>
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.14/win64/vlc-3.0.14-win64.exe)
+
+- **CamooZ** 3.1 (FREEWARE)<br/>
+  Camera Settings Management<br/>
+  [Homepage](https://obsproject.com/forum/resources/camooz-tool-to-manage-and-save-and-restore-camera-settings.1271/)
+  [Download](https://obsproject.com/forum/resources/camooz-tool-to-manage-and-save-and-restore-camera-settings.1271/download)
 
