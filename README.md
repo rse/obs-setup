@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.5 (2021-06-21)
+Version 1.0.6 (2021-06-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -104,10 +104,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-gradient-source)
   [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3406/download?file=71805)
 
-- **Text Slideshow** 1.0.0 (GPL)<br/>
+- **Text Slideshow** 1.1.1 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.0.0/obs-text-slideshow-1.0.0-Windows-Installer-64-bit.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.1.1/obs-text-slideshow-1.1.1-Windows-Installer.exe)
 
 - **Stereo Pan** 0.1.0 (GPL)<br/>
   Stereo Panning<br/>
