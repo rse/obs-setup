@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.6 (2021-06-25)
+Version 1.0.7 (2021-07-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -62,10 +62,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.2.0 (GPL)<br/>
+- **Source Record** 0.2.1 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3434/download?file=72153)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3476/download?file=72762)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
@@ -133,7 +133,7 @@ should be installed.
   Homepage: https://www.reaper.fm/reaplugs/
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **MFreeFXBundle** 4.16 (FREEWARE)<br/>
+- **MFreeFXBundle** 14.16 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=14.16&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_14_16_setup.exe&checksum=905bf677fb7772fa9dabcdf27b71cff4e7bd9061)
@@ -162,10 +162,10 @@ should be installed.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip)
 
-- **Vingester** 2.2.4 (GPL)<br/>
+- **Vingester** 2.3.0 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.2.4/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.3.0/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
@@ -177,12 +177,12 @@ should be installed.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe)
 
-- **Shotcut** 21.05.01 (GPL)<br/>
+- **Shotcut** 21.06.29 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.05.01/shotcut-win64-210501.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-win64-210629.exe)
 
-- **OcenAudio** 3.10.6 (FREEWARE)<br/>
+- **OcenAudio** 3.10.9 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -192,10 +192,10 @@ should be installed.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.2/audacity-win-3.0.2.exe)
 
-- **Cantabile** 3-3686 (FREEWARE)<br/>
+- **Cantabile** 3-3690 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3686.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3690.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -207,10 +207,10 @@ should be installed.
   [Homepage](https://handbrake.fr/)
   [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.3.3-x86_64-Win_GUI.exe)
 
-- **VLC** 3.0.14 (GPL)<br/>
+- **VLC** 3.0.16 (GPL)<br/>
   Video Player<br/>
   [Homepage](https://www.videolan.org/vlc/)
-  [Download](https://get.videolan.org/vlc/3.0.14/win64/vlc-3.0.14-win64.exe)
+  [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
 - **CamooZ** 3.1 (FREEWARE)<br/>
   Camera Settings Management<br/>
