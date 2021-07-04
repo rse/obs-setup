@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.7 (2021-07-02)
+Version 1.0.8 (2021-07-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -42,10 +42,10 @@ should be installed.
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/streamfx-windows-2019-0.10.1.0-gc8484f65.exe)
 
-- **Advanced Scene Switcher** 1.13 (GPL)<br/>
+- **Advanced Scene Switcher** 1.14 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.13/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.14/SceneSwitcher.zip)
   
 - **Move Transition** 2.4.4 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
