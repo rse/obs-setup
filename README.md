@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.8 (2021-07-04)
+Version 1.0.9 (2021-07-10)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -79,6 +79,11 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
+- **Source Dock** 0.1.0 (GPL)<br/>
+  Scene/Source as Dock<br/>
+  [Homepage](https://github.com/exeldro/obs-source-dock)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3485/download?file=73062)
+
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
@@ -89,10 +94,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171)
 
-- **Transition Table** 0.1.5 (GPL)<br/>
+- **Transition Table** 0.2.0 (GPL)<br/>
   Override Scene Transitions<br/>
-  [Homepage](https://github.com/exeldro/obs-transition-table )
-  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/3051/download?file=66260)
+  [Homepage](https://github.com/exeldro/obs-transition-table)
+  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/3482/download?file=72968)
 
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -109,10 +114,10 @@ should be installed.
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.1.1/obs-text-slideshow-1.1.1-Windows-Installer.exe)
 
-- **Stereo Pan** 0.1.0 (GPL)<br/>
+- **Audio Pan Filter** 0.1.1 (GPL)<br/>
   Stereo Panning<br/>
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
-  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.0/obs-audio-pan-filter-0.1.0-windows.zip)
+  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.1/obs-audio-pan-filter-0.1.1-windows.zip)
 
 ### Experimental Plugins
 
