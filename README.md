@@ -136,7 +136,7 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
   [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.1.2/obs-face-tracker-0.1.2-Windows-Installer.exe)
 
-### Useful Extension: WebSockets Clients
+### Useful Extension: Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.2 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
@@ -152,6 +152,16 @@ should be installed.
   Macros for Scripting the OBS WebSockets API<br/>
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.2/NOOBS.CMDR.V1.0.2.zip)
+
+- **Touch Portal** 2.3 (FREEWARE)<br/>
+  Remote Control Deck for Android/iOS<br/>
+  [Homepage](https://www.touch-portal.com)
+  [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup.exe)
+
+- **Stream Deck** 5.0.1 (COMMERCIAL)<br/>
+  Remote Control Deck for Android/iOS<br/>
+  [Homepage](https://www.elgato.com/en/stream-deck)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.0.1.14252.msi)
 
 ### Useful Extension: Audio VST Plugins
 
