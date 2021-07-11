@@ -131,10 +131,10 @@ should be installed.
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.0/obs-rtspserver-v2.1.0-windows-installer.exe)
 
-- **Face Tracker** 0.1.2 (GPL)<br/>
+- **Face Tracker** 0.2.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.1.2/obs-face-tracker-0.1.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.2.0/obs-face-tracker-0.2.0-Windows-Installer.exe)
 
 ### Useful Extension: Remote Control Clients
 
