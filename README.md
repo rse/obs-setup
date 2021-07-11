@@ -168,12 +168,12 @@ should be installed.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-### Useful Extension: Lua Scripts
+### Useful Extension: Browser Sources
 
-- **RSE OBS Scripts** 2021-04 (GPL)<br/>
-  Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
-  [Homepage](https://github.com/rse/obs-scripts)
-  [Download](https://github.com/rse/obs-scripts/archive/refs/heads/master.zip)
+- **RSE Analog Clock** 0.9.0 (GPL)<br/>
+  Nice Analog Clock<br/>
+  [Homepage](https://github.com/rse/analogclock)
+  [Download](https://github.com/rse/analogclock/archive/refs/tags/0.9.0.tar.gz)
 
 - **RSE Lower Thirds** 0.9.4 (GPL)<br/>
   Automatically-Controlled Lower Thirds<br/>
@@ -184,6 +184,13 @@ should be installed.
   Semi-Manually-Controlled Lower Thirds<br/>
   [Homepage](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/)
   [Download](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/download)
+
+### Useful Extension: Lua Scripts
+
+- **RSE OBS Scripts** 2021-04 (GPL)<br/>
+  Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
+  [Homepage](https://github.com/rse/obs-scripts)
+  [Download](https://github.com/rse/obs-scripts/archive/refs/heads/master.zip)
 
 - **Advanced Timer** 5.0.1 (GPL)<br/>
   Flexible Timer<br/>
