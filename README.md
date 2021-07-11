@@ -25,22 +25,7 @@ should be installed.
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS WebSocket JS** 4.0.2 (MIT)<br/>
-  JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
-  [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
-  [Download](https://unpkg.com/obs-websocket-js@4.0.2/dist/obs-websocket.min.js)
-
-- **OBS Command** 1.5.6 (FREEWARE)<br/>
-  Command-Line Interface (CLI) for OBS WebSockets API<br/>
-  [Homepage](https://github.com/REALDRAGNET/OBSCommand)
-  [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.6.0/OBSCommand_v1.5.6.zip)
-
-- **NOOBS CMDR** 1.0.2 (FREEWARE)<br/>
-  Macros for Scripting the OBS WebSockets API<br/>
-  [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
-  [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.2/NOOBS.CMDR.V1.0.2.zip)
-
-### Essential Extension: NDI
+### Essential Extension: NDI Support
 
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
@@ -150,6 +135,23 @@ should be installed.
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
   [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.1.2/obs-face-tracker-0.1.2-Windows-Installer.exe)
+
+### Useful Extension: WebSockets Clients
+
+- **OBS WebSocket JS** 4.0.2 (MIT)<br/>
+  JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
+  [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
+  [Download](https://unpkg.com/obs-websocket-js@4.0.2/dist/obs-websocket.min.js)
+
+- **OBS Command** 1.5.6 (FREEWARE)<br/>
+  Command-Line Interface (CLI) for OBS WebSockets API<br/>
+  [Homepage](https://github.com/REALDRAGNET/OBSCommand)
+  [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.6.0/OBSCommand_v1.5.6.zip)
+
+- **NOOBS CMDR** 1.0.2 (FREEWARE)<br/>
+  Macros for Scripting the OBS WebSockets API<br/>
+  [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
+  [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.2/NOOBS.CMDR.V1.0.2.zip)
 
 ### Useful Extension: Audio VST Plugins
 
