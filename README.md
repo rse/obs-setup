@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.10 (2021-07-11)
+Version 1.1.0 (2021-07-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -18,12 +18,29 @@ should be installed.
   [Homepage](https://obsproject.com/)
   [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.1-Full-Installer-x64.exe)
 
-### Base Extensions
+### Essential Extension: WebSockets API
 
 - **OBS WebSocket** 4.9.1 (GPL)<br/>
   Remote Control via WebSockets (for StreamDeck, etc)<br/>
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
+
+- **OBS WebSocket JS** 4.0.2 (MIT)<br/>
+  JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
+  [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
+  [Download](https://unpkg.com/obs-websocket-js@4.0.2/dist/obs-websocket.min.js)
+
+- **OBS Command** 1.5.6 (FREEWARE)<br/>
+  Command-Line Interface (CLI) for OBS WebSockets API<br/>
+  [Homepage](https://github.com/REALDRAGNET/OBSCommand)
+  [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.6.0/OBSCommand_v1.5.6.zip)
+
+- **NOOBS CMDR** 1.0.2 (FREEWARE)<br/>
+  Macros for Scripting the OBS WebSockets API<br/>
+  [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
+  [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.2/NOOBS.CMDR.V1.0.2.zip)
+
+### Essential Extension: NDI
 
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
@@ -35,7 +52,7 @@ should be installed.
   [Homepage](https://www.ndi.tv/tools/)
   [Download](https://downloads.ndi.tv/Tools/NDI%204%20Tools.exe)
 
-### Essential Source/Scene/Filter Plugins
+### Essential Extension: Source/Scene/Filter Plugins
 
 - **StreamFX** 0.10.1 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
@@ -77,7 +94,7 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
 
-### Useful Source/Scene/Filter Plugins
+### Useful Extension: Source/Scene/Filter Plugins
 
 - **Source Dock** 0.1.1 (GPL)<br/>
   Scene/Source as Dock<br/>
@@ -129,14 +146,12 @@ should be installed.
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.0.7/obs-rtspserver-v2.0.7-windows-installer.exe)
 
-### Experimental Plugins
-
 - **Face Tracker** 0.1.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
   [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.1.2/obs-face-tracker-0.1.2-Windows-Installer.exe)
 
-### Useful Audio VST Plugins
+### Useful Extension: Audio VST Plugins
 
 - **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
@@ -153,44 +168,54 @@ should be installed.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-### Useful Extensions
+### Useful Extension: Lua Scripts
 
-- **RSE OBS Scripts** 2020-04 (GPL)<br/>
+- **RSE OBS Scripts** 2021-04 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
   [Homepage](https://github.com/rse/obs-scripts)
   [Download](https://github.com/rse/obs-scripts/archive/refs/heads/master.zip)
 
-### Useful Companion Tools
+- **RSE Lower Thirds** 0.9.4 (GPL)<br/>
+  Automatically-Controlled Lower Thirds<br/>
+  [Homepage](https://github.com/rse/lowerthird)
+  [Download](https://github.com/rse/lowerthird/archive/refs/tags/0.9.4.tar.gz)
+
+- **Lower Thirds with Dockable Control Panel** 1.6 (GPL)<br/>
+  Semi-Manually-Controlled Lower Thirds<br/>
+  [Homepage](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/)
+  [Download](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/download)
+
+- **Advanced Timer** 5.0.1 (GPL)<br/>
+  Flexible Timer<br/>
+  [Homepage](https://github.com/cg2121/obs-advanced-timer/)
+  [Download](https://github.com/cg2121/obs-advanced-timer/releases/download/5.0.1/advanced-timer.lua)
+
+- **Countdown Adative Time** 2.1 (GPL)<br/>
+  Flexible Timer<br/>
+  [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
+  [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
+
+- **Libre Macros** 2.0.0 (GPL)<br/>
+  Attach Lua Console Scripts to Sources<br/>
+  [Homepage](https://github.com/upgradeQ/obs-libre-macros)
+  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/2.0.0.zip)
+
+### Useful Companion: Audio Tools
 
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
   Audio/Video Synchronization Tool<br/>
   [Homepage](http://obsaudiosync.com/)
   [Download](https://share.hsforms.com/1GRBSRUxoTSCz56pblQR-WA8z4i)
 
+- **Voice Attack** 1.8.9 (FREEWARE)<br/>
+  Voice Control Commands<br/>
+  [Homepage](https://voiceattack.com/)
+  [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
+
 - **VoiceMeeter Potato** 3.0.1.8 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip)
-
-- **Vingester** 2.3.0 (GPL)<br/>
-  Web Contents Ingesting Tool (NDI-enabled)<br/>
-  [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.3.0/Vingester-win-x64.zip)
-
-- **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
-  NDI MultiViewer and Recorder<br/>
-  [Homepage](https://livemind.tv/recorder/)
-  [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
-
-- **Lossless Cut** 3.36.0 (GPL)<br/>
-  Video Cutter<br/>
-  [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe)
-
-- **Shotcut** 21.06.29 (GPL)<br/>
-  Video Editor<br/>
-  [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-win64-210629.exe)
 
 - **OcenAudio** 3.10.9 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
@@ -211,6 +236,28 @@ should be installed.
   VST Host<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
+
+### Useful Companion: Video Tools
+
+- **Vingester** 2.3.2 (GPL)<br/>
+  Web Contents Ingesting Tool (NDI-enabled)<br/>
+  [Homepage](https://vingester.app/)
+  [Download](https://github.oscdn.org/rse/vingester/2.3.2/Vingester-win-x64.zip)
+
+- **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
+  NDI MultiViewer and Recorder<br/>
+  [Homepage](https://livemind.tv/recorder/)
+  [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
+
+- **Lossless Cut** 3.36.0 (GPL)<br/>
+  Video Cutter<br/>
+  [Homepage](https://github.com/mifi/lossless-cut/)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe)
+
+- **Shotcut** 21.06.29 (GPL)<br/>
+  Video Editor<br/>
+  [Homepage](https://shotcut.org/)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-win64-210629.exe)
 
 - **Handbrake** 1.3.3 (GPL)<br/>
   Video Converter<br/>
