@@ -153,7 +153,7 @@ should be installed.
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.2/NOOBS.CMDR.V1.0.2.zip)
 
-- **Touch Portal** 2.3 (FREEWARE)<br/>
+- **Touch Portal** 2.3.010 (FREEWARE)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup.exe)
@@ -167,6 +167,11 @@ should be installed.
   Remote Control OBS via MIDI<br/>
   [Homepage](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/)
   [Download](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/download)
+
+- **OSC for OBS** 2.6.2 (FREEWARE)<br/>
+  Remote Control OBS via OSC<br/>
+  [Homepage](https://github.com/jshea2/OSC-for-OBS)
+  [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
 
 ### Useful Extension: Audio VST Plugins
 
@@ -227,9 +232,14 @@ should be installed.
 ### Useful Companion: Audio Tools
 
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
-  Audio/Video Synchronization Tool<br/>
+  Audio/Video Synchronization Tool (Video-Based)<br/>
   [Homepage](http://obsaudiosync.com/)
   [Download](https://share.hsforms.com/1GRBSRUxoTSCz56pblQR-WA8z4i)
+
+- **LoistoSYNC** (FREEWARE)<br/>
+  Audio/Video Synchronization Tool (Browser-Source-Based)<br/>
+  [Homepage](https://github.com/reaby/loistoSYNC)
+  [Download](http://reaby.kapsi.fi/dev/loistosync/)
 
 - **Voice Attack** 1.8.9 (FREEWARE)<br/>
   Voice Control Commands<br/>
