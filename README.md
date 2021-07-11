@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.0.9 (2021-07-10)
+Version 1.0.10 (2021-07-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -62,10 +62,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.2.1 (GPL)<br/>
+- **Source Record** 0.2.2 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3476/download?file=72762)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3489/download?file=73097)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
@@ -79,10 +79,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.1.0 (GPL)<br/>
+- **Source Dock** 0.1.1 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3485/download?file=73062)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3487/download?file=73074)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -119,12 +119,17 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.1/obs-audio-pan-filter-0.1.1-windows.zip)
 
-### Experimental Plugins
-
 - **Background Removal - Portrait Segmentation** 0.3.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
   [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v0.3.0-beta/obs-backgroundremoval-win64.zip)
+
+- **RTSP Server** 2.0.7 (GPL)<br/>
+  Encode and publish RTSP/RTP Stream<br/>
+  [Homepage](https://github.com/iamscottxu/obs-rtspserver)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.0.7/obs-rtspserver-v2.0.7-windows-installer.exe)
+
+### Experimental Plugins
 
 - **Face Tracker** 0.1.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
