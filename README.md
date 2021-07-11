@@ -163,6 +163,11 @@ should be installed.
   [Homepage](https://www.elgato.com/en/stream-deck)
   [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.0.1.14252.msi)
 
+- **MIDIControl** 1.8.4.0 (FREEWARE)<br/>
+  Remote Control OBS via MIDI<br/>
+  [Homepage](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/)
+  [Download](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/download)
+
 ### Useful Extension: Audio VST Plugins
 
 - **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
@@ -231,10 +236,20 @@ should be installed.
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
 
+- **Virtual Audio Cable (VAC)** 4.65 (COMMERCIAL)<br/>
+  Virtual Audio Cable<br/>
+  [Homepage](https://vac.muzychenko.net/en/)
+  [Download](https://software.muzychenko.net/trials/vac465.exe)
+
 - **VoiceMeeter Potato** 3.0.1.8 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip)
+
+- **LoopMIDI** 1.0.16.27 (COMMERCIAL)<br/>
+  Virtual MIDI Port<br/>
+  [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
+  [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
 - **OcenAudio** 3.10.9 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
