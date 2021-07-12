@@ -38,6 +38,11 @@ should be installed.
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/streamfx-windows-2019-0.10.1.0-gc8484f65.exe)
 
+- **Shaderfilter** 1.21 (GPL)<br/>
+  Shader Filter<br/>
+  [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
+  [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
+
 - **Advanced Scene Switcher** 1.14 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
@@ -105,6 +110,11 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-gradient-source)
   [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3406/download?file=71805)
 
+- **Dynamic Delay** 0.1.2 (GPL)<br/>
+  Dynamic Delay a Source<br/>
+  [Homepage](https://github.com/exeldro/obs-dynamic-delay)
+  [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
+
 - **Text Slideshow** 1.1.1 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
@@ -150,6 +160,16 @@ should be installed.
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
   [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.1/obs-gstreamer.zip)
   [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.1/mingw/gstreamer-1.0-mingw-x86_64-1.19.1.msi)
+
+- **Screeenshot Filter** 1.3.1 (GPL)<br/>
+  Source Screenshot Filter<br/>
+  [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
+  [Download](https://github.com/synap5e/obs-screenshot-plugin/releases/download/1.3.1/obs-screenshot-filter.dll)
+
+- **Ghostscript** 1.3 (GPL)<br/>
+  PDF Rendering with Ghostscript<br/>
+  [Homepage](https://github.com/nleseul/obs-ghostscript)
+  [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
 
 ### Useful Remote Control Clients
 
