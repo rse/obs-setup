@@ -18,26 +18,20 @@ should be installed.
   [Homepage](https://obsproject.com/)
   [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.0.1-Full-Installer-x64.exe)
 
-### Essential Extension: WebSockets API
+### Essential Extensions
 
 - **OBS WebSocket** 4.9.1 (GPL)<br/>
   Remote Control via WebSockets (for StreamDeck, etc)<br/>
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-### Essential Extension: NDI Support
-
 - **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
-
-- **NDI Tools** 4.6.2 (FREEWARE)<br/>
-  Network Display Interface (NDI) Toolkit (dependency to OBS NDI)<br/>
-  [Homepage](https://www.ndi.tv/tools/)
   [Download](https://downloads.ndi.tv/Tools/NDI%204%20Tools.exe)
 
-### Essential Extension: Source/Scene/Filter Plugins
+### Essential Source/Scene/Filter Plugins
 
 - **StreamFX** 0.10.1 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
@@ -79,7 +73,7 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
 
-### Useful Extension: Source/Scene/Filter Plugins
+### Useful Source/Scene/Filter Plugins
 
 - **Source Dock** 0.1.1 (GPL)<br/>
   Scene/Source as Dock<br/>
@@ -136,7 +130,28 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
   [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.2.0/obs-face-tracker-0.2.0-Windows-Installer.exe)
 
-### Useful Extension: Remote Control Clients
+- **Closed Captioning** 0.19 (GPL)<br/>
+  Closed Captioning via Google Speech API<br/>
+  [Homepage](https://github.com/ratwithacompiler/OBS-captions-plugin)
+  [Download](https://github.com/ratwithacompiler/OBS-captions-plugin/releases/download/v0.19b/Closed_Captions_Plugin__v0.19b_Windows.zip)
+
+- **Spectralizer** 1.3.4 (GPL)<br/>
+  Audio Spectrum Visualization<br/>
+  [Homepage](https://github.com/univrsal/spectralizer)
+  [Download](https://github.com/univrsal/spectralizer/releases/download/v1.3.4/spectralizer.v1.3.4.installer.windows.exe)
+
+- **ASIO** 3.1.0 (GPL)<br/>
+  ASIO Audio Support<br/>
+  [Homepage](https://github.com/Andersama/obs-asio)
+  [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe)
+
+- **GStreamer** 0.3.1 (GPL)<br/>
+  ASIO Audio Support<br/>
+  [Homepage](https://github.com/fzwoch/obs-gstreamer)
+  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.1/obs-gstreamer.zip)
+  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.1/mingw/gstreamer-1.0-mingw-x86_64-1.19.1.msi)
+
+### Useful Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.2 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
@@ -173,7 +188,7 @@ should be installed.
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
 
-### Useful Extension: Audio VST Plugins
+### Useful Audio VST Plugins
 
 - **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
@@ -190,7 +205,7 @@ should be installed.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-### Useful Extension: Browser Sources
+### Useful Browser Sources
 
 - **RSE Analog Clock** 0.9.0 (GPL)<br/>
   Nice Analog Clock<br/>
@@ -207,7 +222,7 @@ should be installed.
   [Homepage](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/)
   [Download](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/download)
 
-### Useful Extension: Lua Scripts
+### Useful Lua Scripts
 
 - **RSE OBS Scripts** 2021-04 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
@@ -229,7 +244,7 @@ should be installed.
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
   [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/2.0.0.zip)
 
-### Useful Companion: Audio Tools
+### Useful Companion Audio Tools
 
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
   Audio/Video Synchronization Tool (Video-Based)<br/>
@@ -281,7 +296,7 @@ should be installed.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
-### Useful Companion: Video Tools
+### Useful Companion Video Tools
 
 - **Vingester** 2.3.2 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
