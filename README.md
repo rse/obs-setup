@@ -171,6 +171,11 @@ should be installed.
   [Homepage](https://github.com/nleseul/obs-ghostscript)
   [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
 
+- **Info Writer** 2.2 (GPL)<br/>
+  Write Timestamps and Information Text to Logfiles<br/>
+  [Homepage](https://github.com/partouf/OBSInfoWriter/)
+  [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.2-alpha/OBSInfoWriter-v2.2-alpha-Windows.zip)
+
 ### Useful Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.2 (MIT)<br/>
