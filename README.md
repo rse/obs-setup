@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.0 (2021-07-11)
+Version 1.1.1 (2021-07-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -90,15 +90,15 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3410/download?file=71875)
 
-- **Downstream Keyer** 0.1.3 (GPL)<br/>
+- **Downstream Keyer** 0.2.0 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3294/download?file=70171)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3514/download?file=73270)
 
-- **Transition Table** 0.2.0 (GPL)<br/>
+- **Transition Table** 0.2.1 (GPL)<br/>
   Override Scene Transitions<br/>
   [Homepage](https://github.com/exeldro/obs-transition-table)
-  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/3482/download?file=72968)
+  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/3513/download?file=73267)
 
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -155,10 +155,10 @@ should be installed.
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe)
 
-- **GStreamer** 0.3.1 (GPL)<br/>
+- **GStreamer** 0.3.2 (GPL)<br/>
   ASIO Audio Support<br/>
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
-  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.1/obs-gstreamer.zip)
+  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.2/obs-gstreamer.zip)
   [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.1/mingw/gstreamer-1.0-mingw-x86_64-1.19.1.msi)
 
 - **Screeenshot Filter** 1.3.1 (GPL)<br/>
@@ -175,6 +175,11 @@ should be installed.
   Write Timestamps and Information Text to Logfiles<br/>
   [Homepage](https://github.com/partouf/OBSInfoWriter/)
   [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.2-alpha/OBSInfoWriter-v2.2-alpha-Windows.zip)
+
+- **Chapter Marker** 1.0.1 (GPL)<br/>
+  Write Timestamps to Video Recorded Files<br/>
+  [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
+  [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.1/ChapterMarker-win64.zip)
 
 ### Useful Remote Control Clients
 
