@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.1 (2021-07-17)
+Version 1.1.2 (2021-07-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -115,15 +115,15 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
   [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
-- **Text Slideshow** 1.1.1 (GPL)<br/>
+- **Text Slideshow** 1.2.0 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.1.1/obs-text-slideshow-1.1.1-Windows-Installer.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.2.0/obs-text-slideshow-1.2.0-Windows-Installer.exe)
 
-- **Audio Pan Filter** 0.1.1 (GPL)<br/>
+- **Audio Pan Filter** 0.1.2 (GPL)<br/>
   Stereo Panning<br/>
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
-  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.1/obs-audio-pan-filter-0.1.1-windows.zip)
+  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
 
 - **Background Removal - Portrait Segmentation** 0.3.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
