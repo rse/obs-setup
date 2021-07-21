@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.2 (2021-07-19)
+Version 1.1.3 (2021-07-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -264,15 +264,15 @@ should be installed.
   [Homepage](https://github.com/cg2121/obs-advanced-timer/)
   [Download](https://github.com/cg2121/obs-advanced-timer/releases/download/5.0.1/advanced-timer.lua)
 
-- **Countdown Adative Time** 2.1 (GPL)<br/>
+- **Countdown Adaptive Time** 2.1 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
 
-- **Libre Macros** 2.0.0 (GPL)<br/>
+- **Libre Macros** 2.1.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
-  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/2.0.0.zip)
+  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/2.1.0.zip)
 
 ### Useful Companion Audio Tools
 
