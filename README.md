@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.3 (2021-07-21)
+Version 1.1.4 (2021-07-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Advanced Scene Switcher** 1.14 (GPL)<br/>
+- **Advanced Scene Switcher** 1.15 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.14/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.15/SceneSwitcher.zip)
   
 - **Move Transition** 2.4.4 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -135,10 +135,10 @@ should be installed.
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.0/obs-rtspserver-v2.1.0-windows-installer.exe)
 
-- **Face Tracker** 0.2.0 (GPL)<br/>
+- **Face Tracker** 0.2.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.2.0/obs-face-tracker-0.2.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.2.2/obs-face-tracker-0.2.2-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
