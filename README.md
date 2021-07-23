@@ -306,7 +306,7 @@ should be installed.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.10.9 (FREEWARE)<br/>
+- **OcenAudio** 3.10.10 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -316,10 +316,10 @@ should be installed.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.2/audacity-win-3.0.2.exe)
 
-- **Cantabile** 3-3690 (FREEWARE)<br/>
+- **Cantabile** 3-3693 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3690.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3693.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -328,10 +328,10 @@ should be installed.
 
 ### Useful Companion Video Tools
 
-- **Vingester** 2.3.2 (GPL)<br/>
+- **Vingester** 2.4.0 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.3.2/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.4.0/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
