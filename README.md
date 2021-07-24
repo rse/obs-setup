@@ -115,10 +115,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
   [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
-- **Text Slideshow** 1.2.0 (GPL)<br/>
+- **Text Slideshow** 1.3.0 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.2.0/obs-text-slideshow-1.2.0-Windows-Installer.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.3.0/obs-text-slideshow-1.3.0-Windows-Installer.exe)
 
 - **Audio Pan Filter** 0.1.2 (GPL)<br/>
   Stereo Panning<br/>
