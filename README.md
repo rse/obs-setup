@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.5 (2021-07-25)
+Version 1.1.6 (2021-07-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -63,10 +63,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.2.2 (GPL)<br/>
+- **Source Record** 0.2.3 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3489/download?file=73097)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3538/download?file=73532)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
