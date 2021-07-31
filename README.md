@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.6 (2021-07-27)
+Version 1.1.7 (2021-07-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Advanced Scene Switcher** 1.15.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.15.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.15.1/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.15.2/SceneSwitcher.zip)
   
 - **Move Transition** 2.4.4 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -115,10 +115,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
   [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
-- **Text Slideshow** 1.3.0 (GPL)<br/>
+- **Text Slideshow** 1.4.0 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.3.0/obs-text-slideshow-1.3.0-Windows-Installer.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.4.0/obs-text-slideshow-1.4.0-Windows-Installer.exe)
 
 - **Audio Pan Filter** 0.1.2 (GPL)<br/>
   Stereo Panning<br/>
