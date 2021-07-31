@@ -343,7 +343,7 @@ should be installed.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe)
 
-- *Kdenlive* 21.04.3 (GPL)<br/>
+- **Kdenlive** 21.04.3 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
   [Download](https://download.kde.org/stable/kdenlive/21.04/windows/kdenlive-21.04.3-windows-mingw_64-gcc.exe)
