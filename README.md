@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.7 (2021-07-31)
+Version 1.1.8 (2021-08-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -80,10 +80,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.1.1 (GPL)<br/>
+- **Source Dock** 0.1.2 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3487/download?file=73074)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3560/download?file=73835)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
