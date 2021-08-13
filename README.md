@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.8 (2021-08-04)
+Version 1.1.9 (2021-08-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -63,10 +63,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.2.3 (GPL)<br/>
+- **Source Record** 0.2.5 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3538/download?file=73532)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3578/download?file=74159)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
@@ -180,6 +180,16 @@ should be installed.
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.1/ChapterMarker-win64.zip)
+
+- **Color Monitor** 0.2.6 (GPL)<br/>
+  Visualize Colors for Debugging Purposes<br/>
+  [Homepage](https://github.com/norihiro/obs-color-monitor)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.2.6/obs-color-monitor-0.2.6-Windows-Installer.exe)
+
+- **Scale To Sound** 0.1.1 (GPL)<br/>
+  Scale a Source to a Sound<br/>
+  [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3570/download?file=74120)
 
 ### Useful Remote Control Clients
 
