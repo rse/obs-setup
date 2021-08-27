@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.9 (2021-08-13)
+Version 1.1.10 (2021-08-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Advanced Scene Switcher** 1.15.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.15.3 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.15.2/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.15.3/SceneSwitcher.zip)
   
 - **Move Transition** 2.4.4 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -80,10 +80,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.1.2 (GPL)<br/>
+- **Source Dock** 0.1.3 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3560/download?file=73835)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3583/download?file=74259)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -115,10 +115,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
   [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
-- **Text Slideshow** 1.4.0 (GPL)<br/>
+- **Text Slideshow** 1.5.0 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.4.0/obs-text-slideshow-1.4.0-Windows-Installer.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.0/obs-text-slideshow-1.5.0-Windows-Installer.exe)
 
 - **Audio Pan Filter** 0.1.2 (GPL)<br/>
   Stereo Panning<br/>
@@ -321,10 +321,10 @@ should be installed.
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.0.2 (GPL)<br/>
+- **Audacity** 3.0.3 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.2/audacity-win-3.0.2.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.3/audacity-win-3.0.3.exe)
 
 - **Cantabile** 3-3693 (FREEWARE)<br/>
   VST Host<br/>
@@ -348,10 +348,10 @@ should be installed.
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.36.0 (GPL)<br/>
+- **Lossless Cut** 3.38.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.36.0/LosslessCut-win.exe)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.38.0/LosslessCut-win.exe)
 
 - **Kdenlive** 21.04.3 (GPL)<br/>
   Video Cutter<br/>
