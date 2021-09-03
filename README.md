@@ -186,10 +186,15 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.2.6/obs-color-monitor-0.2.6-Windows-Installer.exe)
 
-- **Scale To Sound** 0.1.1 (GPL)<br/>
+- **Scale To Sound** 0.3.0 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3570/download?file=74120)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3594/download?file=74337)
+
+- **Windows Capture Audio** 2.0.0b2 (GPL)<br/>
+  Capture Audio of a Specific Application<br/>
+  [Homepage](https://github.com/bozbez/win-capture-audio )
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.0.0-beta.2/win-capture-audio-2.0.0-beta.2-setup.exe)
 
 ### Useful Remote Control Clients
 
