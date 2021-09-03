@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.11 (2021-08-30)
+Version 1.1.12 (2021-09-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -90,10 +90,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3410/download?file=71875)
 
-- **Downstream Keyer** 0.2.0 (GPL)<br/>
+- **Downstream Keyer** 0.2.1 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3514/download?file=73270)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3635/download?file=74746)
 
 - **Transition Table** 0.2.1 (GPL)<br/>
   Override Scene Transitions<br/>
