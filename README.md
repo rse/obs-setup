@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.12 (2021-09-04)
+Version 1.1.13 (2021-09-10)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -176,10 +176,10 @@ should be installed.
   [Homepage](https://github.com/partouf/OBSInfoWriter/)
   [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.2-alpha/OBSInfoWriter-v2.2-alpha-Windows.zip)
 
-- **Chapter Marker** 1.0.1 (GPL)<br/>
+- **Chapter Marker** 1.0.2 (GPL)<br/>
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
-  [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.1/ChapterMarker-win64.zip)
+  [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.2/ChapterMarker-win64.zip)
 
 - **Color Monitor** 0.2.6 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
