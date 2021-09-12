@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.13 (2021-09-10)
+Version 1.1.14 (2021-09-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -198,20 +198,20 @@ should be installed.
 
 ### Useful Remote Control Clients
 
-- **OBS WebSocket JS** 4.0.2 (MIT)<br/>
+- **OBS WebSocket JS** 4.0.3 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
   [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
-  [Download](https://unpkg.com/obs-websocket-js@4.0.2/dist/obs-websocket.min.js)
+  [Download](https://unpkg.com/obs-websocket-js@4.0.3/dist/obs-websocket.min.js)
 
 - **OBS Command** 1.5.6 (FREEWARE)<br/>
   Command-Line Interface (CLI) for OBS WebSockets API<br/>
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
   [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.6.0/OBSCommand_v1.5.6.zip)
 
-- **NOOBS CMDR** 1.0.2 (FREEWARE)<br/>
+- **NOOBS CMDR** 1.0.3 (FREEWARE)<br/>
   Macros for Scripting the OBS WebSockets API<br/>
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
-  [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.2/NOOBS.CMDR.V1.0.2.zip)
+  [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
 - **Touch Portal** 2.3.010 (FREEWARE)<br/>
   Remote Control Deck for Android/iOS<br/>
@@ -237,7 +237,7 @@ should be installed.
 
 - **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
-  Homepage: https://www.reaper.fm/reaplugs/
+  [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
 - **MFreeFXBundle** 14.16 (FREEWARE)<br/>
@@ -296,7 +296,7 @@ should be installed.
   [Homepage](http://obsaudiosync.com/)
   [Download](https://share.hsforms.com/1GRBSRUxoTSCz56pblQR-WA8z4i)
 
-- **LoistoSYNC** (FREEWARE)<br/>
+- **LoistoSYNC** 2021-05 (FREEWARE)<br/>
   Audio/Video Synchronization Tool (Browser-Source-Based)<br/>
   [Homepage](https://github.com/reaby/loistoSYNC)
   [Download](http://reaby.kapsi.fi/dev/loistosync/)
@@ -321,20 +321,20 @@ should be installed.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.10.10 (FREEWARE)<br/>
+- **OcenAudio** 3.10.12 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.0.3 (GPL)<br/>
+- **Audacity** 3.0.4 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.3/audacity-win-3.0.3.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.4/audacity-win-3.0.4-x64.exe)
 
-- **Cantabile** 3-3693 (FREEWARE)<br/>
+- **Cantabile** 3-3694 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3693.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3694.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -343,30 +343,30 @@ should be installed.
 
 ### Useful Companion Video Tools
 
-- **Vingester** 2.4.0 (GPL)<br/>
+- **Vingester** 2.6.0 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.4.0/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.6.0/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.38.0 (GPL)<br/>
+- **Lossless Cut** 3.39.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.38.0/LosslessCut-win.exe)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.39.0/LosslessCut-win.exe)
 
-- **Kdenlive** 21.04.3 (GPL)<br/>
+- **Kdenlive** 21.08.1 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.04/windows/kdenlive-21.04.3-windows-mingw_64-gcc.exe)
+  [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.1.exe)
 
-- **Shotcut** 21.06.29 (GPL)<br/>
+- **Shotcut** 21.08.28 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-win64-210629.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.08.29/shotcut-win64-210829.exe)
 
 - **Handbrake** 1.3.3 (GPL)<br/>
   Video Converter<br/>
