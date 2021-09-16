@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.14 (2021-09-12)
+Version 1.1.15 (2021-09-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -115,10 +115,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
   [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
-- **Text Slideshow** 1.5.0 (GPL)<br/>
+- **Text Slideshow** 1.5.1 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.0/obs-text-slideshow-1.5.0-Windows-Installer.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.1/obs-text-slideshow-1.5.1-Windows-Installer.exe)
 
 - **Audio Pan Filter** 0.1.2 (GPL)<br/>
   Stereo Panning<br/>
