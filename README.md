@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.15 (2021-09-16)
+Version 1.1.16 (2021-09-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -25,11 +25,11 @@ should be installed.
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/4.9.1 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.0.5 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
-  [Download](https://downloads.ndi.tv/Tools/NDI%204%20Tools.exe)
+  [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
 
 ### Essential Source/Scene/Filter Plugins
 
@@ -331,10 +331,10 @@ should be installed.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.4/audacity-win-3.0.4-x64.exe)
 
-- **Cantabile** 3-3694 (FREEWARE)<br/>
+- **Cantabile** 3-3695 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3694.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3695.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -363,10 +363,10 @@ should be installed.
   [Homepage](https://kdenlive.org/en/)
   [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.1.exe)
 
-- **Shotcut** 21.08.28 (GPL)<br/>
+- **Shotcut** 21.09.13 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.08.29/shotcut-win64-210829.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.09.13/shotcut-win64-210913.exe)
 
 - **Handbrake** 1.3.3 (GPL)<br/>
   Video Converter<br/>
