@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.17 (2021-09-21)
+Version 1.1.18 (2021-09-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -135,10 +135,10 @@ should be installed.
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.0/obs-rtspserver-v2.1.0-windows-installer.exe)
 
-- **Face Tracker** 0.2.2 (GPL)<br/>
+- **Face Tracker** 0.3.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.2.2/obs-face-tracker-0.2.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.3.0/obs-face-tracker-0.3.0-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
