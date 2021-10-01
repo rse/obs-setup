@@ -196,6 +196,11 @@ should be installed.
   [Homepage](https://github.com/bozbez/win-capture-audio)
   [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.0.0-beta.3/win-capture-audio-2.0.0-beta.3-setup.exe)
 
+- **Multi RTMP** 0.2.7.1 (GPL)<br/>
+  Multiple RTMP Outputs<br/>
+  [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
+  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-setup.exe)
+
 ### Useful Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.3 (MIT)<br/>
@@ -227,6 +232,11 @@ should be installed.
   Remote Control OBS via MIDI<br/>
   [Homepage](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/)
   [Download](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/download)
+
+- **OBS-MIDI** 0.9.3a3.66 (GPL)<br/>
+  Remote Control OBS via MIDI<br/>
+  [Homepage](https://github.com/cpyarger/obs-midi)
+  [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
 
 - **OSC for OBS** 2.6.2 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
