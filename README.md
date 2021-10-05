@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.20 (2021-10-01)
+Version 1.1.21 (2021-10-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -13,10 +13,10 @@ should be installed.
 
 ### Base Application
 
-- **OBS Studio** 27.1.1 (GPL)<br/>
+- **OBS Studio** 27.1.3 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.1.1-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.1.3-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -43,15 +43,15 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Advanced Scene Switcher** 1.15.3 (GPL)<br/>
+- **Advanced Scene Switcher** 1.16.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.15.3/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.1/SceneSwitcher.zip)
   
-- **Move Transition** 2.5.0 (GPL)<br/>
+- **Move Transition** 2.5.1 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3626/download?file=74658)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3715/download?file=75708)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
