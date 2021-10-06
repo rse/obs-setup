@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.21 (2021-10-05)
+Version 1.1.22 (2021-10-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -353,10 +353,10 @@ should be installed.
 
 ### Useful Companion Video Tools
 
-- **Vingester** 2.6.0 (GPL)<br/>
+- **Vingester** 2.6.5 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.6.0/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.6.5/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
@@ -378,10 +378,10 @@ should be installed.
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v21.09.13/shotcut-win64-210913.exe)
 
-- **Handbrake** 1.3.3 (GPL)<br/>
+- **Handbrake** 1.4.2 (GPL)<br/>
   Video Converter<br/>
   [Homepage](https://handbrake.fr/)
-  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.3.3-x86_64-Win_GUI.exe)
+  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.4.2-x86_64-Win_GUI.exe)
 
 - **VLC** 3.0.16 (GPL)<br/>
   Video Player<br/>
