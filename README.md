@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.22 (2021-10-06)
+Version 1.1.23 (2021-10-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -80,10 +80,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.1.4 (GPL)<br/>
+- **Source Dock** 0.1.5 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3706/download?file=75584)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3722/download?file=75829)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -129,6 +129,11 @@ should be installed.
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
   [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v0.3.0-beta/obs-backgroundremoval-win64.zip)
+
+- **Virtual Background** 1.0.1 (GPL)<br/>
+  AI-Based Greenscreen Effect<br/>
+  [Homepage](https://github.com/kounoike/obs-virtualbg)
+  [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.0.1/obs-virtualbg-v1.0.1-win64.zip)
 
 - **RTSP Server** 2.1.0 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
