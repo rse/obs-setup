@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.23 (2021-10-06)
+Version 1.1.24 (2021-10-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -228,10 +228,10 @@ should be installed.
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup.exe)
 
-- **Stream Deck** 5.0.1 (COMMERCIAL)<br/>
+- **Stream Deck** 5.1.0 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.0.1.14252.msi)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.1.0.14733.msi)
 
 - **MIDIControl** 1.8.4.0 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
@@ -336,20 +336,20 @@ should be installed.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.10.12 (FREEWARE)<br/>
+- **OcenAudio** 3.10.13 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.0.4 (GPL)<br/>
+- **Audacity** 3.0.5 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.4/audacity-win-3.0.4-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.5/audacity-win-3.0.5-x64.exe)
 
-- **Cantabile** 3-3695 (FREEWARE)<br/>
+- **Cantabile** 3-3696 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3695.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3696.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -378,10 +378,10 @@ should be installed.
   [Homepage](https://kdenlive.org/en/)
   [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.1.exe)
 
-- **Shotcut** 21.09.13 (GPL)<br/>
+- **Shotcut** 21.09.20 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.09.13/shotcut-win64-210913.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.09.20/shotcut-win64-210920.exe)
 
 - **Handbrake** 1.4.2 (GPL)<br/>
   Video Converter<br/>
