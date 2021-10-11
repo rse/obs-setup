@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.24 (2021-10-06)
+Version 1.1.25 (2021-10-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -48,10 +48,10 @@ should be installed.
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.1/SceneSwitcher.zip)
   
-- **Move Transition** 2.5.1 (GPL)<br/>
+- **Move Transition** 2.5.2 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3715/download?file=75708)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3727/download?file=75977)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -63,10 +63,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Source Record** 0.2.5 (GPL)<br/>
+- **Source Record** 0.2.6 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3578/download?file=74159)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3726/download?file=75973)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
@@ -191,10 +191,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.2.6/obs-color-monitor-0.2.6-Windows-Installer.exe)
 
-- **Scale To Sound** 0.3.1 (GPL)<br/>
+- **Scale To Sound** 1.0.0 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3675/download?file=75292)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3725/download?file=75963)
 
 - **Windows Capture Audio** 2.0.0b3 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
