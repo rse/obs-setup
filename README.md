@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.25 (2021-10-11)
+Version 1.1.26 (2021-10-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -135,10 +135,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.0.1/obs-virtualbg-v1.0.1-win64.zip)
 
-- **RTSP Server** 2.1.0 (GPL)<br/>
+- **RTSP Server** 2.1.1 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
-  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.0/obs-rtspserver-v2.1.0-windows-installer.exe)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.1/obs-rtspserver-v2.1.1-windows-installer.exe)
 
 - **Face Tracker** 0.3.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
