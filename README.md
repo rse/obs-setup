@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.26 (2021-10-14)
+Version 1.1.27 (2021-10-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -135,10 +135,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.0.1/obs-virtualbg-v1.0.1-win64.zip)
 
-- **RTSP Server** 2.1.1 (GPL)<br/>
+- **RTSP Server** 2.1.2 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
-  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.1/obs-rtspserver-v2.1.1-windows-installer.exe)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.2/obs-rtspserver-v2.1.2-windows-installer.exe)
 
 - **Face Tracker** 0.3.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
@@ -206,6 +206,11 @@ should be installed.
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
   [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-setup.exe)
 
+- **Spout Plugin** 1.2 (GPL)<br/>
+  Import/Export of Textures to and from SPOUT2 compatible programs<br/>
+  [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
+  [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.2/OBS_Spout2-1.2_obs_v27.0.x.exe)
+
 ### Useful Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.3 (MIT)<br/>
@@ -247,6 +252,11 @@ should be installed.
   Remote Control OBS via OSC<br/>
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
+
+- **PTZControl** 0.9.0 (GPL)<br/>
+  PTZ Camera Control<br/>
+  [Homepage](https://github.com/glikely/obs-ptz)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.9.0/ptz-controls-v0.9.0-Windows-Installer.exe)
 
 ### Useful Audio VST Plugins
 
