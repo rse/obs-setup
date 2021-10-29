@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.28 (2021-10-25)
+Version 1.1.29 (2021-10-29)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -253,10 +253,10 @@ should be installed.
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
 
-- **PTZControl** 0.9.0 (GPL)<br/>
+- **PTZControl** 0.10.0rc1 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.9.0/ptz-controls-v0.9.0-Windows-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.0-rc1/ptz-controls-v0.10.0-rc1-Windows-Installer.exe)
 
 ### Useful Audio VST Plugins
 
