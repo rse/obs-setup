@@ -2,12 +2,12 @@
 OBS Setup
 =========
 
-Version 1.1.29 (2021-10-29)
+Version 1.1.30 (2021-11-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
-under Windows 10 (x64). For this, beside the base application, multiple
+under Windows 10 (x64). For this, beside the base application, multipleck
 [OBS Studio Plugins](https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/)
 should be installed.
 
@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Advanced Scene Switcher** 1.16.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.16.3 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.1/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.3/SceneSwitcher.zip)
   
 - **Move Transition** 2.5.2 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -80,10 +80,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.1.5 (GPL)<br/>
+- **Source Dock** 0.1.6 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3722/download?file=75829)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3790/download?file=76681)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -125,20 +125,20 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
 
-- **Background Removal - Portrait Segmentation** 0.3.0 (GPL)<br/>
-  AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v0.3.0-beta/obs-backgroundremoval-win64.zip)
-
-- **Virtual Background** 1.0.1 (GPL)<br/>
-  AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/kounoike/obs-virtualbg)
-  [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.0.1/obs-virtualbg-v1.0.1-win64.zip)
-
 - **RTSP Server** 2.1.2 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.2/obs-rtspserver-v2.1.2-windows-installer.exe)
+
+- **Background Removal - Portrait Segmentation** 0.4.0 (GPL)<br/>
+  AI-Based Greenscreen Effect<br/>
+  [Homepage](https://github.com/royshil/obs-backgroundremoval)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v0.4.0/obs-backgroundremoval-0.4.0-win64.zip)
+
+- **Virtual Background** 1.1.0 (GPL)<br/>
+  AI-Based Greenscreen Effect<br/>
+  [Homepage](https://github.com/kounoike/obs-virtualbg)
+  [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
 - **Face Tracker** 0.3.1 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
@@ -196,10 +196,10 @@ should be installed.
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
   [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3725/download?file=75963)
 
-- **Windows Capture Audio** 2.0.0b3 (GPL)<br/>
+- **Windows Capture Audio** 2.1.0 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
   [Homepage](https://github.com/bozbez/win-capture-audio)
-  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.0.0-beta.3/win-capture-audio-2.0.0-beta.3-setup.exe)
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.1.0-beta/win-capture-audio-2.1.0-beta-setup.exe)
 
 - **Multi RTMP** 0.2.7.1 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -253,10 +253,10 @@ should be installed.
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
 
-- **PTZControl** 0.10.0rc1 (GPL)<br/>
+- **PTZControl** 0.10.1 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.0-rc1/ptz-controls-v0.10.0-rc1-Windows-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.1/ptz-controls-v0.10.1-Windows-Installer.exe)
 
 ### Useful Audio VST Plugins
 
