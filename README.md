@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.30 (2021-11-06)
+Version 1.1.31 (2021-11-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -253,10 +253,10 @@ should be installed.
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
 
-- **PTZControl** 0.10.1 (GPL)<br/>
+- **PTZControl** 0.10.2 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.1/ptz-controls-v0.10.1-Windows-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.2/ptz-controls-v0.10.2-Windows-Installer.exe)
 
 ### Useful Audio VST Plugins
 
@@ -331,22 +331,22 @@ should be installed.
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
 
-- **Virtual Audio Cable (VAC)** 4.65 (COMMERCIAL)<br/>
+- **Virtual Audio Cable (VAC)** 4.66 (COMMERCIAL)<br/>
   Virtual Audio Cable<br/>
   [Homepage](https://vac.muzychenko.net/en/)
-  [Download](https://software.muzychenko.net/trials/vac465.exe)
+  [Download](https://software.muzychenko.net/trials/vac466.exe)
 
-- **VoiceMeeter Potato** 3.0.1.8 (COMMERCIAL)<br/>
+- **VoiceMeeter Potato** 3.0.2.1 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
-  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3018.zip)
+  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
 - **LoopMIDI** 1.0.16.27 (COMMERCIAL)<br/>
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.10.13 (FREEWARE)<br/>
+- **OcenAudio** 3.10.15 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -368,10 +368,10 @@ should be installed.
 
 ### Useful Companion Video Tools
 
-- **Vingester** 2.6.5 (GPL)<br/>
+- **Vingester** 2.6.7 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.6.5/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.6.7/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
@@ -383,15 +383,15 @@ should be installed.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.39.0/LosslessCut-win.exe)
 
-- **Kdenlive** 21.08.1 (GPL)<br/>
+- **Kdenlive** 21.08.3 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.1.exe)
+  [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.3.exe)
 
-- **Shotcut** 21.09.20 (GPL)<br/>
+- **Shotcut** 21.10.31 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.09.20/shotcut-win64-210920.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.10.31/shotcut-win64-210920.exe)
 
 - **Handbrake** 1.4.2 (GPL)<br/>
   Video Converter<br/>
