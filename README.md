@@ -233,10 +233,10 @@ should be installed.
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup.exe)
 
-- **Stream Deck** 5.1.0 (COMMERCIAL)<br/>
+- **Stream Deck** 5.1.3 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.1.0.14733.msi)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.1.3.14750.msi)
 
 - **MIDIControl** 1.8.4.0 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
