@@ -201,10 +201,10 @@ should be installed.
   [Homepage](https://github.com/bozbez/win-capture-audio)
   [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.1.0-beta/win-capture-audio-2.1.0-beta-setup.exe)
 
-- **Multi RTMP** 0.2.7.1 (GPL)<br/>
+- **Multi RTMP** 0.2.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
-  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.7.1/obs-multi-rtmp-setup.exe)
+  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.8/obs-multi-rtmp-setup.exe)
 
 - **Spout Plugin** 1.2 (GPL)<br/>
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
