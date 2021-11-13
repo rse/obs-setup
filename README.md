@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.31 (2021-11-11)
+Version 1.1.32 (2021-11-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -140,10 +140,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
-- **Face Tracker** 0.3.1 (GPL)<br/>
+- **Face Tracker** 0.4.1 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.3.0/obs-face-tracker-0.3.1-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.4.1/obs-face-tracker-0.4.1-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
