@@ -366,6 +366,11 @@ should be installed.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
+- **Auto-Duck** 3.0.0-RC3 (COMMERCIAL)<br/>
+  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
+  [Homepage](https://auto-duck.com/)
+  [Download](https://auto-duck.com/download-last)
+
 ### Useful Companion Video Tools
 
 - **Vingester** 2.6.7 (GPL)<br/>
