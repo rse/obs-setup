@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.32 (2021-11-13)
+Version 1.1.33 (2021-11-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -80,10 +80,15 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.1.6 (GPL)<br/>
+- **Source Dock** 0.1.7 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3790/download?file=76681)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3818/download?file=77064)
+
+- **Scene Notes Dock** 0.0.1 (GPL)<br/>
+  Scene/Source Notes as Dock<br/>
+  [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
+  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/3817/download?file=77059)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -140,10 +145,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
-- **Face Tracker** 0.4.1 (GPL)<br/>
+- **Face Tracker** 0.4.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.4.1/obs-face-tracker-0.4.1-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.4.2/obs-face-tracker-0.4.2-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
