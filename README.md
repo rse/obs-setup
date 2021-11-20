@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.34 (2021-11-19)
+Version 1.1.35 (2021-11-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Advanced Scene Switcher** 1.16.3 (GPL)<br/>
+- **Advanced Scene Switcher** 1.16.4 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.3/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.4/SceneSwitcher.zip)
   
 - **Move Transition** 2.5.2 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
