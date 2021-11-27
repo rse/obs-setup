@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.35 (2021-11-21)
+Version 1.1.36 (2021-11-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -42,6 +42,11 @@ should be installed.
   Shader Filter<br/>
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
+
+- **Multi Source Effect** 0.1.0 (GPL)<br/>
+  Combine to Sources with a Shader Effect<br/>
+  [Homepage](https://github.com/norihiro/obs-multisource-effect)
+  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.0/obs-multisource-effect-0.1.0-Windows-Installer.exe)
 
 - **Advanced Scene Switcher** 1.16.4 (GPL)<br/>
   Powerful Scene Switching<br/>
@@ -120,10 +125,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
   [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
-- **Text Slideshow** 1.5.1 (GPL)<br/>
+- **Text Slideshow** 1.5.2 (GPL)<br/>
   Text Slideshow<br/>
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.1/obs-text-slideshow-1.5.1-Windows-Installer.exe)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.2/obs-text-slideshow-1.5.2-Windows-Installer.exe)
 
 - **Audio Pan Filter** 0.1.2 (GPL)<br/>
   Stereo Panning<br/>
@@ -253,10 +258,10 @@ should be installed.
   [Homepage](https://github.com/cpyarger/obs-midi)
   [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
 
-- **OSC for OBS** 2.6.2 (FREEWARE)<br/>
+- **OSC for OBS** 2.7 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
-  [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/2.6.2/OSC.for.OBS.2.6.2.-PC.zip)
+  [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/v2.7/OSC.for.OBS.v2.7.-PC.zip)
 
 - **PTZControl** 0.10.4 (GPL)<br/>
   PTZ Camera Control<br/>
@@ -351,17 +356,17 @@ should be installed.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.10.15 (FREEWARE)<br/>
+- **OcenAudio** 3.11 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.0.5 (GPL)<br/>
+- **Audacity** 3.1.2 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.0.5/audacity-win-3.0.5-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.2/audacity-win-3.1.2-x64.exe)
 
-- **Cantabile** 3-3696 (FREEWARE)<br/>
+- **Cantabile** 3-3697 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-3696.exe)
@@ -371,7 +376,7 @@ should be installed.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
-- **Auto-Duck** 3.0.0-RC3 (COMMERCIAL)<br/>
+- **Auto-Duck** 3.0.0-RC3.1 (COMMERCIAL)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
@@ -393,15 +398,15 @@ should be installed.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.39.0/LosslessCut-win.exe)
 
-- **Kdenlive** 21.08.3 (GPL)<br/>
-  Video Cutter<br/>
-  [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.3.exe)
-
 - **Shotcut** 21.10.31 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v21.10.31/shotcut-win64-210920.exe)
+
+- **Kdenlive** 21.08.3 (GPL)<br/>
+  Video Cutter<br/>
+  [Homepage](https://kdenlive.org/en/)
+  [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.3.exe)
 
 - **Handbrake** 1.4.2 (GPL)<br/>
   Video Converter<br/>
@@ -417,4 +422,9 @@ should be installed.
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-tool-to-manage-and-save-and-restore-camera-settings.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-tool-to-manage-and-save-and-restore-camera-settings.1271/download)
+
+- **CamRename** 0.1b (FREEWARE)<br/>
+  Camera Device Renaming<br/>
+  [Homepage](https://obsproject.com/forum/resources/camrename.1408/)
+  [Download](https://www.faltinek.de/freestuff/obs/CamRename.zip)
 
