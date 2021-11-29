@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.36 (2021-11-27)
+Version 1.1.37 (2021-11-29)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Multi Source Effect** 0.1.0 (GPL)<br/>
+- **Multi Source Effect** 0.1.1 (GPL)<br/>
   Combine to Sources with a Shader Effect<br/>
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
-  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.0/obs-multisource-effect-0.1.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.1/obs-multisource-effect-0.1.1-Windows-Installer.exe)
 
 - **Advanced Scene Switcher** 1.16.4 (GPL)<br/>
   Powerful Scene Switching<br/>
