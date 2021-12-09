@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.38 (2021-12-02)
+Version 1.1.39 (2021-12-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -25,7 +25,7 @@ should be installed.
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.0.5 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.0.11.7 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
@@ -43,15 +43,15 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Multi Source Effect** 0.1.2 (GPL)<br/>
+- **Multi Source Effect** 0.1.6 (GPL)<br/>
   Combine to Sources with a Shader Effect<br/>
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
-  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.2/obs-multisource-effect-0.1.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.6/obs-multisource-effect-0.1.6-Windows-Installer.exe)
 
-- **Advanced Scene Switcher** 1.16.4 (GPL)<br/>
+- **Advanced Scene Switcher** 1.16.5 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.4/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.5/SceneSwitcher.zip)
   
 - **Move Transition** 2.5.2 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -150,10 +150,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
-- **Face Tracker** 0.4.2 (GPL)<br/>
+- **Face Tracker** 0.5.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.4.2/obs-face-tracker-0.4.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.0/obs-face-tracker-0.5.0-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
@@ -356,7 +356,7 @@ should be installed.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.11 (FREEWARE)<br/>
+- **OcenAudio** 3.11.1 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -383,10 +383,10 @@ should be installed.
 
 ### Useful Companion Video Tools
 
-- **Vingester** 2.6.7 (GPL)<br/>
+- **Vingester** 2.7.0 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.6.7/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.7.0/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
