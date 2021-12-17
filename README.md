@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.39 (2021-12-09)
+Version 1.1.40 (2021-12-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -150,10 +150,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
-- **Face Tracker** 0.5.0 (GPL)<br/>
+- **Face Tracker** 0.5.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.0/obs-face-tracker-0.5.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.2/obs-face-tracker-0.5.2-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
@@ -201,10 +201,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.2.6/obs-color-monitor-0.2.6-Windows-Installer.exe)
 
-- **Scale To Sound** 1.0.0 (GPL)<br/>
+- **Scale To Sound** 1.1.0 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3725/download?file=75963)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3886/download?file=77951)
 
 - **Windows Capture Audio** 2.1.0 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
@@ -366,10 +366,10 @@ should be installed.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.2/audacity-win-3.1.2-x64.exe)
 
-- **Cantabile** 3-3697 (FREEWARE)<br/>
+- **Cantabile** 3-3694 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3696.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3694.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -403,10 +403,10 @@ should be installed.
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v21.10.31/shotcut-win64-210920.exe)
 
-- **Kdenlive** 21.08.3 (GPL)<br/>
+- **Kdenlive** 21.12.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.08/windows/kdenlive-21.08.3.exe)
+  [Download](https://download.kde.org/stable/kdenlive/21.12/windows/kdenlive-21.12.0.exe)
 
 - **Handbrake** 1.4.2 (GPL)<br/>
   Video Converter<br/>
