@@ -53,6 +53,11 @@ should be installed.
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.5/SceneSwitcher.zip)
   
+- **Source Switcher** 0.3.0 (GPL)<br/>
+  Source Switching between Multiple Sources<br/>
+  [Homepage](https://github.com/exeldro/obs-source-switcher)
+  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
+
 - **Move Transition** 2.5.2 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
@@ -62,11 +67,6 @@ should be installed.
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772)
-
-- **Source Switcher** 0.3.0 (GPL)<br/>
-  Source Switching between Multiple Sources<br/>
-  [Homepage](https://github.com/exeldro/obs-source-switcher)
-  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
 - **Source Record** 0.2.6 (GPL)<br/>
   Individual Source Recording<br/>
