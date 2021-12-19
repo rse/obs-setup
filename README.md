@@ -171,7 +171,7 @@ should be installed.
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe)
 
 - **GStreamer** 0.3.2 (GPL)<br/>
-  ASIO Audio Support<br/>
+  GStreamer Integration<br/>
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
   [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.2/obs-gstreamer.zip)
   [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.1/mingw/gstreamer-1.0-mingw-x86_64-1.19.1.msi)
