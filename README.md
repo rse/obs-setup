@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.41 (2021-12-20)
+Version 1.1.42 (2021-12-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -85,10 +85,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.2.1 (GPL)<br/>
+- **Source Dock** 0.2.2 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3899/download?file=78186)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3908/download?file=78327)
 
 - **Scene Notes Dock** 0.0.1 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
@@ -150,10 +150,10 @@ should be installed.
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
-- **Face Tracker** 0.5.2 (GPL)<br/>
+- **Face Tracker** 0.5.3 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.2/obs-face-tracker-0.5.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.3/obs-face-tracker-0.5.3-Windows-Installer.exe)
 
 - **Closed Captioning** 0.19 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
@@ -287,6 +287,11 @@ should be installed.
 
 ### Useful Browser Sources
 
+- **RSE Crop-Control** 0.9.0 (GPL)<br/>
+  Remote Crop-Filter Control<br/>
+  [Homepage](https://github.com/rse/obs-crop-control)
+  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.0.tar.gz)
+
 - **RSE Analog Clock** 0.9.0 (GPL)<br/>
   Nice Analog Clock<br/>
   [Homepage](https://github.com/rse/analogclock)
@@ -356,7 +361,7 @@ should be installed.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.11.1 (FREEWARE)<br/>
+- **OcenAudio** 3.11.2 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -376,7 +381,7 @@ should be installed.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
-- **Auto-Duck** 3.0.0-RC3.1 (COMMERCIAL)<br/>
+- **Auto-Duck** 3.0.0-RC4 (COMMERCIAL)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
