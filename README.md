@@ -329,6 +329,11 @@ should be installed.
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
   [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/2.1.0.zip)
 
+- **Filter Hotkeys** 1.0.2 (MPL)<br/>
+  Allow Hotkeys to Toggle Source Filters<br/>
+  [Homepage](https://github.com/upgradeQ/obs-filter-hotkeys)
+  [Download](https://github.com/upgradeQ/obs-filter-hotkeys/archive/refs/tags/1.0.2.tar.gz)
+
 ### Useful Companion Audio Tools
 
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
