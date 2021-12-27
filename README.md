@@ -309,8 +309,8 @@ should be installed.
 
 ### Useful Lua Scripts
 
-- **RSE OBS Scripts** 2021-04 (GPL)<br/>
-  Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources<br/>
+- **RSE OBS Scripts** 2021-12 (GPL)<br/>
+  Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources, Source One of Many<br/>
   [Homepage](https://github.com/rse/obs-scripts)
   [Download](https://github.com/rse/obs-scripts/archive/refs/heads/master.zip)
 
