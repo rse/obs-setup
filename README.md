@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.42 (2021-12-24)
+Version 1.1.43 (2021-12-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -292,15 +292,15 @@ should be installed.
   [Homepage](https://github.com/rse/obs-crop-control)
   [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.0.tar.gz)
 
-- **RSE Analog Clock** 0.9.0 (GPL)<br/>
+- **RSE Analog Clock** 0.9.1 (GPL)<br/>
   Nice Analog Clock<br/>
   [Homepage](https://github.com/rse/analogclock)
-  [Download](https://github.com/rse/analogclock/archive/refs/tags/0.9.0.tar.gz)
+  [Download](https://github.com/rse/analogclock/archive/refs/tags/0.9.1.tar.gz)
 
-- **RSE Lower Thirds** 0.9.4 (GPL)<br/>
+- **RSE Lower Thirds** 0.9.5 (GPL)<br/>
   Automatically-Controlled Lower Thirds<br/>
   [Homepage](https://github.com/rse/lowerthird)
-  [Download](https://github.com/rse/lowerthird/archive/refs/tags/0.9.4.tar.gz)
+  [Download](https://github.com/rse/lowerthird/archive/refs/tags/0.9.5.tar.gz)
 
 - **Lower Thirds with Dockable Control Panel** 1.6 (GPL)<br/>
   Semi-Manually-Controlled Lower Thirds<br/>
