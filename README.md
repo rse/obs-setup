@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.44 (2021-12-27)
+Version 1.1.45 (2021-12-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -33,10 +33,10 @@ should be installed.
 
 ### Essential Source/Scene/Filter Plugins
 
-- **StreamFX** 0.10.1 (GPL)<br/>
+- **StreamFX** 0.11.0 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.10.1/streamfx-windows-2019-0.10.1.0-gc8484f65.exe)
+  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.11.0/streamfx-windows-2019-0.11.0.0-g31d56703.exe)
 
 - **Shaderfilter** 1.21 (GPL)<br/>
   Shader Filter<br/>
