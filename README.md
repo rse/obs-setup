@@ -292,15 +292,15 @@ should be installed.
 
 ### Useful Browser Sources
 
-- **RSE Crop-Control** 0.9.0 (GPL)<br/>
+- **RSE Crop-Control** 0.9.1 (GPL)<br/>
   Remote Crop-Filter Control<br/>
   [Homepage](https://github.com/rse/obs-crop-control)
-  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.0.tar.gz)
+  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.1.tar.gz)
 
-- **RSE Analog Clock** 0.9.1 (GPL)<br/>
+- **RSE Analog Clock** 0.9.2 (GPL)<br/>
   Nice Analog Clock<br/>
   [Homepage](https://github.com/rse/analogclock)
-  [Download](https://github.com/rse/analogclock/archive/refs/tags/0.9.1.tar.gz)
+  [Download](https://github.com/rse/analogclock/archive/refs/tags/0.9.2.tar.gz)
 
 - **RSE Lower Thirds** 0.9.5 (GPL)<br/>
   Automatically-Controlled Lower Thirds<br/>
