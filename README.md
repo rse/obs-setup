@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.45 (2021-12-28)
+Version 1.1.46 (2022-01-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -58,10 +58,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Move Transition** 2.5.2 (GPL)<br/>
+- **Move Transition** 2.5.3 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3727/download?file=75977)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3925/download?file=78583)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -83,6 +83,11 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
 
+- **Scene Collection Manager** 0.0.2 (GPL)<br/>
+  Filter/Backup/Restore Scene Collections<br/>
+  [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3919/download?file=78482)
+
 ### Useful Source/Scene/Filter Plugins
 
 - **Source Dock** 0.2.2 (GPL)<br/>
@@ -90,10 +95,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-dock)
   [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3908/download?file=78327)
 
-- **Scene Notes Dock** 0.0.1 (GPL)<br/>
+- **Scene Notes Dock** 0.0.2 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
-  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/3817/download?file=77059)
+  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/3918/download?file=78471)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -115,10 +120,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/3036/download?file=66027)
 
-- **Gradient Source** 0.2.0 (GPL)<br/>
+- **Gradient Source** 0.3.0 (GPL)<br/>
   Source for Rendered Gradient<br/>
   [Homepage](https://github.com/exeldro/obs-gradient-source)
-  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3406/download?file=71805)
+  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3926/download?file=78595)
 
 - **Dynamic Delay** 0.1.2 (GPL)<br/>
   Dynamic Delay a Source<br/>
