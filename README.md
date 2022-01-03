@@ -43,10 +43,10 @@ should be installed.
   [Homepage](https://github.com/Oncorporation/obs-shaderfilter)
   [Download](https://github.com/Oncorporation/obs-shaderfilter/releases/download/v1.21/obs-shaderfilter-win.zip)
 
-- **Multi Source Effect** 0.1.6 (GPL)<br/>
+- **Multi Source Effect** 0.1.7 (GPL)<br/>
   Combine to Sources with a Shader Effect<br/>
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
-  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.6/obs-multisource-effect-0.1.6-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.7/obs-multisource-effect-0.1.7-Windows-Installer.exe)
 
 - **Advanced Scene Switcher** 1.16.5 (GPL)<br/>
   Powerful Scene Switching<br/>
@@ -90,15 +90,15 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.2.2 (GPL)<br/>
+- **Source Dock** 0.2.3 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3908/download?file=78327)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3937/download?file=78703)
 
-- **Scene Notes Dock** 0.0.2 (GPL)<br/>
+- **Scene Notes Dock** 0.0.3 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
-  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/3918/download?file=78471)
+  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/3938/download?file=78707)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
