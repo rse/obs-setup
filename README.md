@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.47 (2022-01-03)
+Version 1.1.48 (2022-01-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -48,10 +48,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.7/obs-multisource-effect-0.1.7-Windows-Installer.exe)
 
-- **Advanced Scene Switcher** 1.16.5 (GPL)<br/>
+- **Advanced Scene Switcher** 1.17 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.16.5/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17/SceneSwitcher.zip)
   
 - **Source Switcher** 0.3.0 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
