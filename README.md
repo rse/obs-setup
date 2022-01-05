@@ -376,10 +376,10 @@ should be installed.
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.1.2 (GPL)<br/>
+- **Audacity** 3.1.3 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.2/audacity-win-3.1.2-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
 - **Cantabile** 3-3694 (FREEWARE)<br/>
   VST Host<br/>
@@ -413,10 +413,10 @@ should be installed.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.39.0/LosslessCut-win.exe)
 
-- **Shotcut** 21.10.31 (GPL)<br/>
+- **Shotcut** 21.12.24 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.10.31/shotcut-win64-210920.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v21.12.24/shotcut-win64-211224.exe)
 
 - **Kdenlive** 21.12.0 (GPL)<br/>
   Video Cutter<br/>
