@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.48 (2022-01-05)
+Version 1.1.49 (2022-01-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -292,10 +292,10 @@ should be installed.
 
 ### Useful Browser Sources
 
-- **RSE Crop-Control** 0.9.2 (GPL)<br/>
+- **RSE Crop-Control** 0.9.3 (GPL)<br/>
   Remote Crop-Filter Control<br/>
   [Homepage](https://github.com/rse/obs-crop-control)
-  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.2.tar.gz)
+  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.3.tar.gz)
 
 - **RSE Analog Clock** 0.9.2 (GPL)<br/>
   Nice Analog Clock<br/>
