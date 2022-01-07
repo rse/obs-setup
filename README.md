@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.49 (2022-01-06)
+Version 1.1.50 (2022-01-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -48,10 +48,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.7/obs-multisource-effect-0.1.7-Windows-Installer.exe)
 
-- **Advanced Scene Switcher** 1.17 (GPL)<br/>
+- **Advanced Scene Switcher** 1.17.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.1/SceneSwitcher.zip)
   
 - **Source Switcher** 0.3.0 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
@@ -119,16 +119,6 @@ should be installed.
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/3036/download?file=66027)
-
-- **Gradient Source** 0.3.0 (GPL)<br/>
-  Source for Rendered Gradient<br/>
-  [Homepage](https://github.com/exeldro/obs-gradient-source)
-  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3926/download?file=78595)
-
-- **Dynamic Delay** 0.1.2 (GPL)<br/>
-  Dynamic Delay a Source<br/>
-  [Homepage](https://github.com/exeldro/obs-dynamic-delay)
-  [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
 
 - **Text Slideshow** 1.5.2 (GPL)<br/>
   Text Slideshow<br/>
@@ -225,6 +215,33 @@ should be installed.
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
   [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
   [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.2/OBS_Spout2-1.2_obs_v27.0.x.exe)
+
+### Useful Effect Plugins
+
+- **Gradient Source** 0.3.0 (GPL)<br/>
+  Source for Rendered Gradient<br/>
+  [Homepage](https://github.com/exeldro/obs-gradient-source)
+  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3926/download?file=78595)
+
+- **Dynamic Delay** 0.1.2 (GPL)<br/>
+  Dynamic Delay a Source<br/>
+  [Homepage](https://github.com/exeldro/obs-dynamic-delay)
+  [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
+
+- **Time Warp Scan** 0.1.6 (GPL)<br/>
+  Time Warp Scan Source Filter<br/>
+  [Homepage](https://github.com/exeldro/obs-time-warp-scan)
+  [Download](https://obsproject.com/forum/resources/time-warp-scan.1167/version/3475/download?file=72757)
+
+- **Recursion Effect** 0.0.4 (GPL)<br/>
+  Recurson Effect Source Filter<br/>
+  [Homepage](https://github.com/exeldro/obs-recursion-effect)
+  [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/3928/download?file=78614)
+
+- **Freeze Filter** 0.3.2 (GPL)<br/>
+  Frame Freeze Source Filter<br/>
+  [Homepage](https://github.com/exeldro/obs-freeze-filter)
+  [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/3026/download?file=65906)
 
 ### Useful Remote Control Clients
 
