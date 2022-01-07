@@ -226,10 +226,10 @@ should be installed.
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
   [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.8/obs-multi-rtmp-setup.exe)
 
-- **Spout Plugin** 1.2 (GPL)<br/>
+- **Spout Plugin** 1.3 (GPL)<br/>
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
   [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
-  [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.2/OBS_Spout2-1.2_obs_v27.0.x.exe)
+  [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.3/OBS_Spout2_Plugin_Install_v1.3.exe)
 
 - **VNC Plugin** 0.4.0 (GPL)<br/>
   Display Remote Desktop via VNC<br/>
