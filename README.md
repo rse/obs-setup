@@ -160,11 +160,6 @@ should be installed.
   [Homepage](https://github.com/ratwithacompiler/OBS-captions-plugin)
   [Download](https://github.com/ratwithacompiler/OBS-captions-plugin/releases/download/v0.19b/Closed_Captions_Plugin__v0.19b_Windows.zip)
 
-- **Spectralizer** 1.3.4 (GPL)<br/>
-  Audio Spectrum Visualization<br/>
-  [Homepage](https://github.com/univrsal/spectralizer)
-  [Download](https://github.com/univrsal/spectralizer/releases/download/v1.3.4/spectralizer.v1.3.4.installer.windows.exe)
-
 - **ASIO** 3.1.0 (GPL)<br/>
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
@@ -210,6 +205,11 @@ should be installed.
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
   [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3886/download?file=77951)
+
+- **Spectralizer** 1.3.4 (GPL)<br/>
+  Audio Spectrum Visualization<br/>
+  [Homepage](https://github.com/univrsal/spectralizer)
+  [Download](https://github.com/univrsal/spectralizer/releases/download/v1.3.4/spectralizer.v1.3.4.installer.windows.exe)
 
 - **Image Reaction** 1.2 (GPL)<br/>
   Switch Images to a Sound<br/>
