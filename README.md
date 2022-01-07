@@ -78,6 +78,11 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
   [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3318/download?file=70648)
 
+- **Decklink Output Filter** 1.0.1 (GPL)<br/>
+  Output Scenes/Sources to Blackmagic Decklink Cards<br/>
+  [Homepage](https://github.com/cg2121/obs-decklink-output-filter)
+  [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.0.1/obs-decklink-output-filter-1.0.1-win64-installer.exe)
+
 - **Audio Monitor** 0.7.1 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
@@ -196,10 +201,20 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.2.6/obs-color-monitor-0.2.6-Windows-Installer.exe)
 
+- **Waveform** 1.0.0 (GPL)<br/>
+  Audio Waveform Visualization<br/>
+  [Homepage](https://github.com/phandasm/waveform)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.0.0/Waveform_1.0.0_setup_x64.exe)
+
 - **Scale To Sound** 1.1.0 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
   [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3886/download?file=77951)
+
+- **Image Reaction** 1.2 (GPL)<br/>
+  Switch Images to a Sound<br/>
+  [Homepage](https://github.com/scaledteam/obs-image-reaction)
+  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
 
 - **Windows Capture Audio** 2.1.0 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
@@ -215,6 +230,11 @@ should be installed.
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
   [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
   [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.2/OBS_Spout2-1.2_obs_v27.0.x.exe)
+
+- **VNC Plugin** 0.4.0 (GPL)<br/>
+  Display Remote Desktop via VNC<br/>
+  [Homepage](https://github.com/norihiro/obs-vnc)
+  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
 ### Useful Effect Plugins
 
@@ -289,6 +309,11 @@ should be installed.
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
   [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.4/ptz-controls-v0.10.4-Windows-Installer.exe)
+
+- **Command Source** 0.2.1 (GPL)<br/>
+  Dummy Source to Execute Commands when Scene Switched<br/>
+  [Homepage](https://github.com/norihiro/obs-command-source)
+  [Download](https://github.com/norihiro/obs-command-source/releases/download/0.2.1/obs-command-source-0.2.1-Windows-Installer.exe)
 
 ### Useful Audio VST Plugins
 
