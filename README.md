@@ -334,10 +334,15 @@ should be installed.
 
 ### Useful Browser Sources
 
-- **RSE Crop-Control** 0.9.3 (GPL)<br/>
+- **RSE Crop Control** 0.9.3 (GPL)<br/>
   Remote Crop-Filter Control<br/>
   [Homepage](https://github.com/rse/obs-crop-control)
   [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.3.tar.gz)
+
+- **RSE Birddog Camera Preset** 0.9.0 (GPL)<br/>
+  Recall Birddog Camera Preset<br/>
+  [Homepage](https://github.com/rse/obs-birddog-camera-preset/)
+  [Download](https://github.com/rse/obs-birddog-camera-preset/archive/refs/tags/0.9.0.tar.gz)
 
 - **RSE Analog Clock** 0.9.2 (GPL)<br/>
   Nice Analog Clock<br/>
