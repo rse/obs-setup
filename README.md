@@ -263,6 +263,18 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-freeze-filter)
   [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/3026/download?file=65906)
 
+### Useful Remote Control Plugins
+
+- **PTZControl** 0.10.4 (GPL)<br/>
+  PTZ Camera Control<br/>
+  [Homepage](https://github.com/glikely/obs-ptz)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.4/ptz-controls-v0.10.4-Windows-Installer.exe)
+
+- **Command Source** 0.2.1 (GPL)<br/>
+  Dummy Source to Execute Commands when Scene Switched<br/>
+  [Homepage](https://github.com/norihiro/obs-command-source)
+  [Download](https://github.com/norihiro/obs-command-source/releases/download/0.2.1/obs-command-source-0.2.1-Windows-Installer.exe)
+
 ### Useful Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.3 (MIT)<br/>
@@ -280,20 +292,20 @@ should be installed.
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 2.3.010 (FREEWARE)<br/>
+- **Touch Portal** 3.0.4 (FREEWARE)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.touch-portal.com)
-  [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup.exe)
+  [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
 
-- **Stream Deck** 5.1.3 (COMMERCIAL)<br/>
+- **Stream Deck** 5.1.4 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.1.3.14750.msi)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.1.4.14753.msi)
 
-- **MIDIControl** 1.8.4.0 (FREEWARE)<br/>
+- **MIDIControl** 1.9.1.0 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
-  [Homepage](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/)
-  [Download](https://obsproject.com/forum/resources/midicontrol-control-obs-soundboard-twitch-chat-with-midi-devices.940/download)
+  [Homepage](https://github.com/Etuldan/MidiControl)
+  [Download](https://github.com/Etuldan/MidiControl/releases/download/1.9.1.0/MIDIControl.1.9.1.0.Setup.exe)
 
 - **OBS-MIDI** 0.9.3a3.66 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
@@ -305,16 +317,6 @@ should be installed.
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/v2.7/OSC.for.OBS.v2.7.-PC.zip)
 
-- **PTZControl** 0.10.4 (GPL)<br/>
-  PTZ Camera Control<br/>
-  [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.10.4/ptz-controls-v0.10.4-Windows-Installer.exe)
-
-- **Command Source** 0.2.1 (GPL)<br/>
-  Dummy Source to Execute Commands when Scene Switched<br/>
-  [Homepage](https://github.com/norihiro/obs-command-source)
-  [Download](https://github.com/norihiro/obs-command-source/releases/download/0.2.1/obs-command-source-0.2.1-Windows-Installer.exe)
-
 ### Useful Audio VST Plugins
 
 - **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
@@ -322,10 +324,10 @@ should be installed.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **MFreeFXBundle** 14.16 (FREEWARE)<br/>
+- **MFreeFXBundle** 15.01 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=14.16&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_14_16_setup.exe&checksum=905bf677fb7772fa9dabcdf27b71cff4e7bd9061)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.01&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_01_setup.exe&checksum=3908a47ff59ee4cc42b626033458abe66e2e74be)
 
 - **Speachy** 1.0 (COMMERCIAL)<br/>
   Voice Audio "all-in-one" VST Plugin<br/>
@@ -438,7 +440,7 @@ should be installed.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
-- **Auto-Duck** 3.0.0-RC4 (COMMERCIAL)<br/>
+- **Auto-Duck** 3.0.0-RC4.1 (COMMERCIAL)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
