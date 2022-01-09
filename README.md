@@ -95,10 +95,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.2.3 (GPL)<br/>
+- **Source Dock** 0.2.4 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3937/download?file=78703)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3952/download?file=78907)
 
 - **Scene Notes Dock** 0.0.3 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
