@@ -25,7 +25,7 @@ should be installed.
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.0.11.7 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.0.11.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
