@@ -236,6 +236,11 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-vnc)
   [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
+- **Teleport** 0.1.0 (GPL)<br/>
+  Send Frames within LAN (like NDI)<br/>
+  [Homepage](https://github.com/fzwoch/obs-teleport)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.1.0/obs-teleport.zip)
+
 ### Useful Effect Plugins
 
 - **Gradient Source** 0.3.0 (GPL)<br/>
