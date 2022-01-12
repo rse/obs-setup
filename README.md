@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.52 (2022-01-12)
+Version 1.1.53 (2022-01-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -382,6 +382,11 @@ should be installed.
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
+
+- **Comprehensive Stopwatch & Countdown Timer** 3.2 (GPL)<br/>
+  Flexible Timer<br/>
+  [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
+  [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
 - **Libre Macros** 2.1.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
