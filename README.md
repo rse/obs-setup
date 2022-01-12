@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.51 (2022-01-09)
+Version 1.1.52 (2022-01-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -88,10 +88,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
 
-- **Scene Collection Manager** 0.0.2 (GPL)<br/>
+- **Scene Collection Manager** 0.0.3 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3919/download?file=78482)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3958/download?file=78966)
 
 ### Useful Source/Scene/Filter Plugins
 
@@ -336,15 +336,15 @@ should be installed.
 
 ### Useful Browser Sources
 
-- **RSE Crop Control** 0.9.7 (GPL)<br/>
+- **RSE Crop Control** 1.0.0 (GPL)<br/>
   Remote Crop-Filter Control<br/>
   [Homepage](https://github.com/rse/obs-crop-control)
-  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/0.9.7.tar.gz)
+  [Download](https://github.com/rse/obs-crop-control/archive/refs/tags/1.0.0.tar.gz)
 
-- **RSE Birddog Camera Preset** 0.9.2 (GPL)<br/>
+- **RSE Birddog Camera Preset** 1.0.0 (GPL)<br/>
   Recall Birddog Camera Preset<br/>
   [Homepage](https://github.com/rse/obs-birddog-camera-preset/)
-  [Download](https://github.com/rse/obs-birddog-camera-preset/archive/refs/tags/0.9.2.tar.gz)
+  [Download](https://github.com/rse/obs-birddog-camera-preset/archive/refs/tags/1.0.0.tar.gz)
 
 - **RSE Analog Clock** 0.9.2 (GPL)<br/>
   Nice Analog Clock<br/>
