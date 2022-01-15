@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.53 (2022-01-12)
+Version 1.1.54 (2022-01-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -236,10 +236,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-vnc)
   [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
-- **Teleport** 0.1.0 (GPL)<br/>
+- **Teleport** 0.1.1 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.1.0/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.1.1/obs-teleport.zip)
 
 ### Useful Effect Plugins
 
@@ -492,10 +492,10 @@ should be installed.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 3.1 (FREEWARE)<br/>
+- **CamooZ** 5 (FREEWARE)<br/>
   Camera Settings Management<br/>
-  [Homepage](https://obsproject.com/forum/resources/camooz-tool-to-manage-and-save-and-restore-camera-settings.1271/)
-  [Download](https://obsproject.com/forum/resources/camooz-tool-to-manage-and-save-and-restore-camera-settings.1271/download)
+  [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
+  [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
 
 - **CamRename** 0.1b (FREEWARE)<br/>
   Camera Device Renaming<br/>
