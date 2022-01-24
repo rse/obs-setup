@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.58 (2022-01-23)
+Version 1.1.59 (2022-01-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -95,10 +95,10 @@ should be installed.
 
 ### Useful Source/Scene/Filter Plugins
 
-- **Source Dock** 0.3.1 (GPL)<br/>
+- **Source Dock** 0.3.2 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3966/download?file=79135)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3987/download?file=79451)
 
 - **Scene Notes Dock** 0.0.3 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
@@ -477,15 +477,15 @@ should be installed.
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v21.12.24/shotcut-win64-211224.exe)
 
-- **Kdenlive** 21.12.0 (GPL)<br/>
+- **Kdenlive** 21.12.1 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.12/windows/kdenlive-21.12.0.exe)
+  [Download](https://download.kde.org/stable/kdenlive/21.12/windows/kdenlive-21.12.1.exe)
 
-- **Handbrake** 1.4.2 (GPL)<br/>
+- **Handbrake** 1.5.1 (GPL)<br/>
   Video Converter<br/>
   [Homepage](https://handbrake.fr/)
-  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.4.2-x86_64-Win_GUI.exe)
+  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.5.1-x86_64-Win_GUI.exe)
 
 - **VLC** 3.0.16 (GPL)<br/>
   Video Player<br/>
