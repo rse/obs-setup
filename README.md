@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.59 (2022-01-24)
+Version 1.1.60 (2022-01-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -88,10 +88,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
 
-- **Scene Collection Manager** 0.0.3 (GPL)<br/>
+- **Scene Collection Manager** 0.0.4 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3958/download?file=78966)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3992/download?file=79506)
 
 ### Useful Source/Scene/Filter Plugins
 
@@ -236,10 +236,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-vnc)
   [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
-- **Teleport** 0.2.0 (GPL)<br/>
+- **Teleport** 0.2.1 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.0/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.1/obs-teleport.zip)
 
 ### Useful Effect Plugins
 
