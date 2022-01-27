@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.60 (2022-01-27)
+Version 1.1.61 (2022-01-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -201,10 +201,10 @@ should be installed.
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.1.0/Waveform_1.1.0_setup_x64.exe)
 
-- **Scale To Sound** 1.1.0 (GPL)<br/>
+- **Scale To Sound** 1.1.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3886/download?file=77951)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3994/download?file=79547)
 
 - **Spectralizer** 1.3.4 (GPL)<br/>
   Audio Spectrum Visualization<br/>
