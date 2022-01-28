@@ -297,15 +297,20 @@ should be installed.
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 3.0.4 (FREEWARE)<br/>
+- **Touch Portal** 3.0.5 (FREEWARE)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
 
-- **Stream Deck** 5.1.4 (COMMERCIAL)<br/>
+- **LioranBoard** 2.0-BETA (OPEN SOURCE)<br/>
+  Remote Control Deck for OBS Studio<br/>
+  [Homepage](https://lioranboard.ca/docs2/)
+  [Download](https://github.com/LioranWaters/Lioranboard2Update/raw/main/download/x64.zip)
+
+- **Stream Deck** 5.2.0 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.1.4.14753.msi)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.2.0.14948.msi)
 
 - **MIDIControl** 1.9.1.0 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
@@ -492,7 +497,7 @@ should be installed.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 5 (FREEWARE)<br/>
+- **CamooZ** 6.0 (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
