@@ -462,10 +462,10 @@ should be installed.
 
 ### Useful Companion Video Tools
 
-- **Vingester** 2.7.0 (GPL)<br/>
+- **Vingester** 2.7.1 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.7.0/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.7.1/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
