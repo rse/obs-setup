@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.61 (2022-01-27)
+Version 1.1.62 (2022-01-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -48,10 +48,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.7/obs-multisource-effect-0.1.7-Windows-Installer.exe)
 
-- **Advanced Scene Switcher** 1.17.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.17.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.1/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.2/SceneSwitcher.zip)
   
 - **Source Switcher** 0.3.0 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
@@ -68,10 +68,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772)
 
-- **Source Record** 0.2.6 (GPL)<br/>
+- **Source Record** 0.2.7 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3726/download?file=75973)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/3998/download?file=79613)
 
 - **Virtual Cam Filter** 0.0.4 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
