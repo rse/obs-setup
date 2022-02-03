@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.62 (2022-01-31)
+Version 1.1.63 (2022-02-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -171,7 +171,7 @@ should be installed.
   [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.3/obs-gstreamer.zip)
   [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.3/mingw/gstreamer-1.0-mingw-x86_64-1.19.3.msi)
 
-- **Screeenshot Filter** 1.3.1 (GPL)<br/>
+- **Screenshot Filter** 1.3.1 (GPL)<br/>
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
   [Download](https://github.com/synap5e/obs-screenshot-plugin/releases/download/1.3.1/obs-screenshot-filter.dll)
