@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.63 (2022-02-03)
+Version 1.1.64 (2022-02-08)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -58,10 +58,10 @@ should be installed.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Move Transition** 2.5.6 (GPL)<br/>
+- **Move Transition** 2.5.7 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/3985/download?file=79413)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4015/download?file=79814)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -201,10 +201,10 @@ should be installed.
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.1.0/Waveform_1.1.0_setup_x64.exe)
 
-- **Scale To Sound** 1.1.1 (GPL)<br/>
+- **Scale To Sound** 1.2.0 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/3994/download?file=79547)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/4020/download?file=79897)
 
 - **Spectralizer** 1.3.4 (GPL)<br/>
   Audio Spectrum Visualization<br/>
@@ -236,10 +236,10 @@ should be installed.
   [Homepage](https://github.com/norihiro/obs-vnc)
   [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
-- **Teleport** 0.2.1 (GPL)<br/>
+- **Teleport** 0.2.3 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.1/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.3/obs-teleport.zip)
 
 ### Useful Effect Plugins
 
