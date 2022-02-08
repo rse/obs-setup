@@ -477,10 +477,10 @@ should be installed.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.42.0/LosslessCut-win.exe)
 
-- **Shotcut** 21.12.24 (GPL)<br/>
+- **Shotcut** 22.01.30 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v21.12.24/shotcut-win64-211224.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v22.01.30/shotcut-win64-220130.exe)
 
 - **Kdenlive** 21.12.1 (GPL)<br/>
   Video Cutter<br/>
