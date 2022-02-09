@@ -322,10 +322,10 @@ should be installed.
   [Homepage](https://github.com/cpyarger/obs-midi)
   [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
 
-- **OSC for OBS** 2.7 (FREEWARE)<br/>
+- **OSC for OBS** 2.7.1 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
-  [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/v2.7/OSC.for.OBS.v2.7.-PC.zip)
+  [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/v2.7.1/OSC.for.OBS.v2.7.1.-PC.zip)
 
 ### Useful Audio VST Plugins
 
@@ -343,6 +343,36 @@ should be installed.
   Voice Audio "all-in-one" VST Plugin<br/>
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
+
+- **TDR Nova** 2.1.5 (FREEWARE)<br/>
+  Audio VST Plugin (Parallel Dynamic Equalizer)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-nova/)
+  [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
+
+- **TDR Kotelnikov** 1.6.4 (FREEWARE)<br/>
+  Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-kotelnikov/)
+  [Download](https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov%20(installer).zip?x24775)
+
+- **Blue Cat Freeware Plug-Ins Pack II** 2022-01 (FREEWARE)<br/>
+  Audio VST Plugin-Suite (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Bundle_FreewarePack/BlueCatFreewarePackVST3-x64Setup.exe)
+
+- **Voxengo Marvel GEQ** 1.11 (FREEWARE)<br/>
+  Audio VST Plugin (Graphical Equalizer)<br/>
+  [Homepage](https://www.voxengo.com/product/marvelgeq/)
+  [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
+
+- **Voxengo SPAN** 3.13 (FREEWARE)<br/>
+  Audio VST Plugin (Spectrum Analyzer)<br/>
+  [Homepage](https://www.voxengo.com/product/span/)
+  [Download](https://www.voxengo.com/files/VoxengoSPAN_313_Win32_64_VST_VST3_AAX_setup.exe)
+
+- **One Small Clue: Grace** 1.0.4.9 (FREEWARE)<br/>
+  Audio VST Plugin (Sampler/Player)<br/>
+  [Homepage](https://www.onesmallclue.com/index.html)
+  [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
 
 ### Useful Browser Sources
 
