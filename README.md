@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.64 (2022-02-08)
+Version 1.1.65 (2022-02-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -191,10 +191,10 @@ should be installed.
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.2/ChapterMarker-win64.zip)
 
-- **Color Monitor** 0.2.6 (GPL)<br/>
+- **Color Monitor** 0.3.0 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.2.6/obs-color-monitor-0.2.6-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.0/obs-color-monitor-0.3.0-Windows-Installer.exe)
 
 - **Waveform** 1.1.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
@@ -287,17 +287,17 @@ should be installed.
   [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
   [Download](https://unpkg.com/obs-websocket-js@4.0.3/dist/obs-websocket.min.js)
 
-- **OBS Command** 1.5.6 (FREEWARE)<br/>
+- **OBS Command** 1.5.7 (FREEWARE)<br/>
   Command-Line Interface (CLI) for OBS WebSockets API<br/>
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
-  [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.6.0/OBSCommand_v1.5.6.zip)
+  [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.7.0/OBSCommand_v1.5.7.zip)
 
 - **NOOBS CMDR** 1.0.3 (FREEWARE)<br/>
   Macros for Scripting the OBS WebSockets API<br/>
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 3.0.5 (FREEWARE)<br/>
+- **Touch Portal** 3.0.6 (FREEWARE)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
