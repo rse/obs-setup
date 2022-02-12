@@ -74,10 +74,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/3998/download?file=79613)
 
-- **Virtual Cam Filter** 0.0.4 (GPL)<br/>
+- **Virtual Cam Filter** 0.0.5 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
-  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/3318/download?file=70648)
+  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4031/download?file=80124)
 
 - **Decklink Output Filter** 1.0.1 (GPL)<br/>
   Output Scenes/Sources to Blackmagic Decklink Cards<br/>
@@ -217,10 +217,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/scaledteam/obs-image-reaction)
   [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
 
-- **Windows Capture Audio** 2.1.0 (GPL)<br/>
+- **Windows Capture Audio** 2.2.0 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
   [Homepage](https://github.com/bozbez/win-capture-audio)
-  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.1.0-beta/win-capture-audio-2.1.0-beta-setup.exe)
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.0-beta/win-capture-audio-2.2.0-beta-setup.exe)
 
 - **Multi RTMP** 0.2.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
