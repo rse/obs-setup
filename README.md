@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.65 (2022-02-09)
+Version 1.1.66 (2022-02-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -287,6 +287,11 @@ should be installed.
   [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
   [Download](https://unpkg.com/obs-websocket-js@4.0.3/dist/obs-websocket.min.js)
 
+- **OBS WebSocket HTTP** 1 (GPL)<br/>
+  Remote Control via HTTP (for OBS WebSocket)<br/>
+  [Homepage](https://github.com/IRLToolkit/obs-websocket-http/)
+  [Download](https://github.com/IRLToolkit/obs-websocket-http/releases/download/v1/obs-websocket-http-v1-Windows.exe)
+
 - **OBS Command** 1.5.7 (FREEWARE)<br/>
   Command-Line Interface (CLI) for OBS WebSockets API<br/>
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
@@ -373,6 +378,28 @@ should be installed.
   Audio VST Plugin (Sampler/Player)<br/>
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
+
+### Useful Themes
+
+- **Ocean Blue** 0.1 (GPL)<br/>
+  OBS Theme (Grey/Blue)<br/>
+  [Homepage](https://obsproject.com/forum/resources/ocean-blue.1327/)
+  [Download](https://github.com/Xaymar/obs-oceanblue/releases/download/0.1/OceanBlue-0.1.zip)
+
+- **Flat Dark** 1.6.3 (GPL)<br/>
+  OBS Theme (Grey)<br/>
+  [Homepage](https://obsproject.com/forum/resources/flat-dark-theme.616/)
+  [Download](https://obsproject.com/forum/resources/flat-dark-theme.616/download)
+
+- **Cooliguay** 1.3 (GPL)<br/>
+  OBS Theme (Grey/Purple)<br/>
+  [Homepage](https://obsproject.com/forum/resources/cooliguay-theme.1405/)
+  [Download](https://obsproject.com/forum/resources/cooliguay-theme.1405/download)
+
+- **Streamlabs** 8.0.2 (GPL)<br/>
+  OBS Theme (Grey/Cyan/Purple)<br/>
+  [Homepage](https://obsproject.com/forum/resources/streamlabs-theme.887/)
+  [Download](https://obsproject.com/forum/resources/streamlabs-theme.887/download)
 
 ### Useful Browser Sources
 
