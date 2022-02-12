@@ -7,9 +7,10 @@ Version 1.1.66 (2022-02-12)
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
 [Open Broadcaster Software (OBS) Studio](https://obsproject.com/) setup
-under Windows 10 (x64). For this, beside the base application, multipleck
+under Windows 10/11 (x64). For this, beside the base application, multiple
 [OBS Studio Plugins](https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/)
-should be installed.
+and companions scripts and tools should be installed. The intention of this
+collection is to easily locate all the essential resources.
 
 ### Base Application
 
