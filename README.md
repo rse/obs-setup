@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.66 (2022-02-12)
+Version 1.1.67 (2022-02-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -84,10 +84,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/cg2121/obs-decklink-output-filter)
   [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.0.1/obs-decklink-output-filter-1.0.1-win64-installer.exe)
 
-- **Audio Monitor** 0.7.1 (GPL)<br/>
+- **Audio Monitor** 0.8.0 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/3101/download?file=66946)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/4033/download?file=80151)
 
 - **Scene Collection Manager** 0.0.4 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
