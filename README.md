@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.67 (2022-02-13)
+Version 1.1.68 (2022-02-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -14,10 +14,10 @@ collection is to easily locate all the essential resources.
 
 ### Base Application
 
-- **OBS Studio** 27.1.3 (GPL)<br/>
+- **OBS Studio** 27.2.0 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.1.3-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -101,10 +101,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-source-dock)
   [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3987/download?file=79451)
 
-- **Scene Notes Dock** 0.0.3 (GPL)<br/>
+- **Scene Notes Dock** 0.0.4 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
-  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/3938/download?file=78707)
+  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/4036/download?file=80200)
 
 - **Source Copy** 0.1.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -217,10 +217,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/scaledteam/obs-image-reaction)
   [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
 
-- **Windows Capture Audio** 2.2.0 (GPL)<br/>
+- **Windows Capture Audio** 2.2.1 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
   [Homepage](https://github.com/bozbez/win-capture-audio)
-  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.0-beta/win-capture-audio-2.2.0-beta-setup.exe)
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.1-beta/win-capture-audio-2.2.1-beta-setup.exe)
 
 - **Multi RTMP** 0.2.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
