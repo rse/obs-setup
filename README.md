@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.68 (2022-02-15)
+Version 1.1.69 (2022-02-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -59,10 +59,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
 
-- **Move Transition** 2.5.7 (GPL)<br/>
+- **Move Transition** 2.5.8 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4015/download?file=79814)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4040/download?file=80289)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
