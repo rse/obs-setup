@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.69 (2022-02-16)
+Version 1.1.70 (2022-02-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -54,10 +54,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.2/SceneSwitcher.zip)
   
-- **Source Switcher** 0.3.0 (GPL)<br/>
+- **Source Switcher** 0.4.0 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
   [Homepage](https://github.com/exeldro/obs-source-switcher)
-  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/3349/download?file=70930)
+  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4046/download?file=80408)
 
 - **Move Transition** 2.5.8 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -241,6 +241,11 @@ collection is to easily locate all the essential resources.
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.3/obs-teleport.zip)
+
+- **Soundboard** 1.0.0 (GPL)<br/>
+  Play Sound Files<br/>
+  [Homepage](https://github.com/cg2121/obs-soundboard)
+  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.0/obs-soundboard-1.0.0-win64-installer.exe)
 
 ### Useful Effect Plugins
 
