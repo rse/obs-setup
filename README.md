@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.70 (2022-02-18)
+Version 1.1.71 (2022-02-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -116,10 +116,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/3635/download?file=74746)
 
-- **Transition Table** 0.2.1 (GPL)<br/>
+- **Transition Table** 0.2.3 (GPL)<br/>
   Override Scene Transitions<br/>
   [Homepage](https://github.com/exeldro/obs-transition-table)
-  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/3513/download?file=73267)
+  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/4048/download?file=80588)
 
 - **Directory Watch Media** 0.5.3 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -217,10 +217,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/scaledteam/obs-image-reaction)
   [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
 
-- **Windows Capture Audio** 2.2.1 (GPL)<br/>
+- **Windows Capture Audio** 2.2.2 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
   [Homepage](https://github.com/bozbez/win-capture-audio)
-  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.1-beta/win-capture-audio-2.2.1-beta-setup.exe)
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.2-beta/win-capture-audio-2.2.2-beta-setup.exe)
 
 - **Multi RTMP** 0.2.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
