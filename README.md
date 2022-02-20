@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.71 (2022-02-20)
+Version 1.1.72 (2022-02-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -237,10 +237,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-vnc)
   [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
-- **Teleport** 0.2.3 (GPL)<br/>
+- **Teleport** 0.2.4 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.3/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.4/obs-teleport.zip)
 
 - **Soundboard** 1.0.0 (GPL)<br/>
   Play Sound Files<br/>
