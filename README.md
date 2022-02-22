@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.72 (2022-02-20)
+Version 1.1.73 (2022-02-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -14,10 +14,10 @@ collection is to easily locate all the essential resources.
 
 ### Base Application
 
-- **OBS Studio** 27.2.0 (GPL)<br/>
+- **OBS Studio** 27.2.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.1-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -242,10 +242,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.4/obs-teleport.zip)
 
-- **Soundboard** 1.0.0 (GPL)<br/>
+- **Soundboard** 1.0.2 (GPL)<br/>
   Play Sound Files<br/>
   [Homepage](https://github.com/cg2121/obs-soundboard)
-  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.0/obs-soundboard-1.0.0-win64-installer.exe)
+  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.2/obs-soundboard-1.0.2-win64-installer.exe)
 
 ### Useful Effect Plugins
 
