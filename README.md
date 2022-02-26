@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.75 (2022-02-26)
+Version 1.1.76 (2022-02-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -34,10 +34,10 @@ collection is to easily locate all the essential resources.
 
 ### Essential Source/Scene/Filter Plugins
 
-- **StreamFX** 0.11.0 (GPL)<br/>
+- **StreamFX** 0.11.1 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.11.0/streamfx-windows-2019-0.11.0.0-g31d56703.exe)
+  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.11.1/streamfx-windows-2019-0.11.1.0-g81a96998.exe)
 
 - **Shaderfilter** 1.21 (GPL)<br/>
   Shader Filter<br/>
@@ -106,10 +106,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/4036/download?file=80200)
 
-- **Source Copy** 0.1.3 (GPL)<br/>
+- **Source Copy** 0.1.4 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/3410/download?file=71875)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/4071/download?file=81020)
 
 - **Downstream Keyer** 0.2.1 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
@@ -197,10 +197,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.0/obs-color-monitor-0.3.0-Windows-Installer.exe)
 
-- **Waveform** 1.1.0 (GPL)<br/>
+- **Waveform** 1.1.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.1.0/Waveform_1.1.0_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.1.1/Waveform_1.1.1_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
