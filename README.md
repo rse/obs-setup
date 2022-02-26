@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.74 (2022-02-23)
+Version 1.1.75 (2022-02-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -136,10 +136,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
 
-- **RTSP Server** 2.1.2 (GPL)<br/>
+- **RTSP Server** 2.2.0 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
-  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.1.2/obs-rtspserver-v2.1.2-windows-installer.exe)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.0/obs-rtspserver-v2.2.0-windows-installer.exe)
 
 - **Background Removal - Portrait Segmentation** 0.4.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -202,10 +202,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.1.0/Waveform_1.1.0_setup_x64.exe)
 
-- **Scale To Sound** 1.2.0 (GPL)<br/>
+- **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/4020/download?file=79897)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/4065/download?file=80872)
 
 - **Spectralizer** 1.3.4 (GPL)<br/>
   Audio Spectrum Visualization<br/>
@@ -242,10 +242,15 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.4/obs-teleport.zip)
 
-- **Soundboard** 1.0.2 (GPL)<br/>
+- **Soundboard** 1.0.3 (GPL)<br/>
   Play Sound Files<br/>
   [Homepage](https://github.com/cg2121/obs-soundboard)
-  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.2/obs-soundboard-1.0.2-win64-installer.exe)
+  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.3/obs-soundboard-1.0.3-win64-installer.exe)
+
+- **Active Scene Dock** 0.1.2 (GPL)<br/>
+  Show Preview/Program Duration<br/>
+  [Homepage](https://github.com/layeh/obs-active-scene-dock)
+  [Download](https://obsproject.com/forum/resources/active-scene-dock.1464/version/4023/download?file=79928)
 
 ### Useful Effect Plugins
 
@@ -254,10 +259,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-gradient-source)
   [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/3926/download?file=78595)
 
-- **Dynamic Delay** 0.1.2 (GPL)<br/>
+- **Dynamic Delay** 0.1.3 (GPL)<br/>
   Dynamic Delay a Source<br/>
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
-  [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/3129/download?file=67433)
+  [Download](https://obsproject.com/forum/resources/dynamic-delay.1035/version/4069/download?file=80950)
 
 - **Time Warp Scan** 0.1.6 (GPL)<br/>
   Time Warp Scan Source Filter<br/>
@@ -308,7 +313,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 3.0.6 (FREEWARE)<br/>
+- **Touch Portal** 3.0.7 (FREEWARE)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
@@ -451,7 +456,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
 
-- **Comprehensive Stopwatch & Countdown Timer** 3.3 (GPL)<br/>
+- **Comprehensive Stopwatch & Countdown Timer** 3.4 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
@@ -465,6 +470,11 @@ collection is to easily locate all the essential resources.
   Allow Hotkeys to Toggle Source Filters<br/>
   [Homepage](https://github.com/upgradeQ/obs-filter-hotkeys)
   [Download](https://github.com/upgradeQ/obs-filter-hotkeys/archive/refs/tags/1.0.2.tar.gz)
+
+- **Corner Pin** 1.0 (GPL)<br/>
+  Four Corner Pin Transform Effect Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
+  [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
 
 ### Useful Companion Audio Tools
 
@@ -560,7 +570,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 6.0a (FREEWARE)<br/>
+- **CamooZ** 6.0b (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
