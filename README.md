@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.77 (2022-02-28)
+Version 1.1.78 (2022-03-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -14,10 +14,10 @@ collection is to easily locate all the essential resources.
 
 ### Base Application
 
-- **OBS Studio** 27.2.1 (GPL)<br/>
+- **OBS Studio** 27.2.2 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.1-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.2-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -26,7 +26,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.0.11.1 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.1.1.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
@@ -221,6 +221,11 @@ collection is to easily locate all the essential resources.
   Capture Audio of a Specific Application<br/>
   [Homepage](https://github.com/bozbez/win-capture-audio)
   [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.2-beta/win-capture-audio-2.2.2-beta-setup.exe)
+
+- **Mute Filter** 0.1.0 (GPL)<br/>
+  Mute Unwanted Audio<br/>
+  [Homepage](https://github.com/norihiro/obs-mute-filter)
+  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.1.0/obs-mute-filter-0.1.0-Windows.zip)
 
 - **Multi RTMP** 0.2.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
