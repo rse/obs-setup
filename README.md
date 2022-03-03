@@ -14,10 +14,10 @@ collection is to easily locate all the essential resources.
 
 ### Base Application
 
-- **OBS Studio** 27.2.2 (GPL)<br/>
+- **OBS Studio** 27.2.3 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.2-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.3-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -575,7 +575,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 6.0b (FREEWARE)<br/>
+- **CamooZ** 6.2 (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
