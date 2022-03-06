@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.80 (2022-03-06)
+Version 1.1.81 (2022-03-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -355,10 +355,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **MFreeFXBundle** 15.01 (FREEWARE)<br/>
+- **MFreeFXBundle** 15.02 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.01&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_01_setup.exe&checksum=3908a47ff59ee4cc42b626033458abe66e2e74be)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
 - **Speachy** 1.0 (COMMERCIAL)<br/>
   Voice Audio "all-in-one" VST Plugin<br/>
@@ -523,10 +523,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 3-3694 (FREEWARE)<br/>
+- **Cantabile** 3-3702 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3694.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-3702.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
