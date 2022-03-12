@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.81 (2022-03-06)
+Version 1.1.83 (2022-03-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -74,10 +74,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/4081/download?file=81307)
 
-- **Virtual Cam Filter** 0.0.5 (GPL)<br/>
+- **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   Export Source Video To (Virtual) Camera Device<br/>
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
-  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4031/download?file=80124)
+  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4086/download?file=81518)
 
 - **Decklink Output Filter** 1.0.1 (GPL)<br/>
   Output Scenes/Sources to Blackmagic Decklink Cards<br/>
@@ -136,10 +136,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
 
-- **RTSP Server** 2.2.0 (GPL)<br/>
+- **RTSP Server** 2.2.1 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
-  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.0/obs-rtspserver-v2.2.0-windows-installer.exe)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
 
 - **Background Removal - Portrait Segmentation** 0.4.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
