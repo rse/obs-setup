@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.83 (2022-03-11)
+Version 1.1.84 (2022-03-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -480,6 +480,11 @@ collection is to easily locate all the essential resources.
   Four Corner Pin Transform Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
+
+- **OBS Visca Control** 1.6 (GPL)<br/>
+  Control PTZ Cameras with VISCA over IP/UDP<br/>
+  [Homepage](https://github.com/vwout/obs-visca-control)
+  [Download](https://obsproject.com/forum/resources/control-visca-over-ip-based-cameras.1173/download)
 
 ### Useful Companion Audio Tools
 
