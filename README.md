@@ -550,10 +550,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.42.0 (GPL)<br/>
+- **Lossless Cut** 3.44.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.42.0/LosslessCut-win.exe)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.44.0/LosslessCut-win.exe)
 
 - **Shotcut** 22.01.30 (GPL)<br/>
   Video Editor<br/>
