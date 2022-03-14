@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.84 (2022-03-12)
+Version 1.1.85 (2022-03-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -121,10 +121,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-transition-table)
   [Download](https://obsproject.com/forum/resources/transition-table.1174/version/4048/download?file=80588)
 
-- **Directory Watch Media** 0.5.3 (GPL)<br/>
+- **Directory Watch Media** 0.6.0 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
-  [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/3036/download?file=66027)
+  [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/4096/download?file=81702)
 
 - **Text Slideshow** 1.5.2 (GPL)<br/>
   Text Slideshow<br/>
@@ -197,10 +197,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.0/obs-color-monitor-0.3.0-Windows-Installer.exe)
 
-- **Waveform** 1.1.1 (GPL)<br/>
+- **Waveform** 1.2.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.1.1/Waveform_1.1.1_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.0/Waveform_1.2.0_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
@@ -256,6 +256,11 @@ collection is to easily locate all the essential resources.
   Show Preview/Program Duration<br/>
   [Homepage](https://github.com/layeh/obs-active-scene-dock)
   [Download](https://obsproject.com/forum/resources/active-scene-dock.1464/version/4023/download?file=79928)
+
+- **Replay Source** 1.6.10 (GPL)<br/>
+  Instant Replay Sources from Memory<br/>
+  [Homepage](https://github.com/exeldro/obs-replay-source)
+  [Download](https://obsproject.com/forum/resources/replay-source.686/version/4089/download?file=81602)
 
 ### Useful Effect Plugins
 
@@ -580,7 +585,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 6.3 (FREEWARE)<br/>
+- **CamooZ** 6.4a (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
