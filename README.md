@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.85 (2022-03-14)
+Version 1.1.86 (2022-03-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -197,10 +197,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.0/obs-color-monitor-0.3.0-Windows-Installer.exe)
 
-- **Waveform** 1.2.0 (GPL)<br/>
+- **Waveform** 1.2.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.0/Waveform_1.2.0_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.1/Waveform_1.2.1_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
