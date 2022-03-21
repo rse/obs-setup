@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.87 (2022-03-21)
+Version 1.1.88 (2022-03-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -266,6 +266,21 @@ collection is to easily locate all the essential resources.
   Alternative Multiview<br/>
   [Homepage](https://git.vrsal.xyz/alex/Durchblick)
   [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4110/download?file=81972)
+
+- **Asynchronous Source Duplication Plugin** 0.2.0 (GPL)<br/>
+  Asynchronous Source Duplication<br/>
+  [Homepage](https://github.com/norihiro/obs-async-source-duplication)
+  [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.2.0/obs-async-source-duplication-0.2.0-Windows-Installer.exe)
+
+- **Asynchronous Audio Filter** 0.1.0 (GPL)<br/>
+  Asynchronous Audio Filter<br/>
+  [Homepage](https://github.com/norihiro/obs-async-audio-filter)
+  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.1.0/obs-async-audio-filter-0.1.0-Windows.zip)
+
+- **LiveVisionKit Filter** 0.1.0 (GPL)<br/>
+  Video Effect Filters: Video Stabilizer, Adaptive De-Blocker, Lens Correction, Calibration Tool<br/>
+  [Homepage](https://github.com/Crowsinc/LiveVisionKit)
+  [Download](https://github.com/Crowsinc/LiveVisionKit/releases/download/v1.0.1/LiveVisionKit-1.0.1-Windows.zip)
 
 ### Useful Effect Plugins
 
