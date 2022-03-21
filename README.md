@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.86 (2022-03-17)
+Version 1.1.87 (2022-03-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -261,6 +261,11 @@ collection is to easily locate all the essential resources.
   Instant Replay Sources from Memory<br/>
   [Homepage](https://github.com/exeldro/obs-replay-source)
   [Download](https://obsproject.com/forum/resources/replay-source.686/version/4089/download?file=81602)
+
+- **Durchblick** 0.1.1 (GPL)<br/>
+  Alternative Multiview<br/>
+  [Homepage](https://git.vrsal.xyz/alex/Durchblick)
+  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4110/download?file=81972)
 
 ### Useful Effect Plugins
 
@@ -585,7 +590,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 6.4a (FREEWARE)<br/>
+- **CamooZ** 6.7a (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
