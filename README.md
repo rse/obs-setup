@@ -328,8 +328,8 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 3.0.7 (FREEWARE)<br/>
-  Remote Control Deck for Android/iOS<br/>
+- **Touch Portal** 3.0.9 (FREEWARE)<br/>
+  Remote Control Deck<br/>
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
 
@@ -528,7 +528,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.11.5 (FREEWARE)<br/>
+- **OcenAudio** 3.11.7 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
