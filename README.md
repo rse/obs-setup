@@ -506,8 +506,8 @@ collection is to easily locate all the essential resources.
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
 
-- **OBS Visca over IP Control** 1.6 (GPL)<br/>
-  Control PTZ Cameras with VISCA over IP/UDP<br/>
+- **OBS Visca-over-IP Control** 1.6 (GPL)<br/>
+  Control PTZ Cameras with VISCA-over-IP/UDP<br/>
   [Homepage](https://github.com/vwout/obs-visca-control)
   [Download](https://obsproject.com/forum/resources/control-visca-over-ip-based-cameras.1173/download)
 
