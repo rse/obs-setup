@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.88 (2022-03-21)
+Version 1.1.89 (2022-03-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -242,10 +242,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-vnc)
   [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
 
-- **Teleport** 0.2.4 (GPL)<br/>
+- **Teleport** 0.3.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.2.4/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.3.0/obs-teleport.zip)
 
 - **Soundboard** 1.0.3 (GPL)<br/>
   Play Sound Files<br/>
@@ -506,7 +506,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
 
-- **OBS Visca Control** 1.6 (GPL)<br/>
+- **OBS Visca over IP Control** 1.6 (GPL)<br/>
   Control PTZ Cameras with VISCA over IP/UDP<br/>
   [Homepage](https://github.com/vwout/obs-visca-control)
   [Download](https://obsproject.com/forum/resources/control-visca-over-ip-based-cameras.1173/download)
