@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.89 (2022-03-23)
+Version 1.1.90 (2022-03-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -357,6 +357,11 @@ collection is to easily locate all the essential resources.
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
   [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.2.0.14948.msi)
+
+- **Companion** 2.2.0 (OPEN SOURCE)<br/>
+  Remote Control Deck for Elgato Streamdeck<br/>
+  [Homepage](https://bitfocus.io/companion)
+  [Download](https://bitfocus.io/companion)
 
 - **MIDIControl** 1.9.1.0 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
