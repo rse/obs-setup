@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.90 (2022-03-24)
+Version 1.1.91 (2022-03-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -192,10 +192,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.2/ChapterMarker-win64.zip)
 
-- **Color Monitor** 0.3.0 (GPL)<br/>
+- **Color Monitor** 0.3.1 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.0/obs-color-monitor-0.3.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.1/obs-color-monitor-0.3.1-Windows-Installer.exe)
 
 - **Waveform** 1.2.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
