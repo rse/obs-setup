@@ -595,10 +595,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v22.01.30/shotcut-win64-220130.exe)
 
-- **Kdenlive** 21.12.2 (GPL)<br/>
+- **Kdenlive** 21.12.3 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.12/windows/kdenlive-21.12.2.exe)
+  [Download](https://download.kde.org/stable/kdenlive/21.12/windows/kdenlive-21.12.3.exe)
 
 - **Handbrake** 1.5.1 (GPL)<br/>
   Video Converter<br/>
