@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.1.92 (2022-03-29)
+Version 1.2.0 (2022-03-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -32,7 +32,7 @@ collection is to easily locate all the essential resources.
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
 
-### Essential Source/Scene/Filter Plugins
+### Plugins: Visual Effects
 
 - **StreamFX** 0.11.1 (GPL)<br/>
   Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
@@ -49,98 +49,6 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.1.7/obs-multisource-effect-0.1.7-Windows-Installer.exe)
 
-- **Advanced Scene Switcher** 1.17.4 (GPL)<br/>
-  Powerful Scene Switching<br/>
-  [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.4/SceneSwitcher.zip)
-  
-- **Source Switcher** 0.4.0 (GPL)<br/>
-  Source Switching between Multiple Sources<br/>
-  [Homepage](https://github.com/exeldro/obs-source-switcher)
-  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4046/download?file=80408)
-
-- **Move Transition** 2.5.8 (GPL)<br/>
-  Move Sources to New Position During Scene Transition<br/>
-  [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4040/download?file=80289)
-
-- **Media Controls** 0.3.4 (GPL)<br/>
-  Control Dock for Media Playing<br/>
-  [Homepage](https://github.com/exeldro/obs-media-controls)
-  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772)
-
-- **Source Record** 0.3.0 (GPL)<br/>
-  Individual Source Recording<br/>
-  [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/4081/download?file=81307)
-
-- **Virtual Cam Filter** 0.0.6 (GPL)<br/>
-  Export Source Video To (Virtual) Camera Device<br/>
-  [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
-  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4086/download?file=81518)
-
-- **Decklink Output Filter** 1.0.1 (GPL)<br/>
-  Output Scenes/Sources to Blackmagic Decklink Cards<br/>
-  [Homepage](https://github.com/cg2121/obs-decklink-output-filter)
-  [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.0.1/obs-decklink-output-filter-1.0.1-win64-installer.exe)
-
-- **Audio Monitor** 0.8.0 (GPL)<br/>
-  Export Source Audio To (Virtual) Speaker Device<br/>
-  [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/4033/download?file=80151)
-
-- **Scene Collection Manager** 0.0.4 (GPL)<br/>
-  Filter/Backup/Restore Scene Collections<br/>
-  [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3992/download?file=79506)
-
-### Useful Source/Scene/Filter Plugins
-
-- **Source Dock** 0.3.2 (GPL)<br/>
-  Scene/Source as Dock<br/>
-  [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3987/download?file=79451)
-
-- **Scene Notes Dock** 0.0.4 (GPL)<br/>
-  Scene/Source Notes as Dock<br/>
-  [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
-  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/4036/download?file=80200)
-
-- **Source Copy** 0.1.4 (GPL)<br/>
-  Scene/Source/Filter Copy & Paste<br/>
-  [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/4071/download?file=81020)
-
-- **Downstream Keyer** 0.2.2 (GPL)<br/>
-  Scene-Independent Overlay Sources<br/>
-  [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/4079/download?file=81225)
-
-- **Transition Table** 0.2.3 (GPL)<br/>
-  Override Scene Transitions<br/>
-  [Homepage](https://github.com/exeldro/obs-transition-table)
-  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/4048/download?file=80588)
-
-- **Directory Watch Media** 0.6.0 (GPL)<br/>
-  Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
-  [Homepage](https://github.com/exeldro/obs-dir-watch-media)
-  [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/4096/download?file=81702)
-
-- **Text Slideshow** 1.5.2 (GPL)<br/>
-  Text Slideshow<br/>
-  [Homepage](https://github.com/jbwong05/obs-text-slideshow)
-  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.2/obs-text-slideshow-1.5.2-Windows-Installer.exe)
-
-- **Audio Pan Filter** 0.1.2 (GPL)<br/>
-  Stereo Panning<br/>
-  [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
-  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
-
-- **RTSP Server** 2.2.1 (GPL)<br/>
-  Encode and publish RTSP/RTP Stream<br/>
-  [Homepage](https://github.com/iamscottxu/obs-rtspserver)
-  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
-
 - **Background Removal - Portrait Segmentation** 0.4.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
@@ -155,134 +63,6 @@ collection is to easily locate all the essential resources.
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
   [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.4/obs-face-tracker-0.5.4-Windows-Installer.exe)
-
-- **Closed Captioning** 0.19 (GPL)<br/>
-  Closed Captioning via Google Speech API<br/>
-  [Homepage](https://github.com/ratwithacompiler/OBS-captions-plugin)
-  [Download](https://github.com/ratwithacompiler/OBS-captions-plugin/releases/download/v0.19b/Closed_Captions_Plugin__v0.19b_Windows.zip)
-
-- **ASIO** 3.1.0 (GPL)<br/>
-  ASIO Audio Support<br/>
-  [Homepage](https://github.com/Andersama/obs-asio)
-  [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe)
-
-- **GStreamer** 0.3.3/1.19.3 (GPL)<br/>
-  GStreamer Integration<br/>
-  [Homepage](https://github.com/fzwoch/obs-gstreamer)
-  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.3/obs-gstreamer.zip)
-  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.3/mingw/gstreamer-1.0-mingw-x86_64-1.19.3.msi)
-
-- **Screenshot Filter** 1.3.1 (GPL)<br/>
-  Source Screenshot Filter<br/>
-  [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
-  [Download](https://github.com/synap5e/obs-screenshot-plugin/releases/download/1.3.1/obs-screenshot-filter.dll)
-
-- **Ghostscript** 1.3 (GPL)<br/>
-  PDF Rendering with Ghostscript<br/>
-  [Homepage](https://github.com/nleseul/obs-ghostscript)
-  [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
-
-- **Info Writer** 2.2 (GPL)<br/>
-  Write Timestamps and Information Text to Logfiles<br/>
-  [Homepage](https://github.com/partouf/OBSInfoWriter/)
-  [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.2-alpha/OBSInfoWriter-v2.2-alpha-Windows.zip)
-
-- **Chapter Marker** 1.0.2 (GPL)<br/>
-  Write Timestamps to Video Recorded Files<br/>
-  [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
-  [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.2/ChapterMarker-win64.zip)
-
-- **Color Monitor** 0.3.2 (GPL)<br/>
-  Visualize Colors for Debugging Purposes<br/>
-  [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
-
-- **Waveform** 1.2.1 (GPL)<br/>
-  Audio Waveform Visualization<br/>
-  [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.1/Waveform_1.2.1_setup_x64.exe)
-
-- **Scale To Sound** 1.2.1 (GPL)<br/>
-  Scale a Source to a Sound<br/>
-  [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/4065/download?file=80872)
-
-- **Spectralizer** 1.3.4 (GPL)<br/>
-  Audio Spectrum Visualization<br/>
-  [Homepage](https://github.com/univrsal/spectralizer)
-  [Download](https://github.com/univrsal/spectralizer/releases/download/v1.3.4/spectralizer.v1.3.4.installer.windows.exe)
-
-- **Image Reaction** 1.2 (GPL)<br/>
-  Switch Images to a Sound<br/>
-  [Homepage](https://github.com/scaledteam/obs-image-reaction)
-  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
-
-- **Windows Capture Audio** 2.2.2 (GPL)<br/>
-  Capture Audio of a Specific Application<br/>
-  [Homepage](https://github.com/bozbez/win-capture-audio)
-  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.2-beta/win-capture-audio-2.2.2-beta-setup.exe)
-
-- **Mute Filter** 0.1.0 (GPL)<br/>
-  Mute Unwanted Audio<br/>
-  [Homepage](https://github.com/norihiro/obs-mute-filter)
-  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.1.0/obs-mute-filter-0.1.0-Windows.zip)
-
-- **Multi RTMP** 0.2.8 (GPL)<br/>
-  Multiple RTMP Outputs<br/>
-  [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
-  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.8/obs-multi-rtmp-setup.exe)
-
-- **Spout Plugin** 1.3 (GPL)<br/>
-  Import/Export of Textures to and from SPOUT2 compatible programs<br/>
-  [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
-  [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.3/OBS_Spout2_Plugin_Install_v1.3.exe)
-
-- **VNC Plugin** 0.4.0 (GPL)<br/>
-  Display Remote Desktop via VNC<br/>
-  [Homepage](https://github.com/norihiro/obs-vnc)
-  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
-
-- **Teleport** 0.3.0 (GPL)<br/>
-  Send Frames within LAN (like NDI)<br/>
-  [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.3.0/obs-teleport.zip)
-
-- **Soundboard** 1.0.3 (GPL)<br/>
-  Play Sound Files<br/>
-  [Homepage](https://github.com/cg2121/obs-soundboard)
-  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.3/obs-soundboard-1.0.3-win64-installer.exe)
-
-- **Active Scene Dock** 0.1.2 (GPL)<br/>
-  Show Preview/Program Duration<br/>
-  [Homepage](https://github.com/layeh/obs-active-scene-dock)
-  [Download](https://obsproject.com/forum/resources/active-scene-dock.1464/version/4023/download?file=79928)
-
-- **Replay Source** 1.6.10 (GPL)<br/>
-  Instant Replay Sources from Memory<br/>
-  [Homepage](https://github.com/exeldro/obs-replay-source)
-  [Download](https://obsproject.com/forum/resources/replay-source.686/version/4089/download?file=81602)
-
-- **Durchblick** 0.1.1 (GPL)<br/>
-  Alternative Multiview<br/>
-  [Homepage](https://git.vrsal.xyz/alex/Durchblick)
-  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4110/download?file=81972)
-
-- **Asynchronous Source Duplication Plugin** 0.2.0 (GPL)<br/>
-  Asynchronous Source Duplication<br/>
-  [Homepage](https://github.com/norihiro/obs-async-source-duplication)
-  [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.2.0/obs-async-source-duplication-0.2.0-Windows-Installer.exe)
-
-- **Asynchronous Audio Filter** 0.1.0 (GPL)<br/>
-  Asynchronous Audio Filter<br/>
-  [Homepage](https://github.com/norihiro/obs-async-audio-filter)
-  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.1.0/obs-async-audio-filter-0.1.0-Windows.zip)
-
-- **LiveVisionKit Filter** 0.1.0 (GPL)<br/>
-  Video Effect Filters: Video Stabilizer, Adaptive De-Blocker, Lens Correction, Calibration Tool<br/>
-  [Homepage](https://github.com/Crowsinc/LiveVisionKit)
-  [Download](https://github.com/Crowsinc/LiveVisionKit/releases/download/v1.0.1/LiveVisionKit-1.0.1-Windows.zip)
-
-### Useful Effect Plugins
 
 - **Gradient Source** 0.3.0 (GPL)<br/>
   Source for Rendered Gradient<br/>
@@ -309,7 +89,241 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-freeze-filter)
   [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/3026/download?file=65906)
 
-### Useful Remote Control Plugins
+- **LiveVisionKit Filter** 0.1.0 (GPL)<br/>
+  Video Effect Filters: Video Stabilizer, Adaptive De-Blocker, Lens Correction, Calibration Tool<br/>
+  [Homepage](https://github.com/Crowsinc/LiveVisionKit)
+  [Download](https://github.com/Crowsinc/LiveVisionKit/releases/download/v1.0.1/LiveVisionKit-1.0.1-Windows.zip)
+
+- **Text Slideshow** 1.5.2 (GPL)<br/>
+  Text Slideshow<br/>
+  [Homepage](https://github.com/jbwong05/obs-text-slideshow)
+  [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v1.5.2/obs-text-slideshow-1.5.2-Windows-Installer.exe)
+
+### Plugins: Scene/Source Management
+
+- **Scene Collection Manager** 0.0.4 (GPL)<br/>
+  Filter/Backup/Restore Scene Collections<br/>
+  [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3992/download?file=79506)
+
+- **Source Copy** 0.1.4 (GPL)<br/>
+  Scene/Source/Filter Copy & Paste<br/>
+  [Homepage](https://github.com/exeldro/obs-source-copy)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/4071/download?file=81020)
+
+- **Replay Source** 1.6.10 (GPL)<br/>
+  Instant Replay Sources from Memory<br/>
+  [Homepage](https://github.com/exeldro/obs-replay-source)
+  [Download](https://obsproject.com/forum/resources/replay-source.686/version/4089/download?file=81602)
+
+- **Asynchronous Source Duplication Plugin** 0.2.0 (GPL)<br/>
+  Asynchronous Source Duplication<br/>
+  [Homepage](https://github.com/norihiro/obs-async-source-duplication)
+  [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.2.0/obs-async-source-duplication-0.2.0-Windows-Installer.exe)
+
+- **Directory Watch Media** 0.6.0 (GPL)<br/>
+  Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
+  [Homepage](https://github.com/exeldro/obs-dir-watch-media)
+  [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/4096/download?file=81702)
+
+### Plugins: Scene/Source Control
+
+- **Advanced Scene Switcher** 1.17.4 (GPL)<br/>
+  Powerful Scene Switching<br/>
+  [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.4/SceneSwitcher.zip)
+  
+- **Transition Table** 0.2.3 (GPL)<br/>
+  Override Scene Transitions<br/>
+  [Homepage](https://github.com/exeldro/obs-transition-table)
+  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/4048/download?file=80588)
+
+- **Source Switcher** 0.4.0 (GPL)<br/>
+  Source Switching between Multiple Sources<br/>
+  [Homepage](https://github.com/exeldro/obs-source-switcher)
+  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4046/download?file=80408)
+
+- **Move Transition** 2.5.8 (GPL)<br/>
+  Move Sources to New Position During Scene Transition<br/>
+  [Homepage](https://github.com/exeldro/obs-move-transition)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4040/download?file=80289)
+
+- **Media Controls** 0.3.4 (GPL)<br/>
+  Control Dock for Media Playing<br/>
+  [Homepage](https://github.com/exeldro/obs-media-controls)
+  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/3333/download?file=70772)
+
+### Plugins: Streaming/Recording
+
+- **Source Record** 0.3.0 (GPL)<br/>
+  Individual Source Recording<br/>
+  [Homepage](https://github.com/exeldro/obs-source-record)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/4081/download?file=81307)
+
+- **Virtual Cam Filter** 0.0.6 (GPL)<br/>
+  Export Source Video To (Virtual) Camera Device<br/>
+  [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
+  [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4086/download?file=81518)
+
+- **Decklink Output Filter** 1.0.1 (GPL)<br/>
+  Output Scenes/Sources to Blackmagic Decklink Cards<br/>
+  [Homepage](https://github.com/cg2121/obs-decklink-output-filter)
+  [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.0.1/obs-decklink-output-filter-1.0.1-win64-installer.exe)
+
+- **Audio Monitor** 0.8.0 (GPL)<br/>
+  Export Source Audio To (Virtual) Speaker Device<br/>
+  [Homepage](https://github.com/exeldro/obs-audio-monitor)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/4033/download?file=80151)
+
+- **Multi RTMP** 0.2.8 (GPL)<br/>
+  Multiple RTMP Outputs<br/>
+  [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
+  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.8/obs-multi-rtmp-setup.exe)
+
+- **GStreamer** 0.3.3/1.19.3 (GPL)<br/>
+  GStreamer Integration<br/>
+  [Homepage](https://github.com/fzwoch/obs-gstreamer)
+  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.3/obs-gstreamer.zip)
+  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.3/mingw/gstreamer-1.0-mingw-x86_64-1.19.3.msi)
+
+- **RTSP Server** 2.2.1 (GPL)<br/>
+  Encode and publish RTSP/RTP Stream<br/>
+  [Homepage](https://github.com/iamscottxu/obs-rtspserver)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
+
+- **Teleport** 0.3.0 (GPL)<br/>
+  Send Frames within LAN (like NDI)<br/>
+  [Homepage](https://github.com/fzwoch/obs-teleport)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.3.0/obs-teleport.zip)
+
+### Plugins: User Interface
+
+- **Source Dock** 0.3.2 (GPL)<br/>
+  Scene/Source as Dock<br/>
+  [Homepage](https://github.com/exeldro/obs-source-dock)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/3987/download?file=79451)
+
+- **Scene Notes Dock** 0.0.4 (GPL)<br/>
+  Scene/Source Notes as Dock<br/>
+  [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
+  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/4036/download?file=80200)
+
+- **Downstream Keyer** 0.2.2 (GPL)<br/>
+  Scene-Independent Overlay Sources<br/>
+  [Homepage](https://github.com/exeldro/obs-downstream-keyer)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/4079/download?file=81225)
+
+- **Active Scene Dock** 0.1.2 (GPL)<br/>
+  Show Preview/Program Duration<br/>
+  [Homepage](https://github.com/layeh/obs-active-scene-dock)
+  [Download](https://obsproject.com/forum/resources/active-scene-dock.1464/version/4023/download?file=79928)
+
+- **Durchblick** 0.1.1 (GPL)<br/>
+  Alternative Multiview<br/>
+  [Homepage](https://git.vrsal.xyz/alex/Durchblick)
+  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4110/download?file=81972)
+
+### Plugins: Audio Input
+
+- **ASIO** 3.1.0 (GPL)<br/>
+  ASIO Audio Support<br/>
+  [Homepage](https://github.com/Andersama/obs-asio)
+  [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe)
+
+- **Windows Capture Audio** 2.2.2 (GPL)<br/>
+  Capture Audio of a Specific Application<br/>
+  [Homepage](https://github.com/bozbez/win-capture-audio)
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.2-beta/win-capture-audio-2.2.2-beta-setup.exe)
+
+### Plugins: Audio Monitoring
+
+- **Color Monitor** 0.3.2 (GPL)<br/>
+  Visualize Colors for Debugging Purposes<br/>
+  [Homepage](https://github.com/norihiro/obs-color-monitor)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
+
+- **Waveform** 1.2.1 (GPL)<br/>
+  Audio Waveform Visualization<br/>
+  [Homepage](https://github.com/phandasm/waveform)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.1/Waveform_1.2.1_setup_x64.exe)
+
+- **Scale To Sound** 1.2.1 (GPL)<br/>
+  Scale a Source to a Sound<br/>
+  [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
+  [Download](https://obsproject.com/forum/resources/scale-to-sound.1336/version/4065/download?file=80872)
+
+- **Image Reaction** 1.2 (GPL)<br/>
+  Switch Images to a Sound<br/>
+  [Homepage](https://github.com/scaledteam/obs-image-reaction)
+  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
+
+- **Spectralizer** 1.3.4 (GPL)<br/>
+  Audio Spectrum Visualization<br/>
+  [Homepage](https://github.com/univrsal/spectralizer)
+  [Download](https://github.com/univrsal/spectralizer/releases/download/v1.3.4/spectralizer.v1.3.4.installer.windows.exe)
+
+### Plugins: Audio Output
+
+- **Asynchronous Audio Filter** 0.1.0 (GPL)<br/>
+  Asynchronous Audio Filter<br/>
+  [Homepage](https://github.com/norihiro/obs-async-audio-filter)
+  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.1.0/obs-async-audio-filter-0.1.0-Windows.zip)
+
+- **Mute Filter** 0.1.0 (GPL)<br/>
+  Mute Unwanted Audio<br/>
+  [Homepage](https://github.com/norihiro/obs-mute-filter)
+  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.1.0/obs-mute-filter-0.1.0-Windows.zip)
+
+- **Audio Pan Filter** 0.1.2 (GPL)<br/>
+  Stereo Panning<br/>
+  [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
+  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
+
+### Plugins: Meta-Information
+
+- **Info Writer** 2.2 (GPL)<br/>
+  Write Timestamps and Information Text to Logfiles<br/>
+  [Homepage](https://github.com/partouf/OBSInfoWriter/)
+  [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.2-alpha/OBSInfoWriter-v2.2-alpha-Windows.zip)
+
+- **Chapter Marker** 1.0.2 (GPL)<br/>
+  Write Timestamps to Video Recorded Files<br/>
+  [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
+  [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.2/ChapterMarker-win64.zip)
+
+### Plugins: Media Import
+
+- **Screenshot Filter** 1.3.1 (GPL)<br/>
+  Source Screenshot Filter<br/>
+  [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
+  [Download](https://github.com/synap5e/obs-screenshot-plugin/releases/download/1.3.1/obs-screenshot-filter.dll)
+
+- **Ghostscript** 1.3 (GPL)<br/>
+  PDF Rendering with Ghostscript<br/>
+  [Homepage](https://github.com/nleseul/obs-ghostscript)
+  [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
+
+- **VNC Plugin** 0.4.0 (GPL)<br/>
+  Display Remote Desktop via VNC<br/>
+  [Homepage](https://github.com/norihiro/obs-vnc)
+  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
+
+- **Spout Plugin** 1.3 (GPL)<br/>
+  Import/Export of Textures to and from SPOUT2 compatible programs<br/>
+  [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
+  [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.3/OBS_Spout2_Plugin_Install_v1.3.exe)
+
+- **Soundboard** 1.0.3 (GPL)<br/>
+  Play Sound Files<br/>
+  [Homepage](https://github.com/cg2121/obs-soundboard)
+  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.0.3/obs-soundboard-1.0.3-win64-installer.exe)
+
+- **Closed Captioning** 0.19 (GPL)<br/>
+  Closed Captioning via Google Speech API<br/>
+  [Homepage](https://github.com/ratwithacompiler/OBS-captions-plugin)
+  [Download](https://github.com/ratwithacompiler/OBS-captions-plugin/releases/download/v0.19b/Closed_Captions_Plugin__v0.19b_Windows.zip)
+
+### Plugins: Remote Control
 
 - **PTZControl** 0.10.4 (GPL)<br/>
   PTZ Camera Control<br/>
@@ -321,7 +335,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-command-source)
   [Download](https://github.com/norihiro/obs-command-source/releases/download/0.2.1/obs-command-source-0.2.1-Windows-Installer.exe)
 
-### Useful Remote Control Clients
+### Remote Control Clients
 
 - **OBS WebSocket JS** 4.0.3 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
@@ -378,7 +392,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/v2.7.1/OSC.for.OBS.v2.7.1.-PC.zip)
 
-### Useful Audio VST Plugins
+### Audio VST Plugins
 
 - **Reaper ReaPlugs** 2.36 (FREEWARE)<br/>
   Audio VST Plugin-Suite<br/>
@@ -425,7 +439,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
 
-### Useful Themes
+### Themes
 
 - **Ocean Blue** 0.1 (GPL)<br/>
   OBS Theme (Grey/Blue)<br/>
@@ -447,7 +461,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://obsproject.com/forum/resources/streamlabs-theme.887/)
   [Download](https://obsproject.com/forum/resources/streamlabs-theme.887/download)
 
-### Useful Browser Sources
+### Browser Sources
 
 - **RSE Crop Control** 1.0.0 (GPL)<br/>
   Remote Crop-Filter Control<br/>
@@ -474,7 +488,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/)
   [Download](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/download)
 
-### Useful Lua Scripts
+### Lua Scripts
 
 - **RSE OBS Scripts** 2021-12 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources, Source One of Many<br/>
@@ -516,7 +530,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/vwout/obs-visca-control)
   [Download](https://obsproject.com/forum/resources/control-visca-over-ip-based-cameras.1173/download)
 
-### Useful Companion Audio Tools
+### Companion Audio Tools
 
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
   Audio/Video Synchronization Tool (Video-Based)<br/>
@@ -573,7 +587,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
 
-### Useful Companion Video Tools
+### Companion Video Tools
 
 - **Vingester** 2.7.1 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
