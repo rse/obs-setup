@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.0 (2022-03-30)
+Version 1.2.1 (2022-03-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -14,10 +14,10 @@ collection is to easily locate all the essential resources.
 
 ### Base Application
 
-- **OBS Studio** 27.2.3 (GPL)<br/>
+- **OBS Studio** 27.2.4 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.3-Full-Installer-x64.exe)
+  [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
