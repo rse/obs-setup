@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.1 (2022-03-31)
+Version 1.2.2 (2022-04-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -242,10 +242,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
 
-- **Waveform** 1.2.1 (GPL)<br/>
+- **Waveform** 1.2.2 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.1/Waveform_1.2.1_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.2/Waveform_1.2.2_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
@@ -562,7 +562,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.11.7 (FREEWARE)<br/>
+- **OcenAudio** 3.11.10 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -572,10 +572,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 3-3702 (FREEWARE)<br/>
+- **Cantabile** 4-4036 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-3702.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4036.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -604,10 +604,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.44.0/LosslessCut-win.exe)
 
-- **Shotcut** 22.01.30 (GPL)<br/>
+- **Shotcut** 22.03.30 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v22.01.30/shotcut-win64-220130.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v22.03.30/shotcut-win64-220330.exe)
 
 - **Kdenlive** 21.12.3 (GPL)<br/>
   Video Cutter<br/>
@@ -624,7 +624,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
 
-- **CamooZ** 6.7a (FREEWARE)<br/>
+- **CamooZ** 6.8 (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
   [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
