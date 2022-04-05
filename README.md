@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.2 (2022-04-01)
+Version 1.2.3 (2022-04-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -26,7 +26,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.1.1.1 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.1.2.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
@@ -128,10 +128,10 @@ collection is to easily locate all the essential resources.
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.17.4 (GPL)<br/>
+- **Advanced Scene Switcher** 1.17.5 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.4/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.5/SceneSwitcher.zip)
   
 - **Transition Table** 0.2.3 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -191,10 +191,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
 
-- **Teleport** 0.3.0 (GPL)<br/>
+- **Teleport** 0.4.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.3.0/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.0/obs-teleport.zip)
 
 ### Plugins: User Interface
 
@@ -218,10 +218,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/layeh/obs-active-scene-dock)
   [Download](https://obsproject.com/forum/resources/active-scene-dock.1464/version/4023/download?file=79928)
 
-- **Durchblick** 0.1.1 (GPL)<br/>
+- **Durchblick** 0.1.2 (GPL)<br/>
   Alternative Multiview<br/>
   [Homepage](https://git.vrsal.xyz/alex/Durchblick)
-  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4110/download?file=81972)
+  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4146/download?file=82409)
 
 ### Plugins: Audio Input
 
@@ -242,10 +242,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
 
-- **Waveform** 1.2.2 (GPL)<br/>
+- **Waveform** 1.2.3 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.2/Waveform_1.2.2_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.2.3/Waveform_1.2.3_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
@@ -589,10 +589,10 @@ collection is to easily locate all the essential resources.
 
 ### Companion Video Tools
 
-- **Vingester** 2.7.1 (GPL)<br/>
+- **Vingester** 2.8.0 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
   [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.7.1/Vingester-win-x64.zip)
+  [Download](https://github.oscdn.org/rse/vingester/2.8.0/Vingester-win-x64.zip)
 
 - **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
   NDI MultiViewer and Recorder<br/>
