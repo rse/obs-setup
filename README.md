@@ -439,6 +439,28 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
 
+- **LOADES** 1.0 (FREEWARE)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://www.patreon.com/posts/loades-62370686)
+  [Download](https://analogobsession.com/wp-content/uploads/2022/02/LOADES_1.0.exe)
+
+- **FET Bundle** 5.0/2.0/2.0 (FREEWARE)<br/>
+  Audio VST Plugins (Compressor, Saturator, Transient Enhancer)<br/>
+  [Homepage](https://www.patreon.com/posts/51962024)
+  [Download](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.exe)
+  [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetDrive_2.0.exe)
+  [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetSnap_2.0.exe)
+
+- **Sleepy-Time Lisp** 1.0 (FREEWARE)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://plugins4free.com/plugin/1662/)
+  [Download](https://plugins4free.com/get_plug/STDSP_Lisp_x64.zip)
+
+- **Rob Perry Gate** 1.3.0 (FREEWARE)<br/>
+  Audio VST Plugin (Sidechain Noise-Gate)<br/>
+  [Homepage](https://plugins4free.com/plugin/2213/)
+  [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
+
 ### Themes
 
 - **Ocean Blue** 0.1 (GPL)<br/>
