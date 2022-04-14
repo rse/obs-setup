@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.3 (2022-04-05)
+Version 1.2.4 (2022-04-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -218,10 +218,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/layeh/obs-active-scene-dock)
   [Download](https://obsproject.com/forum/resources/active-scene-dock.1464/version/4023/download?file=79928)
 
-- **Durchblick** 0.1.2 (GPL)<br/>
+- **Durchblick** 0.2.0 (GPL)<br/>
   Alternative Multiview<br/>
-  [Homepage](https://git.vrsal.xyz/alex/Durchblick)
-  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4146/download?file=82409)
+  [Homepage](https://obsproject.com/forum/resources/durchblick.1484)
+  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4159/download?file=82700)
 
 ### Plugins: Audio Input
 
