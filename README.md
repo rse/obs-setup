@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.4 (2022-04-14)
+Version 1.2.5 (2022-04-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -191,10 +191,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
 
-- **Teleport** 0.4.0 (GPL)<br/>
+- **Teleport** 0.4.1 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.0/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.1/obs-teleport.zip)
 
 ### Plugins: User Interface
 
