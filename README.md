@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.5 (2022-04-23)
+Version 1.2.6 (2022-04-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -101,10 +101,10 @@ collection is to easily locate all the essential resources.
 
 ### Plugins: Scene/Source Management
 
-- **Scene Collection Manager** 0.0.4 (GPL)<br/>
+- **Scene Collection Manager** 0.0.5 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/3992/download?file=79506)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/4174/download?file=83092)
 
 - **Source Copy** 0.1.4 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -594,10 +594,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 4-4036 (FREEWARE)<br/>
+- **Cantabile** 4-4041 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4036.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4041.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -626,10 +626,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.44.0/LosslessCut-win.exe)
 
-- **Shotcut** 22.03.30 (GPL)<br/>
+- **Shotcut** 22.04.25 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v22.03.30/shotcut-win64-220330.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v22.04.25/shotcut-win64-220425.exe)
 
 - **Kdenlive** 21.12.3 (GPL)<br/>
   Video Cutter<br/>
