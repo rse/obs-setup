@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.8 (2022-05-11)
+Version 1.2.9 (2022-05-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -347,6 +347,11 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/IRLToolkit/obs-websocket-http/)
   [Download](https://github.com/IRLToolkit/obs-websocket-http/releases/download/v1/obs-websocket-http-v1-Windows.exe)
 
+- **OBS Simple HTTP Control** 1.1 (GPL)<br/>
+  Remote Control via HTTP (for OBS WebSocket)<br/>
+  [Homepage](https://obsproject.com/forum/resources/xobssimplehttpcontrol-simple-http-url-control-for-obs.1331/)
+  [Download](https://obsproject.com/forum/resources/xobssimplehttpcontrol-simple-http-url-control-for-obs.1331/download)
+
 - **OBS Command** 1.5.7 (FREEWARE)<br/>
   Command-Line Interface (CLI) for OBS WebSockets API<br/>
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
@@ -429,10 +434,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
   [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **Voxengo SPAN** 3.13 (FREEWARE)<br/>
+- **Voxengo SPAN** 3.14 (FREEWARE)<br/>
   Audio VST Plugin (Spectrum Analyzer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
-  [Download](https://www.voxengo.com/files/VoxengoSPAN_313_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
 
 - **One Small Clue: Grace** 1.0.4.9 (FREEWARE)<br/>
   Audio VST Plugin (Sampler/Player)<br/>
@@ -460,6 +465,11 @@ collection is to easily locate all the essential resources.
   Audio VST Plugin (Sidechain Noise-Gate)<br/>
   [Homepage](https://plugins4free.com/plugin/2213/)
   [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
+
+- **TBProAudio mvMeter2** 2.4.2 (FREEWARE)<br/>
+  Audio VST Plugin (Volume Meter)<br/>
+  [Homepage](https://www.tbproaudio.de/products/mvmeter2)
+  [Download](https://www.tbproaudio.de/assets/content/download/mvMeter2_Installer_WIN_242.zip)
 
 ### Themes
 
