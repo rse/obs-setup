@@ -469,7 +469,12 @@ collection is to easily locate all the essential resources.
 - **TBProAudio mvMeter2** 2.4.2 (FREEWARE)<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://www.tbproaudio.de/products/mvmeter2)
-  [Download](https://www.tbproaudio.de/assets/content/download/mvMeter2_Installer_WIN_242.zip)
+  [Download](https://www.tbproaudio.de/assets/content/download/mvMeter2nogpu_Installer_WIN_242.zip)
+
+- **TBProAudio dpMeter5** 5.2.2 (FREEWARE)<br/>
+  Audio VST Plugin (Volume Meter)<br/>
+  [Homepage](https://www.tbproaudio.de/products/dpmeter)
+  [Download](https://www.tbproaudio.de/assets/content/download/dpMeter5nogpu_Installer_WIN_522.zip)
 
 ### Themes
 
