@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.9 (2022-05-14)
+Version 1.2.10 (2022-05-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -475,6 +475,51 @@ collection is to easily locate all the essential resources.
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://www.tbproaudio.de/products/dpmeter)
   [Download](https://www.tbproaudio.de/assets/content/download/dpMeter5nogpu_Installer_WIN_522.zip)
+
+- **TBProAudio AMM2** 2.0.15 (COMMERCIAL)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.tbproaudio.de/products/amm)
+  [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
+
+- **WTAutomixer** V2 (COMMERCIAL)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.wtautomixer.com/)
+  [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
+
+- **Waves Playlist Rider** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.waves.com/plugins/playlist-rider)
+  [Download](https://www.waves.com/plugins/playlist-rider)
+
+- **Waves Vocal Rider** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.waves.com/plugins/vocal-rider)
+  [Download](https://www.waves.com/plugins/vocal-rider)
+
+- **Junger Audio-Level Magic** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
+  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
+
+- **Waves NS1** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
+  [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
+
+- **Waves WMS** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
+  [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
+
+- **Waves Sibilance** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://www.waves.com/plugins/sibilance)
+  [Download](https://www.waves.com/plugins/sibilance)
+
+- **Waves Scheps Omni Channel** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Channel Strip for Compressor, Equalizer, Gate, etc)<br/>
+  [Homepage](https://www.waves.com/plugins/sibilance)
+  [Download](https://www.waves.com/plugins/sibilance)
 
 ### Themes
 
