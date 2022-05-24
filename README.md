@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.10 (2022-05-15)
+Version 1.2.11 (2022-05-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -125,6 +125,11 @@ collection is to easily locate all the essential resources.
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/4096/download?file=81702)
+
+- **Scene Tree Folder** 0.1.2 (GPL)<br/>
+  Dock for Scene Tree View<br/>
+  [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
+  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.2/obs_scene_tree_view_win_v0_1_2.zip)
 
 ### Plugins: Scene/Source Control
 
