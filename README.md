@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.11 (2022-05-25)
+Version 1.2.12 (2022-06-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -201,6 +201,11 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.1/obs-teleport.zip)
 
+- **Antavore** 0.0.1 (GPL)<br/>
+  Audio Watermark Generator<br/>
+  [Homepage](https://github.com/adam-sporka/antavore-obs)
+  [Download](https://raw.githubusercontent.com/adam-sporka/antavore-obs/main/builds/2022-05-11/antavore.dll)
+
 ### Plugins: User Interface
 
 - **Source Dock** 0.3.2 (GPL)<br/>
@@ -213,10 +218,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/4036/download?file=80200)
 
-- **Downstream Keyer** 0.2.2 (GPL)<br/>
+- **Downstream Keyer** 0.2.3 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/4079/download?file=81225)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/4225/download?file=83848)
 
 - **Active Scene Dock** 0.1.2 (GPL)<br/>
   Show Preview/Program Duration<br/>
@@ -247,10 +252,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
 
-- **Waveform** 1.3.0 (GPL)<br/>
+- **Waveform** 1.4.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.3.0/Waveform_1.3.0_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.4.0/Waveform_1.4.0_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
@@ -659,10 +664,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 4-4041 (FREEWARE)<br/>
+- **Cantabile** 4-4047 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4041.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -686,10 +691,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.44.0 (GPL)<br/>
+- **Lossless Cut** 3.45.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.44.0/LosslessCut-win.exe)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.45.0/LosslessCut-win.exe)
 
 - **Shotcut** 22.04.25 (GPL)<br/>
   Video Editor<br/>
