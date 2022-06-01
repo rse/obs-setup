@@ -392,10 +392,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://bitfocus.io/companion)
   [Download](https://bitfocus.io/companion)
 
-- **MIDIControl** 1.9.1.0 (FREEWARE)<br/>
+- **MIDIControl** 1.9.2.0 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/Etuldan/MidiControl)
-  [Download](https://github.com/Etuldan/MidiControl/releases/download/1.9.1.0/MIDIControl.1.9.1.0.Setup.exe)
+  [Download](https://github.com/Etuldan/MidiControl/releases/download/1.9.2.0/MIDIControl.1.9.2.0.Setup.exe)
 
 - **OBS-MIDI** 0.9.3a3.66 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
@@ -612,15 +612,35 @@ collection is to easily locate all the essential resources.
   [Homepage](https://github.com/upgradeQ/obs-filter-hotkeys)
   [Download](https://github.com/upgradeQ/obs-filter-hotkeys/archive/refs/tags/1.0.2.tar.gz)
 
-- **Corner Pin** 1.0 (GPL)<br/>
+- **Corner Pin** 1.2 (GPL)<br/>
   Four Corner Pin Transform Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
+
+- **Lens Flare** 1.1 (GPL)<br/>
+  Lens Flare Effect Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/lens-flare-2.1495/)
+  [Download](https://obsproject.com/forum/resources/lens-flare-2.1495/download)
+
+- **Pan Zoom Rotate** 1.1 (GPL)<br/>
+  Pan/Zoom/Rotate Effect Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/pan-zoom-rotate.1489/)
+  [Download](https://obsproject.com/forum/resources/pan-zoom-rotate.1489/download)
+
+- **Color Correction** 1.0 (GPL)<br/>
+  Color Correction Effect Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/3-axis-color-correction.1472/)
+  [Download](https://obsproject.com/forum/resources/3-axis-color-correction.1472/download)
 
 - **OBS Visca-over-IP Control** 1.6 (GPL)<br/>
   Control PTZ Cameras with VISCA-over-IP/UDP<br/>
   [Homepage](https://github.com/vwout/obs-visca-control)
   [Download](https://obsproject.com/forum/resources/control-visca-over-ip-based-cameras.1173/download)
+
+- **Audio Status Monitor** 0.7 (GPL)<br/>
+  Audio Status Monitoring Dock<br/>
+  [Homepage](https://obsproject.com/forum/resources/audio-status-monitor.1381/)
+  [Download](https://raw.githubusercontent.com/midnight-studios/obs-lua/main/SourceStatusMonitor.lua)
 
 ### Companion Audio Tools
 
@@ -654,7 +674,7 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.11.10 (FREEWARE)<br/>
+- **OcenAudio** 3.11.12 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -701,10 +721,10 @@ collection is to easily locate all the essential resources.
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v22.04.25/shotcut-win64-220425.exe)
 
-- **Kdenlive** 21.12.3 (GPL)<br/>
+- **Kdenlive** 22.04.1 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/21.12/windows/kdenlive-21.12.3.exe)
+  [Download](https://download.kde.org/stable/kdenlive/22.04/windows/kdenlive-22.04.1.exe)
 
 - **Handbrake** 1.5.1 (GPL)<br/>
   Video Converter<br/>
