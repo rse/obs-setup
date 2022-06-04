@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.12 (2022-06-01)
+Version 1.2.13 (2022-06-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -103,10 +103,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Plugins: Scene/Source Management
 
-- **Scene Collection Manager** 0.0.5 (GPL)<br/>
+- **Scene Collection Manager** 0.0.6 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/4174/download?file=83092)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/4229/download?file=83907)
 
 - **Source Copy** 0.1.4 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -495,12 +495,12 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
 
-- **Lens Flare** 1.1 (GPL)<br/>
+- **Lens Flare** 1.2 (GPL)<br/>
   Lens Flare Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/lens-flare-2.1495/)
   [Download](https://obsproject.com/forum/resources/lens-flare-2.1495/download)
 
-- **Pan Zoom Rotate** 1.1 (GPL)<br/>
+- **Pan Zoom Rotate** 1.2 (GPL)<br/>
   Pan/Zoom/Rotate Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/pan-zoom-rotate.1489/)
   [Download](https://obsproject.com/forum/resources/pan-zoom-rotate.1489/download)
