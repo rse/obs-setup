@@ -511,6 +511,16 @@ collection is to easily locate all the essential resources.
   [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
   [Download](https://www.flux.audio/project/junger-audio-level-magic/)
 
+- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
+  [Download](https://audionamix.com/instant-dialogue-cleaner/)
+
+- **Waves Clarity Vx (Pro)** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://www.waves.com/plugins/clarity-vx-pro)
+  [Download](https://www.waves.com/plugins/clarity-vx-pro)
+
 - **Waves NS1** 2022-05 (COMMERCIAL)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
@@ -530,6 +540,21 @@ collection is to easily locate all the essential resources.
   Audio VST Plugin (Channel Strip for Compressor, Equalizer, Gate, etc)<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
+
+- **Acon Digital DeVerberate** 3.0.4 (COMMERCIAL)<br/>
+  Audio VST Plugin (Room Reverberation Removal)<br/>
+  [Homepage](https://acondigital.de/produkte/deverberate/)
+  [Download](https://acondigital.de/produkte/deverberate/)
+
+- **Accentize DeRoom** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Room Reverberation Removal)<br/>
+  [Homepage](https://www.accentize.com/deroom/)
+  [Download](https://www.accentize.com/deroom/)
+
+- **Accentize DeRoom Pro** 2022-05 (COMMERCIAL)<br/>
+  Audio VST Plugin (Room Reverberation Removal)<br/>
+  [Homepage](https://www.accentize.com/deroom-pro/)
+  [Download](https://www.accentize.com/deroom-pro/)
 
 ### Themes
 
