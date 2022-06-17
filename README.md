@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.13 (2022-06-04)
+Version 1.2.14 (2022-06-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -135,10 +135,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.17.5 (GPL)<br/>
+- **Advanced Scene Switcher** 1.17.7 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.5/SceneSwitcher.zip)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.17.7/SceneSwitcher.zip)
   
 - **Transition Table** 0.2.3 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -198,10 +198,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
 
-- **Teleport** 0.4.1 (GPL)<br/>
+- **Teleport** 0.4.2 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.1/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.2/obs-teleport.zip)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   Audio Watermark Generator<br/>
