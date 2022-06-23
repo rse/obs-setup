@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.14 (2022-06-17)
+Version 1.2.15 (2022-06-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -91,10 +91,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/exeldro/obs-freeze-filter)
   [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/3026/download?file=65906)
 
-- **LiveVisionKit Filter** 0.1.0 (GPL)<br/>
+- **LiveVisionKit Filter** 1.2.0 (GPL)<br/>
   Video Effect Filters: Video Stabilizer, Adaptive De-Blocker, Lens Correction, Calibration Tool<br/>
   [Homepage](https://github.com/Crowsinc/LiveVisionKit)
-  [Download](https://github.com/Crowsinc/LiveVisionKit/releases/download/v1.0.1/LiveVisionKit-1.0.1-Windows.zip)
+  [Download](https://github.com/Crowsinc/LiveVisionKit/releases/download/v1.2.0/LiveVisionKit-1.2.0-Windows.zip)
 
 - **Text Slideshow** 1.5.2 (GPL)<br/>
   Text Slideshow<br/>
@@ -128,10 +128,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/4096/download?file=81702)
 
-- **Scene Tree Folder** 0.1.2 (GPL)<br/>
+- **Scene Tree Folder** 0.1.3 (GPL)<br/>
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
-  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.2/obs_scene_tree_view_win_v0_1_2.zip)
+  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.3/obs_scene_tree_view_win_v0_1_3.zip)
 
 ### Plugins: Scene/Source Control
 
@@ -359,6 +359,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/IRLToolkit/obs-websocket-http/)
   [Download](https://github.com/IRLToolkit/obs-websocket-http/releases/download/v1/obs-websocket-http-v1-Windows.exe)
 
+- **OBS-Wev** 2022-06 (GPL)<br/>
+  Remote Control via OBS WebSocket<br/>
+  [Homepage](http://obs-web.niek.tv/)
+  [Download](http://obs-web.niek.tv/)
+
 - **OBS Simple HTTP Control** 1.1 (GPL)<br/>
   Remote Control via HTTP (for OBS WebSocket)<br/>
   [Homepage](https://obsproject.com/forum/resources/xobssimplehttpcontrol-simple-http-url-control-for-obs.1331/)
@@ -408,6 +413,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Remote Control OBS via OSC<br/>
   [Homepage](https://github.com/jshea2/OSC-for-OBS)
   [Download](https://github.com/jshea2/OSC-for-OBS/releases/download/v2.7.1/OSC.for.OBS.v2.7.1.-PC.zip)
+
+- **CastMate** 0.2.1 (AGPL)<br/>
+  Twitch/OBS Integration<br/>
+  [Homepage](https://github.com/LordTocs/CastMate)
+  [Download](https://github.com/LordTocs/CastMate/releases/download/v0.2.1/CastMate-Setup-0.2.1.exe)
 
 ### Themes
 
