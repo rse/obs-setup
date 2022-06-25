@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.15 (2022-06-24)
+Version 1.2.16 (2022-06-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -485,27 +485,37 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
 
-- **Comprehensive Stopwatch & Countdown Timer** 3.4 (GPL)<br/>
+- **Comprehensive Stopwatch & Countdown Timer** 3.7 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Libre Macros** 2.1.0 (GPL)<br/>
+- **Libre Macros** 3.0.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
-  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/2.1.0.zip)
+  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/3.0.0.zip)
 
 - **Filter Hotkeys** 1.0.2 (MPL)<br/>
   Allow Hotkeys to Toggle Source Filters<br/>
   [Homepage](https://github.com/upgradeQ/obs-filter-hotkeys)
   [Download](https://github.com/upgradeQ/obs-filter-hotkeys/archive/refs/tags/1.0.2.tar.gz)
 
+- **Color Curves** 1.1 (GPL)<br/>
+  Color Correction Effect Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/color-curves.1540/)
+  [Download](https://obsproject.com/forum/resources/color-curves.1540/download)
+
+- **Clone Stamp** 1.1 (GPL)<br/>
+  Color Correction Effect Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/clone-stamp.1535/)
+  [Download](https://obsproject.com/forum/resources/clone-stamp.1535/download)
+
 - **Corner Pin** 1.2 (GPL)<br/>
   Four Corner Pin Transform Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
 
-- **Lens Flare** 1.2 (GPL)<br/>
+- **Lens Flare** 1.3 (GPL)<br/>
   Lens Flare Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/lens-flare-2.1495/)
   [Download](https://obsproject.com/forum/resources/lens-flare-2.1495/download)
@@ -547,10 +557,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
 
-- **Virtual Audio Cable (VAC)** 4.66 (COMMERCIAL)<br/>
+- **Virtual Audio Cable (VAC)** 4.67 (COMMERCIAL)<br/>
   Virtual Audio Cable<br/>
   [Homepage](https://vac.muzychenko.net/en/)
-  [Download](https://software.muzychenko.net/trials/vac466.exe)
+  [Download](https://software.muzychenko.net/trials/vac467.exe)
 
 - **VoiceMeeter Potato** 3.0.2.2 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
@@ -572,10 +582,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 4-4047 (FREEWARE)<br/>
+- **Cantabile** 4-4049 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4049.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -604,10 +614,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.45.0/LosslessCut-win.exe)
 
-- **Shotcut** 22.04.25 (GPL)<br/>
+- **Shotcut** 22.06.23 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v22.04.25/shotcut-win64-220425.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v22.06.23/shotcut-win64-220623.exe)
 
 - **Kdenlive** 22.04.1 (GPL)<br/>
   Video Cutter<br/>
