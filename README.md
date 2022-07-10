@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.18 (2022-07-10)
+Version 1.2.19 (2022-07-10)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -28,7 +28,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.1.2.0 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.1.3.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
@@ -203,10 +203,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v2.2.1/obs-rtspserver-v2.2.1-windows-installer.exe)
 
-- **Teleport** 0.4.2 (GPL)<br/>
+- **Teleport** 0.5.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.4.2/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.5.0/obs-teleport.zip)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   Audio Watermark Generator<br/>
@@ -259,10 +259,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
 
-- **Waveform** 1.4.0 (GPL)<br/>
+- **Waveform** 1.4.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.4.0/Waveform_1.4.0_setup_x64.exe)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.4.1/Waveform_1.4.1_setup_x64.exe)
 
 - **Scale To Sound** 1.2.1 (GPL)<br/>
   Scale a Source to a Sound<br/>
