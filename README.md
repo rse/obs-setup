@@ -364,7 +364,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/IRLToolkit/obs-websocket-http/)
   [Download](https://github.com/IRLToolkit/obs-websocket-http/releases/download/v1/obs-websocket-http-v1-Windows.exe)
 
-- **OBS-Wev** 2022-06 (GPL)<br/>
+- **OBS-Web** 2022-06 (GPL)<br/>
   Remote Control via OBS WebSocket<br/>
   [Homepage](http://obs-web.niek.tv/)
   [Download](http://obs-web.niek.tv/)
@@ -505,32 +505,32 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/upgradeQ/obs-filter-hotkeys)
   [Download](https://github.com/upgradeQ/obs-filter-hotkeys/archive/refs/tags/1.0.2.tar.gz)
 
-- **Color Curves** 1.1 (GPL)<br/>
+- **Color Curves** 1.2 (GPL)<br/>
   Color Correction Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/color-curves.1540/)
   [Download](https://obsproject.com/forum/resources/color-curves.1540/download)
 
-- **Clone Stamp** 1.1 (GPL)<br/>
+- **Clone Stamp** 1.2 (GPL)<br/>
   Color Correction Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/clone-stamp.1535/)
   [Download](https://obsproject.com/forum/resources/clone-stamp.1535/download)
 
-- **Corner Pin** 1.2 (GPL)<br/>
+- **Corner Pin** 1.3 (GPL)<br/>
   Four Corner Pin Transform Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
 
-- **Lens Flare** 1.3 (GPL)<br/>
+- **Lens Flare** 1.4 (GPL)<br/>
   Lens Flare Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/lens-flare-2.1495/)
   [Download](https://obsproject.com/forum/resources/lens-flare-2.1495/download)
 
-- **Pan Zoom Rotate** 1.2 (GPL)<br/>
+- **Pan Zoom Rotate** 1.3 (GPL)<br/>
   Pan/Zoom/Rotate Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/pan-zoom-rotate.1489/)
   [Download](https://obsproject.com/forum/resources/pan-zoom-rotate.1489/download)
 
-- **Color Correction** 1.0 (GPL)<br/>
+- **Color Correction** 1.1 (GPL)<br/>
   Color Correction Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/3-axis-color-correction.1472/)
   [Download](https://obsproject.com/forum/resources/3-axis-color-correction.1472/download)
