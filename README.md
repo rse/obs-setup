@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.17 (2022-07-06)
+Version 1.2.18 (2022-07-10)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -171,6 +171,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Export Source Video To (Virtual) Camera Device<br/>
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
   [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4086/download?file=81518)
+
+- **Main View Source** 0.1.7 (GPL)<br/>
+  Duplicate Main View<br/>
+  [Homepage](https://github.com/norihiro/obs-main-view-source)
+  [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.1.7/obs-main-view-source-0.1.7-Windows-Installer.exe)
 
 - **Decklink Output Filter** 1.0.1 (GPL)<br/>
   Output Scenes/Sources to Blackmagic Decklink Cards<br/>
