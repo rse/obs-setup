@@ -458,10 +458,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/rse/obs-birddog-camera-preset/)
   [Download](https://github.com/rse/obs-birddog-camera-preset/archive/refs/tags/1.0.0.tar.gz)
 
-- **RSE Analog Clock** 0.9.2 (GPL)<br/>
+- **RSE Analog Clock** 1.4.0 (GPL)<br/>
   Nice Analog Clock<br/>
   [Homepage](https://github.com/rse/analogclock)
-  [Download](https://github.com/rse/analogclock/archive/refs/tags/0.9.2.tar.gz)
+  [Download](https://github.com/rse/analogclock/archive/refs/tags/1.4.0.tar.gz)
 
 - **RSE Lower Thirds** 0.9.5 (GPL)<br/>
   Automatically-Controlled Lower Thirds<br/>
@@ -587,7 +587,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 4-4049 (FREEWARE)<br/>
+- **Cantabile** 4-4050 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4049.exe)
@@ -624,17 +624,17 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v22.06.23/shotcut-win64-220623.exe)
 
-- **Kdenlive** 22.04.1 (GPL)<br/>
+- **Kdenlive** 22.04.3 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/22.04/windows/kdenlive-22.04.1.exe)
+  [Download](https://download.kde.org/stable/kdenlive/22.04/windows/kdenlive-22.04.3.exe)
 
 - **Handbrake** 1.5.1 (GPL)<br/>
   Video Converter<br/>
   [Homepage](https://handbrake.fr/)
   [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.5.1-x86_64-Win_GUI.exe)
 
-- **VLC** 3.0.16 (GPL)<br/>
+- **VLC** 3.0.17.3 (GPL)<br/>
   Video Player<br/>
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe)
