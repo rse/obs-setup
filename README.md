@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.19 (2022-07-10)
+Version 1.2.20 (2022-07-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -623,6 +623,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v22.06.23/shotcut-win64-220623.exe)
+
+- **Blackmagicdesign DaVinci Resolve** 17.4.6 (COMMERCIAL)<br/>
+  Video Editor<br/>
+  [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
+  [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
 - **Kdenlive** 22.04.3 (GPL)<br/>
   Video Cutter<br/>
