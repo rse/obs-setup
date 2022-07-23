@@ -394,10 +394,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://lioranboard.ca/docs2/)
   [Download](https://github.com/LioranWaters/Lioranboard2Update/raw/main/download/x64.zip)
 
-- **Stream Deck** 5.2.0 (COMMERCIAL)<br/>
+- **Stream Deck** 5.3.1 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.2.0.14948.msi)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.3.1.15197.msi)
 
 - **Companion** 2.2.0 (OPEN SOURCE)<br/>
   Remote Control Deck for Elgato Streamdeck<br/>
