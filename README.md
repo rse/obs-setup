@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.20 (2022-07-13)
+Version 1.2.21 (2022-07-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -150,10 +150,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4046/download?file=80408)
 
-- **Move Transition** 2.5.8 (GPL)<br/>
+- **Move Transition** 2.6.1 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4040/download?file=80289)
+  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4297/download?file=84805)
 
 - **Media Controls** 0.3.4 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -192,11 +192,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
   [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.8/obs-multi-rtmp-setup.exe)
 
-- **GStreamer** 0.3.3/1.19.3 (GPL)<br/>
+- **GStreamer** 0.3.4/1.20.3 (GPL)<br/>
   GStreamer Integration<br/>
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
   [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.3/obs-gstreamer.zip)
-  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.19.3/mingw/gstreamer-1.0-mingw-x86_64-1.19.3.msi)
+  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.20.3/mingw/gstreamer-1.0-mingw-x86_64-1.20.3.msi)
 
 - **RTSP Server** 2.2.1 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
@@ -515,7 +515,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://obsproject.com/forum/resources/clone-stamp.1535/)
   [Download](https://obsproject.com/forum/resources/clone-stamp.1535/download)
 
-- **Corner Pin** 1.3 (GPL)<br/>
+- **Corner Pin** 1.4 (GPL)<br/>
   Four Corner Pin Transform Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/corner-pin.1474/)
   [Download](https://obsproject.com/forum/resources/corner-pin.1474/download)
