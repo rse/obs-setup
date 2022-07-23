@@ -587,10 +587,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 4-4050 (FREEWARE)<br/>
+- **Cantabile** 4-4051 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4049.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4051.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
