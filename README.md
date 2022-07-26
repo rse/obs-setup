@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.21 (2022-07-23)
+Version 1.2.22 (2022-07-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -192,10 +192,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
   [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.2.8/obs-multi-rtmp-setup.exe)
 
-- **GStreamer** 0.3.4/1.20.3 (GPL)<br/>
+- **GStreamer** 0.3.5/1.20.3 (GPL)<br/>
   GStreamer Integration<br/>
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
-  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.3/obs-gstreamer.zip)
+  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.3.5/obs-gstreamer.zip)
   [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.20.3/mingw/gstreamer-1.0-mingw-x86_64-1.20.3.msi)
 
 - **RTSP Server** 2.2.1 (GPL)<br/>
@@ -587,10 +587,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
-- **Cantabile** 4-4051 (FREEWARE)<br/>
+- **Cantabile** 4-4052 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4051.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4052.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -614,10 +614,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.45.0 (GPL)<br/>
+- **Lossless Cut** 3.46.2 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.45.0/LosslessCut-win.exe)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.46.2/LosslessCut-win.exe)
 
 - **Shotcut** 22.06.23 (GPL)<br/>
   Video Editor<br/>
