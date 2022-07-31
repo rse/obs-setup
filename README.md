@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.22 (2022-07-26)
+Version 1.2.24 (2022-07-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -28,7 +28,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.1.3.0 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.1.4.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
@@ -247,10 +247,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.0b/obs-asio-installer_3.1.0.exe)
 
-- **Windows Capture Audio** 2.2.2 (GPL)<br/>
+- **Windows Capture Audio** 2.2.3 (GPL)<br/>
   Capture Audio of a Specific Application<br/>
   [Homepage](https://github.com/bozbez/win-capture-audio)
-  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.2-beta/win-capture-audio-2.2.2-beta-setup.exe)
+  [Download](https://github.com/bozbez/win-capture-audio/releases/download/v2.2.3-beta/win-capture-audio-2.2.3-beta-setup.exe)
 
 ### Plugins: Audio Monitoring
 
@@ -495,10 +495,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Libre Macros** 3.0.0 (GPL)<br/>
+- **Libre Macros** 3.1.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
-  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/3.0.0.zip)
+  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/3.1.0.zip)
 
 - **Filter Hotkeys** 1.0.2 (MPL)<br/>
   Allow Hotkeys to Toggle Source Filters<br/>
