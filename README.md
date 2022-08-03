@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.24 (2022-07-31)
+Version 1.2.25 (2022-08-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -23,10 +23,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Essential Extensions
 
-- **OBS WebSocket** 4.9.1 (GPL)<br/>
+- **OBS WebSocket** 4.9.1/5.0.1 (GPL)<br/>
   Remote Control via WebSockets (for StreamDeck, etc)<br/>
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
+  [Download](https://github.com/Palakis/obs-websocket/releases/download/5.0.1/obs-websocket-5.0.1-Windows-Installer.exe)
 
 - **OBS NDI** 4.9.0/5.1.4.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
@@ -499,6 +500,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Attach Lua Console Scripts to Sources<br/>
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
   [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/3.1.0.zip)
+
+- **Local Stream Markers** 1.2 (GPL)<br/>
+  Write Stream Markers to CSV File<br/>
+  [Homepage](https://obsproject.com/forum/resources/local-stream-marker.1457/)
+  [Download](https://obsproject.com/forum/resources/local-stream-marker.1457/download)
 
 - **Filter Hotkeys** 1.0.2 (MPL)<br/>
   Allow Hotkeys to Toggle Source Filters<br/>
