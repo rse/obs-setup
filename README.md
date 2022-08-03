@@ -16,10 +16,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Base Application
 
-- **OBS Studio** 27.2.4 (GPL)<br/>
+- **OBS Studio** 27.2.4/28.0b1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
   [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/28.0.0-beta1/OBS-Studio-28.0-beta1-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
