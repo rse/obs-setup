@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.25 (2022-08-03)
+Version 1.2.26 (2022-08-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -256,10 +256,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.3.2 (GPL)<br/>
+- **Color Monitor** 0.4.0 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.3.2/obs-color-monitor-0.3.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.4.0/obs-color-monitor-0.4.0-obs28-Windows-Installer.exe)
 
 - **Waveform** 1.4.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
