@@ -416,7 +416,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://www.elgato.com/en/stream-deck)
   [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_5.3.1.15197.msi)
 
-- **Companion** 2.2.0 (OPEN SOURCE)<br/>
+- **Companion** 2.2.3 (OPEN SOURCE)<br/>
   Remote Control Deck for Elgato Streamdeck<br/>
   [Homepage](https://bitfocus.io/companion)
   [Download](https://bitfocus.io/companion)
@@ -651,15 +651,15 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v22.06.23/shotcut-win64-220623.exe)
 
-- **Blackmagicdesign DaVinci Resolve** 17.4.6 (COMMERCIAL)<br/>
+- **Blackmagicdesign DaVinci Resolve** 18.0.1 (COMMERCIAL)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
   [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
-- **Kdenlive** 22.04.3 (GPL)<br/>
+- **Kdenlive** 22.08.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/22.04/windows/kdenlive-22.04.3.exe)
+  [Download](https://download.kde.org/stable/kdenlive/22.08/windows/kdenlive-22.08.0.exe)
 
 - **Handbrake** 1.5.1 (GPL)<br/>
   Video Converter<br/>
