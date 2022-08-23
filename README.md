@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.2.26 (2022-08-05)
+Version 1.2.27 (2022-08-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -16,11 +16,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Base Application
 
-- **OBS Studio** 27.2.4/28.0b1 (GPL)<br/>
+- **OBS Studio** 27.2.4/28.0rc1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
   [Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-27.2.4-Full-Installer-x64.exe)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/28.0.0-beta1/OBS-Studio-28.0-beta1-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/28.0.0-rc1/OBS-Studio-28.0-rc1-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -30,7 +30,7 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Download](https://github.com/Palakis/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe)
   [Download](https://github.com/Palakis/obs-websocket/releases/download/5.0.1/obs-websocket-5.0.1-Windows-Installer.exe)
 
-- **OBS NDI** 4.9.0/5.1.4.0 (GPL)<br/>
+- **OBS NDI** 4.9.0/5.5.1.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/Palakis/obs-ndi/releases/download/4.9.1/obs-ndi-4.9.0-Windows-Installer.exe)
@@ -63,10 +63,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/kounoike/obs-virtualbg)
   [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.1.0/obs-virtualbg-v1.1.0-win64.zip)
 
-- **Face Tracker** 0.5.4 (GPL)<br/>
+- **Face Tracker** 0.6.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.5.4/obs-face-tracker-0.5.4-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.6.2/obs-face-tracker-0.6.2-Windows-Installer.exe)
 
 - **Gradient Source** 0.3.0 (GPL)<br/>
   Source for Rendered Gradient<br/>
@@ -174,10 +174,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
   [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4086/download?file=81518)
 
-- **Main View Source** 0.1.7 (GPL)<br/>
+- **Main View Source** 0.2.0 (GPL)<br/>
   Duplicate Main View<br/>
   [Homepage](https://github.com/norihiro/obs-main-view-source)
-  [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.1.7/obs-main-view-source-0.1.7-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.2.0/obs-main-view-source-0.2.0-Windows-Installer.exe)
 
 - **Decklink Output Filter** 1.0.1 (GPL)<br/>
   Output Scenes/Sources to Blackmagic Decklink Cards<br/>
@@ -256,10 +256,10 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.4.0 (GPL)<br/>
+- **Color Monitor** 0.4.2 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.4.0/obs-color-monitor-0.4.0-obs28-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.4.2/obs-color-monitor-0.4.2-obs28-Windows-Installer.exe)
 
 - **Waveform** 1.4.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
@@ -288,15 +288,15 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/norihiro/obs-async-audio-filter)
   [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.1.0/obs-async-audio-filter-0.1.0-Windows.zip)
 
-- **Mute Filter** 0.1.0 (GPL)<br/>
+- **Mute Filter** 0.2.0 (GPL)<br/>
   Mute Unwanted Audio<br/>
   [Homepage](https://github.com/norihiro/obs-mute-filter)
-  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.1.0/obs-mute-filter-0.1.0-Windows.zip)
+  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.2.0/obs-mute-filter-0.2.0-Windows.zip)
 
-- **Audio Pan Filter** 0.1.2 (GPL)<br/>
+- **Audio Pan Filter** 0.2.0 (GPL)<br/>
   Stereo Panning<br/>
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
-  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.1.2/obs-audio-pan-filter-0.1.2-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.0/obs-audio-pan-filter-0.2.0-Windows-Installer.exe)
 
 ### Plugins: Meta-Information
 
@@ -342,6 +342,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/ratwithacompiler/OBS-captions-plugin)
   [Download](https://github.com/ratwithacompiler/OBS-captions-plugin/releases/download/v0.19b/Closed_Captions_Plugin__v0.19b_Windows.zip)
 
+- **OBS Lottie** 0.19 (GPL)<br/>
+  Play Lottie Animation Files<br/>
+  [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
+  [Download](https://github.com/GrandMastersOnline/obs-lottie)
+
 ### Plugins: Remote Control
 
 - **PTZControl** 0.10.4 (GPL)<br/>
@@ -353,6 +358,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Dummy Source to Execute Commands when Scene Switched<br/>
   [Homepage](https://github.com/norihiro/obs-command-source)
   [Download](https://github.com/norihiro/obs-command-source/releases/download/0.2.1/obs-command-source-0.2.1-Windows-Installer.exe)
+
+- **Input Overlay** 5.0.0 (GPL)<br/>
+  Show Interactions<br/>
+  [Homepage](https://github.com/univrsal/input-overlay)
+  [Download](https://github.com/univrsal/input-overlay/releases/download/v5.0.0/input-overlay-5.0.0-windows-x64-Installer.exe)
 
 ### Remote Control Clients
 
@@ -381,12 +391,17 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
   [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.5.7.0/OBSCommand_v1.5.7.zip)
 
+- **TouchOSC** 1.1.5.145 (COMMERCIAL)<br/>
+  Remote Control Deck<br/>
+  [Homepage](https://hexler.net/touchosc)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.5.145-win64.exe)
+
 - **NOOBS CMDR** 1.0.3 (FREEWARE)<br/>
   Macros for Scripting the OBS WebSockets API<br/>
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 3.0.9 (FREEWARE)<br/>
+- **Touch Portal** 3.1.4 (FREEWARE)<br/>
   Remote Control Deck<br/>
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
@@ -406,15 +421,20 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://bitfocus.io/companion)
   [Download](https://bitfocus.io/companion)
 
-- **MIDIControl** 1.9.2.0 (FREEWARE)<br/>
+- **MIDIControl** 1.9.2.1 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/Etuldan/MidiControl)
-  [Download](https://github.com/Etuldan/MidiControl/releases/download/1.9.2.0/MIDIControl.1.9.2.0.Setup.exe)
+  [Download](https://github.com/Etuldan/MidiControl/releases/download/1.9.2.1/MIDIControl.1.9.2.1.Setup.exe)
 
 - **OBS-MIDI** 0.9.3a3.66 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/cpyarger/obs-midi)
   [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
+
+- **MIDI MG** 1.2.0 (GPL)<br/>
+  Remote Control OBS via MIDI<br/>
+  [Homepage](https://github.com/nhielost/obs-midi-mg)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/v1.2.0/obs-midi-mg-1.2.0-windows-x64-Installer.exe)
 
 - **OSC for OBS** 2.7.1 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
