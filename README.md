@@ -724,13 +724,13 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe)
 
-- **CamooZ** 6.8 (FREEWARE)<br/>
+- **CamooZ** 7.4.1 (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
-  [Download](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/download)
+  [Download](https://www.camooz.de/downloads/CamooZ.7.4.1.zip)
 
-- **CamRename** 0.1b (FREEWARE)<br/>
+- **CamRename** 0.3 (FREEWARE)<br/>
   Camera Device Renaming<br/>
   [Homepage](https://obsproject.com/forum/resources/camrename.1408/)
-  [Download](https://www.faltinek.de/freestuff/obs/CamRename.zip)
+  [Download](https://www.camooz.de/downloads/CamRename.0.3.zip)
 
