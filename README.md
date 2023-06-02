@@ -227,6 +227,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/cg2121/obs-decklink-output-filter)
   [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.1.0/obs-decklink-output-filter-1.1.0-windows-x64-Installer.exe)
 
+- **AJA Output Filter** 0.2.3 (GPL)<br/>
+  Output Scenes/Sources to AJA Devices<br/>
+  [Homepage](https://github.com/norihiro/obs-aja-output-filter)
+  [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
+
 - **Audio Monitor** 0.8.2 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
