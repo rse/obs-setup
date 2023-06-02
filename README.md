@@ -36,7 +36,17 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
 
 ### Plugins: Visual Effects
 
-- **Asynchronous Source Duplication Plugin** 0.4.1 (GPL)<br/>
+- **Background Removal** 1.0.0 (GPL)<br/>
+  AI-Based Greenscreen Effect<br/>
+  [Homepage](https://github.com/royshil/obs-backgroundremoval)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.0.0/obs-backgroundremoval-1.0.0-windows-x64-Installer.exe)
+
+- **Virtual Background** 1.2.0 (GPL)<br/>
+  AI-Based Greenscreen Effect<br/>
+  [Homepage](https://github.com/kounoike/obs-virtualbg)
+  [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.2.0/obs-virtualbg-v1.2.0-win64.zip)
+
+- **Asynchronous Source Duplication** 0.4.1 (GPL)<br/>
   Asynchronous Source Duplication<br/>
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
@@ -50,16 +60,6 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Combine to Sources with a Shader Effect<br/>
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
-
-- **Background Removal - Portrait Segmentation** 1.0.0 (GPL)<br/>
-  AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.0.0/obs-backgroundremoval-1.0.0-windows-x64-Installer.exe)
-
-- **Virtual Background** 1.2.0 (GPL)<br/>
-  AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/kounoike/obs-virtualbg)
-  [Download](https://github.com/kounoike/obs-virtualbg/releases/download/v1.2.0/obs-virtualbg-v1.2.0-win64.zip)
 
 - **Face Tracker** 0.7.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
@@ -106,6 +106,16 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/exeldro/obs-3d-effect)
   [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/4802/download?file=92513)
 
+- **9-Slice Filter** 1.0.0 (GPL)<br/>
+  9-Slice Scaling Filter<br/>
+  [Homepage](https://github.com/cmdwtf/filter-9slice)
+  [Download](https://obsproject.com/forum/resources/9-slice-filter-plugin.1662/download)
+
+- **Frame Interleave** 0.0.0 (GPL)<br/>
+  Interleaves Video Frames to reduce CPU/GPU usage<br/>
+  [Homepage](https://github.com/norihiro/obs-frame-interleave-filter/)
+  [Download](https://github.com/norihiro/obs-frame-interleave-filter/releases/download/0.1.1/obs-frame-interleave-filter-0.1.1-obs27-Windows.zip)
+
 - **StreamFX** 0.11.1 (GPL)<br/>
   OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
@@ -143,6 +153,16 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
   [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.5/obs_scene_tree_view_win_v0_1_5.zip)
 
+- **xObsAsyncImageSource** 1.0 (GPL)<br/>
+  Load Images Asynchronously<br/>
+  [Homepage](https://github.com/YorVeX/xObsAsyncImageSource)
+  [Download](https://github.com/YorVeX/xObsAsyncImageSource/releases/download/v1.0/xObsAsyncImageSource-win-x64.7z)
+
+- **Source Defaults** 1.1.1 (GPL)<br/>
+  Use Source for Defaults<br/>
+  [Homepage](https://github.com/CodeYan01/source-defaults)
+  [Download](https://github.com/CodeYan01/source-defaults/releases/download/v1.1.1/source-defaults-1.1.1-windows-x64-Installer.exe)
+
 ### Plugins: Scene/Source Control
 
 - **Advanced Scene Switcher** 1.22.1 (GPL)<br/>
@@ -169,6 +189,21 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/4400/download?file=86062)
+
+- **Vertical Canvas** 1.2.4 (GPL)<br/>
+  Vertical Canvas for vertical video layouts<br/>
+  [Homepage](https://github.com/Aitum/obs-vertical-canvas)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.2.4/vertical-canvas-windows-installer.exe)
+
+- **Scene as a Transition** 1.1.0 (GPL)<br/>
+  Use a Scene as a Transition<br/>
+  [Homepage](https://github.com/andilippi/obs-scene-as-transition)
+  [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/4852/download?file=93175)
+
+- **Browser Transition** 0.1.0 (GPL)<br/>
+  Use a Browser Source as a Transition<br/>
+  [Homepage](https://github.com/exeldro/obs-browser-transition)
+  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/4673/download?file=90171)
 
 ### Plugins: Streaming/Recording
 
@@ -197,6 +232,16 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/4602/download?file=89142)
 
+- **Muted Notification** 0.8.2 (GPL)<br/>
+  Play Sound when Parent Source is Muted<br/>
+  [Homepage](https://git.vrsal.xyz/alex/urmuted)
+  [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.0/urmuted-1.0.0-windows-x64-Installer.exe)
+
+- **VBAN Audio** 0.2.3 (GPL)<br/>
+  Audio Source from and Outout VBAN (Audio over UDP) for VoiceMeeter<br/>
+  [Homepage](https://github.com/norihiro/obs-vban/)
+  [Download](https://github.com/norihiro/obs-vban/releases/download/0.2.3/obs-vban-0.2.3-obs27-Windows.zip)
+
 - **Multi RTMP** 0.2.0.2 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
@@ -217,6 +262,11 @@ Notice: for the audio setup with VST plugins, see the [companion Audio-Setup]!
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.6.6/obs-teleport.zip)
+
+- **xObsBeam** 0.7.3 (GPL)<br/>
+  Send Frames within LAN (like NDI)<br/>
+  [Homepage](https://github.com/YorVeX/xObsBeam)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.7.3-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
