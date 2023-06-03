@@ -12,7 +12,8 @@ under Windows 10/11 (x64). For this, beside the base application, multiple
 and companions scripts and tools should be installed. The intention of this
 collection is to easily locate all the essential resources.
 
-Notice: for the audio setup with VST plugins, see the [companion Audio-Setup](https://github.com/rse/audio-setup)!
+Notice: for the audio setup with VST plugins, see the [Audio Products](https://github.com/rse/audio-setup/blob/master/audio-products.md)
+of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
