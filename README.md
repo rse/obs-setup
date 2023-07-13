@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.0 (2023-06-02)
+Version 1.3.1 (2023-07-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 29.1.2 (GPL)<br/>
+- **OBS Studio** 29.1.3 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/29.1.2/OBS-Studio-29.1.2-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/29.1.3/OBS-Studio-29.1.3-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -37,10 +37,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Background Removal** 1.0.0 (GPL)<br/>
+- **Background Removal** 1.1.1 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.0.0/obs-backgroundremoval-1.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.1.1/obs-backgroundremoval-1.1.1-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -52,25 +52,25 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 1.22.0 (GPL)<br/>
+- **Shaderfilter** 2.0.0 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/v1.22/obs-shaderfilter-1.22.0-winodows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.0.0/obs-shaderfilter-2.0.0-windows-installer.exe)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
   Combine to Sources with a Shader Effect<br/>
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
 
-- **Face Tracker** 0.7.0 (GPL)<br/>
+- **Face Tracker** 0.7.1 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.7.0/obs-face-tracker-0.7.0-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.7.1/obs-face-tracker-0.7.1-obs28-Windows.zip)
 
-- **Gradient Source** 0.3.1 (GPL)<br/>
+- **Gradient Source** 0.3.2 (GPL)<br/>
   Source for Rendered Gradient<br/>
   [Homepage](https://github.com/exeldro/obs-gradient-source)
-  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/4605/download?file=89173)
+  [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/4964/download?file=95249)
 
 - **Dynamic Delay** 0.1.4 (GPL)<br/>
   Dynamic Delay a Source<br/>
@@ -176,10 +176,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-transition-table)
   [Download](https://obsproject.com/forum/resources/transition-table.1174/version/4638/download?file=89614)
 
-- **Source Switcher** 0.4.1 (GPL)<br/>
+- **Source Switcher** 0.4.2 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
   [Homepage](https://github.com/exeldro/obs-source-switcher)
-  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4612/download?file=89274)
+  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
 - **Move Transition** 2.9.1 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
@@ -269,10 +269,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.6.6/obs-teleport.zip)
 
-- **xObsBeam** 0.7.3 (GPL)<br/>
+- **xObsBeam** 0.8.1 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.7.3-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.8.1-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -320,15 +320,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.5.2/obs-color-monitor-0.5.2-obs27-Windows.zip)
 
-- **Waveform** 1.6.1 (GPL)<br/>
+- **Waveform** 1.7.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.6.1/Waveform_v1.6.1_x86_64.zip)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.7.0/Waveform_v1.7.0_x86_64.zip)
 
-- **Scale To Sound** 1.2.2 (GPL)<br/>
+- **Scale To Sound** 1.2.3 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.2/obs-scale-to-sound-1.2.2-windows.zip)
+  [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.3/obs-scale-to-sound-1.2.3-windows.zip)
 
 - **Image Reaction** 1.2 (GPL)<br/>
   OBSOLETE: Switch Images to a Sound<br/>
@@ -351,6 +351,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Stereo Panning<br/>
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
+
+- **CleanStream** 0.0.1 (GPL)<br/>
+  Um-Removal<br/>
+  [Homepage](https://github.com/royshil/obs-cleanstream )
+  [Download](https://github.com/royshil/obs-cleanstream/releases/download/v0.0.1b/obs-cleanstream-0.0.1-windows-x64-Installer.exe)
 
 ### Plugins: Meta-Information
 
@@ -643,12 +648,12 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
 
-- **Virtual Audio Cable (VAC)** 4.67 (COMMERCIAL)<br/>
+- **Virtual Audio Cable (VAC)** 4.70 (COMMERCIAL)<br/>
   Virtual Audio Cable<br/>
   [Homepage](https://vac.muzychenko.net/en/)
-  [Download](https://software.muzychenko.net/trials/vac467.exe)
+  [Download](https://software.muzychenko.net/trials/vac470.exe)
 
-- **VoiceMeeter Potato** 3.0.2.2 (COMMERCIAL)<br/>
+- **VoiceMeeter Potato** 3.0.2.8 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
@@ -658,7 +663,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.11.27 (FREEWARE)<br/>
+- **OcenAudio** 3.12.4 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -700,10 +705,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.55.2/LosslessCut-win-x64.7z)
 
-- **Shotcut** 23.05.14 (GPL)<br/>
+- **Shotcut** 23.06.14 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v23.05.14/shotcut-win64-230514.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v23.06.14/shotcut-win64-230614.exe)
 
 - **Blackmagicdesign DaVinci Resolve** 18.0.1 (COMMERCIAL)<br/>
   Video Editor<br/>
