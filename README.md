@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.1 (2023-07-13)
+Version 1.3.2 (2023-08-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -29,7 +29,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.11.1/5.5.3.0 (GPL)<br/>
+- **OBS NDI** 4.11.1/5.6.0.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.11.1/obs-ndi-4.11.1-windows-x64-Installer.exe)
@@ -37,10 +37,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Background Removal** 1.1.1 (GPL)<br/>
+- **Background Removal** 1.1.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.1.1/obs-backgroundremoval-1.1.1-windows-x64-Installer.exe)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.1.4/obs-backgroundremoval-1.1.4-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -102,6 +102,16 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
+- **URL Source** 0.0.5 (GPL)<br/>
+  Text Slideshow<br/>
+  [Homepage](https://github.com/royshil/obs-urlsource)
+  [Download](https://github.com/royshil/obs-urlsource/releases/download/0.0.5/obs-urlsource-0.0.5-windows-x64-Installer.exe)
+
+- **Markdown Source** 0.2.0 (GPL)<br/>
+  Render Markup Text<br/>
+  [Homepage](https://github.com/exeldro/obs-markdown)
+  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5086/download?file=96926)
+
 - **3D Effect** 0.0.2 (GPL)<br/>
   3D Effect Filter<br/>
   [Homepage](https://github.com/exeldro/obs-3d-effect)
@@ -116,6 +126,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Interleaves Video Frames to reduce CPU/GPU usage<br/>
   [Homepage](https://github.com/norihiro/obs-frame-interleave-filter/)
   [Download](https://github.com/norihiro/obs-frame-interleave-filter/releases/download/0.1.1/obs-frame-interleave-filter-0.1.1-obs27-Windows.zip)
+
+- **FreeFX** 0.12.0b299 (GPL)<br/>
+  Powerful Filters (Shaders, etc) and Source Mirror Source (StreamFX Clone)<br/>
+  [Homepage](https://github.com/xoxfaby/obs-StreamFX)
+  [Download](https://github.com/xoxfaby/obs-StreamFX/releases/download/0.12.0b299/streamfx-windows-installer.exe)
 
 - **StreamFX** 0.11.1 (GPL)<br/>
   OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
@@ -166,10 +181,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.22.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.23.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.22.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.23.1/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.6 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -181,10 +196,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move Transition** 2.9.1 (GPL)<br/>
+- **Move Transition** 2.9.4 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move-transition.913/version/4904/download?file=94075)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5069/download?file=96599)
 
 - **Media Controls** 0.3.6 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -201,10 +216,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/andilippi/obs-scene-as-transition)
   [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/4852/download?file=93175)
 
-- **Browser Transition** 0.1.0 (GPL)<br/>
+- **Browser Transition** 0.1.1 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
   [Homepage](https://github.com/exeldro/obs-browser-transition)
-  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/4673/download?file=90171)
+  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/5025/download?file=95957)
 
 ### Plugins: Streaming/Recording
 
@@ -233,15 +248,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.8.2 (GPL)<br/>
+- **Audio Monitor** 0.8.3 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/4602/download?file=89142)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5063/download?file=96493)
 
-- **Muted Notification** 0.8.2 (GPL)<br/>
+- **Muted Notification** 1.0.1 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
   [Homepage](https://git.vrsal.xyz/alex/urmuted)
-  [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.0/urmuted-1.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.1/urmuted-1.0.1-windows-x64-Installer.exe)
 
 - **VBAN Audio** 0.2.3 (GPL)<br/>
   Audio Source from and Outout VBAN (Audio over UDP) for VoiceMeeter<br/>
@@ -269,10 +284,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.6.6/obs-teleport.zip)
 
-- **xObsBeam** 0.8.1 (GPL)<br/>
+- **xObsBeam** 0.8.5 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.8.1-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.8.5-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -315,10 +330,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.5.2 (GPL)<br/>
+- **Color Monitor** 0.6.0 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.5.2/obs-color-monitor-0.5.2-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.6.0/obs-color-monitor-0.6.0-obs28-Windows.zip)
+
+- **Loudness Dock** 0.2.0 (GPL)<br/>
+  Audio EBU R 128 Loudness Meter<br/>
+  [Homepage](https://github.com/norihiro/obs-loudness-dock/)
+  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.0/obs-loudness-dock-0.2.0-obs28-Windows.zip)
 
 - **Waveform** 1.7.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
@@ -352,10 +372,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.0.1 (GPL)<br/>
+- **CleanStream** 0.0.3 (GPL)<br/>
   Um-Removal<br/>
-  [Homepage](https://github.com/royshil/obs-cleanstream )
-  [Download](https://github.com/royshil/obs-cleanstream/releases/download/v0.0.1b/obs-cleanstream-0.0.1-windows-x64-Installer.exe)
+  [Homepage](https://github.com/royshil/obs-cleanstream)
+  [Download](https://github.com/royshil/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
+
+- **LocalVocal** 0.0.1 (GPL)<br/>
+  Local OpenAI Whisper Transcription<br/>
+  [Homepage](https://github.com/royshil/obs-localvocal)
+  [Download](https://github.com/royshil/obs-localvocal/releases/download/0.0.1/obs-localvocal-0.0.1-windows-x64-Installer.exe)
 
 ### Plugins: Meta-Information
 
@@ -368,6 +393,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.3/ChapterMarker-win64.zip)
+
+- **Local Stream Markers** 1.6 (GPL)<br/>
+  Write Stream Markers to CSV File<br/>
+  [Homepage](https://obsproject.com/forum/resources/local-stream-marker.1457/)
+  [Download](https://obsproject.com/forum/resources/local-stream-marker.1457/download)
 
 ### Plugins: Media Import
 
@@ -450,10 +480,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
   [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.6.3/OBSCommand_1.6.3.zip)
 
-- **TouchOSC** 1.2.1.171 (COMMERCIAL)<br/>
+- **TouchOSC** 1.2.3.178 (COMMERCIAL)<br/>
   Remote Control Deck<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.2.1.171-win-x64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.2.3.178-win-x64.exe)
 
 - **NOOBS CMDR** 1.0.3 (FREEWARE)<br/>
   OBSOLETE: Macros for Scripting the OBS WebSockets API<br/>
@@ -470,12 +500,12 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://lioranboard.ca/docs2/)
   [Download](https://github.com/LioranWaters/Lioranboard2Update/raw/main/download/x64.zip)
 
-- **Stream Deck** 6.2.1 (COMMERCIAL)<br/>
+- **Stream Deck** 6.3.0 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.2.1.18825.msi)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.3.0.18948.msi)
 
-- **Companion** 3.0.0-rc1 (OPEN SOURCE)<br/>
+- **Companion** 3.0.1 (OPEN SOURCE)<br/>
   Remote Control Deck for Elgato Streamdeck<br/>
   [Homepage](https://bitfocus.io/companion)
   [Download](https://bitfocus.io/companion)
@@ -539,10 +569,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/rse/obs-birddog-camera-preset/)
   [Download](https://github.com/rse/obs-birddog-camera-preset/archive/refs/tags/1.0.0.tar.gz)
 
-- **RSE Analog Clock** 1.4.0 (GPL)<br/>
+- **RSE Analog Clock** 1.5.5 (GPL)<br/>
   Nice Analog Clock<br/>
   [Homepage](https://github.com/rse/analogclock)
-  [Download](https://github.com/rse/analogclock/archive/refs/tags/1.4.0.tar.gz)
+  [Download](https://github.com/rse/analogclock/archive/refs/tags/1.5.5.tar.gz)
 
 - **RSE Lower Thirds** 0.9.5 (GPL)<br/>
   Automatically-Controlled Lower Thirds<br/>
@@ -556,15 +586,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Lua Scripts
 
-- **RSE OBS Scripts** 2021-12 (GPL)<br/>
+- **RSE OBS Scripts** 2022-03 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources, Source One of Many<br/>
   [Homepage](https://github.com/rse/obs-scripts)
   [Download](https://github.com/rse/obs-scripts/archive/refs/heads/master.zip)
 
-- **Advanced Timer** 5.0.1 (GPL)<br/>
+- **Advanced Timer** 6.0.0 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/cg2121/obs-advanced-timer/)
-  [Download](https://github.com/cg2121/obs-advanced-timer/releases/download/5.0.1/advanced-timer.lua)
+  [Download](https://github.com/cg2121/obs-advanced-timer/releases/download/6.0.0/advanced-timer.lua)
 
 - **Countdown Adaptive Time** 2.1 (GPL)<br/>
   Flexible Timer<br/>
@@ -580,11 +610,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Attach Lua Console Scripts to Sources<br/>
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
   [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/3.3.0.zip)
-
-- **Local Stream Markers** 1.6 (GPL)<br/>
-  Write Stream Markers to CSV File<br/>
-  [Homepage](https://obsproject.com/forum/resources/local-stream-marker.1457/)
-  [Download](https://obsproject.com/forum/resources/local-stream-marker.1457/download)
 
 - **Filter Hotkeys** 1.0.2 (MPL)<br/>
   Allow Hotkeys to Toggle Source Filters<br/>
@@ -663,20 +688,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.12.4 (FREEWARE)<br/>
+- **OcenAudio** 3.12.5 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.3.2 (GPL)<br/>
+- **Audacity** 3.3.3 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.3.2/audacity-win-3.3.2-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x64.exe)
 
-- **Cantabile** 4-4062 (FREEWARE)<br/>
+- **Cantabile** 4-4063 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4062.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4063.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -700,25 +725,25 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.55.2 (GPL)<br/>
+- **Lossless Cut** 3.56.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.55.2/LosslessCut-win-x64.7z)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.56.0/LosslessCut-win-x64.7z)
 
-- **Shotcut** 23.06.14 (GPL)<br/>
+- **Shotcut** 23.07.29 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v23.06.14/shotcut-win64-230614.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v23.07.29/shotcut-win64-230614.exe)
 
-- **Blackmagicdesign DaVinci Resolve** 18.0.1 (COMMERCIAL)<br/>
+- **Blackmagicdesign DaVinci Resolve** 18.5 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
   [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
-- **Kdenlive** 23.04.1 (GPL)<br/>
+- **Kdenlive** 23.08.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/23.04/windows/kdenlive-23.04.1.exe)
+  [Download](https://download.kde.org/stable/kdenlive/23.08/windows/kdenlive-23.08.0.exe)
 
 - **Handbrake** 1.6.1 (GPL)<br/>
   Video Converter<br/>
