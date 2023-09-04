@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.2 (2023-08-31)
+Version 1.3.3 (2023-09-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -36,6 +36,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
 
 ### Plugins: Visual Effects
+
+- **Composite Blur** 1.0.0 (GPL)<br/>
+  Comprehensive Blur Filter<br/>
+  [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
+  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.0.0/obs-composite-blur-1.0.0-windows-installer.zip)
 
 - **Background Removal** 1.1.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
