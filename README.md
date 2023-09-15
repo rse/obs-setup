@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.3 (2023-09-04)
+Version 1.3.4 (2023-09-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -37,10 +37,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Composite Blur** 1.0.0 (GPL)<br/>
+- **Composite Blur** 1.0.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
-  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.0.0/obs-composite-blur-1.0.0-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.0.2/obs-composite-blur-1.0.2-windows-installer.zip)
 
 - **Background Removal** 1.1.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -107,10 +107,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **URL Source** 0.0.5 (GPL)<br/>
-  Text Slideshow<br/>
+- **URL Source** 0.0.6 (GPL)<br/>
+  Fetch Live Data<br/>
   [Homepage](https://github.com/royshil/obs-urlsource)
-  [Download](https://github.com/royshil/obs-urlsource/releases/download/0.0.5/obs-urlsource-0.0.5-windows-x64-Installer.exe)
+  [Download](https://github.com/royshil/obs-urlsource/releases/download/0.0.6/obs-urlsource-0.0.6-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.0 (GPL)<br/>
   Render Markup Text<br/>
@@ -201,10 +201,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move Transition** 2.9.4 (GPL)<br/>
+- **Move Transition** 2.9.5 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5069/download?file=96599)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5129/download?file=97693)
 
 - **Media Controls** 0.3.6 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -221,10 +221,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/andilippi/obs-scene-as-transition)
   [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/4852/download?file=93175)
 
-- **Browser Transition** 0.1.1 (GPL)<br/>
+- **Browser Transition** 0.1.2 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
   [Homepage](https://github.com/exeldro/obs-browser-transition)
-  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/5025/download?file=95957)
+  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/5126/download?file=97629)
 
 ### Plugins: Streaming/Recording
 
@@ -232,6 +232,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/4683/download?file=90349)
+
+- **Virtual Cam** 2.0.11 (GPL)<br/>
+  Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
+  [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
+  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.0.11/obs-virtualcam-2.0.11-windows-x64-Installer.exe)
 
 - **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   OBSOLETE: Export Source Video To (Virtual) Camera Device<br/>
@@ -289,10 +294,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.6.6/obs-teleport.zip)
 
-- **xObsBeam** 0.8.5 (GPL)<br/>
+- **xObsBeam** 0.9.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.8.5-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.0-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -335,10 +340,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.6.0 (GPL)<br/>
+- **Color Monitor** 0.6.1 (GPL)<br/>
   Visualize Colors for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.6.0/obs-color-monitor-0.6.0-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.6.1/obs-color-monitor-0.6.1-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.0 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
@@ -382,10 +387,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/royshil/obs-cleanstream)
   [Download](https://github.com/royshil/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.0.1 (GPL)<br/>
+- **LocalVocal** 0.0.2 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/royshil/obs-localvocal)
-  [Download](https://github.com/royshil/obs-localvocal/releases/download/0.0.1/obs-localvocal-0.0.1-windows-x64-Installer.exe)
+  [Download](https://github.com/royshil/obs-localvocal/releases/download/0.0.2/obs-localvocal-0.0.2-windows-x64-Installer.exe)
 
 ### Plugins: Meta-Information
 
@@ -610,6 +615,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
+
+- **Ashmanix Countdown Timer** 1.3.3 (GPL)<br/>
+  Flexible Timer<br/>
+  [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/1.3.3/obs-plugin-countdown-1.3.3-windows-x64-Installer.exe)
 
 - **Libre Macros** 3.3.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
