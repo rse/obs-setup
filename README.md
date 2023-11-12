@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.5 (2023-10-22)
+Version 1.3.6 (2023-11-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -22,6 +22,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/)
   [Download](https://github.com/obsproject/obs-studio/releases/download/29.1.3/OBS-Studio-29.1.3-Full-Installer-x64.exe)
 
+- **OBS Studio** 30.0.0 (GPL)<br/>
+  Open Broadcaster Software (Video Mixing Application)<br/>
+  [Homepage](https://obsproject.com/)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/30.0.0/OBS-Studio-30.0-Full-Installer-x64.exe)
+
 ### Essential Extensions
 
 - **OBS WebSocket** 4.9.1-compat (GPL)<br/>
@@ -29,10 +34,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.11.1/5.6.0.0 (GPL)<br/>
+- **OBS NDI** 4.12.0/5.6.0.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
-  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.11.1/obs-ndi-4.11.1-windows-x64-Installer.exe)
+  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.12.0/obs-ndi-4.12.0-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
 
 ### Plugins: Visual Effects
@@ -49,8 +54,8 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 - **Background Removal** 1.1.7 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/v1.1.7/obs-backgroundremoval-1.1.7-windows-x64-Installer.exe)
+  [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
+  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.7/obs-backgroundremoval-1.1.7-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -62,10 +67,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.1.1 (GPL)<br/>
+- **Shaderfilter** 2.1.3 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.1.1/obs-shaderfilter-2.1.1-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.1.1/obs-shaderfilter-2.1.3-windows-installer.exe)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
   Combine to Sources with a Shader Effect<br/>
@@ -92,10 +97,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-time-warp-scan)
   [Download](https://obsproject.com/forum/resources/time-warp-scan.1167/version/4604/download?file=89169)
 
-- **Recursion Effect** 0.0.5 (GPL)<br/>
+- **Recursion Effect** 0.0.6 (GPL)<br/>
   Recurson Effect Source Filter<br/>
   [Homepage](https://github.com/exeldro/obs-recursion-effect)
-  [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/4606/download?file=89202)
+  [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/5213/download?file=98828)
 
 - **Freeze Filter** 0.3.3 (GPL)<br/>
   Frame Freeze Source Filter<br/>
@@ -112,10 +117,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **URL/API Source** 0.2.0 (GPL)<br/>
+- **URL/API Source** 0.2.1 (GPL)<br/>
   Fetch Live Data<br/>
-  [Homepage](https://github.com/royshil/obs-urlsource)
-  [Download](https://github.com/royshil/obs-urlsource/releases/download/0.2.0/obs-urlsource-0.2.0-windows-x64-Installer.exe)
+  [Homepage](https://github.com/occ-ai/obs-urlsource)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.1/obs-urlsource-0.2.1-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.1 (GPL)<br/>
   Render Markup Text<br/>
@@ -294,15 +299,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0-beta1/obs-rtspserver-v3.1.0-beta1-windows-installer.exe)
 
-- **Teleport** 0.6.6 (GPL)<br/>
+- **Teleport** 0.7.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.6.6/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.0/obs-teleport.zip)
 
-- **xObsBeam** 0.9.6 (GPL)<br/>
+- **xObsBeam** 0.9.7 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.6-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.7-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -316,10 +321,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-dock)
   [Download](https://obsproject.com/forum/resources/source-dock.1317/version/4888/download?file=93709)
 
-- **Scene Notes Dock** 0.1.1 (GPL)<br/>
+- **Scene Notes Dock** 0.2.0 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
-  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/4397/download?file=86049)
+  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
 
 - **Downstream Keyer** 0.2.7 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
@@ -350,10 +355,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.6.1/obs-color-monitor-0.6.1-obs28-Windows.zip)
 
-- **Loudness Dock** 0.2.0 (GPL)<br/>
+- **Loudness Dock** 0.2.1 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
-  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.0/obs-loudness-dock-0.2.0-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.1/obs-loudness-dock-0.2.1-obs28-Windows.zip)
 
 - **Waveform** 1.7.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
@@ -389,13 +394,23 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 - **CleanStream** 0.0.3 (GPL)<br/>
   Um-Removal<br/>
-  [Homepage](https://github.com/royshil/obs-cleanstream)
-  [Download](https://github.com/royshil/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
+  [Homepage](https://github.com/occ-ai/obs-cleanstream)
+  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.0.5 (GPL)<br/>
+- **LocalVocal** 0.0.6 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
-  [Homepage](https://github.com/royshil/obs-localvocal)
-  [Download](https://github.com/royshil/obs-localvocal/releases/download/0.0.5/obs-localvocal-0.0.5-windows-x64-Installer.exe)
+  [Homepage](https://github.com/occ-ai/obs-localvocal)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.0.6/obs-localvocal-0.0.6-windows-x64-Installer.exe)
+
+- **Polyglot** 0.0.1 (GPL)<br/>
+  Local LLM Text Translation<br/>
+  [Homepage](https://github.com/occ-ai/obs-polyglot)
+  [Download](https://github.com/occ-ai/obs-polyglot/releases/download/0.0.1/obs-polyglot-0.0.1-windows-x64-Installer.exe)
+
+- **BrAIn** 0.0.0 (GPL)<br/>
+  Local LLM Engine<br/>
+  [Homepage](https://github.com/occ-ai/obs-brAIn)
+  [Download](https://github.com/occ-ai/obs-brAIn)
 
 ### Plugins: Meta-Information
 
