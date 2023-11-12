@@ -520,6 +520,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://hexler.net/touchosc)
   [Download](https://hexler.net/pub/touchosc/touchosc-1.2.3.178-win-x64.exe)
 
+- **MATRIC** 2.6.23 (FREEWARE)<br/>
+  Remote Control Deck<br/>
+  [Homepage](https://matricapp.com/)
+  [Download](https://matricapp.com/download/MatricSetup.2.6.23.exe)
+
 - **NOOBS CMDR** 1.0.3 (FREEWARE)<br/>
   OBSOLETE: Macros for Scripting the OBS WebSockets API<br/>
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
@@ -530,10 +535,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
 
-- **LioranBoard** 2.0 (OPEN SOURCE)<br/>
+- **Sammi (formerly LioranBoard)** 2.0 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS Studio<br/>
-  [Homepage](https://lioranboard.ca/docs2/)
-  [Download](https://github.com/LioranWaters/Lioranboard2Update/raw/main/download/x64.zip)
+  [Homepage](https://sammi.solutions/)
+  [Download](https://sammi.solutions/docs/download)
 
 - **Stream Deck** 6.3.0 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
@@ -619,6 +624,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/)
   [Download](https://obsproject.com/forum/resources/animated-lower-thirds-with-dockable-control-panel.1057/download)
 
+- **WebRTC-Telestrator** 1.0.0 (GPL)<br/>
+  Draw over Program<br/>
+  [Homepage](https://github.com/BlankSourceCode/WebRTC-Telestrator)
+  [Download](https://github.com/BlankSourceCode/WebRTC-Telestrator)
+
 ### Lua Scripts
 
 - **RSE OBS Scripts** 2022-03 (GPL)<br/>
@@ -636,7 +646,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
 
-- **Comprehensive Stopwatch & Countdown Timer** 4.10 (GPL)<br/>
+- **Comprehensive Stopwatch & Countdown Timer** 5.5 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
@@ -728,15 +738,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.13.1 (FREEWARE)<br/>
+- **OcenAudio** 3.13.2 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.3.3 (GPL)<br/>
+- **Audacity** 3.4.1 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.4.1/audacity-win-3.4.1-x64.exe)
 
 - **Cantabile** 4-4064 (FREEWARE)<br/>
   VST Host<br/>
