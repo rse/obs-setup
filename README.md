@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.6 (2023-11-12)
+Version 1.3.7 (2023-11-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,11 +17,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 29.1.3 (GPL)<br/>
-  Open Broadcaster Software (Video Mixing Application)<br/>
-  [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/29.1.3/OBS-Studio-29.1.3-Full-Installer-x64.exe)
-
 - **OBS Studio** 30.0.0 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
@@ -34,10 +29,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.12.0/5.6.0.0 (GPL)<br/>
+- **OBS NDI** 4.13.0/5.6.0.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
-  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.12.0/obs-ndi-4.12.0-windows-x64-Installer.exe)
+  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.0/obs-ndi-4.13.0-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
 
 ### Plugins: Visual Effects
@@ -117,10 +112,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **URL/API Source** 0.2.1 (GPL)<br/>
+- **URL/API Source** 0.2.2 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.1/obs-urlsource-0.2.1-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.2/obs-urlsource-0.2.2-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.1 (GPL)<br/>
   Render Markup Text<br/>
@@ -397,10 +392,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.0.6 (GPL)<br/>
+- **LocalVocal** 0.0.7 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.0.6/obs-localvocal-0.0.6-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.0.7/obs-localvocal-0.0.7-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.1 (GPL)<br/>
   Local LLM Text Translation<br/>
