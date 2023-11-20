@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.7 (2023-11-17)
+Version 1.3.8 (2023-11-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -112,10 +112,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **URL/API Source** 0.2.2 (GPL)<br/>
+- **URL/API Source** 0.2.3 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.2/obs-urlsource-0.2.2-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.3/obs-urlsource-0.2.3-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.1 (GPL)<br/>
   Render Markup Text<br/>
@@ -216,10 +216,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/4400/download?file=86062)
 
-- **Vertical Canvas** 1.2.4 (GPL)<br/>
+- **Vertical Canvas** 1.3.0 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.2.4/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.3.0/vertical-canvas-windows-installer.exe)
 
 - **Scene as a Transition** 1.1.0 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -299,10 +299,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.0/obs-teleport.zip)
 
-- **xObsBeam** 0.9.7 (GPL)<br/>
+- **xObsBeam** 0.9.8 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.7-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.8-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -809,4 +809,9 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Camera Device Renaming<br/>
   [Homepage](https://obsproject.com/forum/resources/camrename.1408/)
   [Download](https://www.camooz.de/downloads/CamRename.0.3.zip)
+
+- **OBS Graphic Clock** 3.5 (FREEWARE)<br/>
+  Graphical Clock (Window-Captured)<br/>
+  [Homepage](https://obsproject.com/forum/resources/obsgraphicclock-skinnable-analog-watch-with-countdown.1373/)
+  [Download](https://obsproject.com/forum/resources/obsgraphicclock-skinnable-analog-watch-with-countdown.1373/download)
 
