@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.8 (2023-11-20)
+Version 1.3.9 (2023-11-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -41,6 +41,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
   [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.0.6/obs-composite-blur-1.0.6-windows-installer.zip)
+
+- **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
+  Comprehensive Blur Filter<br/>
+  [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
+  [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.0.1/blur-filter-obs-plugin-1.0.1-windows-x64-Installer.exe)
 
 - **Stroke Glow Shadow** 1.0.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
