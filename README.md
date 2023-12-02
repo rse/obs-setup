@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.9 (2023-11-23)
+Version 1.3.10 (2023-12-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -196,10 +196,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.23.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.24.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.23.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.24.0/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -221,10 +221,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/4400/download?file=86062)
 
-- **Vertical Canvas** 1.3.0 (GPL)<br/>
+- **Vertical Canvas** 1.3.1 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.3.0/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.3.1/vertical-canvas-windows-installer.exe)
 
 - **Scene as a Transition** 1.1.0 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -326,10 +326,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
 
-- **Downstream Keyer** 0.2.7 (GPL)<br/>
+- **Downstream Keyer** 0.3.0 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5174/download?file=98275)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5298/download?file=99767)
 
 - **Durchblick** 0.5.0 (GPL)<br/>
   Alternative Multiview<br/>
@@ -430,6 +430,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://obsproject.com/forum/resources/local-stream-marker.1457/download)
 
 ### Plugins: Media Import
+
+- **Media Playlist Source** 0.0.5 (GPL)<br/>
+  Media Playlist<br/>
+  [Homepage](https://github.com/CodeYan01/media-playlist-source)
+  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.0.5/media-playlist-source-0.0.5-windows-x64-Installer.exe)
 
 - **Screenshot Filter** 1.5.2 (GPL)<br/>
   Source Screenshot Filter<br/>
