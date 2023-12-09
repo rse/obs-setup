@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.10 (2023-12-03)
+Version 1.3.11 (2023-12-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -117,20 +117,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **URL/API Source** 0.2.3 (GPL)<br/>
+- **URL/API Source** 0.2.5 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.3/obs-urlsource-0.2.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.5/obs-urlsource-0.2.5-windows-x64-Installer.exe)
 
-- **Markdown Source** 0.2.1 (GPL)<br/>
+- **Markdown Source** 0.2.2 (GPL)<br/>
   Render Markup Text<br/>
   [Homepage](https://github.com/exeldro/obs-markdown)
-  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5185/download?file=98448)
+  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5309/download?file=99932)
 
-- **3D Effect** 0.0.2 (GPL)<br/>
+- **3D Effect** 0.1.0 (GPL)<br/>
   3D Effect Filter<br/>
   [Homepage](https://github.com/exeldro/obs-3d-effect)
-  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/4802/download?file=92513)
+  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5316/download?file=99958)
 
 - **9-Slice Filter** 1.0.0 (GPL)<br/>
   9-Slice Scaling Filter<br/>
@@ -304,10 +304,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.0/obs-teleport.zip)
 
-- **xObsBeam** 0.9.8 (GPL)<br/>
+- **xObsBeam** 0.9.9 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.8-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.9-beta/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -565,10 +565,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/cpyarger/obs-midi)
   [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
 
-- **MIDI MG** 2.3.1 (GPL)<br/>
+- **MIDI MG** 3.0.0 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/v2.3.1/obs-midi-mg-2.3.1-windows-x64-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.0-beta/obs-midi-mg-3.0.0-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
@@ -753,10 +753,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.4.1/audacity-win-3.4.1-x64.exe)
 
-- **Cantabile** 4-4064 (FREEWARE)<br/>
+- **Cantabile** 4-4150 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4064.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4150.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -785,30 +785,30 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.58.0/LosslessCut-win-x64.7z)
 
-- **Shotcut** 23.09 (GPL)<br/>
+- **Shotcut** 23.11.29 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v23.09/shotcut-win64-230929.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v23.11.29/shotcut-win64-231129.exe)
 
 - **Blackmagicdesign DaVinci Resolve** 18.5 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
   [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
-- **Kdenlive** 23.08.2 (GPL)<br/>
+- **Kdenlive** 23.08.3 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/23.08/windows/kdenlive-23.08.2.exe)
+  [Download](https://download.kde.org/stable/kdenlive/23.08/windows/kdenlive-23.08.3.exe)
 
-- **Handbrake** 1.6.1 (GPL)<br/>
+- **Handbrake** 1.7.1 (GPL)<br/>
   Video Converter<br/>
   [Homepage](https://handbrake.fr/)
-  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.6.1-x86_64-Win_GUI.exe)
+  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.7.1-x86_64-Win_GUI.exe)
 
-- **VLC** 3.0.19 (GPL)<br/>
+- **VLC** 3.0.20 (GPL)<br/>
   Video Player<br/>
   [Homepage](https://www.videolan.org/vlc/)
-  [Download](https://get.videolan.org/vlc/3.0.19/win64/vlc-3.0.19-win64.exe)
+  [Download](https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe)
 
 - **CamooZ** 7.4.1 (FREEWARE)<br/>
   Camera Settings Management<br/>
