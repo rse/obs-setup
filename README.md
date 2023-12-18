@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.14 (2023-12-16)
+Version 1.3.15 (2023-12-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -37,10 +37,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Composite Blur** 1.0.6 (GPL)<br/>
+- **Composite Blur** 1.1.0 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
-  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.0.6/obs-composite-blur-1.0.6-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.1.0/obs-composite-blur-1.1.0-windows-installer.zip)
 
 - **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -196,10 +196,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.24.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.24.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.24.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.24.2/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
