@@ -550,6 +550,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://sammi.solutions/)
   [Download](https://sammi.solutions/docs/download)
 
+- **Deckboard** 3.0.0-rc2 (OPEN SOURCE)<br/>
+  Remote Control Deck for OBS<br/>
+  [Homepage](https://deckboard.app/)
+  [Download](https://github.com/rivafarabi/deckboard/releases)
+
 - **Stream Deck** 6.3.0 (COMMERCIAL)<br/>
   Remote Control Deck for Android/iOS<br/>
   [Homepage](https://www.elgato.com/en/stream-deck)
