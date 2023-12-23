@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.15 (2023-12-18)
+Version 1.3.16 (2023-12-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -52,10 +52,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
   [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.0.2/obs-stroke-glow-shadow-1.0.2-windows-installer.zip)
 
-- **Background Removal** 1.1.7 (GPL)<br/>
+- **Advanced Masks** 1.0.1 (GPL)<br/>
+  Comprehensive Mask Filters<br/>
+  [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
+  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.0.1/obs-advanced-masks-1.0.1-windows-installer.zip)
+
+- **Background Removal** 1.1.8 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
-  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.7/obs-backgroundremoval-1.1.7-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.8/obs-backgroundremoval-1.1.8-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -397,10 +402,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.0.7 (GPL)<br/>
+- **LocalVocal** 0.0.8 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.0.7/obs-localvocal-0.0.7-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.0.8/obs-localvocal-0.0.8-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.1 (GPL)<br/>
   Local LLM Text Translation<br/>
