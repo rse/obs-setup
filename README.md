@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.16 (2023-12-23)
+Version 1.3.17 (2023-12-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -159,10 +159,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Management
 
-- **Scene Collection Manager** 0.0.8 (GPL)<br/>
+- **Scene Collection Manager** 0.1.1 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/4407/download?file=86112)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/5364/download?file=100435)
 
 - **Source Clone** 0.1.4 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -221,10 +221,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-move-transition)
   [Download](https://obsproject.com/forum/resources/move.913/version/5328/download?file=100084)
 
-- **Media Controls** 0.3.6 (GPL)<br/>
+- **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
-  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/4400/download?file=86062)
+  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
 - **Vertical Canvas** 1.3.1 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
@@ -302,7 +302,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **RTSP Server** 3.1.0 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
-  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0-beta1/obs-rtspserver-v3.1.0-beta1-windows-installer.exe)
+  [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0/obs-rtspserver-v3.1.0-windows-installer.exe)
 
 - **Teleport** 0.7.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
@@ -382,10 +382,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Output
 
-- **Asynchronous Audio Filter** 0.2.1 (GPL)<br/>
+- **Asynchronous Audio Filter** 0.3.0 (GPL)<br/>
   Asynchronous Audio Filter<br/>
   [Homepage](https://github.com/norihiro/obs-async-audio-filter)
-  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.2.1/obs-async-audio-filter-0.2.1-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.3.0/obs-async-audio-filter-0.3.0-obs27-Windows.zip)
 
 - **Mute Filter** 0.2.2 (GPL)<br/>
   Mute Unwanted Audio<br/>
@@ -476,10 +476,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
   [Download](https://github.com/GrandMastersOnline/obs-lottie/releases/download/v1.1.1/obs-lottie-1.1.1-windows-x64-Installer.exe)
 
-- **DroidCam OBS Camera** 2.2.0 (GPL)<br/>
+- **DroidCam OBS Camera** 2.3.0 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
-  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.2.0/DroidCamOBS.Setup.2.2.0.exe)
+  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.0/DroidCamOBS.Setup.2.3.0.exe)
 
 ### Plugins: Remote Control
 
