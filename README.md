@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.17 (2023-12-28)
+Version 1.3.18 (2023-12-29)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -174,10 +174,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/4663/download?file=89992)
 
-- **Replay Source** 1.6.12 (GPL)<br/>
+- **Replay Source** 1.6.13 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
   [Homepage](https://github.com/exeldro/obs-replay-source)
-  [Download](https://obsproject.com/forum/resources/replay-source.686/version/4903/download?file=94068)
+  [Download](https://obsproject.com/forum/resources/replay-source.686/version/5371/download?file=100472)
 
 - **Directory Watch Media** 0.6.2 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -216,10 +216,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move Transition** 2.9.7 (GPL)<br/>
+- **Move Transition** 2.9.8 (GPL)<br/>
   Move Sources to New Position During Scene Transition<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5328/download?file=100084)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5372/download?file=100500)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
