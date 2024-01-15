@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.19 (2024-01-02)
+Version 1.3.20 (2024-01-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -57,10 +57,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
   [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.0.1/obs-advanced-masks-1.0.1-windows-installer.zip)
 
-- **Background Removal** 1.1.8 (GPL)<br/>
+- **Background Removal** 1.1.9 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
-  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.8/obs-backgroundremoval-1.1.8-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.9/obs-backgroundremoval-1.1.9-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.1.3 (GPL)<br/>
+- **Shaderfilter** 2.2.1 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.1.1/obs-shaderfilter-2.1.3-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.2.1/obs-shaderfilter-2.2.1-windows-installer.exe)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
   Combine to Sources with a Shader Effect<br/>
@@ -102,10 +102,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-time-warp-scan)
   [Download](https://obsproject.com/forum/resources/time-warp-scan.1167/version/4604/download?file=89169)
 
-- **Recursion Effect** 0.0.6 (GPL)<br/>
+- **Recursion Effect** 0.1.0 (GPL)<br/>
   Recurson Effect Source Filter<br/>
   [Homepage](https://github.com/exeldro/obs-recursion-effect)
-  [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/5213/download?file=98828)
+  [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/5390/download?file=100717)
 
 - **Freeze Filter** 0.3.3 (GPL)<br/>
   Frame Freeze Source Filter<br/>
@@ -157,6 +157,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.11.1/streamfx-windows-2019-0.11.1.0-g81a96998.exe)
 
+- **OCR - Text Recognition** 0.0.3 (GPL)<br/>
+  OCR Text Recognition with Tesseract<br/>
+  [Homepage](https://github.com/occ-ai/obs-ocr)
+  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.3/obs-ocr-0.0.3-windows-x64-Installer.exe)
+
 ### Plugins: Scene/Source Management
 
 - **Scene Collection Manager** 0.1.1 (GPL)<br/>
@@ -179,10 +184,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-replay-source)
   [Download](https://obsproject.com/forum/resources/replay-source.686/version/5371/download?file=100472)
 
-- **Directory Watch Media** 0.6.2 (GPL)<br/>
+- **Directory Watch Media** 0.7.0 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
-  [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/4826/download?file=92805)
+  [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/5399/download?file=100890)
 
 - **Scene Tree Folder** 0.1.5 (GPL)<br/>
   Dock for Scene Tree View<br/>
@@ -309,10 +314,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.0/obs-teleport.zip)
 
-- **xObsBeam** 0.9.10 (GPL)<br/>
+- **xObsBeam** 1.0.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v0.9.10-beta/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v1.0.0/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -451,10 +456,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/nleseul/obs-ghostscript)
   [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
 
-- **VNC Plugin** 0.4.0 (GPL)<br/>
+- **VNC Plugin** 0.5.0 (GPL)<br/>
   OBSOLETE: Display Remote Desktop via VNC<br/>
   [Homepage](https://github.com/norihiro/obs-vnc)
-  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.4.0/obs-vnc-0.4.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.5.0/obs-vnc-0.5.0-Windows-Installer.exe)
 
 - **Spout Plugin** 1.8 (GPL)<br/>
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
