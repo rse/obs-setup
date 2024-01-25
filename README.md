@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.20 (2024-01-16)
+Version 1.3.21 (2024-01-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -152,10 +152,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/xoxfaby/obs-StreamFX)
   [Download](https://github.com/xoxfaby/obs-StreamFX/releases/download/0.12.0b299/streamfx-windows-installer.exe)
 
-- **StreamFX** 0.11.1 (GPL)<br/>
+- **StreamFX** 1.0.0b443 (GPL)<br/>
   OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX/releases/download/0.11.1/streamfx-windows-2019-0.11.1.0-g81a96998.exe)
+  [Download](https://github.com/Xaymar/obs-StreamFX)
 
 - **OCR - Text Recognition** 0.0.3 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
@@ -241,10 +241,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/andilippi/obs-scene-as-transition)
   [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/4852/download?file=93175)
 
-- **Browser Transition** 0.1.2 (GPL)<br/>
+- **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
   [Homepage](https://github.com/exeldro/obs-browser-transition)
-  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/5126/download?file=97629)
+  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/5402/download?file=100997)
 
 ### Plugins: Streaming/Recording
 
@@ -340,6 +340,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5298/download?file=99767)
+
+- **OBS LowerThirdSwitcher** 0.3.0 (GPL)<br/>
+  Scene-Based Lower Third Control<br/>
+  [Homepage](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
+  [Download](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
 
 - **Durchblick** 0.5.0 (GPL)<br/>
   Alternative Multiview<br/>
@@ -583,7 +588,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **MIDI MG** 3.0.0 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.0-beta/obs-midi-mg-3.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.0-beta2/obs-midi-mg-3.0.0-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
