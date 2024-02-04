@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.22 (2024-01-28)
+Version 1.3.23 (2024-02-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -78,7 +78,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.2.1/obs-shaderfilter-2.2.1-windows-installer.exe)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
-  Combine to Sources with a Shader Effect<br/>
+  Combine two Sources with a Shader Effect<br/>
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
 
