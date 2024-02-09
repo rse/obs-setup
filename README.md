@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.23 (2024-02-04)
+Version 1.3.24 (2024-02-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -157,10 +157,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX)
 
-- **OCR - Text Recognition** 0.0.3 (GPL)<br/>
+- **OCR - Text Recognition** 0.0.4 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
   [Homepage](https://github.com/occ-ai/obs-ocr)
-  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.3/obs-ocr-0.0.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.4/obs-ocr-0.0.4-windows-x64-Installer.exe)
 
 ### Plugins: Scene/Source Management
 
@@ -179,10 +179,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/4663/download?file=89992)
 
-- **Replay Source** 1.6.13 (GPL)<br/>
+- **Replay Source** 1.7.0 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
   [Homepage](https://github.com/exeldro/obs-replay-source)
-  [Download](https://obsproject.com/forum/resources/replay-source.686/version/5371/download?file=100472)
+  [Download](https://obsproject.com/forum/resources/replay-source.686/version/5431/download?file=101382)
 
 - **Directory Watch Media** 0.7.0 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -221,10 +221,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move Transition** 2.9.8 (GPL)<br/>
-  Move Sources to New Position During Scene Transition<br/>
+- **Move Transition** 2.10.0 (GPL)<br/>
+  Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5372/download?file=100500)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5434/download?file=101477)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -278,10 +278,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.8.3 (GPL)<br/>
+- **Audio Monitor** 0.8.4 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5063/download?file=96493)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5438/download?file=101572)
 
 - **Muted Notification** 1.0.1 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
@@ -341,7 +341,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5298/download?file=99767)
 
-- **OBS LowerThirdSwitcher** 0.3.0 (GPL)<br/>
+- **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
   [Homepage](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
   [Download](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
@@ -661,6 +661,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Lua Scripts
 
+- **Lobster** 0 (GPL)<br/>
+  Simplified OBS Lua API<br/>
+  [Homepage](https://obsproject.com/forum/resources/lobster-an-api-wrapper-to-simplify-writing-obs-scripts.1874/)
+  [Download](https://obsproject.com/forum/resources/lobster-an-api-wrapper-to-simplify-writing-obs-scripts.1874/)
+
 - **RSE OBS Scripts** 2022-03 (GPL)<br/>
   Clone Template Scene, Keyboard Event Filter, Production Information, Refresh Browser Sources, Source One of Many<br/>
   [Homepage](https://github.com/rse/obs-scripts)
@@ -726,10 +731,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/3-axis-color-correction.1472/)
   [Download](https://obsproject.com/forum/resources/3-axis-color-correction.1472/download)
 
-- **OBS Visca-over-IP Control** 2.2.1 (GPL)<br/>
+- **OBS Visca-over-IP Control** 2.5 (GPL)<br/>
   Control PTZ Cameras with VISCA-over-IP/UDP<br/>
   [Homepage](https://github.com/vwout/obs-visca-control)
-  [Download](https://github.com/vwout/obs-visca-control/releases/download/2.2.1/obs-visca-control-2.2.1.zip)
+  [Download](https://github.com/vwout/obs-visca-control/releases/download/2.5/obs-visca-control-2.5.zip)
 
 - **Audio Status Monitor** 0.7 (GPL)<br/>
   Audio Status Monitoring Dock<br/>
