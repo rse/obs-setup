@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.24 (2024-02-09)
+Version 1.3.25 (2024-02-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.2.1 (GPL)<br/>
+- **Shaderfilter** 2.2.2 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.2.1/obs-shaderfilter-2.2.1-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.2.2/obs-shaderfilter-2.2.2-windows-installer.exe)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
   Combine two Sources with a Shader Effect<br/>
@@ -221,7 +221,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move Transition** 2.10.0 (GPL)<br/>
+- **Move (Transition)** 2.10.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
   [Download](https://obsproject.com/forum/resources/move.913/version/5434/download?file=101477)
@@ -278,10 +278,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.8.4 (GPL)<br/>
+- **Audio Monitor** 0.8.5 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5438/download?file=101572)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5439/download?file=101585)
 
 - **Muted Notification** 1.0.1 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
