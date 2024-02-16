@@ -122,6 +122,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
+- **Text with Templates** 1.2.1 (GPL)<br/>
+  Text with Mustache Template Variable Interpolation<br/>
+  [Homepage](https://obsproject.com/forum/resources/text-gdi-with-templates.1878/)
+  [Download](https://obsproject.com/forum/resources/text-gdi-with-templates.1878/)
+
 - **URL/API Source** 0.2.5 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
@@ -174,10 +179,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-clone)
   [Download](https://obsproject.com/forum/resources/source-clone.1632/version/4881/download?file=93639)
 
-- **Source Copy** 0.2.2 (GPL)<br/>
+- **Source Copy** 0.2.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/4663/download?file=89992)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5448/download?file=101775)
 
 - **Replay Source** 1.7.0 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
@@ -231,10 +236,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Vertical Canvas** 1.3.1 (GPL)<br/>
+- **Vertical Canvas** 1.4.0 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.3.1/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.0/vertical-canvas-windows-installer.exe)
 
 - **Scene as a Transition** 1.1.0 (GPL)<br/>
   Use a Scene as a Transition<br/>
