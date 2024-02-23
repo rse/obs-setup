@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.25 (2024-02-13)
+Version 1.3.26 (2024-02-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -122,10 +122,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **Text with Templates** 1.2.1 (GPL)<br/>
+- **Text (GDI+) with Templates** 1.2.1 (GPL)<br/>
   Text with Mustache Template Variable Interpolation<br/>
   [Homepage](https://obsproject.com/forum/resources/text-gdi-with-templates.1878/)
   [Download](https://obsproject.com/forum/resources/text-gdi-with-templates.1878/)
+
+- **Text (FreeType) with Templates** 1.0.0 (GPL)<br/>
+  Text with Mustache Template Variable Interpolation<br/>
+  [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
+  [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
 - **URL/API Source** 0.2.5 (GPL)<br/>
   Fetch Live Data<br/>
@@ -236,10 +241,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Vertical Canvas** 1.4.0 (GPL)<br/>
+- **Vertical Canvas** 1.4.1 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.0/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.1/vertical-canvas-windows-installer.exe)
 
 - **Scene as a Transition** 1.1.0 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -686,7 +691,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
 
-- **Comprehensive Stopwatch & Countdown Timer** 5.7 (GPL)<br/>
+- **Comprehensive Stopwatch & Countdown Timer** 5.8 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
