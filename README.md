@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.26 (2024-02-23)
+Version 1.3.27 (2024-03-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -122,7 +122,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/jbwong05/obs-text-slideshow)
   [Download](https://github.com/jbwong05/obs-text-slideshow/releases/download/v2.0.0-alpha/windows_libraries.zip)
 
-- **Text (GDI+) with Templates** 1.2.1 (GPL)<br/>
+- **Text (GDI+) with Templates** 1.2.2 (GPL)<br/>
   Text with Mustache Template Variable Interpolation<br/>
   [Homepage](https://obsproject.com/forum/resources/text-gdi-with-templates.1878/)
   [Download](https://obsproject.com/forum/resources/text-gdi-with-templates.1878/)
@@ -231,10 +231,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move (Transition)** 2.10.0 (GPL)<br/>
+- **Move (Transition)** 2.10.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5434/download?file=101477)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5465/download?file=102047)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -385,10 +385,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
   [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.1/obs-loudness-dock-0.2.1-obs28-Windows.zip)
 
-- **Waveform** 1.7.0 (GPL)<br/>
+- **Waveform** 1.8.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
-  [Download](https://github.com/phandasm/waveform/releases/download/v1.7.0/Waveform_v1.7.0_x86_64.zip)
+  [Download](https://github.com/phandasm/waveform/releases/download/v1.8.0/Waveform_v1.8.0_x86_64.zip)
 
 - **Scale To Sound** 1.2.3 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
