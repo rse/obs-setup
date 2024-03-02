@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.27 (2024-03-01)
+Version 1.3.28 (2024-03-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.2.2 (GPL)<br/>
+- **Shaderfilter** 2.3.0 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.2.2/obs-shaderfilter-2.2.2-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.3.0/obs-shaderfilter-2.3.0-windows-installer.exe)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
   Combine two Sources with a Shader Effect<br/>
@@ -216,10 +216,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.24.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.25.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.24.2/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.25.0/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
