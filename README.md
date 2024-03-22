@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.30 (2024-03-20)
+Version 1.3.31 (2024-03-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -57,10 +57,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
   [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.1.0/obs-advanced-masks-1.1.0-windows-installer.zip)
 
-- **Background Removal** 1.1.12 (GPL)<br/>
+- **Background Removal** 1.1.13 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
-  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.12/obs-backgroundremoval-1.1.12-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -167,15 +167,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX)
 
-- **OCR - Text Recognition** 0.0.4 (GPL)<br/>
+- **OCR - Text Recognition** 0.0.6 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
   [Homepage](https://github.com/occ-ai/obs-ocr)
-  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.4/obs-ocr-0.0.4-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.6/obs-ocr-0.0.6-windows-x64-Installer.exe)
 
-- **Encoder Region of Interest Editor** 1.0.0 (GPL)<br/>
+- **Encoder Region of Interest Editor** 1.1.0 (GPL)<br/>
   Encoder Optimization Hint for Region of Interest<br/>
   [Homepage](https://github.com/derrod/obs-roi-ui)
-  [Download](https://github.com/derrod/obs-roi-ui/releases/download/1.0.0/obs-roi-ui-1.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/derrod/obs-roi-ui/releases/download/1.1.0/obs-roi-ui-1.1.0-windows-x64-Installer.exe)
 
 ### Plugins: Scene/Source Management
 
