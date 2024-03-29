@@ -373,10 +373,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Input
 
-- **ASIO** 3.1.1 (GPL)<br/>
+- **ASIO** 3.2.0 (GPL)<br/>
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
-  [Download](https://github.com/Andersama/obs-asio/releases/download/v3.1.1/obs-asio-3.1.1-windows-x64-Installer.exe)
+  [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
 ### Plugins: Audio Monitoring
 
