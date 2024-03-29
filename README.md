@@ -525,10 +525,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Remote Control Clients
 
-- **OBS WebSocket JS** 5.0.3 (MIT)<br/>
+- **OBS WebSocket JS** 5.0.5 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
   [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
-  [Download](https://unpkg.com/obs-websocket-js@5.0.3/dist/obs-websocket.min.js)
+  [Download](https://unpkg.com/obs-websocket-js@5.0.5/dist/obs-websocket.min.js)
 
 - **OBS WebSocket HTTP** 2 (GPL)<br/>
   Remote Control via HTTP (for OBS WebSocket)<br/>
@@ -550,10 +550,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
   [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.6.3/OBSCommand_1.6.3.zip)
 
-- **TouchOSC** 1.2.3.178 (COMMERCIAL)<br/>
+- **TouchOSC** 1.3.0.202 (COMMERCIAL)<br/>
   Remote Control Deck<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.2.3.178-win-x64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.3.0.202-win-x64.exe)
 
 - **MATRIC** 2.6.23 (FREEWARE)<br/>
   Remote Control Deck<br/>
