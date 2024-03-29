@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.32 (2024-03-25)
+Version 1.3.33 (2024-03-29)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 30.1.0 (GPL)<br/>
+- **OBS Studio** 30.1.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/30.1.0/OBS-Studio-30.1-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/30.1.1/OBS-Studio-30.1.1-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -304,14 +304,14 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.1/urmuted-1.0.1-windows-x64-Installer.exe)
 
 - **VBAN Audio** 0.2.3 (GPL)<br/>
-  Audio Source from and Outout VBAN (Audio over UDP) for VoiceMeeter<br/>
+  Audio Source from and to VBAN (Audio over UDP) for VoiceMeeter<br/>
   [Homepage](https://github.com/norihiro/obs-vban/)
   [Download](https://github.com/norihiro/obs-vban/releases/download/0.2.3/obs-vban-0.2.3-obs27-Windows.zip)
 
-- **Multi RTMP** 0.2.0.2 (GPL)<br/>
+- **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
-  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.3.0.2-OBS29.1.1/obs-multi-rtmp-0.3.0.2-windows-x64-Installer.exe)
+  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.5.0.4-flatpak/obs-multi-rtmp-0.5.0.4-windows-x64-Installer.exe)
 
 - **GStreamer** 0.4.0/1.20.3 (GPL)<br/>
   GStreamer Integration<br/>
@@ -324,10 +324,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0/obs-rtspserver-v3.1.0-windows-installer.exe)
 
-- **Teleport** 0.7.0 (GPL)<br/>
+- **Teleport** 0.7.1 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.0/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.1/obs-teleport.zip)
 
 - **xObsBeam** 1.0.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
@@ -351,10 +351,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
 
-- **Downstream Keyer** 0.3.0 (GPL)<br/>
+- **Downstream Keyer** 0.3.1 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5298/download?file=99767)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5523/download?file=102876)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -595,15 +595,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Etuldan/MidiControl)
   [Download](https://github.com/Etuldan/MidiControl/releases/download/v2.0.5/MIDIControl_2.0.5_Setup.exe)
 
+- **OBS MIDI MG** 3.0.0 (GPL)<br/>
+  Remote Control OBS via MIDI<br/>
+  [Homepage](https://github.com/nhielost/obs-midi-mg)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.0/obs-midi-mg-3.0.0-windows-x64-Installer.exe)
+
 - **OBS-MIDI** 0.9.3a3.66 (GPL)<br/>
   OBSOLETE: Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/cpyarger/obs-midi)
   [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
-
-- **MIDI MG** 3.0.0 (GPL)<br/>
-  Remote Control OBS via MIDI<br/>
-  [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.0-beta3/obs-midi-mg-3.0.0-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
@@ -778,7 +778,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac470.exe)
 
-- **VoiceMeeter Potato** 3.1.1.8 (COMMERCIAL)<br/>
+- **VoiceMeeter Potato** 3.1.1.1 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://voicemeeter.com/)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3111.zip)
