@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.33 (2024-03-29)
+Version 1.3.34 (2024-04-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -236,10 +236,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move (Transition)** 2.11.0 (GPL)<br/>
+- **Move (Transition)** 2.12.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5499/download?file=102604)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5529/download?file=102954)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
