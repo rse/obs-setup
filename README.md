@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.34 (2024-04-01)
+Version 1.3.35 (2024-04-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -395,10 +395,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.8.0/Waveform_v1.8.0_x86_64.zip)
 
-- **Scale To Sound** 1.2.3 (GPL)<br/>
+- **Scale To Sound** 1.2.4 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.3/obs-scale-to-sound-1.2.3-windows.zip)
+  [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.4/obs-scale-to-sound-1.2.4-windows.zip)
 
 - **Image Reaction** 1.2 (GPL)<br/>
   OBSOLETE: Switch Images to a Sound<br/>
@@ -427,10 +427,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.2.0 (GPL)<br/>
+- **LocalVocal** 0.2.1 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.2.0/obs-localvocal-0.2.0-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.2.1/obs-localvocal-0.2.1-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
@@ -595,15 +595,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Etuldan/MidiControl)
   [Download](https://github.com/Etuldan/MidiControl/releases/download/v2.0.5/MIDIControl_2.0.5_Setup.exe)
 
-- **OBS MIDI MG** 3.0.0 (GPL)<br/>
+- **OBS MIDI MG** 3.0.1 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.0/obs-midi-mg-3.0.0-windows-x64-Installer.exe)
-
-- **OBS-MIDI** 0.9.3a3.66 (GPL)<br/>
-  OBSOLETE: Remote Control OBS via MIDI<br/>
-  [Homepage](https://github.com/cpyarger/obs-midi)
-  [Download](https://github.com/cpyarger/obs-midi/releases/download/tag-0.9.3-ALPHA-3.66/obs-midi-0.9.3-ALPHA-3.66-Windows-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.1/obs-midi-mg-3.0.1-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
