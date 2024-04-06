@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.35 (2024-04-02)
+Version 1.3.36 (2024-04-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 30.1.1 (GPL)<br/>
+- **OBS Studio** 30.1.2 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/30.1.1/OBS-Studio-30.1.1-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/30.1.2/OBS-Studio-30.1.2-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
