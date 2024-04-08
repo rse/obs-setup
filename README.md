@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.36 (2024-04-06)
+Version 1.3.37 (2024-04-08)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -221,10 +221,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.25.3 (GPL)<br/>
+- **Advanced Scene Switcher** 1.25.4 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.25.3/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.25.4/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -595,10 +595,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Etuldan/MidiControl)
   [Download](https://github.com/Etuldan/MidiControl/releases/download/v2.0.5/MIDIControl_2.0.5_Setup.exe)
 
-- **OBS MIDI MG** 3.0.1 (GPL)<br/>
+- **OBS MIDI MG** 3.0.2 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.1/obs-midi-mg-3.0.1-windows-x64-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.2/obs-midi-mg-3.0.2-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
