@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.37 (2024-04-08)
+Version 1.3.38 (2024-04-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -132,10 +132,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.2.7 (GPL)<br/>
+- **URL/API Source** 0.3.0 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.2.7/obs-urlsource-0.2.7-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.0/obs-urlsource-0.3.0-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.2 (GPL)<br/>
   Render Markup Text<br/>
