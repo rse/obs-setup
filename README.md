@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.38 (2024-04-12)
+Version 1.3.39 (2024-04-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -167,10 +167,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Xaymar/obs-StreamFX)
   [Download](https://github.com/Xaymar/obs-StreamFX)
 
-- **OCR - Text Recognition** 0.0.6 (GPL)<br/>
+- **OCR - Text Recognition** 0.0.7 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
   [Homepage](https://github.com/occ-ai/obs-ocr)
-  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.6/obs-ocr-0.0.6-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.7/obs-ocr-0.0.7-windows-x64-Installer.exe)
 
 - **Encoder Region of Interest Editor** 1.1.0 (GPL)<br/>
   Encoder Optimization Hint for Region of Interest<br/>
@@ -422,10 +422,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.0.3 (GPL)<br/>
+- **CleanStream** 0.0.4 (GPL)<br/>
   Um-Removal<br/>
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
-  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.3/obs-cleanstream-0.0.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.4/obs-cleanstream-0.0.4-windows-x64-Installer.exe)
 
 - **LocalVocal** 0.2.1 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
