@@ -857,7 +857,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 - **CamooZ** 7.4.1 (FREEWARE)<br/>
   Camera Settings Management<br/>
-  [Homepage](https://obsproject.com/forum/resources/camooz-manage-save-restore-camera-settings-local-and-remote.1271/)
+  [Homepage](https://webcamtool.de/)
   [Download](https://www.camooz.de/downloads/CamooZ.7.4.1.zip)
 
 - **CamRename** 0.3 (FREEWARE)<br/>
