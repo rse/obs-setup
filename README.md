@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.39 (2024-04-13)
+Version 1.3.40 (2024-04-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -263,10 +263,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.3.2 (GPL)<br/>
+- **Source Record** 0.3.3 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/4683/download?file=90349)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5562/download?file=103301)
 
 - **Virtual Cam** 2.0.11 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
