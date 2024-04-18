@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.40 (2024-04-15)
+Version 1.3.41 (2024-04-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -263,10 +263,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.3.3 (GPL)<br/>
+- **Source Record** 0.3.4 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5562/download?file=103301)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5563/download?file=103325)
 
 - **Virtual Cam** 2.0.12 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
@@ -351,10 +351,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
 
-- **Downstream Keyer** 0.3.1 (GPL)<br/>
+- **Downstream Keyer** 0.3.2 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5523/download?file=102876)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5565/download?file=103330)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -476,10 +476,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/nleseul/obs-ghostscript)
   [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
 
-- **VNC Plugin** 0.5.0 (GPL)<br/>
+- **VNC Plugin** 0.6.0 (GPL)<br/>
   OBSOLETE: Display Remote Desktop via VNC<br/>
   [Homepage](https://github.com/norihiro/obs-vnc)
-  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.5.0/obs-vnc-0.5.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.6.0/obs-vnc-0.6.0-Windows-Installer.exe)
 
 - **Spout Plugin** 1.8 (GPL)<br/>
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
@@ -513,10 +513,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/glikely/obs-ptz)
   [Download](https://github.com/glikely/obs-ptz/releases/download/v0.15.4/obs-ptz-v0.15.4-windows-x64-Installer.exe)
 
-- **Command Source** 0.4.0 (GPL)<br/>
+- **Command Source** 0.5.0 (GPL)<br/>
   Dummy Source to Execute Commands when Scene Switched<br/>
   [Homepage](https://github.com/norihiro/obs-command-source)
-  [Download](https://github.com/norihiro/obs-command-source/releases/download/0.4.0/obs-command-source-0.4.0-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-command-source/releases/download/0.5.0/obs-command-source-0.5.0-obs27-Windows.zip)
 
 - **Input Overlay** 5.0.4 (GPL)<br/>
   Show Interactions<br/>
