@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.41 (2024-04-18)
+Version 1.3.42 (2024-04-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -221,10 +221,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.25.4 (GPL)<br/>
+- **Advanced Scene Switcher** 1.25.5 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.25.4/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.25.5/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
