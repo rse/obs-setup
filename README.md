@@ -550,10 +550,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
   [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.6.3/OBSCommand_1.6.3.zip)
 
-- **TouchOSC** 1.3.0.202 (COMMERCIAL)<br/>
+- **TouchOSC** 1.3.1.204 (COMMERCIAL)<br/>
   Remote Control Deck<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.3.0.202-win-x64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.3.1.204-win-x64.exe)
 
 - **MATRIC** 2.6.23 (FREEWARE)<br/>
   Remote Control Deck<br/>
@@ -575,7 +575,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://sammi.solutions/)
   [Download](https://sammi.solutions/docs/download)
 
-- **Deckboard** 3.0.0-rc2 (OPEN SOURCE)<br/>
+- **Deckboard** 3.0.0-rc8 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS<br/>
   [Homepage](https://deckboard.app/)
   [Download](https://github.com/rivafarabi/deckboard/releases)
@@ -585,7 +585,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.elgato.com/en/stream-deck)
   [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.3.0.18948.msi)
 
-- **Companion** 3.0.1 (OPEN SOURCE)<br/>
+- **Companion** 3.0.2 (OPEN SOURCE)<br/>
   Remote Control Deck for Elgato Streamdeck<br/>
   [Homepage](https://bitfocus.io/companion)
   [Download](https://bitfocus.io/companion)
