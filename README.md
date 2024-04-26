@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.42 (2024-04-21)
+Version 1.3.43 (2024-04-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -829,6 +829,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.59.1/LosslessCut-win-x64.7z)
+
+- **Shutter Encoder** 18.0 ()<br/>
+  Audio/Video Cutter<br/>
+  [Homepage](https://www.shutterencoder.com/)
+  [Download](https://www.shutterencoder.com/)
 
 - **Shotcut** 24.02.29 (GPL)<br/>
   Video Editor<br/>
