@@ -840,7 +840,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v24.02.29/shotcut-win64-240229.exe)
 
-- **Blackmagicdesign DaVinci Resolve** 18.5 (COMMERCIAL, freely available)<br/>
+- **Blackmagicdesign DaVinci Resolve** 19.0 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
   [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
