@@ -29,10 +29,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.13.1/6.0.0.0 (GPL)<br/>
+- **OBS NDI** 4.13.2/6.0.0.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
-  [Homepage](https://github.com/Palakis/obs-ndi)
-  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.1/obs-ndi-4.13.1-windows-x64-Installer.exe)
+  [Homepage](https://github.com/obs-ndi/obs-ndi)
+  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.2/obs-ndi-4.13.2-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
 
 ### Plugins: Visual Effects
