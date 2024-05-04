@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.44 (2024-04-28)
+Version 1.3.45 (2024-05-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -29,11 +29,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.13.1/5.6.1.0 (GPL)<br/>
+- **OBS NDI** 4.13.1/6.0.0.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/Palakis/obs-ndi)
   [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.1/obs-ndi-4.13.1-windows-x64-Installer.exe)
-  [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
+  [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
 
 ### Plugins: Visual Effects
 
@@ -176,6 +176,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Encoder Optimization Hint for Region of Interest<br/>
   [Homepage](https://github.com/derrod/obs-roi-ui)
   [Download](https://github.com/derrod/obs-roi-ui/releases/download/1.1.0/obs-roi-ui-1.1.0-windows-x64-Installer.exe)
+
+- **RTX SuperResolution** 1.2 (GPL)<br/>
+  NVIDIA RTX Super Resolution Upscaler<br/>
+  [Homepage](https://github.com/Bemjo/OBS-RTX-SuperResolution/)
+  [Download](https://github.com/Bemjo/OBS-RTX-SuperResolution/releases/download/v1.2/release.zip)
 
 ### Plugins: Scene/Source Management
 
@@ -412,10 +417,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-audio-filter)
   [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.3.0/obs-async-audio-filter-0.3.0-obs27-Windows.zip)
 
-- **Mute Filter** 0.2.2 (GPL)<br/>
+- **Mute Filter** 0.3.0 (GPL)<br/>
   Mute Unwanted Audio<br/>
   [Homepage](https://github.com/norihiro/obs-mute-filter)
-  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.2.2/obs-mute-filter-0.2.2-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.3.0/obs-mute-filter-0.3.0-obs27-Windows.zip)
 
 - **Audio Pan Filter** 0.2.3 (GPL)<br/>
   Stereo Panning<br/>
@@ -595,10 +600,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Etuldan/MidiControl)
   [Download](https://github.com/Etuldan/MidiControl/releases/download/v2.0.5/MIDIControl_2.0.5_Setup.exe)
 
-- **OBS MIDI MG** 3.0.2 (GPL)<br/>
+- **OBS MIDI MG** 3.0.3 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.2/obs-midi-mg-3.0.2-windows-x64-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.3/obs-midi-mg-3.0.3-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
