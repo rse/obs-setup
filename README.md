@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.46 (2024-05-07)
+Version 1.3.47 (2024-05-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -226,10 +226,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.25.5 (GPL)<br/>
+- **Advanced Scene Switcher** 1.26.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.25.5/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.0/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -580,7 +580,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://sammi.solutions/)
   [Download](https://sammi.solutions/docs/download)
 
-- **Deckboard** 3.0.0-rc8 (OPEN SOURCE)<br/>
+- **Deckboard** 3.0.0-rc9.2 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS<br/>
   [Homepage](https://deckboard.app/)
   [Download](https://github.com/rivafarabi/deckboard/releases)
