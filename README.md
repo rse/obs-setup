@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.47 (2024-05-11)
+Version 1.3.48 (2024-05-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -61,6 +61,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
   [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
+
+- **Detect** 0.0.2 (GPL)<br/>
+  AI-Based Object Detection (for Blurring and Zooming)<br/>
+  [Homepage](https://github.com/occ-ai/obs-detect)
+  [Download](https://github.com/occ-ai/obs-detect/releases/download/0.0.2/obs-detect-0.0.2-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -226,10 +231,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.26.0 (GPL)<br/>
+- **Advanced Scene Switcher** 1.26.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.0/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.1/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -251,10 +256,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Vertical Canvas** 1.4.1 (GPL)<br/>
+- **Vertical Canvas** 1.4.2 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.1/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.2/vertical-canvas-windows-installer.exe)
 
 - **Scene as a Transition** 1.1.0 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -432,10 +437,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.6/obs-cleanstream-0.0.6-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.2.3 (GPL)<br/>
+- **LocalVocal** 0.2.6 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.2.3/obs-localvocal-0.2.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.2.6/obs-localvocal-0.2.6-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
@@ -523,10 +528,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-command-source)
   [Download](https://github.com/norihiro/obs-command-source/releases/download/0.5.0/obs-command-source-0.5.0-obs27-Windows.zip)
 
-- **Input Overlay** 5.0.4 (GPL)<br/>
+- **Input Overlay** 5.0.5 (GPL)<br/>
   Show Interactions<br/>
   [Homepage](https://github.com/univrsal/input-overlay)
-  [Download](https://github.com/univrsal/input-overlay/releases/download/v5.0.4/input-overlay-5.0.4-windows-x64-Installer.exe)
+  [Download](https://github.com/univrsal/input-overlay/releases/download/v5.0.5/input-overlay-5.0.5-windows-x64-Installer.exe)
 
 ### Remote Control Clients
 
