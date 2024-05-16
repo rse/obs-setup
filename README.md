@@ -323,11 +323,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
   [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.5.0.4-flatpak/obs-multi-rtmp-0.5.0.4-windows-x64-Installer.exe)
 
-- **GStreamer** 0.4.0/1.20.3 (GPL)<br/>
+- **GStreamer** 0.4.0/1.24.3 (GPL)<br/>
   GStreamer Integration<br/>
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
   [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.4.0/obs-gstreamer.zip)
-  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.22.3/mingw/gstreamer-1.0-mingw-x86_64-1.22.3.msi)
+  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.24.3/mingw/gstreamer-1.0-mingw-x86_64-1.24.3.msi)
 
 - **RTSP Server** 3.1.0 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
