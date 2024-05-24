@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.49 (2024-05-18)
+Version 1.3.50 (2024-05-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -194,10 +194,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
   [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/5364/download?file=100435)
 
-- **Source Clone** 0.1.4 (GPL)<br/>
+- **Source Clone** 0.1.5 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-clone)
-  [Download](https://obsproject.com/forum/resources/source-clone.1632/version/4881/download?file=93639)
+  [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
 
 - **Source Copy** 0.2.3 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -231,10 +231,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.26.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.26.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.2/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
