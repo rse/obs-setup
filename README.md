@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.50 (2024-05-24)
+Version 1.3.51 (2024-05-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -29,7 +29,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.13.2/6.0.0.0 (GPL)<br/>
+- **OBS NDI** 4.13.2/6.0.1.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/obs-ndi/obs-ndi)
   [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.2/obs-ndi-4.13.2-windows-x64-Installer.exe)
@@ -246,10 +246,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move (Transition)** 2.12.0 (GPL)<br/>
+- **Move (Transition)** 3.0.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5529/download?file=102954)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5631/download?file=104093)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
