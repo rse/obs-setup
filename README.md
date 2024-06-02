@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.51 (2024-05-30)
+Version 1.3.52 (2024-06-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -62,10 +62,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
   [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
-- **Detect** 0.0.2 (GPL)<br/>
+- **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
   [Homepage](https://github.com/occ-ai/obs-detect)
-  [Download](https://github.com/occ-ai/obs-detect/releases/download/0.0.2/obs-detect-0.0.2-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-detect/releases/download/0.0.3/obs-detect-0.0.3-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -471,10 +471,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Media Import
 
-- **Media Playlist Source** 0.0.6 (GPL)<br/>
+- **Media Playlist Source** 0.0.7 (GPL)<br/>
   Media Playlist<br/>
   [Homepage](https://github.com/CodeYan01/media-playlist-source)
-  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.0.6/media-playlist-source-0.0.6-windows-x64-Installer.exe)
+  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.0.7/media-playlist-source-0.0.7-windows-x64-Installer.exe)
 
 - **Screenshot Filter** 1.5.2 (GPL)<br/>
   Source Screenshot Filter<br/>
