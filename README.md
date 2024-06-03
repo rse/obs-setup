@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.52 (2024-06-02)
+Version 1.3.53 (2024-06-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -199,10 +199,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-clone)
   [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
 
-- **Source Copy** 0.2.3 (GPL)<br/>
+- **Source Copy** 0.2.4 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5448/download?file=101775)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5650/download?file=104359)
 
 - **Replay Source** 1.7.0 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
@@ -870,10 +870,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe)
 
-- **CamooZ** 7.4.1 (FREEWARE)<br/>
+- **CamooZ** 7.4.2 (FREEWARE)<br/>
   Camera Settings Management<br/>
   [Homepage](https://webcamtool.de/)
-  [Download](https://www.camooz.de/downloads/CamooZ.7.4.1.zip)
+  [Download](https://www.camooz.de/downloads/CamooZ.7.4.2.zip)
 
 - **CamRename** 0.3 (FREEWARE)<br/>
   Camera Device Renaming<br/>
