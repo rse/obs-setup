@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.53 (2024-06-03)
+Version 1.3.54 (2024-06-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -432,15 +432,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.0.6 (GPL)<br/>
+- **CleanStream** 0.0.9 (GPL)<br/>
   Um-Removal<br/>
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
-  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.6/obs-cleanstream-0.0.6-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.9/obs-cleanstream-0.0.9-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.2.6 (GPL)<br/>
+- **LocalVocal** 0.3.0 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.2.6/obs-localvocal-0.2.6-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.0/obs-localvocal-0.3.0-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
