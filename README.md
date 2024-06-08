@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.54 (2024-06-07)
+Version 1.3.55 (2024-06-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -351,10 +351,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: User Interface
 
-- **Source Dock** 0.3.9 (GPL)<br/>
+- **Source Dock** 0.4.0 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/5518/download?file=102840)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/5657/download?file=104470)
 
 - **Scene Notes Dock** 0.2.0 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
