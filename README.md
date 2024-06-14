@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.56 (2024-06-10)
+Version 1.3.57 (2024-06-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -231,10 +231,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.26.3 (GPL)<br/>
+- **Advanced Scene Switcher** 1.26.4 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.3/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.4/advanced-scene-switcher-windows-x64-Installer.exe)
   
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -246,10 +246,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move (Transition)** 3.0.0 (GPL)<br/>
+- **Move (Transition)** 3.0.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5631/download?file=104093)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5662/download?file=104545)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
@@ -278,10 +278,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/5563/download?file=103325)
 
-- **Virtual Cam** 2.0.12 (GPL)<br/>
+- **Virtual Cam** 2.1.0 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
-  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.0.12/obs-virtualcam-2.0.12-windows-x64-Installer.exe)
+  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.0/obs-virtualcam-2.1.0-windows-x64-Installer.exe)
 
 - **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   OBSOLETE: Export Source Video To (Virtual) Camera Device<br/>
@@ -437,10 +437,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.9/obs-cleanstream-0.0.9-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.0 (GPL)<br/>
+- **LocalVocal** 0.3.1 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.0/obs-localvocal-0.3.0-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.1/obs-localvocal-0.3.1-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
