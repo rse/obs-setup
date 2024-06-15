@@ -585,7 +585,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://sammi.solutions/)
   [Download](https://sammi.solutions/docs/download)
 
-- **Deckboard** 3.0.0-rc9.2 (OPEN SOURCE)<br/>
+- **Deckboard** 3.0.0 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS<br/>
   [Homepage](https://deckboard.app/)
   [Download](https://github.com/rivafarabi/deckboard/releases)
