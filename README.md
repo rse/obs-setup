@@ -142,10 +142,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-urlsource)
   [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.2/obs-urlsource-0.3.2-windows-x64-Installer.exe)
 
-- **Markdown Source** 0.2.2 (GPL)<br/>
+- **Markdown Source** 0.2.3 (GPL)<br/>
   Render Markup Text<br/>
   [Homepage](https://github.com/exeldro/obs-markdown)
-  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5309/download?file=99932)
+  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5674/download?file=104621)
 
 - **3D Effect** 0.1.0 (GPL)<br/>
   3D Effect Filter<br/>
