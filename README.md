@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.57 (2024-06-15)
+Version 1.3.58 (2024-06-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -87,10 +87,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
 
-- **Face Tracker** 0.7.1 (GPL)<br/>
+- **Face Tracker** 0.7.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.7.1/obs-face-tracker-0.7.1-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.7.2/obs-face-tracker-0.7.2-obs28-Windows.zip)
 
 - **Gradient Source** 0.3.2 (GPL)<br/>
   Source for Rendered Gradient<br/>
@@ -137,10 +137,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.3.1 (GPL)<br/>
+- **URL/API Source** 0.3.2 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.1/obs-urlsource-0.3.1-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.2/obs-urlsource-0.3.2-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.2 (GPL)<br/>
   Render Markup Text<br/>
