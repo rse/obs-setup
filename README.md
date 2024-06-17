@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.58 (2024-06-15)
+Version 1.3.59 (2024-06-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -585,7 +585,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://sammi.solutions/)
   [Download](https://sammi.solutions/docs/download)
 
-- **Deckboard** 3.0.0 (OPEN SOURCE)<br/>
+- **Deckboard** 3.0.1 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS<br/>
   [Homepage](https://deckboard.app/)
   [Download](https://github.com/rivafarabi/deckboard/releases)
