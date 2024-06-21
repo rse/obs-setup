@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.59 (2024-06-17)
+Version 1.3.60 (2024-06-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -256,10 +256,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Vertical Canvas** 1.4.2 (GPL)<br/>
+- **Vertical Canvas** 1.4.4 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.2/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.4/vertical-canvas-windows-installer.exe)
 
 - **Scene as a Transition** 1.1.0 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -334,10 +334,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0/obs-rtspserver-v3.1.0-windows-installer.exe)
 
-- **Teleport** 0.7.1 (GPL)<br/>
+- **Teleport** 0.7.2 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.1/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.2/obs-teleport.zip)
 
 - **xObsBeam** 1.0.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
