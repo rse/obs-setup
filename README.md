@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.60 (2024-06-21)
+Version 1.3.61 (2024-06-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -442,6 +442,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-localvocal)
   [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.1/obs-localvocal-0.3.1-windows-x64-Installer.exe)
 
+- **Squawk** 0.0.1 (GPL)<br/>
+  Local Text-to-Speech Generation<br/>
+  [Homepage](https://github.com/occ-ai/obs-squawk)
+  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.1/obs-squawk-0.0.1-windows-x64-Installer.exe)
+
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
   [Homepage](https://github.com/occ-ai/obs-polyglot)
@@ -463,6 +468,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.3/ChapterMarker-win64.zip)
+
+- **StreamUP Chapter Marker Manager** 1.0.1 (GPL)<br/>
+  Write Timestamps to Video Recorded Files<br/>
+  [Homepage](https://github.com/StreamUPTips/obs-chapter-marker-manager)
+  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.0.1/streamup-chapter-marker-manager-windows-installer-v1.0.1.zip)
 
 - **Local Stream Markers** 1.6 (GPL)<br/>
   Write Stream Markers to CSV File<br/>
