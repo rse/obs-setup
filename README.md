@@ -442,10 +442,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-localvocal)
   [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.1/obs-localvocal-0.3.1-windows-x64-Installer.exe)
 
-- **Squawk** 0.0.1 (GPL)<br/>
+- **Squawk** 0.0.2 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
   [Homepage](https://github.com/occ-ai/obs-squawk)
-  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.1/obs-squawk-0.0.1-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.2/obs-squawk-0.0.2-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
