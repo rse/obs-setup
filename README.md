@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.61 (2024-06-24)
+Version 1.3.62 (2024-06-29)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -235,7 +235,17 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.4/advanced-scene-switcher-windows-x64-Installer.exe)
-  
+
+- **Move (Transition)** 3.0.1 (GPL)<br/>
+  Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
+  [Homepage](https://github.com/exeldro/obs-move-transition)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5662/download?file=104545)
+
+- **Scene as a Transition** 1.1.1 (GPL)<br/>
+  Use a Scene as a Transition<br/>
+  [Homepage](https://github.com/andilippi/obs-scene-as-transition)
+  [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/5695/download?file=104916)
+
 - **Transition Table** 0.2.7 (GPL)<br/>
   Override Scene Transitions<br/>
   [Homepage](https://github.com/exeldro/obs-transition-table)
@@ -246,11 +256,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
 
-- **Move (Transition)** 3.0.1 (GPL)<br/>
-  Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
-  [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5662/download?file=104545)
-
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
@@ -260,11 +265,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
   [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.4/vertical-canvas-windows-installer.exe)
-
-- **Scene as a Transition** 1.1.0 (GPL)<br/>
-  Use a Scene as a Transition<br/>
-  [Homepage](https://github.com/andilippi/obs-scene-as-transition)
-  [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/4852/download?file=93175)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
