@@ -595,6 +595,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://sammi.solutions/)
   [Download](https://sammi.solutions/docs/download)
 
+- **Streamer.bot** 0.2.3 (FREEWARE)<br/>
+  Remote Control Deck for OBS Studio<br/>
+  [Homepage](https://streamer.bot/)
+  [Download](https://streamer.bot/)
+
 - **Deckboard** 3.0.1 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS<br/>
   [Homepage](https://deckboard.app/)
