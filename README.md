@@ -793,7 +793,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/reaby/loistoSYNC)
   [Download](http://reaby.kapsi.fi/dev/loistosync/)
 
-- **Voice Attack** 1.8.9 (FREEWARE)<br/>
+- **Voice Attack** 1.14 (FREEWARE)<br/>
   Voice Control Commands<br/>
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
@@ -808,30 +808,30 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://voicemeeter.com/)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3111.zip)
 
-- **VB Audio Matrix** 1.0.0.7 (COMMERCIAL)<br/>
+- **VB Audio Matrix** 1.0.1.0 (COMMERCIAL)<br/>
   Audio Router for ASIO/Windows/VAIO/VBAN devices<br/>
   [Homepage](https://vb-audio.com/Matrix/index.htm)
-  [Download](https://download.vb-audio.com/Download_Mixer/VBAudioMatrix_Setup_v1007.zip)
+  [Download](https://download.vb-audio.com/Download_Mixer/VBAudioMatrix_Setup_v1010.zip)
 
 - **LoopMIDI** 1.0.16.27 (COMMERCIAL)<br/>
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.13.5 (FREEWARE)<br/>
+- **OcenAudio** 3.13.8 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.4.2 (GPL)<br/>
+- **Audacity** 3.5.1 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.5.1/audacity-win-3.5.1-x64.exe)
 
-- **Cantabile** 4-4168 (FREEWARE)<br/>
+- **Cantabile** 4-4191 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4168.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4191.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -855,20 +855,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://livemind.tv/recorder/)
   [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
-- **Lossless Cut** 3.59.1 (GPL)<br/>
+- **Lossless Cut** 3.61.1 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.59.1/LosslessCut-win-x64.7z)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.61.1/LosslessCut-win-x64.7z)
 
-- **Shutter Encoder** 18.0 ()<br/>
+- **Shutter Encoder** 18.2 (FREEWARE)<br/>
   Audio/Video Cutter<br/>
   [Homepage](https://www.shutterencoder.com/)
   [Download](https://www.shutterencoder.com/)
 
-- **Shotcut** 24.02.29 (GPL)<br/>
+- **Shotcut** 24.06.26 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v24.02.29/shotcut-win64-240229.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v24.06.26/shotcut-win64-240626.exe)
 
 - **Blackmagicdesign DaVinci Resolve** 19.0 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
