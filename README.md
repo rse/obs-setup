@@ -565,15 +565,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.touch-portal.com)
   [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
 
-- **Sammi (formerly LioranBoard)** 2.0 (OPEN SOURCE)<br/>
-  Remote Control Deck for OBS Studio<br/>
-  [Homepage](https://sammi.solutions/)
-  [Download](https://sammi.solutions/docs/download)
-
 - **Streamer.bot** 0.2.3 (FREEWARE)<br/>
   Remote Control Deck for OBS Studio<br/>
   [Homepage](https://streamer.bot/)
   [Download](https://streamer.bot/)
+
+- **Sammi (formerly LioranBoard)** 2.0 (OPEN SOURCE)<br/>
+  Remote Control Deck for OBS Studio<br/>
+  [Homepage](https://sammi.solutions/)
+  [Download](https://sammi.solutions/docs/download)
 
 - **OBS WebSocket JS** 5.0.5 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
