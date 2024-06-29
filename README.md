@@ -29,9 +29,9 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
-- **OBS NDI** 4.13.2/6.0.1.0 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 4.13.2/6.0.1.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
-  [Homepage](https://github.com/obs-ndi/obs-ndi)
+  [Homepage](https://github.com/DistroAV/DistroAV/)
   [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.2/obs-ndi-4.13.2-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
 
