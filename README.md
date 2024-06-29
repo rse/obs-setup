@@ -545,6 +545,36 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Remote Control Clients
 
+- **Stream Deck** 6.3.0 (COMMERCIAL)<br/>
+  Remote Control Deck for Android/iOS<br/>
+  [Homepage](https://www.elgato.com/en/stream-deck)
+  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.3.0.18948.msi)
+
+- **Companion** 3.0.2 (OPEN SOURCE)<br/>
+  Remote Control Deck for Elgato Streamdeck<br/>
+  [Homepage](https://bitfocus.io/companion)
+  [Download](https://bitfocus.io/companion)
+
+- **TouchOSC** 1.3.1.204 (COMMERCIAL)<br/>
+  Remote Control Deck<br/>
+  [Homepage](https://hexler.net/touchosc)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.3.1.204-win-x64.exe)
+
+- **Touch Portal** 3.1.12 (FREEWARE)<br/>
+  Remote Control Deck<br/>
+  [Homepage](https://www.touch-portal.com)
+  [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
+
+- **Sammi (formerly LioranBoard)** 2.0 (OPEN SOURCE)<br/>
+  Remote Control Deck for OBS Studio<br/>
+  [Homepage](https://sammi.solutions/)
+  [Download](https://sammi.solutions/docs/download)
+
+- **Streamer.bot** 0.2.3 (FREEWARE)<br/>
+  Remote Control Deck for OBS Studio<br/>
+  [Homepage](https://streamer.bot/)
+  [Download](https://streamer.bot/)
+
 - **OBS WebSocket JS** 5.0.5 (MIT)<br/>
   JavaScript Application Programming Interface (API) for OBS WebSockets API (for use from OBS docks)<br/>
   [Homepage](https://github.com/obs-websocket-community-projects/obs-websocket-js)
@@ -570,11 +600,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/REALDRAGNET/OBSCommand)
   [Download](https://github.com/REALDRAGNET/OBSCommand/releases/download/1.6.3/OBSCommand_1.6.3.zip)
 
-- **TouchOSC** 1.3.1.204 (COMMERCIAL)<br/>
-  Remote Control Deck<br/>
-  [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.3.1.204-win-x64.exe)
-
 - **MATRIC** 2.6.23 (FREEWARE)<br/>
   Remote Control Deck<br/>
   [Homepage](https://matricapp.com/)
@@ -585,35 +610,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/nuttylmao/NOOBS-CMDR)
   [Download](https://github.com/nuttylmao/NOOBS-CMDR/releases/download/V1.0.3/NOOBS.CMDR.V1.0.3.zip)
 
-- **Touch Portal** 3.1.12 (FREEWARE)<br/>
-  Remote Control Deck<br/>
-  [Homepage](https://www.touch-portal.com)
-  [Download](https://www.touch-portal.com/downloads/TouchPortal_Setup_release.exe)
-
-- **Sammi (formerly LioranBoard)** 2.0 (OPEN SOURCE)<br/>
-  Remote Control Deck for OBS Studio<br/>
-  [Homepage](https://sammi.solutions/)
-  [Download](https://sammi.solutions/docs/download)
-
-- **Streamer.bot** 0.2.3 (FREEWARE)<br/>
-  Remote Control Deck for OBS Studio<br/>
-  [Homepage](https://streamer.bot/)
-  [Download](https://streamer.bot/)
-
 - **Deckboard** 3.0.1 (OPEN SOURCE)<br/>
   Remote Control Deck for OBS<br/>
   [Homepage](https://deckboard.app/)
   [Download](https://github.com/rivafarabi/deckboard/releases)
-
-- **Stream Deck** 6.3.0 (COMMERCIAL)<br/>
-  Remote Control Deck for Android/iOS<br/>
-  [Homepage](https://www.elgato.com/en/stream-deck)
-  [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.3.0.18948.msi)
-
-- **Companion** 3.0.2 (OPEN SOURCE)<br/>
-  Remote Control Deck for Elgato Streamdeck<br/>
-  [Homepage](https://bitfocus.io/companion)
-  [Download](https://bitfocus.io/companion)
 
 - **MIDIControl** 2.0.5 (FREEWARE)<br/>
   Remote Control OBS via MIDI<br/>
@@ -634,6 +634,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Twitch/OBS Integration<br/>
   [Homepage](https://github.com/LordTocs/CastMate)
   [Download](https://github.com/LordTocs/CastMate/releases/download/v0.4.9/CastMate_0.4.9.exe)
+
+- **OBSwitcher** 0 (AGPL)<br/>
+  OBS Remote Scene Switcher<br/>
+  [Homepage](http://www.cvhvisuals.com/obswitcher.html)
+  [Download](http://www.cvhvisuals.com/obswitcher.html)
 
 ### Themes
 
