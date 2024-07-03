@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.62 (2024-06-29)
+Version 1.3.63 (2024-07-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -437,15 +437,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.9/obs-cleanstream-0.0.9-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.1 (GPL)<br/>
+- **LocalVocal** 0.3.2 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.1/obs-localvocal-0.3.1-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.2/obs-localvocal-0.3.2-windows-x64-Installer.exe)
 
-- **Squawk** 0.0.2 (GPL)<br/>
+- **Squawk** 0.0.3 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
   [Homepage](https://github.com/occ-ai/obs-squawk)
-  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.2/obs-squawk-0.0.2-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.3/obs-squawk-0.0.3-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
