@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.63 (2024-07-03)
+Version 1.3.64 (2024-07-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -186,6 +186,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   NVIDIA RTX Super Resolution Upscaler<br/>
   [Homepage](https://github.com/Bemjo/OBS-RTX-SuperResolution/)
   [Download](https://github.com/Bemjo/OBS-RTX-SuperResolution/releases/download/v1.2/release.zip)
+
+- **Retro Effects** 1.0.0 (GPL)<br/>
+  Many Retro Shader Effects<br/>
+  [Homepage](https://github.com/FiniteSingularity/obs-retro-effects/)
+  [Download](https://github.com/FiniteSingularity/obs-retro-effects/releases/download/1.0.0/obs-retro-effects-1.0.0-windows-installer.zip)
 
 ### Plugins: Scene/Source Management
 
@@ -469,10 +474,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.3/ChapterMarker-win64.zip)
 
-- **StreamUP Chapter Marker Manager** 1.0.1 (GPL)<br/>
+- **StreamUP Chapter Marker Manager** 1.0.2 (GPL)<br/>
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/StreamUPTips/obs-chapter-marker-manager)
-  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.0.1/streamup-chapter-marker-manager-windows-installer-v1.0.1.zip)
+  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.0.2/streamup-chapter-marker-manager-windows-installer-v1.0.2.zip)
 
 - **Local Stream Markers** 1.6 (GPL)<br/>
   Write Stream Markers to CSV File<br/>
