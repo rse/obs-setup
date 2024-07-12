@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.65 (2024-07-09)
+Version 1.3.66 (2024-07-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -344,10 +344,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/fzwoch/obs-teleport)
   [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.2/obs-teleport.zip)
 
-- **xObsBeam** 1.0.0 (GPL)<br/>
+- **xObsBeam** 1.1.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
-  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v1.0.0/xObsBeam-win-x64.7z)
+  [Download](https://github.com/YorVeX/xObsBeam/releases/download/v1.1.0/xObsBeam-win-x64.7z)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
