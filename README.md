@@ -283,10 +283,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/5563/download?file=103325)
 
-- **Virtual Cam** 2.1.0 (GPL)<br/>
+- **Virtual Cam** 3.1.0 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
-  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.0/obs-virtualcam-2.1.0-windows-x64-Installer.exe)
+  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/3.1.1/obs-virtualcam-3.1.1-windows-x64-Installer.exe)
 
 - **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   OBSOLETE: Export Source Video To (Virtual) Camera Device<br/>
