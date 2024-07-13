@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.66 (2024-07-12)
+Version 1.3.67 (2024-07-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -158,19 +158,9 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://obsproject.com/forum/resources/9-slice-filter-plugin.1662/download)
 
 - **Frame Interleave** 0.0.0 (GPL)<br/>
-  Interleaves Video Frames to reduce CPU/GPU usage<br/>
+  Interleaves Video Frames for non-Program display to reduce CPU/GPU usage<br/>
   [Homepage](https://github.com/norihiro/obs-frame-interleave-filter/)
   [Download](https://github.com/norihiro/obs-frame-interleave-filter/releases/download/0.1.1/obs-frame-interleave-filter-0.1.1-obs27-Windows.zip)
-
-- **FreeFX** 0.12.0b299 (GPL)<br/>
-  Powerful Filters (Shaders, etc) and Source Mirror Source (StreamFX Clone)<br/>
-  [Homepage](https://github.com/xoxfaby/obs-StreamFX)
-  [Download](https://github.com/xoxfaby/obs-StreamFX/releases/download/0.12.0b299/streamfx-windows-installer.exe)
-
-- **StreamFX** 1.0.0b443 (GPL)<br/>
-  OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
-  [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX)
 
 - **OCR - Text Recognition** 0.0.7 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
@@ -191,6 +181,16 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Many Retro Shader Effects<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-retro-effects/)
   [Download](https://github.com/FiniteSingularity/obs-retro-effects/releases/download/1.0.0/obs-retro-effects-1.0.0-windows-installer.zip)
+
+- **FreeFX** 0.12.0b299 (GPL)<br/>
+  OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source (StreamFX Clone)<br/>
+  [Homepage](https://github.com/xoxfaby/obs-StreamFX)
+  [Download](https://github.com/xoxfaby/obs-StreamFX/releases/download/0.12.0b299/streamfx-windows-installer.exe)
+
+- **StreamFX** 1.0.0b443 (GPL)<br/>
+  OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
+  [Homepage](https://github.com/Xaymar/obs-StreamFX)
+  [Download](https://github.com/Xaymar/obs-StreamFX)
 
 ### Plugins: Scene/Source Management
 
@@ -283,10 +283,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/5563/download?file=103325)
 
-- **Virtual Cam** 3.1.0 (GPL)<br/>
+- **Virtual Cam** 2.1.0/3.1.0 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
-  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/3.1.1/obs-virtualcam-3.1.1-windows-x64-Installer.exe)
+  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.0/obs-virtualcam-2.0.12-windows-x64-Installer.exe)
 
 - **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   OBSOLETE: Export Source Video To (Virtual) Camera Device<br/>
@@ -555,7 +555,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.elgato.com/en/stream-deck)
   [Download](https://edge.elgato.com/egc/windows/sd/Stream_Deck_6.3.0.18948.msi)
 
-- **Companion** 3.0.2 (OPEN SOURCE)<br/>
+- **Companion** 3.3.1 (OPEN SOURCE)<br/>
   Remote Control Deck for Elgato Streamdeck<br/>
   [Homepage](https://bitfocus.io/companion)
   [Download](https://bitfocus.io/companion)
