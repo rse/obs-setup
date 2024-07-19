@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.67 (2024-07-13)
+Version 1.3.68 (2024-07-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 30.1.2 (GPL)<br/>
+- **OBS Studio** 30.2.0 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/30.1.2/OBS-Studio-30.1.2-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/30.2.0/OBS-Studio-30.2.0-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -167,10 +167,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-ocr)
   [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.7/obs-ocr-0.0.7-windows-x64-Installer.exe)
 
-- **Encoder Region of Interest Editor** 1.1.0 (GPL)<br/>
+- **Encoder Region of Interest Editor** 1.1.1 (GPL)<br/>
   Encoder Optimization Hint for Region of Interest<br/>
   [Homepage](https://github.com/derrod/obs-roi-ui)
-  [Download](https://github.com/derrod/obs-roi-ui/releases/download/1.1.0/obs-roi-ui-1.1.0-windows-x64-Installer.exe)
+  [Download](https://github.com/derrod/obs-roi-ui/releases/download/1.1.1/obs-roi-ui-1.1.1-windows-x64-Installer.exe)
 
 - **RTX SuperResolution** 1.2 (GPL)<br/>
   NVIDIA RTX Super Resolution Upscaler<br/>
@@ -241,10 +241,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.26.4/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.0.1 (GPL)<br/>
+- **Move (Transition)** 3.0.2 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5662/download?file=104545)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5740/download?file=105506)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -283,10 +283,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/5563/download?file=103325)
 
-- **Virtual Cam** 2.1.0/3.1.0 (GPL)<br/>
+- **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
-  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.0/obs-virtualcam-2.0.12-windows-x64-Installer.exe)
+  [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
 
 - **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   OBSOLETE: Export Source Video To (Virtual) Camera Device<br/>
@@ -437,15 +437,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.0.9 (GPL)<br/>
+- **CleanStream** 0.1.0 (GPL)<br/>
   Um-Removal<br/>
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
-  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.0.9/obs-cleanstream-0.0.9-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.0/obs-cleanstream-0.1.0-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.2 (GPL)<br/>
+- **LocalVocal** 0.3.3 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.2/obs-localvocal-0.3.2-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.3/obs-localvocal-0.3.3-windows-x64-Installer.exe)
 
 - **Squawk** 0.0.3 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
@@ -526,10 +526,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
   [Download](https://github.com/GrandMastersOnline/obs-lottie/releases/download/v1.1.1/obs-lottie-1.1.1-windows-x64-Installer.exe)
 
-- **DroidCam OBS Camera** 2.3.2 (GPL)<br/>
+- **DroidCam OBS Camera** 2.3.3 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
-  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.2/DroidCamOBS.Setup.2.3.2.exe)
+  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.3/DroidCamOBS.Setup.2.3.3.exe)
 
 ### Plugins: Remote Control
 
