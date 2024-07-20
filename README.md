@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.68 (2024-07-19)
+Version 1.3.69 (2024-07-21)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -137,10 +137,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.3.3 (GPL)<br/>
+- **URL/API Source** 0.3.4 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.3/obs-urlsource-0.3.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.4/obs-urlsource-0.3.4-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.3 (GPL)<br/>
   Render Markup Text<br/>
@@ -313,10 +313,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5439/download?file=101585)
 
-- **Muted Notification** 1.0.1 (GPL)<br/>
+- **Muted Notification** 1.0.2 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
   [Homepage](https://git.vrsal.xyz/alex/urmuted)
-  [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.1/urmuted-1.0.1-windows-x64-Installer.exe)
+  [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.2/urmuted-1.0.2-windows-x64-Installer.exe)
 
 - **VBAN Audio** 0.2.3 (GPL)<br/>
   Audio Source from and to VBAN (Audio over UDP) for VoiceMeeter<br/>
@@ -395,10 +395,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.6.1 (GPL)<br/>
-  Visualize Colors for Debugging Purposes<br/>
+- **Color Monitor** 0.7.0 (GPL)<br/>
+  Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.6.1/obs-color-monitor-0.6.1-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.7.0/obs-color-monitor-0.7.0-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.1 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
