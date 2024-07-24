@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.69 (2024-07-21)
+Version 1.3.70 (2024-07-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 30.2.0 (GPL)<br/>
+- **OBS Studio** 30.2.2 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/30.2.0/OBS-Studio-30.2.0-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/30.2.2/OBS-Studio-30.2.2-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -234,6 +234,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/CodeYan01/source-defaults)
   [Download](https://github.com/CodeYan01/source-defaults/releases/download/v1.1.1/source-defaults-1.1.1-windows-x64-Installer.exe)
 
+- **jrDockie** 1.3 (GPL)<br/>
+  Save/Load Dock Settings<br/>
+  [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
+  [Download](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/download)
+
 ### Plugins: Scene/Source Control
 
 - **Advanced Scene Switcher** 1.26.4 (GPL)<br/>
@@ -266,10 +271,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Vertical Canvas** 1.4.4 (GPL)<br/>
+- **Vertical Canvas** 1.4.7 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.4/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.7/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
@@ -447,10 +452,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-localvocal)
   [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.3/obs-localvocal-0.3.3-windows-x64-Installer.exe)
 
-- **Squawk** 0.0.3 (GPL)<br/>
+- **Squawk** 0.0.4 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
   [Homepage](https://github.com/occ-ai/obs-squawk)
-  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.3/obs-squawk-0.0.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.4/obs-squawk-0.0.4-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
@@ -501,10 +506,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/nleseul/obs-ghostscript)
   [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
 
-- **VNC Plugin** 0.6.0 (GPL)<br/>
+- **VNC Source** 0.6.1 (GPL)<br/>
   OBSOLETE: Display Remote Desktop via VNC<br/>
   [Homepage](https://github.com/norihiro/obs-vnc)
-  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.6.0/obs-vnc-0.6.0-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.6.1/obs-vnc-0.6.1-Windows-Installer.exe)
 
 - **Spout Plugin** 1.8 (GPL)<br/>
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
