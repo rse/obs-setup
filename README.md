@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.70 (2024-07-24)
+Version 1.3.71 (2024-07-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -24,16 +24,16 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Essential Extensions
 
-- **OBS WebSocket** 4.9.1-compat (GPL)<br/>
-  Remote Control via OLD WebSockets (for StreamDeck, etc)<br/>
-  [Homepage](https://github.com/Palakis/obs-websocket)
-  [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
-
-- **DistroAV (formerly OBS NDI)** 4.13.2/6.0.1.0 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 4.14.0/6.0.1.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/DistroAV/DistroAV/)
-  [Download](https://github.com/obs-ndi/obs-ndi/releases/download/4.13.2/obs-ndi-4.13.2-windows-x64-Installer.exe)
+  [Download](https://github.com/DistroAV/DistroAV/releases/download/4.14.0/obs-ndi-4.14.0-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
+
+- **OBS WebSocket** 4.9.1-compat (GPL)<br/>
+  OBSOLETE: Remote Control via OLD WebSockets (for StreamDeck, etc)<br/>
+  [Homepage](https://github.com/Palakis/obs-websocket)
+  [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
 
 ### Plugins: Visual Effects
 
