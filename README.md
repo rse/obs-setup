@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.71 (2024-07-27)
+Version 1.3.72 (2024-08-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -24,10 +24,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Essential Extensions
 
-- **DistroAV (formerly OBS NDI)** 4.14.0/6.0.1.0 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 4.14.1/6.0.1.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/DistroAV/DistroAV/)
-  [Download](https://github.com/DistroAV/DistroAV/releases/download/4.14.0/obs-ndi-4.14.0-windows-x64-Installer.exe)
+  [Download](https://github.com/DistroAV/DistroAV/releases/download/4.14.1/obs-ndi-4.14.1-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
 
 - **OBS WebSocket** 4.9.1-compat (GPL)<br/>
@@ -209,10 +209,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5650/download?file=104359)
 
-- **Replay Source** 1.7.0 (GPL)<br/>
+- **Replay Source** 1.8.0 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
   [Homepage](https://github.com/exeldro/obs-replay-source)
-  [Download](https://obsproject.com/forum/resources/replay-source.686/version/5431/download?file=101382)
+  [Download](https://obsproject.com/forum/resources/replay-source.686/version/5778/download?file=106475)
 
 - **Directory Watch Media** 0.7.0 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
@@ -271,7 +271,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Vertical Canvas** 1.4.7 (GPL)<br/>
+- **Aitum Vertical** 1.4.7 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
   [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.7/vertical-canvas-windows-installer.exe)
@@ -292,6 +292,27 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
+
+- **Aitum Multistream** 1.0.1 (GPL)<br/>
+  Multiple RTMP Outputs<br/>
+  [Homepage](https://github.com/Aitum/obs-aitum-multistream)
+  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.1/aitum-multistream-windows-installer.exe)
+
+- **Branch Output** 0.9.4 (GPL)<br/>
+  Multiple RTMP/SRT Outputs as a Source Filter<br/>
+  [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.4/osi-branch-output-0.9.4-windows-x64-Installer.exe)
+
+- **Multi RTMP** 0.5.0.4 (GPL)<br/>
+  Multiple RTMP Outputs<br/>
+  [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
+  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.5.0.4-flatpak/obs-multi-rtmp-0.5.0.4-windows-x64-Installer.exe)
+
+- **GStreamer** 0.4.1/1.24.3 (GPL)<br/>
+  GStreamer Integration<br/>
+  [Homepage](https://github.com/fzwoch/obs-gstreamer)
+  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.4.1/obs-gstreamer.zip)
+  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.24.6/mingw/gstreamer-1.0-mingw-x86_64-1.24.6.msi)
 
 - **Virtual Cam Filter** 0.0.6 (GPL)<br/>
   OBSOLETE: Export Source Video To (Virtual) Camera Device<br/>
@@ -327,17 +348,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Audio Source from and to VBAN (Audio over UDP) for VoiceMeeter<br/>
   [Homepage](https://github.com/norihiro/obs-vban/)
   [Download](https://github.com/norihiro/obs-vban/releases/download/0.2.3/obs-vban-0.2.3-obs27-Windows.zip)
-
-- **Multi RTMP** 0.5.0.4 (GPL)<br/>
-  Multiple RTMP Outputs<br/>
-  [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
-  [Download](https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.5.0.4-flatpak/obs-multi-rtmp-0.5.0.4-windows-x64-Installer.exe)
-
-- **GStreamer** 0.4.0/1.24.3 (GPL)<br/>
-  GStreamer Integration<br/>
-  [Homepage](https://github.com/fzwoch/obs-gstreamer)
-  [Download](https://github.com/fzwoch/obs-gstreamer/releases/download/v0.4.0/obs-gstreamer.zip)
-  [Download](https://gstreamer.freedesktop.org/data/pkg/windows/1.24.3/mingw/gstreamer-1.0-mingw-x86_64-1.24.3.msi)
 
 - **RTSP Server** 3.1.0 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
@@ -447,10 +457,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.0/obs-cleanstream-0.1.0-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.3 (GPL)<br/>
+- **LocalVocal** 0.3.4 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.3/obs-localvocal-0.3.3-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.4/obs-localvocal-0.3.4-windows-x64-Installer.exe)
 
 - **Squawk** 0.0.4 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
@@ -479,10 +489,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.3/ChapterMarker-win64.zip)
 
-- **StreamUP Chapter Marker Manager** 1.0.2 (GPL)<br/>
+- **StreamUP Chapter Marker Manager** 1.1.0 (GPL)<br/>
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/StreamUPTips/obs-chapter-marker-manager)
-  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.0.2/streamup-chapter-marker-manager-windows-installer-v1.0.2.zip)
+  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.1.0/streamup-chapter-marker-manager-windows-installer-v1.1.0.zip)
 
 - **Local Stream Markers** 1.6 (GPL)<br/>
   Write Stream Markers to CSV File<br/>
