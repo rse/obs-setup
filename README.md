@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.72 (2024-08-05)
+Version 1.3.73 (2024-08-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -271,10 +271,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Aitum Vertical** 1.4.7 (GPL)<br/>
+- **Aitum Vertical** 1.4.8 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.7/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.8/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
@@ -293,15 +293,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
 
-- **Aitum Multistream** 1.0.1 (GPL)<br/>
+- **Aitum Multistream** 1.0.2 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
-  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.1/aitum-multistream-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.2/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.4 (GPL)<br/>
+- **Branch Output** 0.9.5 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.4/osi-branch-output-0.9.4-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.5/osi-branch-output-0.9.5-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
