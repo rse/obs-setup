@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.74 (2024-08-15)
+Version 1.3.75 (2024-08-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 30.2.2 (GPL)<br/>
+- **OBS Studio** 30.2.3 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/30.2.2/OBS-Studio-30.2.2-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/30.2.3/OBS-Studio-30.2.3-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -241,10 +241,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.27.0 (GPL)<br/>
+- **Advanced Scene Switcher** 1.27.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.0/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.1/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.0.2 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -410,10 +410,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.7.0 (GPL)<br/>
+- **Color Monitor** 0.7.1 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.7.0/obs-color-monitor-0.7.0-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.7.1/obs-color-monitor-0.7.0-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.1 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
