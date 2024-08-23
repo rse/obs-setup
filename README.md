@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.75 (2024-08-18)
+Version 1.3.76 (2024-08-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -137,10 +137,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.3.4 (GPL)<br/>
+- **URL/API Source** 0.3.5 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.4/obs-urlsource-0.3.4-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.5/obs-urlsource-0.3.5-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.3 (GPL)<br/>
   Render Markup Text<br/>
@@ -298,10 +298,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.2/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.5 (GPL)<br/>
+- **Branch Output** 0.9.7 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.5/osi-branch-output-0.9.5-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.7/osi-branch-output-0.9.7-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -741,7 +741,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/)
   [Download](https://obsproject.com/forum/resources/count-down-adaptive-time-with-auto-recording-scene-switcher.719/download)
 
-- **Comprehensive Stopwatch & Countdown Timer** 5.8 (GPL)<br/>
+- **Comprehensive Stopwatch & Countdown Timer** 5.9 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
@@ -791,10 +791,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/3-axis-color-correction.1472/)
   [Download](https://obsproject.com/forum/resources/3-axis-color-correction.1472/download)
 
-- **OBS Visca-over-IP Control** 2.5 (GPL)<br/>
+- **OBS Visca-over-IP Control** 2.6 (GPL)<br/>
   Control PTZ Cameras with VISCA-over-IP/UDP<br/>
   [Homepage](https://github.com/vwout/obs-visca-control)
-  [Download](https://github.com/vwout/obs-visca-control/releases/download/2.5/obs-visca-control-2.5.zip)
+  [Download](https://github.com/vwout/obs-visca-control/releases/download/2.6/obs-visca-control-2.6.zip)
 
 - **Audio Status Monitor** 0.7 (GPL)<br/>
   Audio Status Monitoring Dock<br/>
