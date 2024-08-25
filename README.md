@@ -660,28 +660,6 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](http://www.cvhvisuals.com/obswitcher.html)
   [Download](http://www.cvhvisuals.com/obswitcher.html)
 
-### Themes
-
-- **Ocean Blue** 0.1 (GPL)<br/>
-  OBS Theme (Grey/Blue)<br/>
-  [Homepage](https://obsproject.com/forum/resources/ocean-blue.1327/)
-  [Download](https://github.com/Xaymar/obs-oceanblue/releases/download/0.1/OceanBlue-0.1.zip)
-
-- **Flat Dark** 1.6.3 (GPL)<br/>
-  OBS Theme (Grey)<br/>
-  [Homepage](https://obsproject.com/forum/resources/flat-dark-theme.616/)
-  [Download](https://obsproject.com/forum/resources/flat-dark-theme.616/download)
-
-- **Cooliguay** 1.3 (GPL)<br/>
-  OBS Theme (Grey/Purple)<br/>
-  [Homepage](https://obsproject.com/forum/resources/cooliguay-theme.1405/)
-  [Download](https://obsproject.com/forum/resources/cooliguay-theme.1405/download)
-
-- **Streamlabs** 8.0.2 (GPL)<br/>
-  OBS Theme (Grey/Cyan/Purple)<br/>
-  [Homepage](https://obsproject.com/forum/resources/streamlabs-theme.887/)
-  [Download](https://obsproject.com/forum/resources/streamlabs-theme.887/download)
-
 ### Browser Sources
 
 - **RSE Crop Control** 1.0.0 (GPL)<br/>
@@ -803,6 +781,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Companion Audio Tools
 
+- **Youlean Loudness Meter** 2.4.3 (FREEWARE)<br/>
+  Audio Analyzer<br/>
+  [Homepage](https://youlean.co/youlean-loudness-meter/)
+  [Download](https://cdn.youlean.co/wp-content/uploads/2021/02/Youlean-Loudness-Meter-2-V2.4.3-Windows-2.zip)
+
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
   Audio/Video Synchronization Tool (Video-Based)<br/>
   [Homepage](http://obsaudiosync.com/)
@@ -823,10 +806,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac470.exe)
 
-- **VoiceMeeter Potato** 3.1.1.1 (COMMERCIAL)<br/>
+- **VoiceMeeter Potato** 3.1.1.3 (COMMERCIAL)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://voicemeeter.com/)
-  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3111.zip)
+  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3113.zip)
 
 - **VB Audio Matrix** 1.0.1.0 (COMMERCIAL)<br/>
   Audio Router for ASIO/Windows/VAIO/VBAN devices<br/>
@@ -838,15 +821,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.13.8 (FREEWARE)<br/>
+- **OcenAudio** 3.14.1 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.5.1 (GPL)<br/>
+- **Audacity** 3.6.1 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.5.1/audacity-win-3.5.1-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.6.1/audacity-win-3.6.1-x64.exe)
 
 - **Cantabile** 4-4195 (FREEWARE)<br/>
   VST Host<br/>
@@ -891,7 +874,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe)
 
 - **MediaInfo** 24.06 (GPL)<br/>
-  Video Analyzer<br/>
+  Audio/Video Analyzer<br/>
   [Homepage](https://mediaarea.net/en/MediaInfo)
   [Download](https://mediaarea.net/download/binary/mediainfo-gui/24.06/MediaInfo_GUI_24.06_Windows.exe)
 
