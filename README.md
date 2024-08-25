@@ -890,6 +890,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe)
 
+- **MediaInfo** 24.06 (GPL)<br/>
+  Video Analyzer<br/>
+  [Homepage](https://mediaarea.net/en/MediaInfo)
+  [Download](https://mediaarea.net/download/binary/mediainfo-gui/24.06/MediaInfo_GUI_24.06_Windows.exe)
+
 - **Blackmagicdesign DaVinci Resolve** 19.0 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
