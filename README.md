@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.76 (2024-08-23)
+Version 1.3.77 (2024-08-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -241,10 +241,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.27.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.27.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.2/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.0.2 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -848,10 +848,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.5.1/audacity-win-3.5.1-x64.exe)
 
-- **Cantabile** 4-4191 (FREEWARE)<br/>
+- **Cantabile** 4-4195 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4191.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4195.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -865,20 +865,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Companion Video Tools
 
-- **Vingester** 2.8.0 (GPL)<br/>
-  Web Contents Ingesting Tool (NDI-enabled)<br/>
-  [Homepage](https://vingester.app/)
-  [Download](https://github.oscdn.org/rse/vingester/2.8.0/Vingester-win-x64.zip)
-
-- **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
-  NDI MultiViewer and Recorder<br/>
-  [Homepage](https://livemind.tv/recorder/)
-  [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
-
-- **Lossless Cut** 3.61.1 (GPL)<br/>
+- **Lossless Cut** 3.62.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.61.1/LosslessCut-win-x64.7z)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.62.0/LosslessCut-win-x64.7z)
 
 - **Shutter Encoder** 18.2 (FREEWARE)<br/>
   Audio/Video Cutter<br/>
@@ -890,6 +880,16 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://shotcut.org/)
   [Download](https://github.com/mltframework/shotcut/releases/download/v24.06.26/shotcut-win64-240626.exe)
 
+- **Handbrake** 1.8.2 (GPL)<br/>
+  Video Converter<br/>
+  [Homepage](https://handbrake.fr/)
+  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.8.2-x86_64-Win_GUI.exe)
+
+- **VLC** 3.0.21 (GPL)<br/>
+  Video Player<br/>
+  [Homepage](https://www.videolan.org/vlc/)
+  [Download](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe)
+
 - **Blackmagicdesign DaVinci Resolve** 19.0 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
@@ -900,15 +900,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://kdenlive.org/en/)
   [Download](https://download.kde.org/stable/kdenlive/24.02/windows/kdenlive-24.02.0.exe)
 
-- **Handbrake** 1.7.3 (GPL)<br/>
-  Video Converter<br/>
-  [Homepage](https://handbrake.fr/)
-  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.7.1-x86_64-Win_GUI.exe)
+- **Vingester** 2.8.0 (GPL)<br/>
+  Web Contents Ingesting Tool (NDI-enabled)<br/>
+  [Homepage](https://vingester.app/)
+  [Download](https://github.oscdn.org/rse/vingester/2.8.0/Vingester-win-x64.zip)
 
-- **VLC** 3.0.20 (GPL)<br/>
-  Video Player<br/>
-  [Homepage](https://www.videolan.org/vlc/)
-  [Download](https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe)
+- **Livemind Recorder** 0.9.4 (COMMERCIAL)<br/>
+  NDI MultiViewer and Recorder<br/>
+  [Homepage](https://livemind.tv/recorder/)
+  [Download](https://dev.livemind.tv/download/?file=recorder/LivemindRecorder_v0.9.4.0.exe)
 
 - **CamooZ** 7.4.2 (FREEWARE)<br/>
   Camera Settings Management<br/>
