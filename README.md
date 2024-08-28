@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.77 (2024-08-25)
+Version 1.3.78 (2024-08-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -271,10 +271,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Aitum Vertical** 1.4.8 (GPL)<br/>
+- **Aitum Vertical** 1.4.9 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.8/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.9/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
