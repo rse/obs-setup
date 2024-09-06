@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.78 (2024-08-28)
+Version 1.3.79 (2024-09-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -238,6 +238,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Save/Load Dock Settings<br/>
   [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
   [Download](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/download)
+
+- **Quick Access Utility (QAU)** 1.0.1 (GPL)<br/>
+  Quick Source/Scene Access Dock<br/>
+  [Homepage](https://github.com/FiniteSingularity/obs-quick-access-utility)
+  [Download](https://github.com/FiniteSingularity/obs-quick-access-utility/releases/download/1.0.1/obs-quick-access-utility-1.0.1-windows-x64-Installer.exe)
 
 ### Plugins: Scene/Source Control
 
