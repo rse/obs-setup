@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.79 (2024-09-06)
+Version 1.3.80 (2024-09-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -462,10 +462,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.0/obs-cleanstream-0.1.0-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.4 (GPL)<br/>
+- **LocalVocal** 0.3.5 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.4/obs-localvocal-0.3.4-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.5/obs-localvocal-0.3.5-windows-x64-Installer.exe)
 
 - **Squawk** 0.0.4 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
