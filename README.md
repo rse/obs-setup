@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.80 (2024-09-13)
+Version 1.3.81 (2024-09-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -457,10 +457,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.1.0 (GPL)<br/>
+- **CleanStream** 0.1.2 (GPL)<br/>
   Um-Removal<br/>
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
-  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.0/obs-cleanstream-0.1.0-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.2/obs-cleanstream-0.1.2-windows-x64-Installer.exe)
 
 - **LocalVocal** 0.3.5 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
@@ -499,7 +499,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/StreamUPTips/obs-chapter-marker-manager)
   [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.1.0/streamup-chapter-marker-manager-windows-installer-v1.1.0.zip)
 
-- **Local Stream Markers** 1.6 (GPL)<br/>
+- **Local Stream Markers** 1.10 (GPL)<br/>
   Write Stream Markers to CSV File<br/>
   [Homepage](https://obsproject.com/forum/resources/local-stream-marker.1457/)
   [Download](https://obsproject.com/forum/resources/local-stream-marker.1457/download)
