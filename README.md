@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.81 (2024-09-16)
+Version 1.3.82 (2024-09-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -303,10 +303,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.2/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.7 (GPL)<br/>
+- **Branch Output** 0.9.8 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.7/osi-branch-output-0.9.7-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.8/osi-branch-output-0.9.8-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -826,20 +826,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **OcenAudio** 3.14.1 (FREEWARE)<br/>
+- **OcenAudio** 3.14.3 (FREEWARE)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.6.1 (GPL)<br/>
+- **Audacity** 3.6.4 (GPL)<br/>
   Audio Editor<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.6.1/audacity-win-3.6.1-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.6.4/audacity-win-3.6.4-x64.exe)
 
-- **Cantabile** 4-4195 (FREEWARE)<br/>
+- **Cantabile** 4-4196 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4195.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4196.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
@@ -858,15 +858,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/mifi/lossless-cut/)
   [Download](https://github.com/mifi/lossless-cut/releases/download/v3.62.0/LosslessCut-win-x64.7z)
 
-- **Shutter Encoder** 18.2 (FREEWARE)<br/>
+- **Shutter Encoder** 18.5 (FREEWARE)<br/>
   Audio/Video Cutter<br/>
   [Homepage](https://www.shutterencoder.com/)
   [Download](https://www.shutterencoder.com/)
 
-- **Shotcut** 24.06.26 (GPL)<br/>
+- **Shotcut** 24.09.13 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v24.06.26/shotcut-win64-240626.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v24.09.13/shotcut-win64-240913.exe)
 
 - **Handbrake** 1.8.2 (GPL)<br/>
   Video Converter<br/>
@@ -883,7 +883,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://mediaarea.net/en/MediaInfo)
   [Download](https://mediaarea.net/download/binary/mediainfo-gui/24.06/MediaInfo_GUI_24.06_Windows.exe)
 
-- **Blackmagicdesign DaVinci Resolve** 19.0 (COMMERCIAL, freely available)<br/>
+- **Blackmagicdesign DaVinci Resolve** 19.0.1 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
   [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
