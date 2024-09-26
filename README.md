@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.82 (2024-09-22)
+Version 1.3.83 (2024-09-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -303,10 +303,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.2/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.8 (GPL)<br/>
+- **Branch Output** 0.9.9 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.8/osi-branch-output-0.9.8-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.9/osi-branch-output-0.9.9-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
