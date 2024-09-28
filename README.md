@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.83 (2024-09-26)
+Version 1.3.84 (2024-09-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -251,10 +251,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.2/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.0.2 (GPL)<br/>
+- **Move (Transition)** 3.1.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5740/download?file=105506)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5858/download?file=108184)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
