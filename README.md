@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.85 (2024-10-03)
+Version 1.3.86 (2024-10-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -187,10 +187,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/xoxfaby/obs-StreamFX)
   [Download](https://github.com/xoxfaby/obs-StreamFX/releases/download/0.12.0b299/streamfx-windows-installer.exe)
 
-- **StreamFX** 1.0.0b443 (GPL)<br/>
+- **StreamFX** 1.0.0b610 (GPL)<br/>
   OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source<br/>
-  [Homepage](https://github.com/Xaymar/obs-StreamFX)
-  [Download](https://github.com/Xaymar/obs-StreamFX)
+  [Homepage](https://github.com/Vhonowslend/StreamFX-Public)
+  [Download](https://github.com/Vhonowslend/StreamFX-Public)
 
 ### Plugins: Scene/Source Management
 
@@ -239,10 +239,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
   [Download](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/download)
 
-- **Quick Access Utility (QAU)** 1.0.1 (GPL)<br/>
+- **Quick Access Utility (QAU)** 1.0.2 (GPL)<br/>
   Quick Source/Scene Access Dock<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-quick-access-utility)
-  [Download](https://github.com/FiniteSingularity/obs-quick-access-utility/releases/download/1.0.1/obs-quick-access-utility-1.0.1-windows-x64-Installer.exe)
+  [Download](https://github.com/FiniteSingularity/obs-quick-access-utility/releases/download/1.0.2/obs-quick-access-utility-1.0.2-windows-x64-Installer.exe)
 
 ### Plugins: Scene/Source Control
 
@@ -276,10 +276,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
 
-- **Aitum Vertical** 1.4.9 (GPL)<br/>
+- **Aitum Vertical** 1.4.10 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.9/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.10/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
