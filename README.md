@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.86 (2024-10-12)
+Version 1.3.87 (2024-10-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -137,10 +137,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.3.5 (GPL)<br/>
+- **URL/API Source** 0.3.6 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.5/obs-urlsource-0.3.5-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.6/obs-urlsource-0.3.6-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.3 (GPL)<br/>
   Render Markup Text<br/>
@@ -204,10 +204,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-clone)
   [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
 
-- **Source Copy** 0.2.4 (GPL)<br/>
+- **Source Copy** 0.2.5 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5650/download?file=104359)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5884/download?file=108597)
 
 - **Replay Source** 1.8.0 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
@@ -841,10 +841,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.6.4/audacity-win-3.6.4-x64.exe)
 
-- **Cantabile** 4-4196 (FREEWARE)<br/>
+- **Cantabile** 4-4202 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4196.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4202.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
