@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.87 (2024-10-17)
+Version 1.3.88 (2024-10-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -194,10 +194,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Management
 
-- **Scene Collection Manager** 0.1.1 (GPL)<br/>
+- **Scene Collection Manager** 0.1.2 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/5364/download?file=100435)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/5888/download?file=108688)
 
 - **Source Clone** 0.1.5 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -251,10 +251,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.2/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.1.0 (GPL)<br/>
+- **Move (Transition)** 3.1.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5858/download?file=108184)
+  [Download](https://obsproject.com/forum/resources/move.913/version/5890/download?file=108718)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -288,10 +288,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.3.4 (GPL)<br/>
+- **Source Record** 0.3.5 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5563/download?file=103325)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5885/download?file=108639)
 
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
@@ -415,10 +415,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Color Monitor** 0.7.1 (GPL)<br/>
+- **Color Monitor** 0.8.1 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.7.1/obs-color-monitor-0.7.0-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.8.1/obs-color-monitor-0.8.1-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.1 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
@@ -457,10 +457,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.1.2 (GPL)<br/>
+- **CleanStream** 0.1.3 (GPL)<br/>
   Um-Removal<br/>
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
-  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.2/obs-cleanstream-0.1.2-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
 
 - **LocalVocal** 0.3.6 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
