@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.88 (2024-10-25)
+Version 1.3.89 (2024-10-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -24,10 +24,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Essential Extensions
 
-- **DistroAV (formerly OBS NDI)** 4.14.1/6.0.1.0 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 6.0.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/DistroAV/DistroAV/)
-  [Download](https://github.com/DistroAV/DistroAV/releases/download/4.14.1/obs-ndi-4.14.1-windows-x64-Installer.exe)
+  [Download](https://github.com/DistroAV/DistroAV/releases/download/6.0.0/distroav-6.0.0-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
 
 - **OBS WebSocket** 4.9.1-compat (GPL)<br/>
@@ -414,6 +414,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
 ### Plugins: Audio Monitoring
+
+- **Audio Video Sync Dock** 0.1.0 (GPL)<br/>
+  Visualize Colors of Cameras for Debugging Purposes<br/>
+  [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
+  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.0/obs-audio-video-sync-dock-0.1.0-obs30-Windows.zip)
 
 - **Color Monitor** 0.8.1 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
