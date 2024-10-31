@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.89 (2024-10-26)
+Version 1.3.90 (2024-10-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -137,10 +137,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.3.6 (GPL)<br/>
+- **URL/API Source** 0.3.7 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.6/obs-urlsource-0.3.6-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.7/obs-urlsource-0.3.7-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.3 (GPL)<br/>
   Render Markup Text<br/>
@@ -246,10 +246,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.27.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.28.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.27.2/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.28.0/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
