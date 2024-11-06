@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.91 (2024-11-03)
+Version 1.3.92 (2024-11-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -298,10 +298,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
 
-- **Aitum Multistream** 1.0.2 (GPL)<br/>
+- **Aitum Multistream** 1.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
-  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.2/aitum-multistream-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.4/aitum-multistream-windows-installer.exe)
 
 - **Branch Output** 0.9.9 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
@@ -349,10 +349,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://git.vrsal.xyz/alex/urmuted)
   [Download](https://github.com/univrsal/urmuted/releases/download/v1.0.2/urmuted-1.0.2-windows-x64-Installer.exe)
 
-- **VBAN Audio** 0.2.3 (GPL)<br/>
+- **VBAN Audio** 0.3.0 (GPL)<br/>
   Audio Source from and to VBAN (Audio over UDP) for VoiceMeeter<br/>
   [Homepage](https://github.com/norihiro/obs-vban/)
-  [Download](https://github.com/norihiro/obs-vban/releases/download/0.2.3/obs-vban-0.2.3-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-vban/releases/download/0.3.0/obs-vban-0.3.0-obs27-Windows.zip)
 
 - **RTSP Server** 3.1.0 (GPL)<br/>
   Encode and publish RTSP/RTP Stream<br/>
@@ -846,10 +846,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.6.4/audacity-win-3.6.4-x64.exe)
 
-- **Cantabile** 4-4202 (FREEWARE)<br/>
+- **Cantabile** 4-4203 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4202.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4203.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
