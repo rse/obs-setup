@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.92 (2024-11-06)
+Version 1.3.93 (2024-11-08)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -288,10 +288,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.3.5 (GPL)<br/>
+- **Source Record** 0.4.1 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5885/download?file=108639)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5928/download?file=109092)
 
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
@@ -420,10 +420,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
   [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.0/obs-audio-video-sync-dock-0.1.0-obs30-Windows.zip)
 
-- **Color Monitor** 0.8.1 (GPL)<br/>
+- **Color Monitor** 0.8.2 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.8.1/obs-color-monitor-0.8.1-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.8.2/obs-color-monitor-0.8.2-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.1 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
@@ -467,10 +467,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/occ-ai/obs-cleanstream)
   [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.6 (GPL)<br/>
+- **LocalVocal** 0.3.8 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.6/obs-localvocal-0.3.6-windows-x64-Installer.exe)
+  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.8/obs-localvocal-0.3.8-windows-x64-Installer.exe)
 
 - **Squawk** 0.0.4 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
