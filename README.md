@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.93 (2024-11-08)
+Version 1.3.94 (2024-11-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -147,10 +147,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-markdown)
   [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5674/download?file=104621)
 
-- **3D Effect** 0.1.0 (GPL)<br/>
+- **3D Effect** 0.1.2 (GPL)<br/>
   3D Effect Filter<br/>
   [Homepage](https://github.com/exeldro/obs-3d-effect)
-  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5316/download?file=99958)
+  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5939/download?file=109294)
 
 - **9-Slice Filter** 1.0.0 (GPL)<br/>
   9-Slice Scaling Filter<br/>
@@ -266,10 +266,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-transition-table)
   [Download](https://obsproject.com/forum/resources/transition-table.1174/version/5172/download?file=98263)
 
-- **Source Switcher** 0.4.2 (GPL)<br/>
+- **Source Switcher** 0.4.3 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
   [Homepage](https://github.com/exeldro/obs-source-switcher)
-  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/4963/download?file=95245)
+  [Download](https://obsproject.com/forum/resources/source-switcher.941/version/5932/download?file=109189)
 
 - **Media Controls** 0.4.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
