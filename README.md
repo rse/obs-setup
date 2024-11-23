@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.94 (2024-11-17)
+Version 1.3.95 (2024-11-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -192,6 +192,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Vhonowslend/StreamFX-Public)
   [Download](https://github.com/Vhonowslend/StreamFX-Public)
 
+- **Flip Clock** 1.0.0.1 (GPL)<br/>
+  Flip Clock<br/>
+  [Homepage](https://github.com/PeterCang/flip-clock/)
+  [Download](https://github.com/PeterCang/flip-clock/releases/download/1.0.0.1/FlipClock-Plugin-Install-v1.0.0.1.exe)
+
 ### Plugins: Scene/Source Management
 
 - **Scene Collection Manager** 0.1.2 (GPL)<br/>
@@ -234,7 +239,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/CodeYan01/source-defaults)
   [Download](https://github.com/CodeYan01/source-defaults/releases/download/v1.1.1/source-defaults-1.1.1-windows-x64-Installer.exe)
 
-- **jrDockie** 1.3 (GPL)<br/>
+- **jrDockie** 1.4 (GPL)<br/>
   Save/Load Dock Settings<br/>
   [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
   [Download](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/download)
@@ -271,10 +276,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/5932/download?file=109189)
 
-- **Media Controls** 0.4.0 (GPL)<br/>
+- **Media Controls** 0.4.1 (GPL)<br/>
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
-  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5357/download?file=100384)
+  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5940/download?file=109315)
 
 - **Aitum Vertical** 1.4.10 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
@@ -386,10 +391,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
 
-- **Downstream Keyer** 0.3.2 (GPL)<br/>
+- **Downstream Keyer** 0.3.3 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5565/download?file=103330)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -739,10 +744,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 1.3.3 (GPL)<br/>
+- **Ashmanix Countdown Timer** 1.4.1 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/1.3.3/obs-plugin-countdown-1.3.3-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/1.4.1/obs-plugin-countdown-1.4.1-windows-x64-Installer.exe)
 
 - **Libre Macros** 3.3.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
