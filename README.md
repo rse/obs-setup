@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.95 (2024-11-23)
+Version 1.3.96 (2024-12-08)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 30.2.3 (GPL)<br/>
+- **OBS Studio** 31.0.0 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/30.2.3/OBS-Studio-30.2.3-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.0/OBS-Studio-31.0.0-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -59,13 +59,13 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 - **Background Removal** 1.1.13 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/occ-ai/obs-backgroundremoval)
-  [Download](https://github.com/occ-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
+  [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
-  [Homepage](https://github.com/occ-ai/obs-detect)
-  [Download](https://github.com/occ-ai/obs-detect/releases/download/0.0.3/obs-detect-0.0.3-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-detect)
+  [Download](https://github.com/locaal-ai/obs-detect/releases/download/0.0.3/obs-detect-0.0.3-windows-x64-Installer.exe)
 
 - **Virtual Background** 1.2.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -139,13 +139,13 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 - **URL/API Source** 0.3.7 (GPL)<br/>
   Fetch Live Data<br/>
-  [Homepage](https://github.com/occ-ai/obs-urlsource)
-  [Download](https://github.com/occ-ai/obs-urlsource/releases/download/0.3.7/obs-urlsource-0.3.7-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-urlsource)
+  [Download](https://github.com/locaal-ai/obs-urlsource/releases/download/0.3.7/obs-urlsource-0.3.7-windows-x64-Installer.exe)
 
-- **Markdown Source** 0.2.3 (GPL)<br/>
+- **Markdown Source** 0.2.6 (GPL)<br/>
   Render Markup Text<br/>
   [Homepage](https://github.com/exeldro/obs-markdown)
-  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5674/download?file=104621)
+  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5960/download?file=109447)
 
 - **3D Effect** 0.1.2 (GPL)<br/>
   3D Effect Filter<br/>
@@ -162,10 +162,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-frame-interleave-filter/)
   [Download](https://github.com/norihiro/obs-frame-interleave-filter/releases/download/0.1.1/obs-frame-interleave-filter-0.1.1-obs27-Windows.zip)
 
-- **OCR - Text Recognition** 0.0.7 (GPL)<br/>
+- **OCR - Text Recognition** 0.0.8 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
-  [Homepage](https://github.com/occ-ai/obs-ocr)
-  [Download](https://github.com/occ-ai/obs-ocr/releases/download/0.0.7/obs-ocr-0.0.7-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-ocr)
+  [Download](https://github.com/locaal-ai/obs-ocr/releases/download/0.0.8/obs-ocr-0.0.8-windows-x64-Installer.exe)
 
 - **Encoder Region of Interest Editor** 1.1.1 (GPL)<br/>
   Encoder Optimization Hint for Region of Interest<br/>
@@ -293,10 +293,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.4.1 (GPL)<br/>
+- **Source Record** 0.4.4 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5928/download?file=109092)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5977/download?file=109731)
 
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
@@ -308,10 +308,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.4/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.9 (GPL)<br/>
+- **Branch Output** 0.9.14 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.9/osi-branch-output-0.9.9-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.14/osi-branch-output-0.9.14-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -364,10 +364,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0/obs-rtspserver-v3.1.0-windows-installer.exe)
 
-- **Teleport** 0.7.2 (GPL)<br/>
+- **Teleport** 0.7.3 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.2/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.3/obs-teleport.zip)
 
 - **xObsBeam** 1.1.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
@@ -469,28 +469,33 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 - **CleanStream** 0.1.3 (GPL)<br/>
   Um-Removal<br/>
-  [Homepage](https://github.com/occ-ai/obs-cleanstream)
-  [Download](https://github.com/occ-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-cleanstream)
+  [Download](https://github.com/locaal-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.8 (GPL)<br/>
+- **LocalVocal** 0.3.9 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
-  [Homepage](https://github.com/occ-ai/obs-localvocal)
-  [Download](https://github.com/occ-ai/obs-localvocal/releases/download/0.3.8/obs-localvocal-0.3.8-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-localvocal)
+  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.3.9/obs-localvocal-0.3.9-windows-x64-cuda-Installer.exe)
+
+- **CloudVocal** 0.0.1 (GPL)<br/>
+  Cloud Transcription<br/>
+  [Homepage](https://github.com/locaal-ai/cloudvocal)
+  [Download](https://github.com/locaal-ai/cloudvocal/releases/download/0.0.1/cloudvocal-0.0.1-windows-x64-Installer.exe)
 
 - **Squawk** 0.0.4 (GPL)<br/>
   Local Text-to-Speech Generation<br/>
-  [Homepage](https://github.com/occ-ai/obs-squawk)
-  [Download](https://github.com/occ-ai/obs-squawk/releases/download/0.0.4/obs-squawk-0.0.4-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-squawk)
+  [Download](https://github.com/locaal-ai/obs-squawk/releases/download/0.0.4/obs-squawk-0.0.4-windows-x64-Installer.exe)
 
 - **Polyglot** 0.0.2 (GPL)<br/>
   Local LLM Text Translation<br/>
-  [Homepage](https://github.com/occ-ai/obs-polyglot)
-  [Download](https://github.com/occ-ai/obs-polyglot/releases/download/0.0.2/obs-polyglot-0.0.2-windows-x64-Installer.exe)
+  [Homepage](https://github.com/locaal-ai/obs-polyglot)
+  [Download](https://github.com/locaal-ai/obs-polyglot/releases/download/0.0.2/obs-polyglot-0.0.2-windows-x64-Installer.exe)
 
 - **BrAIn** 0.0.0 (GPL)<br/>
   Local LLM Engine<br/>
-  [Homepage](https://github.com/occ-ai/obs-brAIn)
-  [Download](https://github.com/occ-ai/obs-brAIn)
+  [Homepage](https://github.com/locaal-ai/obs-brAIn)
+  [Download](https://github.com/locaal-ai/obs-brAIn)
 
 ### Plugins: Meta-Information
 
@@ -744,10 +749,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 1.4.1 (GPL)<br/>
+- **Ashmanix Countdown Timer** 1.4.3 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/1.4.1/obs-plugin-countdown-1.4.1-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/1.4.3/obs-plugin-countdown-1.4.3-windows-x64-Installer.exe)
 
 - **Libre Macros** 3.3.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
@@ -932,4 +937,14 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Graphical Clock (Window-Captured)<br/>
   [Homepage](https://obsproject.com/forum/resources/obsgraphicclock-skinnable-analog-watch-with-countdown.1373/)
   [Download](https://obsproject.com/forum/resources/obsgraphicclock-skinnable-analog-watch-with-countdown.1373/download)
+
+- **VDO.Ninja** 0 (FREEWARE)<br/>
+  Remote Guest Ingest<br/>
+  [Homepage](https://vdo.ninja/)
+  [Download](https://vdo.ninja/)
+
+- **SRC-Link** 0 (FREEWARE)<br/>
+  Remote Guest Ingest<br/>
+  [Homepage](https://src-link.live/)
+  [Download](https://src-link.live/)
 
