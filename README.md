@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.96 (2024-12-08)
+Version 1.3.97 (2024-12-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -381,10 +381,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: User Interface
 
-- **Source Dock** 0.4.0 (GPL)<br/>
+- **Source Dock** 0.4.1 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/5657/download?file=104470)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/5981/download?file=109826)
 
 - **Scene Notes Dock** 0.2.0 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
@@ -749,10 +749,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 1.4.3 (GPL)<br/>
+- **Ashmanix Countdown Timer** 2.0.0 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/1.4.3/obs-plugin-countdown-1.4.3-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.0/obs-plugin-countdown-2.0.0-windows-x64-Installer.exe)
 
 - **Libre Macros** 3.3.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
