@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.97 (2024-12-09)
+Version 1.3.98 (2024-12-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -152,10 +152,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-3d-effect)
   [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5939/download?file=109294)
 
-- **9-Slice Filter** 1.0.0 (GPL)<br/>
+- **9-Slice Filter** 2.0.0 (GPL)<br/>
   9-Slice Scaling Filter<br/>
   [Homepage](https://github.com/cmdwtf/filter-9slice)
-  [Download](https://obsproject.com/forum/resources/9-slice-filter-plugin.1662/download)
+  [Download](https://obsproject.com/forum/resources/9-slice-filter-plugin.1662/version/5985/download?file=109845)
 
 - **Frame Interleave** 0.0.0 (GPL)<br/>
   Interleaves Video Frames for non-Program display to reduce CPU/GPU usage<br/>
@@ -308,10 +308,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.4/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.14 (GPL)<br/>
+- **Branch Output** 0.9.15 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.14/osi-branch-output-0.9.14-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.15/osi-branch-output-0.9.15-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -943,7 +943,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vdo.ninja/)
   [Download](https://vdo.ninja/)
 
-- **SRC-Link** 0.5.5 (FREEWARE)<br/>
+- **SRC-Link** 0.5.6 (FREEWARE)<br/>
   Remote Guest Ingest<br/>
   [Homepage](https://src-link.live/)
   [Download](https://src-link.live/)
