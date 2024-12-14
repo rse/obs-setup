@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.99 (2024-12-14)
+Version 1.3.100 (2024-12-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -749,10 +749,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 2.0.0 (GPL)<br/>
+- **Ashmanix Countdown Timer** 2.0.2 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.0/obs-plugin-countdown-2.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.2/obs-plugin-countdown-2.0.2-windows-x64-Installer.exe)
 
 - **Libre Macros** 3.3.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
