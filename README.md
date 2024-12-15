@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.100 (2024-12-14)
+Version 1.3.101 (2024-12-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -754,10 +754,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
   [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.2/obs-plugin-countdown-2.0.2-windows-x64-Installer.exe)
 
-- **Libre Macros** 3.3.0 (GPL)<br/>
+- **Libre Macros** 4.0.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
   [Homepage](https://github.com/upgradeQ/obs-libre-macros)
-  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/3.3.0.zip)
+  [Download](https://github.com/upgradeQ/obs-libre-macros/archive/refs/tags/4.0.0.zip)
 
 - **Filter Hotkeys** 1.0.2 (MPL)<br/>
   Allow Hotkeys to Toggle Source Filters<br/>
