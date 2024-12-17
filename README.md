@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.101 (2024-12-15)
+Version 1.3.102 (2024-12-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -142,10 +142,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-urlsource)
   [Download](https://github.com/locaal-ai/obs-urlsource/releases/download/0.3.7/obs-urlsource-0.3.7-windows-x64-Installer.exe)
 
-- **Markdown Source** 0.2.6 (GPL)<br/>
+- **Markdown Source** 0.2.7 (GPL)<br/>
   Render Markup Text<br/>
   [Homepage](https://github.com/exeldro/obs-markdown)
-  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5960/download?file=109447)
+  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5994/download?file=110030)
 
 - **3D Effect** 0.1.2 (GPL)<br/>
   3D Effect Filter<br/>
@@ -308,10 +308,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.4/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 0.9.15 (GPL)<br/>
+- **Branch Output** 1.0.0 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/0.9.15/osi-branch-output-0.9.15-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.0/osi-branch-output-1.0.0-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
