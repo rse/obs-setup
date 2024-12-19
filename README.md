@@ -147,10 +147,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-markdown)
   [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5994/download?file=110030)
 
-- **3D Effect** 0.1.2 (GPL)<br/>
+- **3D Effect** 0.1.3 (GPL)<br/>
   3D Effect Filter<br/>
   [Homepage](https://github.com/exeldro/obs-3d-effect)
-  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5939/download?file=109294)
+  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5996/download?file=110049)
 
 - **9-Slice Filter** 2.0.0 (GPL)<br/>
   9-Slice Scaling Filter<br/>
