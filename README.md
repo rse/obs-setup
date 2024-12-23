@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.102 (2024-12-17)
+Version 1.3.103 (2024-12-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -281,7 +281,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5940/download?file=109315)
 
-- **Aitum Vertical** 1.4.10 (GPL)<br/>
+- **Aitum Vertical** 1.5.1 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
   [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.10/vertical-canvas-windows-installer.exe)
@@ -289,7 +289,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
   [Homepage](https://github.com/exeldro/obs-browser-transition)
-  [Download](https://obsproject.com/forum/resources/browser-transition.1653/version/5402/download?file=100997)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.5.1/vertical-canvas-windows-installer.exe)
 
 ### Plugins: Streaming/Recording
 
@@ -303,10 +303,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
 
-- **Aitum Multistream** 1.0.4 (GPL)<br/>
+- **Aitum Multistream** 1.0.6 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
-  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.4/aitum-multistream-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.6/aitum-multistream-windows-installer.exe)
 
 - **Branch Output** 1.0.0 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
@@ -749,10 +749,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 2.0.2 (GPL)<br/>
+- **Ashmanix Countdown Timer** 2.0.3 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.2/obs-plugin-countdown-2.0.2-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.3/obs-plugin-countdown-2.0.3-windows-x64-Installer.exe)
 
 - **Libre Macros** 4.0.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
@@ -943,7 +943,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vdo.ninja/)
   [Download](https://vdo.ninja/)
 
-- **SRC-Link** 0.5.6 (FREEWARE)<br/>
+- **SRC-Link** 0.5.7 (FREEWARE)<br/>
   Remote Guest Ingest<br/>
   [Homepage](https://src-link.live/)
   [Download](https://src-link.live/)
