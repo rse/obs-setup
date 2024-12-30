@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.103 (2024-12-23)
+Version 1.3.104 (2024-12-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -804,6 +804,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/audio-status-monitor.1381/)
   [Download](https://raw.githubusercontent.com/midnight-studios/obs-lua/main/SourceStatusMonitor.lua)
 
+- **Dynamic Source Grid Organization** 1.1 (GPL)<br/>
+  Layout Sources of Scene in a Grid<br/>
+  [Homepage](https://obsproject.com/forum/resources/dynamic-source-grid-organizer.2057/)
+  [Download](https://obsproject.com/forum/resources/dynamic-source-grid-organizer.2057/)
+
 ### Companion Audio Tools
 
 - **Youlean Loudness Meter** 2.4.3 (FREEWARE)<br/>
@@ -856,10 +861,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.6.4/audacity-win-3.6.4-x64.exe)
 
-- **Cantabile** 4-4203 (FREEWARE)<br/>
+- **Cantabile** 4-4206 (FREEWARE)<br/>
   VST Host<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4203.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4206.exe)
 
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
