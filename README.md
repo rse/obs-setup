@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.104 (2024-12-30)
+Version 1.3.105 (2025-01-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -344,10 +344,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.8.6 (GPL)<br/>
+- **Audio Monitor** 0.9.0 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device and Graphical Meter<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/5987/download?file=109924)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/6017/download?file=110400)
 
 - **Muted Notification** 1.0.2 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
