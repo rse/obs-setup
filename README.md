@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.107 (2025-01-18)
+Version 1.3.108 (2025-01-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 31.0.0 (GPL)<br/>
+- **OBS Studio** 31.0.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.0/OBS-Studio-31.0.0-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -214,10 +214,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-copy)
   [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5884/download?file=108597)
 
-- **Replay Source** 1.8.0 (GPL)<br/>
+- **Replay Source** 1.8.1 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
   [Homepage](https://github.com/exeldro/obs-replay-source)
-  [Download](https://obsproject.com/forum/resources/replay-source.686/version/5778/download?file=106475)
+  [Download](https://obsproject.com/forum/resources/replay-source.686/version/6038/download?file=110759)
 
 - **Directory Watch Media** 0.7.0 (GPL)<br/>
   Filter you can add to Media Source to load the oldest/newest file in a directory<br/>
