@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.109 (2025-01-21)
+Version 1.3.110 (2025-01-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -112,10 +112,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-recursion-effect)
   [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/5390/download?file=100717)
 
-- **Freeze Filter** 0.3.3 (GPL)<br/>
+- **Freeze Filter** 0.3.4 (GPL)<br/>
   Frame Freeze Source Filter<br/>
   [Homepage](https://github.com/exeldro/obs-freeze-filter)
-  [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/4603/download?file=89160)
+  [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/6048/download?file=110875)
 
 - **LiveVisionKit Filter** 1.2.2 (GPL)<br/>
   Video Effect Filters: Video Stabilizer, Adaptive De-Blocker, Lens Correction, Calibration Tool<br/>
@@ -430,10 +430,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.8.2/obs-color-monitor-0.8.2-obs28-Windows.zip)
 
-- **Loudness Dock** 0.2.1 (GPL)<br/>
+- **Loudness Dock** 0.2.2 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
-  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.1/obs-loudness-dock-0.2.1-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.2/obs-loudness-dock-0.2.2-obs28-Windows.zip)
 
 - **Waveform** 1.8.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
