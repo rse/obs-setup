@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.110 (2025-01-24)
+Version 1.3.111 (2025-01-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -302,6 +302,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
+
+- **DroidCam Virtual Output** 0.2.0 (GPL)<br/>
+  Kernel-Device-based Virtual Camera for Windows<br/>
+  [Homepage](https://github.com/dev47apps/droidcam-obs-virtual-output)
+  [Download](https://github.com/dev47apps/droidcam-obs-virtual-output/releases)
 
 - **Aitum Multistream** 1.0.6 (GPL)<br/>
   Multiple RTMP Outputs<br/>
