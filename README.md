@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.111 (2025-01-31)
+Version 1.3.112 (2025-02-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -34,6 +34,16 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   OBSOLETE: Remote Control via OLD WebSockets (for StreamDeck, etc)<br/>
   [Homepage](https://github.com/Palakis/obs-websocket)
   [Download](https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe)
+
+- **NVIDIA Video Effects SDK** 0.7.6 (Commercial)<br/>
+  Video Effects for OBS Studio<br/>
+  [Homepage](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  [Download](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+
+- **NVIDIA Audio Effects SDK** 1.6.1 (Commercial)<br/>
+  Video Effects for OBS Studio<br/>
+  [Homepage](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
+  [Download](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/)
 
 ### Plugins: Visual Effects
 
