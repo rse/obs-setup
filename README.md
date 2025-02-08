@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.112 (2025-02-03)
+Version 1.3.113 (2025-02-08)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -435,10 +435,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Audio Video Sync Dock** 0.1.0 (GPL)<br/>
+- **Audio Video Sync Dock** 0.1.1 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
-  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.0/obs-audio-video-sync-dock-0.1.0-obs30-Windows.zip)
+  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.1/obs-audio-video-sync-dock-0.1.1-obs30-Windows.zip)
 
 - **Color Monitor** 0.8.2 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
@@ -576,10 +576,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
   [Download](https://github.com/GrandMastersOnline/obs-lottie/releases/download/v1.1.1/obs-lottie-1.1.1-windows-x64-Installer.exe)
 
-- **DroidCam OBS Camera** 2.3.3 (GPL)<br/>
+- **DroidCam OBS Camera** 2.3.4 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
-  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.3/DroidCamOBS.Setup.2.3.3.exe)
+  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.4/DroidCamOBS.Setup.2.3.4.exe)
 
 ### Plugins: Remote Control
 
@@ -699,6 +699,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   OBS Remote Scene Switcher<br/>
   [Homepage](http://www.cvhvisuals.com/obswitcher.html)
   [Download](http://www.cvhvisuals.com/obswitcher.html)
+
+- **Autostarter** 1.0 (GPL)<br/>
+  Start programs automatically<br/>
+  [Homepage](https://github.com/DaviBe92/Autostarter)
+  [Download](https://github.com/DaviBe92/Autostarter)
 
 ### Browser Sources
 
