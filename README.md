@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.114 (2025-02-10)
+Version 1.3.115 (2025-02-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -973,7 +973,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vdo.ninja/)
   [Download](https://vdo.ninja/)
 
-- **SRC-Link** 0.6.0 (FREEWARE)<br/>
+- **SRC-Link** 0.7.0 (FREEWARE)<br/>
   Remote Guest Ingest<br/>
   [Homepage](https://src-link.live/)
   [Download](https://src-link.live/)
