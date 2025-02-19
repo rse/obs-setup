@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.116 (2025-02-16)
+Version 1.3.117 (2025-02-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -238,6 +238,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
   [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.5/obs_scene_tree_view_win_v0_1_5.zip)
+
+- **Media Playlist Source** 0.1.0 (GPL)<br/>
+  Media Source Playlist<br/>
+  [Homepage](https://github.com/CodeYan01/media-playlist-source/)
+  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.1.0/media-playlist-source-0.1.0-windows-x64-Installer.exe)
 
 - **xObsAsyncImageSource** 1.0 (GPL)<br/>
   Load Images Asynchronously<br/>
