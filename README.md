@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.117 (2025-02-19)
+Version 1.3.118 (2025-02-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -710,7 +710,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](http://www.cvhvisuals.com/obswitcher.html)
   [Download](http://www.cvhvisuals.com/obswitcher.html)
 
-- **Autostarter** 1.0 (GPL)<br/>
+- **Autostarter** 2.1.0 (GPL)<br/>
   Start programs automatically<br/>
   [Homepage](https://github.com/DaviBe92/Autostarter)
   [Download](https://github.com/DaviBe92/Autostarter)
