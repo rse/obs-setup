@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.118 (2025-02-22)
+Version 1.3.119 (2025-02-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -206,6 +206,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Flip Clock<br/>
   [Homepage](https://github.com/PeterCang/flip-clock/)
   [Download](https://github.com/PeterCang/flip-clock/releases/download/1.0.0.1/FlipClock-Plugin-Install-v1.0.0.1.exe)
+
+- **Stream My Heart** 1.0.0 (GPL)<br/>
+  Webcam-based Heart Rate Detection<br/>
+  [Homepage](https://github.com/Maciek03102003/StreamMyHeart)
+  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.0/stream-my-heart-1.0.0-windows-x64-cpu-Installer.exe)
 
 ### Plugins: Scene/Source Management
 
