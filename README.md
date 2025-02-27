@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.119 (2025-02-23)
+Version 1.3.120 (2025-02-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -47,25 +47,25 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Composite Blur** 1.1.0 (GPL)<br/>
+- **Composite Blur** 1.5.0 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
-  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.1.0/obs-composite-blur-1.1.0-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.0/obs-composite-blur-1.5.0-windows-installer.zip)
 
-- **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
-  Comprehensive Blur Filter<br/>
-  [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
-  [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.0.1/blur-filter-obs-plugin-1.0.1-windows-x64-Installer.exe)
-
-- **Stroke Glow Shadow** 1.0.2 (GPL)<br/>
+- **Stroke Glow Shadow** 1.5.0 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
-  [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.0.2/obs-stroke-glow-shadow-1.0.2-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.0/obs-stroke-glow-shadow-1.5.0-windows-installer.zip)
 
 - **Advanced Masks** 1.1.0 (GPL)<br/>
   Comprehensive Mask Filters<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
   [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.1.0/obs-advanced-masks-1.1.0-windows-installer.zip)
+
+- **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
+  Comprehensive Blur Filter<br/>
+  [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
+  [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.0.1/blur-filter-obs-plugin-1.0.1-windows-x64-Installer.exe)
 
 - **Background Removal** 1.1.13 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
@@ -207,10 +207,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/PeterCang/flip-clock/)
   [Download](https://github.com/PeterCang/flip-clock/releases/download/1.0.0.1/FlipClock-Plugin-Install-v1.0.0.1.exe)
 
-- **Stream My Heart** 1.0.0 (GPL)<br/>
+- **Stream My Heart** 1.0.1 (GPL)<br/>
   Webcam-based Heart Rate Detection<br/>
   [Homepage](https://github.com/Maciek03102003/StreamMyHeart)
-  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.0/stream-my-heart-1.0.0-windows-x64-cpu-Installer.exe)
+  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.1/stream-my-heart-1.0.1-windows-x64-cpu-Installer.exe)
 
 ### Plugins: Scene/Source Management
 
@@ -447,6 +447,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
+
+- **AtkAudio** 0.1.0 (GPL)<br/>
+  VST3 Plugin Host for OBS<br/>
+  [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
+  [Download](https://github.com/atkAudio/PluginForObsRelease/)
 
 ### Plugins: Audio Monitoring
 
@@ -983,7 +988,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vdo.ninja/)
   [Download](https://vdo.ninja/)
 
-- **SRC-Link** 0.7.0 (FREEWARE)<br/>
+- **SRC-Link** 0.7.2 (FREEWARE)<br/>
   Remote Guest Ingest<br/>
   [Homepage](https://src-link.live/)
   [Download](https://src-link.live/)
