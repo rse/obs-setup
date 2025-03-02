@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.120 (2025-02-27)
+Version 1.3.121 (2025-03-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -47,10 +47,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Composite Blur** 1.5.0 (GPL)<br/>
+- **Composite Blur** 1.5.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
-  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.0/obs-composite-blur-1.5.0-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.1/obs-composite-blur-1.5.1-windows-installer.zip)
 
 - **Stroke Glow Shadow** 1.5.0 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -207,10 +207,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/PeterCang/flip-clock/)
   [Download](https://github.com/PeterCang/flip-clock/releases/download/1.0.0.1/FlipClock-Plugin-Install-v1.0.0.1.exe)
 
-- **Stream My Heart** 1.0.1 (GPL)<br/>
+- **Stream My Heart** 1.0.2 (GPL)<br/>
   Webcam-based Heart Rate Detection<br/>
   [Homepage](https://github.com/Maciek03102003/StreamMyHeart)
-  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.1/stream-my-heart-1.0.1-windows-x64-cpu-Installer.exe)
+  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.2/stream-my-heart-1.0.2-windows-x64-cpu-Installer.exe)
 
 ### Plugins: Scene/Source Management
 
