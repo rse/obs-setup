@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.121 (2025-03-03)
+Version 1.3.122 (2025-03-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -52,10 +52,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
   [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.1/obs-composite-blur-1.5.1-windows-installer.zip)
 
-- **Stroke Glow Shadow** 1.5.0 (GPL)<br/>
+- **Stroke Glow Shadow** 1.5.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
-  [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.0/obs-stroke-glow-shadow-1.5.0-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.1/obs-stroke-glow-shadow-1.5.1-windows-installer.zip)
 
 - **Advanced Masks** 1.1.0 (GPL)<br/>
   Comprehensive Mask Filters<br/>
@@ -369,10 +369,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.9.0 (GPL)<br/>
+- **Audio Monitor** 0.9.1 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device and Graphical Meter<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/6017/download?file=110400)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/6133/download?file=111842)
 
 - **Muted Notification** 1.0.2 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
