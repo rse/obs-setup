@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.122 (2025-03-07)
+Version 1.3.123 (2025-03-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -207,10 +207,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/PeterCang/flip-clock/)
   [Download](https://github.com/PeterCang/flip-clock/releases/download/1.0.0.1/FlipClock-Plugin-Install-v1.0.0.1.exe)
 
-- **Stream My Heart** 1.0.2 (GPL)<br/>
+- **Stream My Heart** 1.0.4 (GPL)<br/>
   Webcam-based Heart Rate Detection<br/>
   [Homepage](https://github.com/Maciek03102003/StreamMyHeart)
-  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.2/stream-my-heart-1.0.2-windows-x64-cpu-Installer.exe)
+  [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.4/stream-my-heart-1.0.4-windows-x64-cpu-Installer.exe)
 
 ### Plugins: Scene/Source Management
 
@@ -244,10 +244,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
   [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.5/obs_scene_tree_view_win_v0_1_5.zip)
 
-- **Media Playlist Source** 0.1.0 (GPL)<br/>
+- **Media Playlist Source** 0.1.2 (GPL)<br/>
   Media Source Playlist<br/>
   [Homepage](https://github.com/CodeYan01/media-playlist-source/)
-  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.1.0/media-playlist-source-0.1.0-windows-x64-Installer.exe)
+  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.1.2/media-playlist-source-0.1.2-windows-x64-Installer.exe)
 
 - **xObsAsyncImageSource** 1.0 (GPL)<br/>
   Load Images Asynchronously<br/>
@@ -333,10 +333,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.6/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 1.0.2 (GPL)<br/>
+- **Branch Output** 1.0.3 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.2/osi-branch-output-1.0.2-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.3/osi-branch-output-1.0.3-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -389,10 +389,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0/obs-rtspserver-v3.1.0-windows-installer.exe)
 
-- **Teleport** 0.7.3 (GPL)<br/>
+- **Teleport** 0.7.4 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.3/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.4/obs-teleport.zip)
 
 - **xObsBeam** 1.1.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
@@ -480,10 +480,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
   [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.4/obs-scale-to-sound-1.2.4-windows.zip)
 
-- **Image Reaction** 1.2 (GPL)<br/>
+- **Image Reaction** 1.2.2 (GPL)<br/>
   OBSOLETE: Switch Images to a Sound<br/>
   [Homepage](https://github.com/scaledteam/obs-image-reaction)
-  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2/obs-image-reaction-windows64.zip)
+  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2.2/obs-image-reaction-windows64.zip)
 
 ### Plugins: Audio Output
 
