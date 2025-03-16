@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.123 (2025-03-12)
+Version 1.3.124 (2025-03-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -271,10 +271,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.28.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.29.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.28.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.0/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -421,10 +421,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
 
-- **Draw** 0.1.0 (GPL)<br/>
+- **Draw** 0.2.0 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/draw.2081/version/6096/download?file=111460)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6157/download?file=112119)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -988,7 +988,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://vdo.ninja/)
   [Download](https://vdo.ninja/)
 
-- **SRC-Link** 0.7.2 (FREEWARE)<br/>
+- **SRC-Link** 0.7.4 (FREEWARE)<br/>
   Remote Guest Ingest<br/>
   [Homepage](https://src-link.live/)
   [Download](https://src-link.live/)
