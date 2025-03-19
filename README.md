@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.124 (2025-03-16)
+Version 1.3.125 (2025-03-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -91,6 +91,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
   [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.4.1/obs-shaderfilter-2.4.1-windows-installer.exe)
+
+- **Shadertastic** 0.1.2(GPL)<br/>
+  Shader Filter<br/>
+  [Homepage](https://www.shadertastic.com/)
+  [Download](https://github.com/xurei/shadertastic/)
 
 - **Multi Source Effect** 0.2.1 (GPL)<br/>
   Combine two Sources with a Shader Effect<br/>
@@ -431,15 +436,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
   [Download](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
 
-- **Durchblick** 0.5.0 (GPL)<br/>
+- **Durchblick** 0.5.1 (GPL)<br/>
   Alternative Multiview<br/>
   [Homepage](https://obsproject.com/forum/resources/durchblick.1484)
-  [Download](https://obsproject.com/forum/resources/durchblick.1484/version/4186/download?file=83233)
+  [Download](https://github.com/univrsal/durchblick/releases/download/v0.5.1/durchblick-0.5.0-windows-x64-Installer.exe)
 
 - **Active Scene Dock** 0.1.2 (GPL)<br/>
   OBSOLETE: Show Preview/Program Duration<br/>
   [Homepage](https://github.com/layeh/obs-active-scene-dock)
-  [Download](https://github.com/univrsal/durchblick/releases/download/v0.5.0/durchblick-0.5.0-windows-x64-Installer.exe)
+  [Download](https://github.com/layeh/obs-active-scene-dock)
 
 ### Plugins: Audio Input
 
