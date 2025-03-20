@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.125 (2025-03-19)
+Version 1.3.126 (2025-03-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -50,9 +50,9 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **Composite Blur** 1.5.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
-  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.1/obs-composite-blur-1.5.1-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.2/obs-composite-blur-1.5.2-windows-installer.zip)
 
-- **Stroke Glow Shadow** 1.5.1 (GPL)<br/>
+- **Stroke Glow Shadow** 1.5.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
   [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.1/obs-stroke-glow-shadow-1.5.1-windows-installer.zip)
@@ -318,10 +318,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.4.4 (GPL)<br/>
+- **Source Record** 0.4.5 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/5977/download?file=109731)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/6167/download?file=112261)
 
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
