@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.127 (2025-03-21)
+Version 1.3.128 (2025-04-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -276,15 +276,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.29.0 (GPL)<br/>
+- **Advanced Scene Switcher** 1.29.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.0/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.2/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.1.1 (GPL)<br/>
+- **Move (Transition)** 3.1.2 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/5890/download?file=108718)
+  [Download](https://obsproject.com/forum/resources/move.913/version/6189/download?file=112582)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -539,10 +539,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Meta-Information
 
-- **Info Writer** 2.3 (GPL)<br/>
+- **Info Writer** 2.7.1 (GPL)<br/>
   Write Timestamps and Information Text to Logfiles<br/>
   [Homepage](https://github.com/partouf/OBSInfoWriter/)
-  [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.3/OBSInfoWriter-1.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/partouf/OBSInfoWriter/releases/download/v2.7.1/OBSInfoWriter-2.7.1-windows-x64.zip)
 
 - **Chapter Marker** 1.0.3 (GPL)<br/>
   Write Timestamps to Video Recorded Files<br/>
@@ -794,10 +794,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 2.0.3 (GPL)<br/>
+- **Ashmanix Countdown Timer** 2.0.10 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.3/obs-plugin-countdown-2.0.3-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.10/obs-plugin-countdown-2.0.10-windows-x64-Installer.exe)
 
 - **Libre Macros** 4.0.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
