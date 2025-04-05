@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.128 (2025-04-03)
+Version 1.3.129 (2025-04-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -448,12 +448,12 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Input
 
-- **ASIO** 3.2.0 (GPL)<br/>
+- **ASIO** 3.2.1f (GPL)<br/>
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.1.0 (GPL)<br/>
+- **AtkAudio** 0.1.1 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
