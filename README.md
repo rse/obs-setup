@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 31.0.2 (GPL)<br/>
+- **OBS Studio** 31.0.3 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
