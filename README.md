@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.129 (2025-04-05)
+Version 1.3.130 (2025-04-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 31.0.1 (GPL)<br/>
+- **OBS Studio** 31.0.2 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.1/OBS-Studio-31.0.1-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -426,10 +426,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
 
-- **Draw** 0.2.0 (GPL)<br/>
+- **Draw** 0.2.1 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/draw.2081/version/6157/download?file=112119)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6204/download?file=112724)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -453,7 +453,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.1.1 (GPL)<br/>
+- **AtkAudio** 0.1.3 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -465,10 +465,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
   [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.1/obs-audio-video-sync-dock-0.1.1-obs30-Windows.zip)
 
-- **Color Monitor** 0.8.2 (GPL)<br/>
+- **Color Monitor** 0.9.2 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.8.2/obs-color-monitor-0.8.2-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.2/obs-color-monitor-0.9.2-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.2 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
