@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.130 (2025-04-09)
+Version 1.3.131 (2025-04-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -249,10 +249,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
   [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.5/obs_scene_tree_view_win_v0_1_5.zip)
 
-- **Media Playlist Source** 0.1.2 (GPL)<br/>
+- **Media Playlist Source** 0.1.3 (GPL)<br/>
   Media Source Playlist<br/>
   [Homepage](https://github.com/CodeYan01/media-playlist-source/)
-  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.1.2/media-playlist-source-0.1.2-windows-x64-Installer.exe)
+  [Download](https://github.com/CodeYan01/media-playlist-source/releases/download/0.1.3/media-playlist-source-0.1.3-windows-x64-Installer.exe)
 
 - **xObsAsyncImageSource** 1.0 (GPL)<br/>
   Load Images Asynchronously<br/>
@@ -276,10 +276,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.29.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.29.3 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.2/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.3/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.2 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -328,8 +328,8 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
 
-- **DroidCam Virtual Output** 0.2.0 (GPL)<br/>
-  Kernel-Device-based Virtual Camera for Windows<br/>
+- **DroidCam Virtual Output** 0.2.1 (GPL)<br/>
+  Kernel-Device-based (instead of DirectShow) Virtual Camera for Windows<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-virtual-output)
   [Download](https://github.com/dev47apps/droidcam-obs-virtual-output/releases)
 
