@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.131 (2025-04-14)
+Version 1.3.132 (2025-04-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -87,10 +87,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.4.1 (GPL)<br/>
+- **Shaderfilter** 2.4.3 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.4.1/obs-shaderfilter-2.4.1-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.4.3/obs-shaderfilter-2.4.3-windows-installer.exe)
 
 - **Shadertastic** 0.1.2(GPL)<br/>
   Shader Filter<br/>
@@ -426,10 +426,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
 
-- **Draw** 0.2.1 (GPL)<br/>
+- **Draw** 0.2.2 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/draw.2081/version/6204/download?file=112724)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6220/download?file=112876)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -453,7 +453,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.1.3 (GPL)<br/>
+- **AtkAudio** 0.1.4 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -465,10 +465,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
   [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.1/obs-audio-video-sync-dock-0.1.1-obs30-Windows.zip)
 
-- **Color Monitor** 0.9.2 (GPL)<br/>
+- **Color Monitor** 0.9.3 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.2/obs-color-monitor-0.9.2-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.3/obs-color-monitor-0.9.3-obs28-Windows.zip)
 
 - **Loudness Dock** 0.2.2 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
