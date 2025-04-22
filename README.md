@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.133 (2025-04-20)
+Version 1.3.134 (2025-04-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -323,6 +323,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/6167/download?file=112261)
 
+- **Record Rename** 0.0.1 (GPL)<br/>
+  Rename Recordings<br/>
+  [Homepage](https://github.com/exeldro/obs-record-rename)
+  [Download](https://obsproject.com/forum/resources/record-rename.2134/)
+
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
@@ -453,7 +458,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.1.4 (GPL)<br/>
+- **AtkAudio** 0.1.5 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
