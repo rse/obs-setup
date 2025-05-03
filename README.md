@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.134 (2025-04-23)
+Version 1.3.135 (2025-05-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -92,7 +92,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
   [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.4.3/obs-shaderfilter-2.4.3-windows-installer.exe)
 
-- **Shadertastic** 0.1.2(GPL)<br/>
+- **Shadertastic** 0.1.3 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://www.shadertastic.com/)
   [Download](https://github.com/xurei/shadertastic/)
@@ -318,10 +318,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.4.5 (GPL)<br/>
+- **Source Record** 0.4.6 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/6167/download?file=112261)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
 
 - **Record Rename** 0.0.1 (GPL)<br/>
   Rename Recordings<br/>
@@ -431,10 +431,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
 
-- **Draw** 0.2.2 (GPL)<br/>
+- **Draw** 0.2.3 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/draw.2081/version/6220/download?file=112876)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
