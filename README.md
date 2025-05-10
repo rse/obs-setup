@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.135 (2025-05-03)
+Version 1.3.136 (2025-05-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -229,10 +229,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-clone)
   [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
 
-- **Source Copy** 0.2.5 (GPL)<br/>
+- **Source Copy** 0.2.6 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/5884/download?file=108597)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/6250/download?file=113360)
 
 - **Replay Source** 1.8.1 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
@@ -323,10 +323,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
 
-- **Record Rename** 0.0.1 (GPL)<br/>
+- **Record Rename** 0.1.0 (GPL)<br/>
   Rename Recordings<br/>
   [Homepage](https://github.com/exeldro/obs-record-rename)
-  [Download](https://obsproject.com/forum/resources/record-rename.2134/)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/6250/download?file=113360)
 
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
