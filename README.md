@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.136 (2025-05-11)
+Version 1.3.137 (2025-05-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -87,10 +87,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.4.3 (GPL)<br/>
+- **Shaderfilter** 2.5.0 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.4.3/obs-shaderfilter-2.4.3-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.5.0/obs-shaderfilter-2.5.0-windows-installer.exe)
 
 - **Shadertastic** 0.1.3 (GPL)<br/>
   Shader Filter<br/>
@@ -162,10 +162,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-markdown)
   [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5994/download?file=110030)
 
-- **3D Effect** 0.1.3 (GPL)<br/>
+- **3D Effect** 0.1.4 (GPL)<br/>
   3D Effect Filter<br/>
   [Homepage](https://github.com/exeldro/obs-3d-effect)
-  [Download](https://obsproject.com/forum/resources/3d-effect.1692/version/5996/download?file=110049)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6260/download?file=113502)
 
 - **9-Slice Filter** 2.0.0 (GPL)<br/>
   9-Slice Scaling Filter<br/>
@@ -281,10 +281,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.3/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.1.2 (GPL)<br/>
+- **Move (Transition)** 3.1.3 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/6189/download?file=112582)
+  [Download](https://obsproject.com/forum/resources/move.913/version/6257/download?file=113466)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -431,10 +431,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
 
-- **Draw** 0.2.3 (GPL)<br/>
+- **Draw** 0.2.4 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6260/download?file=113502)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -613,10 +613,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Remote Control
 
-- **PTZControl** 0.15.4 (GPL)<br/>
+- **PTZControl** 0.17.0 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.15.4/obs-ptz-v0.15.4-windows-x64-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.17.0/obs-ptz-v0.17.0-windows-x64-Installer.exe)
 
 - **Command Source** 0.5.0 (GPL)<br/>
   Dummy Source to Execute Commands when Scene Switched<br/>
@@ -833,6 +833,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Lens Flare Effect Filter<br/>
   [Homepage](https://obsproject.com/forum/resources/lens-flare-2.1495/)
   [Download](https://obsproject.com/forum/resources/lens-flare-2.1495/download)
+
+- **Lens Correction** 1.1.0 (GPL)<br/>
+  Lens Correction Filter<br/>
+  [Homepage](https://obsproject.com/forum/resources/lenscorrector-professional.2089/)
+  [Download](https://obsproject.com/forum/resources/lenscorrector-professional.2089/download)
 
 - **Pan Zoom Rotate** 1.3 (GPL)<br/>
   Pan/Zoom/Rotate Effect Filter<br/>
