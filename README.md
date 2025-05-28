@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.137 (2025-05-20)
+Version 1.3.138 (2025-05-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -92,7 +92,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
   [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.5.0/obs-shaderfilter-2.5.0-windows-installer.exe)
 
-- **Shadertastic** 0.1.3 (GPL)<br/>
+- **Shadertastic** 0.1.4 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://www.shadertastic.com/)
   [Download](https://github.com/xurei/shadertastic/)
@@ -276,10 +276,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.29.3 (GPL)<br/>
+- **Advanced Scene Switcher** 1.30.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.29.3/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.30.0/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.3 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -323,10 +323,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
 
-- **Record Rename** 0.1.0 (GPL)<br/>
+- **Record Rename** 0.1.1 (GPL)<br/>
   Rename Recordings<br/>
   [Homepage](https://github.com/exeldro/obs-record-rename)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/6250/download?file=113360)
+  [Download](https://obsproject.com/forum/resources/record-rename.2134/version/6280/download?file=113671)
 
 - **Virtual Cam** 2.1.2 (GPL)<br/>
   Standalone Version of OBS Virtual Camera (supports 4 targets)<br/>
@@ -458,10 +458,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.1.5 (GPL)<br/>
+- **AtkAudio** 0.6.0 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
+
+- **BlueCat Audio PatchWork** 2.72 (COM)<br/>
+  VST3 Plugin Host (generic)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
+  [Download](https://www.bluecataudio.com/Products/Product_PatchWork/)
 
 ### Plugins: Audio Monitoring
 
@@ -613,10 +618,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Remote Control
 
-- **PTZControl** 0.17.0 (GPL)<br/>
+- **PTZControl** 0.17.1 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.17.0/obs-ptz-v0.17.0-windows-x64-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.17.1/obs-ptz-v0.17.1-windows-x64-Installer.exe)
 
 - **Command Source** 0.5.0 (GPL)<br/>
   Dummy Source to Execute Commands when Scene Switched<br/>
