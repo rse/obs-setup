@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.139 (2025-06-02)
+Version 1.3.140 (2025-06-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -458,7 +458,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.7.0 (GPL)<br/>
+- **AtkAudio** 0.8.0 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -938,45 +938,45 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Companion Video Tools
 
-- **Lossless Cut** 3.62.0 (GPL)<br/>
+- **Lossless Cut** 3.64.0 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://github.com/mifi/lossless-cut/)
-  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.62.0/LosslessCut-win-x64.7z)
+  [Download](https://github.com/mifi/lossless-cut/releases/download/v3.64.0/LosslessCut-win-x64.7z)
 
-- **Shutter Encoder** 18.5 (FREEWARE)<br/>
+- **Shutter Encoder** 19.1 (FREEWARE)<br/>
   Audio/Video Cutter<br/>
   [Homepage](https://www.shutterencoder.com/)
   [Download](https://www.shutterencoder.com/)
 
-- **Shotcut** 24.09.13 (GPL)<br/>
+- **Shotcut** 25.05.11 (GPL)<br/>
   Video Editor<br/>
   [Homepage](https://shotcut.org/)
-  [Download](https://github.com/mltframework/shotcut/releases/download/v24.09.13/shotcut-win64-240913.exe)
+  [Download](https://github.com/mltframework/shotcut/releases/download/v25.05.11/shotcut-win64-240913.exe)
 
-- **Handbrake** 1.8.2 (GPL)<br/>
+- **Handbrake** 1.9.2 (GPL)<br/>
   Video Converter<br/>
   [Homepage](https://handbrake.fr/)
-  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.8.2-x86_64-Win_GUI.exe)
+  [Download](https://handbrake.fr/rotation.php?file=HandBrake-1.9.2-x86_64-Win_GUI.exe)
 
 - **VLC** 3.0.21 (GPL)<br/>
   Video Player<br/>
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe)
 
-- **MediaInfo** 24.06 (GPL)<br/>
+- **MediaInfo** 25.04 (GPL)<br/>
   Audio/Video Analyzer<br/>
   [Homepage](https://mediaarea.net/en/MediaInfo)
-  [Download](https://mediaarea.net/download/binary/mediainfo-gui/24.06/MediaInfo_GUI_24.06_Windows.exe)
+  [Download](https://mediaarea.net/download/binary/mediainfo-gui/25.04/MediaInfo_GUI_25.04_Windows.exe)
 
-- **Blackmagicdesign DaVinci Resolve** 19.0.1 (COMMERCIAL, freely available)<br/>
+- **Blackmagicdesign DaVinci Resolve** 20.0.0 (COMMERCIAL, freely available)<br/>
   Video Editor<br/>
   [Homepage](https://www.blackmagicdesign.com/de/products/davinciresolve)
   [Download](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
-- **Kdenlive** 24.02.0 (GPL)<br/>
+- **Kdenlive** 25.04.1 (GPL)<br/>
   Video Cutter<br/>
   [Homepage](https://kdenlive.org/en/)
-  [Download](https://download.kde.org/stable/kdenlive/24.02/windows/kdenlive-24.02.0.exe)
+  [Download](https://download.kde.org/stable/kdenlive/25.04/windows/kdenlive-25.04.1.exe)
 
 - **Vingester** 2.8.0 (GPL)<br/>
   Web Contents Ingesting Tool (NDI-enabled)<br/>
