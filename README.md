@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.140 (2025-06-04)
+Version 1.3.141 (2025-06-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -281,10 +281,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.30.1/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.1.3 (GPL)<br/>
+- **Move (Transition)** 3.1.4 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/6257/download?file=113466)
+  [Download](https://obsproject.com/forum/resources/move.913/version/6300/download?file=113903)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -458,7 +458,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.8.0 (GPL)<br/>
+- **AtkAudio** 0.9.0 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
