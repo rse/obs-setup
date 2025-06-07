@@ -616,6 +616,16 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
   [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.4/DroidCamOBS.Setup.2.3.4.exe)
 
+- **OBS Streamlink** 0.4.1 (GPL)<br/>
+  Receive Stream via Streamlink<br/>
+  [Homepage](https://github.com/dd-center/obs-streamlink)
+  [Download](https://github.com/dd-center/obs-streamlink/releases/download/0.4.1/obs-streamlink-0.4.1.exe)
+
+- **Streamlink** 7.3.0 (GPL)<br/>
+  Receive Stream from Streaming Portals<br/>
+  [Homepage](https://streamlink.github.io/)
+  [Download](https://github.com/streamlink/windows-builds/releases)
+
 ### Plugins: Remote Control
 
 - **PTZControl** 0.17.1 (GPL)<br/>
