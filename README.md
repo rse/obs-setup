@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.141 (2025-06-06)
+Version 1.3.142 (2025-06-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -972,6 +972,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Video Player<br/>
   [Homepage](https://www.videolan.org/vlc/)
   [Download](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe)
+
+- **MPV** 3.0.21 (GPL)<br/>
+  Video Player<br/>
+  [Homepage](https://mpv.io/)
+  [Download](https://nightly.link/mpv-player/mpv/workflows/build/master)
 
 - **MediaInfo** 25.04 (GPL)<br/>
   Audio/Video Analyzer<br/>
