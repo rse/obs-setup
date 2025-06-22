@@ -789,6 +789,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Lua Scripts
 
+- **Lumetric Corrector** 1.2.0 (GPL)<br/>
+  Professional Color Correction<br/>
+  [Homepage](https://obsproject.com/forum/resources/lumetric-corrector.2137/)
+  [Download](https://obsproject.com/forum/resources/lumetric-corrector.2137/download)
+
 - **Lobster** 0 (GPL)<br/>
   Simplified OBS Lua API<br/>
   [Homepage](https://obsproject.com/forum/resources/lobster-an-api-wrapper-to-simplify-writing-obs-scripts.1874/)
