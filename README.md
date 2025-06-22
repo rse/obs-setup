@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.142 (2025-06-07)
+Version 1.3.143 (2025-06-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -24,10 +24,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Essential Extensions
 
-- **DistroAV (formerly OBS NDI)** 6.0.0 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 6.1.1 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/DistroAV/DistroAV/)
-  [Download](https://github.com/DistroAV/DistroAV/releases/download/6.0.0/distroav-6.0.0-windows-x64-Installer.exe)
+  [Download](https://github.com/DistroAV/DistroAV/releases/download/6.1.1/distroav-6.1.1-windows-x64-Installer.exe)
   [Download](https://downloads.ndi.tv/Tools/NDI%206%20Tools.exe)
 
 - **OBS WebSocket** 4.9.1-compat (GPL)<br/>
@@ -57,10 +57,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
   [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.1/obs-stroke-glow-shadow-1.5.1-windows-installer.zip)
 
-- **Advanced Masks** 1.1.0 (GPL)<br/>
+- **Advanced Masks** 1.5.2 (GPL)<br/>
   Comprehensive Mask Filters<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
-  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.1.0/obs-advanced-masks-1.1.0-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.5.2/obs-advanced-masks-1.5.2-windows-installer.zip)
 
 - **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -92,7 +92,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
   [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.5.0/obs-shaderfilter-2.5.0-windows-installer.exe)
 
-- **Shadertastic** 0.1.4 (GPL)<br/>
+- **Shadertastic** 0.1.5 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://www.shadertastic.com/)
   [Download](https://github.com/xurei/shadertastic/)
@@ -276,10 +276,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.30.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.30.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.30.1/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.30.2/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.4 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -369,10 +369,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-main-view-source)
   [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.2.4/obs-main-view-source-0.2.4-obs27-Windows.zip)
 
-- **Decklink Output Filter** 1.1.0 (GPL)<br/>
+- **Decklink Output Filter** 1.2.0 (GPL)<br/>
   Output Scenes/Sources to Blackmagic Decklink Cards<br/>
   [Homepage](https://github.com/cg2121/obs-decklink-output-filter)
-  [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.1.0/obs-decklink-output-filter-1.1.0-windows-x64-Installer.exe)
+  [Download](https://github.com/cg2121/obs-decklink-output-filter/releases/download/1.2.0/obs-decklink-output-filter-1.2.0-windows-x64-Installer.exe)
 
 - **AJA Output Filter** 0.2.3 (GPL)<br/>
   Output Scenes/Sources to AJA Devices<br/>
@@ -458,7 +458,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.9.0 (GPL)<br/>
+- **AtkAudio** 0.13.0 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -596,10 +596,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Off-World-Live/obs-spout2-plugin)
   [Download](https://github.com/Off-World-Live/obs-spout2-plugin/releases/download/v1.8/OBS_Spout2_Plugin_Install_v1.8.exe)
 
-- **Soundboard** 1.1.1 (GPL)<br/>
+- **Soundboard** 2.0.0 (GPL)<br/>
   Play Sound Files<br/>
   [Homepage](https://github.com/cg2121/obs-soundboard)
-  [Download](https://github.com/cg2121/obs-soundboard/releases/download/1.1.1/obs-soundboard-1.1.0-windows-x64-Installer.exe)
+  [Download](https://github.com/cg2121/obs-soundboard/releases/download/2.0.0/obs-soundboard-2.0.0-windows-x64-Installer.exe)
 
 - **Closed Captioning** 0.28 (GPL)<br/>
   Closed Captioning via Google Speech API<br/>
@@ -611,10 +611,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
   [Download](https://github.com/GrandMastersOnline/obs-lottie/releases/download/v1.1.1/obs-lottie-1.1.1-windows-x64-Installer.exe)
 
-- **DroidCam OBS Camera** 2.3.4 (GPL)<br/>
+- **DroidCam OBS Camera** 2.4.0 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
-  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.4/DroidCamOBS.Setup.2.3.4.exe)
+  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.4.0/DroidCamOBS.Setup.2.4.0.exe)
 
 - **OBS Streamlink** 0.4.1 (GPL)<br/>
   Receive Stream via Streamlink<br/>
@@ -628,10 +628,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Remote Control
 
-- **PTZControl** 0.17.1 (GPL)<br/>
+- **PTZControl** 0.18.0 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.17.1/obs-ptz-v0.17.1-windows-x64-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.18.0/obs-ptz-v0.18.0-windows-x64-Installer.exe)
 
 - **Command Source** 0.5.0 (GPL)<br/>
   Dummy Source to Execute Commands when Scene Switched<br/>
