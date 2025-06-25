@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.143 (2025-06-22)
+Version 1.3.144 (2025-06-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -338,10 +338,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/dev47apps/droidcam-obs-virtual-output)
   [Download](https://github.com/dev47apps/droidcam-obs-virtual-output/releases)
 
-- **Aitum Multistream** 1.0.6 (GPL)<br/>
+- **Aitum Multistream** 1.0.7 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
-  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.6/aitum-multistream-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.7/aitum-multistream-windows-installer.exe)
 
 - **Branch Output** 1.0.4 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
@@ -379,10 +379,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.9.1 (GPL)<br/>
+- **Audio Monitor** 0.9.2 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device and Graphical Meter<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/6133/download?file=111842)
+  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/6339/download?file=114225)
 
 - **Muted Notification** 1.0.2 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
@@ -458,7 +458,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.13.0 (GPL)<br/>
+- **AtkAudio** 0.13.2 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
