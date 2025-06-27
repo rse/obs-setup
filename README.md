@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.144 (2025-06-25)
+Version 1.3.145 (2025-06-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -111,6 +111,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Source for Rendered Gradient<br/>
   [Homepage](https://github.com/exeldro/obs-gradient-source)
   [Download](https://obsproject.com/forum/resources/gradient-source.1172/version/4964/download?file=95249)
+
+- **SVG Source** 1.0.0 (GPL)<br/>
+  Source for SVG Rendered<br/>
+  [Homepage](https://github.com/FiniteSingularity/svg-source/)
+  [Download](https://github.com/FiniteSingularity/svg-source/releases/download/1.0.0/svg-source-1.0.0-windows-x64-Installer.exe)
 
 - **Dynamic Delay** 0.1.4 (GPL)<br/>
   Dynamic Delay a Source<br/>
