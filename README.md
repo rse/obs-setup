@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.145 (2025-06-28)
+Version 1.3.146 (2025-07-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 31.0.3 (GPL)<br/>
+- **OBS Studio** 31.0.4 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Full-Installer-x64.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/31.0.4/OBS-Studio-31.0.4-Full-Installer-x64.exe)
 
 ### Essential Extensions
 
@@ -463,7 +463,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.13.2 (GPL)<br/>
+- **AtkAudio** 0.14.0 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
