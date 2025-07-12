@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.147 (2025-07-08)
+Version 1.3.148 (2025-07-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -87,10 +87,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.5.0 (GPL)<br/>
+- **Shaderfilter** 2.5.1 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.5.0/obs-shaderfilter-2.5.0-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.5.1/obs-shaderfilter-2.5.1-windows-installer.exe)
 
 - **Shadertastic** 0.1.5 (GPL)<br/>
   Shader Filter<br/>
