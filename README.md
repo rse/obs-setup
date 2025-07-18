@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.148 (2025-07-12)
+Version 1.3.149 (2025-07-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -132,10 +132,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-recursion-effect)
   [Download](https://obsproject.com/forum/resources/recursion-effect.1008/version/5390/download?file=100717)
 
-- **Freeze Filter** 0.3.4 (GPL)<br/>
+- **Freeze Filter** 0.3.5 (GPL)<br/>
   Frame Freeze Source Filter<br/>
   [Homepage](https://github.com/exeldro/obs-freeze-filter)
-  [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/6048/download?file=110875)
+  [Download](https://obsproject.com/forum/resources/freeze-filter.950/version/6372/download?file=114652)
 
 - **LiveVisionKit Filter** 1.2.2 (GPL)<br/>
   Video Effect Filters: Video Stabilizer, Adaptive De-Blocker, Lens Correction, Calibration Tool<br/>
@@ -281,15 +281,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.30.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.31.0 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.30.2/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.31.0/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.1.4 (GPL)<br/>
+- **Move (Transition)** 3.1.5 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/6300/download?file=113903)
+  [Download](https://obsproject.com/forum/resources/move.913/version/6373/download?file=114664)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -495,10 +495,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.8.0/Waveform_v1.8.0_x86_64.zip)
 
-- **Scale To Sound** 1.2.4 (GPL)<br/>
+- **Scale To Sound** 1.2.5 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
-  [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.4/obs-scale-to-sound-1.2.4-windows.zip)
+  [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.5/obs-scale-to-sound-1.2.5-windows.zip)
 
 - **Image Reaction** 1.2.2 (GPL)<br/>
   OBSOLETE: Switch Images to a Sound<br/>
