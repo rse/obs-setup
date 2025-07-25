@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.149 (2025-07-18)
+Version 1.3.150 (2025-07-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -47,7 +47,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Composite Blur** 1.5.1 (GPL)<br/>
+- **Composite Blur** 1.5.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
   [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.2/obs-composite-blur-1.5.2-windows-installer.zip)
@@ -57,10 +57,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
   [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.1/obs-stroke-glow-shadow-1.5.1-windows-installer.zip)
 
-- **Advanced Masks** 1.5.2 (GPL)<br/>
+- **Advanced Masks** 1.5.3 (GPL)<br/>
   Comprehensive Mask Filters<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
-  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.5.2/obs-advanced-masks-1.5.2-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.5.3/obs-advanced-masks-1.5.3-windows-installer.zip)
 
 - **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -463,7 +463,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.14.0 (GPL)<br/>
+- **AtkAudio** 0.14.2 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
