@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.150 (2025-07-25)
+Version 1.3.151 (2025-07-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -463,7 +463,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.14.2 (GPL)<br/>
+- **AtkAudio** 0.14.3 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -647,6 +647,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Show Interactions<br/>
   [Homepage](https://github.com/univrsal/input-overlay)
   [Download](https://github.com/univrsal/input-overlay/releases/download/v5.0.5/input-overlay-5.0.5-windows-x64-Installer.exe)
+
+- **Shutdown** 0.2.0 (GPL)<br/>
+  Adds Shutdown Functionality to WebSocket API<br/>
+  [Homepage](https://github.com/noris-plugins-for-obs/shutdown-plugin/)
+  [Download](https://github.com/noris-plugins-for-obs/shutdown-plugin/)
 
 ### Remote Control Clients
 
