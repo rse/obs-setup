@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.151 (2025-07-27)
+Version 1.3.152 (2025-08-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -57,10 +57,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
   [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.1/obs-stroke-glow-shadow-1.5.1-windows-installer.zip)
 
-- **Advanced Masks** 1.5.3 (GPL)<br/>
+- **Advanced Masks** 1.5.4 (GPL)<br/>
   Comprehensive Mask Filters<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
-  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.5.3/obs-advanced-masks-1.5.3-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.5.4/obs-advanced-masks-1.5.4-windows-installer.zip)
 
 - **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -197,10 +197,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Bemjo/OBS-RTX-SuperResolution/)
   [Download](https://github.com/Bemjo/OBS-RTX-SuperResolution/releases/download/v1.2/release.zip)
 
-- **Retro Effects** 1.0.0 (GPL)<br/>
+- **Retro Effects** 1.0.1 (GPL)<br/>
   Many Retro Shader Effects<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-retro-effects/)
-  [Download](https://github.com/FiniteSingularity/obs-retro-effects/releases/download/1.0.0/obs-retro-effects-1.0.0-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-retro-effects/releases/download/1.0.1/obs-retro-effects-1.0.1-windows-installer.zip)
 
 - **FreeFX** 0.12.0b299 (GPL)<br/>
   OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source (StreamFX Clone)<br/>
@@ -234,10 +234,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-clone)
   [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
 
-- **Source Copy** 0.2.6 (GPL)<br/>
+- **Source Copy** 0.3.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
-  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/6250/download?file=113360)
+  [Download](https://obsproject.com/forum/resources/source-copy.1261/version/6434/download?file=115226)
 
 - **Replay Source** 1.8.1 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
@@ -384,10 +384,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
   [Download](https://github.com/norihiro/obs-aja-output-filter/releases/download/0.2.3/obs-aja-output-filter-0.2.3-obs27-Windows.zip)
 
-- **Audio Monitor** 0.9.2 (GPL)<br/>
+- **Audio Monitor** 0.10.0 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device and Graphical Meter<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
-  [Download](https://obsproject.com/forum/resources/audio-monitor.1186/version/6339/download?file=114225)
+  [Download](https://github.com/exeldro/obs-audio-monitor/releases/download/0.10.0/audio-monitor-0.10.0-windows-x64-Installer.exe)
 
 - **Muted Notification** 1.0.2 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
@@ -404,15 +404,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
   [Download](https://github.com/iamscottxu/obs-rtspserver/releases/download/v3.1.0/obs-rtspserver-v3.1.0-windows-installer.exe)
 
-- **Teleport** 0.7.4 (GPL)<br/>
+- **Teleport** 0.7.5 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
-  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.4/obs-teleport.zip)
+  [Download](https://github.com/fzwoch/obs-teleport/releases/download/0.7.5/obs-teleport.zip)
 
 - **xObsBeam** 1.1.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/YorVeX/xObsBeam)
   [Download](https://github.com/YorVeX/xObsBeam/releases/download/v1.1.0/xObsBeam-win-x64.7z)
+
+- **OMTPlugin** 1.0.0.12 (GPL)<br/>
+  Send Frames within LAN with Open Media Transport (OMT) (like NDI)<br/>
+  [Homepage](https://github.com/openmediatransport/omtplugin/)
+  [Download](https://github.com/openmediatransport/omtplugin/releases/download/v1.0.0.12/omtplugin-windows-1.0.0.12.zip)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -421,20 +426,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: User Interface
 
-- **Source Dock** 0.4.1 (GPL)<br/>
+- **Source Dock** 0.5.0 (GPL)<br/>
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
-  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/5981/download?file=109826)
+  [Download](https://obsproject.com/forum/resources/source-dock.1317/version/6454/download?file=115359)
 
 - **Scene Notes Dock** 0.2.0 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
 
-- **Downstream Keyer** 0.3.3 (GPL)<br/>
+- **Downstream Keyer** 0.4.1 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/5949/download?file=109370)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6452/download?file=115350)
 
 - **Draw** 0.2.4 (GPL)<br/>
   Scene Drawing in a Dock<br/>
@@ -463,7 +468,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.14.3 (GPL)<br/>
+- **AtkAudio** 0.20.1 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -485,10 +490,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.3/obs-color-monitor-0.9.3-obs28-Windows.zip)
 
-- **Loudness Dock** 0.2.2 (GPL)<br/>
+- **Loudness Dock** 0.3.0 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
-  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.2.2/obs-loudness-dock-0.2.2-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.3.0/obs-loudness-dock-0.3.0-obs30-Windows.zip)
 
 - **Waveform** 1.8.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
