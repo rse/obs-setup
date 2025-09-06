@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.152 (2025-08-30)
+Version 1.3.153 (2025-09-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -441,10 +441,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6452/download?file=115350)
 
-- **Draw** 0.2.4 (GPL)<br/>
+- **Draw** 0.3.0 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/draw.2081/version/6260/download?file=113502)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6455/download?file=115370)
 
 - **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
