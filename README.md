@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.153 (2025-09-07)
+Version 1.3.154 (2025-09-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -102,10 +102,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
 
-- **Face Tracker** 0.7.2 (GPL)<br/>
+- **Face Tracker** 0.8.0 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.7.2/obs-face-tracker-0.7.2-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.8.0/obs-face-tracker-0.8.0-obs28-Windows.zip)
 
 - **Gradient Source** 0.3.2 (GPL)<br/>
   Source for Rendered Gradient<br/>
@@ -306,15 +306,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-switcher)
   [Download](https://obsproject.com/forum/resources/source-switcher.941/version/5932/download?file=109189)
 
-- **Media Controls** 0.4.1 (GPL)<br/>
+- **Media Controls** 0.5.0 (GPL)<br/>
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
-  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/5940/download?file=109315)
+  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/6493/download?file=115682)
 
-- **Aitum Vertical** 1.5.1 (GPL)<br/>
+- **Aitum Vertical** 1.6.0 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.4.10/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.6.0/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
@@ -348,10 +348,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.7/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 1.0.4 (GPL)<br/>
+- **Branch Output** 1.0.5 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.4/osi-branch-output-1.0.4-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.5/osi-branch-output-1.0.5-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -431,10 +431,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-dock)
   [Download](https://obsproject.com/forum/resources/source-dock.1317/version/6454/download?file=115359)
 
-- **Scene Notes Dock** 0.2.0 (GPL)<br/>
+- **Scene Notes Dock** 0.3.0 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
-  [Download](https://obsproject.com/forum/resources/scene-notes-dock.1398/version/5215/download?file=98836)
+  [Download](https://obsproject.com/forum/resources/media-controls.1032/version/6493/download?file=115682)
 
 - **Downstream Keyer** 0.4.1 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
@@ -468,7 +468,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **AtkAudio** 0.20.1 (GPL)<br/>
+- **atkAudio** 0.23.1 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -621,10 +621,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
   [Download](https://github.com/GrandMastersOnline/obs-lottie/releases/download/v1.1.1/obs-lottie-1.1.1-windows-x64-Installer.exe)
 
-- **DroidCam OBS Camera** 2.4.0 (GPL)<br/>
+- **DroidCam OBS Camera** 2.4.1 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
-  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.4.0/DroidCamOBS.Setup.2.4.0.exe)
+  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.4.1/DroidCamOBS.Setup.2.4.1.exe)
 
 - **OBS Streamlink** 0.4.1 (GPL)<br/>
   Receive Stream via Streamlink<br/>
