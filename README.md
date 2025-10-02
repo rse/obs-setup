@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.154 (2025-09-27)
+Version 1.3.155 (2025-10-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -62,15 +62,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
   [Download](https://github.com/FiniteSingularity/obs-advanced-masks/releases/download/v1.5.4/obs-advanced-masks-1.5.4-windows-installer.zip)
 
-- **Ahmanix Blur Filter** 1.0.1 (GPL)<br/>
+- **Ahmanix Blur Filter** 1.1.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
-  [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.0.1/blur-filter-obs-plugin-1.0.1-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.1.1/blur-filter-obs-plugin-1.1.1-windows-x64-Installer.exe)
 
 - **Background Removal** 1.1.13 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
   [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
+
+- **Live Background Removal Lite** 1.8.1 (GPL)<br/>
+  AI-Based Greenscreen Effect<br/>
+  [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/1.8.1/live-backgroundremoval-lite-1.8.1-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -348,10 +353,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.7/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 1.0.5 (GPL)<br/>
+- **Branch Output** 1.0.6 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.5/osi-branch-output-1.0.5-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.6/osi-branch-output-1.0.6-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -414,10 +419,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/YorVeX/xObsBeam)
   [Download](https://github.com/YorVeX/xObsBeam/releases/download/v1.1.0/xObsBeam-win-x64.7z)
 
-- **OMTPlugin** 1.0.0.12 (GPL)<br/>
+- **OMTPlugin** 1.0.0.13 (GPL)<br/>
   Send Frames within LAN with Open Media Transport (OMT) (like NDI)<br/>
   [Homepage](https://github.com/openmediatransport/omtplugin/)
-  [Download](https://github.com/openmediatransport/omtplugin/releases/download/v1.0.0.12/omtplugin-windows-1.0.0.12.zip)
+  [Download](https://github.com/openmediatransport/omtplugin/releases/download/v1.0.0.13/omtplugin-windows-1.0.0.13.zip)
 
 - **Antavore** 0.0.1 (GPL)<br/>
   OBSOLETE: Audio Watermark Generator<br/>
@@ -436,10 +441,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/6493/download?file=115682)
 
-- **Downstream Keyer** 0.4.1 (GPL)<br/>
+- **Downstream Keyer** 0.4.3 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6452/download?file=115350)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6508/download?file=115808)
 
 - **Draw** 0.3.0 (GPL)<br/>
   Scene Drawing in a Dock<br/>
@@ -834,10 +839,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
   [Download](https://github.com/midnight-studios/obs-lua/blob/main/StopWatch.lua)
 
-- **Ashmanix Countdown Timer** 2.0.10 (GPL)<br/>
+- **Ashmanix Countdown Timer** 2.1.1 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
-  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.0.10/obs-plugin-countdown-2.0.10-windows-x64-Installer.exe)
+  [Download](https://github.com/ashmanix/obs-plugin-countdown/releases/download/2.1.1/obs-plugin-countdown-2.1.1-windows-x64-Installer.exe)
 
 - **Libre Macros** 4.0.0 (GPL)<br/>
   Attach Lua Console Scripts to Sources<br/>
