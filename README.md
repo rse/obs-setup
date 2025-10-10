@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.155 (2025-10-02)
+Version 1.3.156 (2025-10-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
   [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
-- **Live Background Removal Lite** 1.8.1 (GPL)<br/>
+- **Live Background Removal Lite** 1.8.6 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/1.8.1/live-backgroundremoval-lite-1.8.1-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/1.8.6/live-backgroundremoval-lite-1.8.6-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -107,10 +107,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
 
-- **Face Tracker** 0.8.0 (GPL)<br/>
+- **Face Tracker** 0.8.2 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.8.0/obs-face-tracker-0.8.0-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.8.2/obs-face-tracker-0.8.2-obs28-Windows.zip)
 
 - **Gradient Source** 0.3.2 (GPL)<br/>
   Source for Rendered Gradient<br/>
@@ -274,7 +274,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/CodeYan01/source-defaults)
   [Download](https://github.com/CodeYan01/source-defaults/releases/download/v1.1.1/source-defaults-1.1.1-windows-x64-Installer.exe)
 
-- **jrDockie** 1.4 (GPL)<br/>
+- **jrDockie** 1.5 (GPL)<br/>
   Save/Load Dock Settings<br/>
   [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
   [Download](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/download)
@@ -456,10 +456,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
   [Download](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
 
-- **Durchblick** 0.5.1 (GPL)<br/>
+- **Durchblick** 0.5.3 (GPL)<br/>
   Alternative Multiview<br/>
   [Homepage](https://obsproject.com/forum/resources/durchblick.1484)
-  [Download](https://github.com/univrsal/durchblick/releases/download/v0.5.1/durchblick-0.5.0-windows-x64-Installer.exe)
+  [Download](https://github.com/univrsal/durchblick/releases/download/v0.5.3/durchblick-0.5.3-windows-x64-Installer.exe)
 
 - **Active Scene Dock** 0.1.2 (GPL)<br/>
   OBSOLETE: Show Preview/Program Duration<br/>
@@ -499,6 +499,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
   [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.3.0/obs-loudness-dock-0.3.0-obs30-Windows.zip)
+
+- **Master Level Meter** 1.0.2 (GPL)<br/>
+  Audio Loudness Meter<br/>
+  [Homepage](https://github.com/ShmKnd/MasterLevelMeter/)
+  [Download](https://github.com/ShmKnd/MasterLevelMeter/releases/download/2025-10-04_v1.0.2/MasterLevelMeter_Win_v1.0.2.zip)
 
 - **Waveform** 1.8.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
@@ -643,10 +648,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Remote Control
 
-- **PTZControl** 0.18.0 (GPL)<br/>
+- **PTZControl** 0.18.2 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
-  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.18.0/obs-ptz-v0.18.0-windows-x64-Installer.exe)
+  [Download](https://github.com/glikely/obs-ptz/releases/download/v0.18.2/obs-ptz-v0.18.2-windows-x64-Installer.exe)
 
 - **Command Source** 0.5.0 (GPL)<br/>
   Dummy Source to Execute Commands when Scene Switched<br/>
