@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.156 (2025-10-11)
+Version 1.3.157 (2025-10-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 31.1.1 (GPL)<br/>
+- **OBS Studio** 32.0.1 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/31.1.1/OBS-Studio-31.1.1-Windows-x64-Installer.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.1/OBS-Studio-32.0.1-Windows-x64-Installer.exe)
 
 ### Essential Extensions
 
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
   [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
-- **Live Background Removal Lite** 1.8.6 (GPL)<br/>
+- **Live Background Removal Lite** 2.0.1 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/1.8.6/live-backgroundremoval-lite-1.8.6-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.0.1/live-backgroundremoval-lite-2.0.1-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -353,10 +353,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.7/aitum-multistream-windows-installer.exe)
 
-- **Branch Output** 1.0.6 (GPL)<br/>
+- **Branch Output** 1.0.7 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.6/osi-branch-output-1.0.6-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.7/osi-branch-output-1.0.7-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -473,7 +473,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.23.1 (GPL)<br/>
+- **atkAudio** 0.24.1 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
