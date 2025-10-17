@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.157 (2025-10-12)
+Version 1.3.158 (2025-10-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
   [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
-- **Live Background Removal Lite** 2.0.1 (GPL)<br/>
+- **Live Background Removal Lite** 2.2.1 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.0.1/live-backgroundremoval-lite-2.0.1-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.2.1/live-backgroundremoval-lite-2.2.1-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -234,6 +234,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
   [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/5888/download?file=108688)
 
+- **Source Defaults** 1.2.0 (GPL)<br/>
+  Source for Default<br/>
+  [Homepage](https://github.com/CodeYan01/source-defaults/)
+  [Download](https://github.com/CodeYan01/source-defaults/releases/download/1.2.0/source-defaults-1.2.0-windows-x64.zip)
+
 - **Source Clone** 0.1.5 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-clone)
@@ -316,10 +321,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/6493/download?file=115682)
 
-- **Aitum Vertical** 1.6.0 (GPL)<br/>
+- **Aitum Vertical** 1.6.1 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.6.0/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.6.1/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
@@ -631,10 +636,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
   [Download](https://github.com/GrandMastersOnline/obs-lottie/releases/download/v1.1.1/obs-lottie-1.1.1-windows-x64-Installer.exe)
 
-- **DroidCam OBS Camera** 2.4.1 (GPL)<br/>
+- **DroidCam OBS Camera** 2.4.2 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
-  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.4.1/DroidCamOBS.Setup.2.4.1.exe)
+  [Download](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.4.2/DroidCamOBS.Setup.2.4.2.exe)
 
 - **OBS Streamlink** 0.4.1 (GPL)<br/>
   Receive Stream via Streamlink<br/>
