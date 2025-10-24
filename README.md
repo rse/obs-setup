@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.158 (2025-10-17)
+Version 1.3.159 (2025-10-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
   [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
-- **Live Background Removal Lite** 2.2.1 (GPL)<br/>
+- **Live Background Removal Lite** 2.3.2 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.2.1/live-backgroundremoval-lite-2.2.1-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.3.2/live-backgroundremoval-lite-2.3.2-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -239,7 +239,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/CodeYan01/source-defaults/)
   [Download](https://github.com/CodeYan01/source-defaults/releases/download/1.2.0/source-defaults-1.2.0-windows-x64.zip)
 
-- **Source Clone** 0.1.5 (GPL)<br/>
+- **Source Clone** 0.2.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-clone)
   [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
@@ -500,7 +500,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.3/obs-color-monitor-0.9.3-obs28-Windows.zip)
 
-- **Loudness Dock** 0.3.0 (GPL)<br/>
+- **Loudness Dock** 0.4.0 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
   [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.3.0/obs-loudness-dock-0.3.0-obs30-Windows.zip)
@@ -547,10 +547,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-cleanstream)
   [Download](https://github.com/locaal-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.3.9 (GPL)<br/>
+- **LocalVocal** 0.4.1 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/locaal-ai/obs-localvocal)
-  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.3.9/obs-localvocal-0.3.9-windows-x64-cuda-Installer.exe)
+  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.4.1/obs-localvocal-0.4.1-windows-x64-cuda-Installer.exe)
 
 - **CloudVocal** 0.0.1 (GPL)<br/>
   Cloud Transcription<br/>
@@ -611,10 +611,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/nleseul/obs-ghostscript)
   [Download](https://github.com/nleseul/obs-ghostscript/releases/download/v1.3/obs-ghostscript-win.zip)
 
-- **VNC Source** 0.6.1 (GPL)<br/>
+- **VNC Source** 0.6.2 (GPL)<br/>
   OBSOLETE: Display Remote Desktop via VNC<br/>
   [Homepage](https://github.com/norihiro/obs-vnc)
-  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.6.1/obs-vnc-0.6.1-Windows-Installer.exe)
+  [Download](https://github.com/norihiro/obs-vnc/releases/download/0.6.2/obs-vnc-0.6.2-Windows-Installer.exe)
 
 - **Spout Plugin** 1.8 (GPL)<br/>
   Import/Export of Textures to and from SPOUT2 compatible programs<br/>
