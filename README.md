@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.159 (2025-10-24)
+Version 1.3.160 (2025-10-29)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -1062,4 +1062,9 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Remote Guest Ingest<br/>
   [Homepage](https://src-link.live/)
   [Download](https://src-link.live/)
+
+- **OBS Notifier** 1.3.4 (FREEWARE)<br/>
+  Desktop Notifications of OBS Studio Events<br/>
+  [Homepage](https://github.com/DmitriySalnikov/OBSNotifier)
+  [Download](https://github.com/DmitriySalnikov/OBSNotifier/releases/download/1.3.4/OBSNotifier.zip)
 
