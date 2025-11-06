@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.160 (2025-10-29)
+Version 1.3.161 (2025-11-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 32.0.1 (GPL)<br/>
+- **OBS Studio** 32.0.2 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.1/OBS-Studio-32.0.1-Windows-x64-Installer.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.2/OBS-Studio-32.0.2-Windows-x64-Installer.exe)
 
 ### Essential Extensions
 
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
   [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
 
-- **Live Background Removal Lite** 2.3.2 (GPL)<br/>
+- **Live Background Removal Lite** 2.4.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.3.2/live-backgroundremoval-lite-2.3.2-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.4.0/live-backgroundremoval-lite-2.4.0-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -107,10 +107,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-multisource-effect)
   [Download](https://github.com/norihiro/obs-multisource-effect/releases/download/0.2.1/obs-multisource-effect-0.2.1-obs27-Windows.zip)
 
-- **Face Tracker** 0.8.2 (GPL)<br/>
+- **Face Tracker** 0.9.1 (GPL)<br/>
   AI-Based Face Tracking Effect<br/>
   [Homepage](https://github.com/norihiro/obs-face-tracker/)
-  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.8.2/obs-face-tracker-0.8.2-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-face-tracker/releases/download/0.9.1/obs-face-tracker-0.9.1-obs28-Windows.zip)
 
 - **Gradient Source** 0.3.2 (GPL)<br/>
   Source for Rendered Gradient<br/>
@@ -291,10 +291,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.31.0 (GPL)<br/>
+- **Advanced Scene Switcher** 1.32.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.31.0/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.2/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.5 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -330,6 +330,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Use a Browser Source as a Transition<br/>
   [Homepage](https://github.com/exeldro/obs-browser-transition)
   [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.5.1/vertical-canvas-windows-installer.exe)
+
+- **Scene as Transition** 1.2.1 (GPL)<br/>
+  Use a Scene as a Transition<br/>
+  [Homepage](https://github.com/andilippi/obs-scene-as-transition)
+  [Download](https://github.com/andilippi/obs-scene-as-transition/releases/download/v1.2.1/streamup-scene-as-transition-windows-installer-1.2.1.zip)
 
 ### Plugins: Streaming/Recording
 
@@ -451,6 +456,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
   [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6508/download?file=115808)
 
+- **Main View Source** 0.3.0 (GPL)<br/>
+  Main View Duplication Source<br/>
+  [Homepage](https://github.com/norihiro/obs-main-view-source/)
+  [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.3.0/obs-main-view-source-0.3.0-obs30-Windows-Installer.exe)
+
 - **Draw** 0.3.0 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
@@ -478,7 +488,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.24.1 (GPL)<br/>
+- **atkAudio** 0.26.1 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -495,10 +505,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
   [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.1/obs-audio-video-sync-dock-0.1.1-obs30-Windows.zip)
 
-- **Color Monitor** 0.9.3 (GPL)<br/>
+- **Color Monitor** 0.9.5 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
-  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.3/obs-color-monitor-0.9.3-obs28-Windows.zip)
+  [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.5/obs-color-monitor-0.9.5-obs28-Windows.zip)
 
 - **Loudness Dock** 0.4.0 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
@@ -547,10 +557,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-cleanstream)
   [Download](https://github.com/locaal-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.4.1 (GPL)<br/>
+- **LocalVocal** 0.4.4 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/locaal-ai/obs-localvocal)
-  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.4.1/obs-localvocal-0.4.1-windows-x64-cuda-Installer.exe)
+  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.4.4/obs-localvocal-0.4.4-windows-x64-cuda-Installer.exe)
 
 - **CloudVocal** 0.0.1 (GPL)<br/>
   Cloud Transcription<br/>
@@ -584,10 +594,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.3/ChapterMarker-win64.zip)
 
-- **StreamUP Chapter Marker Manager** 1.1.0 (GPL)<br/>
+- **StreamUP Chapter Marker Manager** 1.2.0 (GPL)<br/>
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/StreamUPTips/obs-chapter-marker-manager)
-  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.1.0/streamup-chapter-marker-manager-windows-installer-v1.1.0.zip)
+  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.2.0/streamup-chapter-marker-manager-windows-installer-v1.2.0.zip)
 
 - **Local Stream Markers** 1.10 (GPL)<br/>
   Write Stream Markers to CSV File<br/>
