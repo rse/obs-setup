@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.161 (2025-11-06)
+Version 1.3.162 (2025-11-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -52,10 +52,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
   [Download](https://github.com/FiniteSingularity/obs-composite-blur/releases/download/v1.5.2/obs-composite-blur-1.5.2-windows-installer.zip)
 
-- **Stroke Glow Shadow** 1.5.2 (GPL)<br/>
+- **Stroke Glow Shadow** 1.5.3 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
-  [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.1/obs-stroke-glow-shadow-1.5.1-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-stroke-glow-shadow/releases/download/v1.5.3/obs-stroke-glow-shadow-1.5.3-windows-installer.zip)
 
 - **Advanced Masks** 1.5.4 (GPL)<br/>
   Comprehensive Mask Filters<br/>
@@ -67,15 +67,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
   [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.1.1/blur-filter-obs-plugin-1.1.1-windows-x64-Installer.exe)
 
-- **Background Removal** 1.1.13 (GPL)<br/>
+- **Background Removal** 1.3.4 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
-  [Homepage](https://github.com/locaal-ai/obs-backgroundremoval)
-  [Download](https://github.com/locaal-ai/obs-backgroundremoval/releases/download/v1.1.13/obs-backgroundremoval-1.1.13-windows-x64-Installer.exe)
+  [Homepage](https://github.com/royshil/obs-backgroundremoval)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.4/obs-backgroundremoval-1.3.4-windows-x64-gpu.zip)
 
-- **Live Background Removal Lite** 2.4.0 (GPL)<br/>
+- **Live Background Removal Lite** 2.5.3 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.4.0/live-backgroundremoval-lite-2.4.0-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.5.3/live-backgroundremoval-lite-2.5.3-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -162,10 +162,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/marktheminer/text-freetype2-mustache)
   [Download](https://github.com/marktheminer/text-freetype2-mustache/releases/download/1.0.0/text-freetype2-mustache-1.0.0-windows-x64-Installer.exe)
 
-- **URL/API Source** 0.3.7 (GPL)<br/>
+- **URL/API Source** 0.4.0 (GPL)<br/>
   Fetch Live Data<br/>
   [Homepage](https://github.com/locaal-ai/obs-urlsource)
-  [Download](https://github.com/locaal-ai/obs-urlsource/releases/download/0.3.7/obs-urlsource-0.3.7-windows-x64-Installer.exe)
+  [Download](https://github.com/locaal-ai/obs-urlsource/releases/download/0.4.0/obs-urlsource-0.4.0-windows-x64-Installer.exe)
 
 - **Markdown Source** 0.2.7 (GPL)<br/>
   Render Markup Text<br/>
@@ -182,10 +182,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/cmdwtf/filter-9slice)
   [Download](https://obsproject.com/forum/resources/9-slice-filter-plugin.1662/version/5985/download?file=109845)
 
-- **Frame Interleave** 0.0.0 (GPL)<br/>
+- **Frame Interleave** 0.2.0 (GPL)<br/>
   Interleaves Video Frames for non-Program display to reduce CPU/GPU usage<br/>
   [Homepage](https://github.com/norihiro/obs-frame-interleave-filter/)
-  [Download](https://github.com/norihiro/obs-frame-interleave-filter/releases/download/0.1.1/obs-frame-interleave-filter-0.1.1-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-frame-interleave-filter/releases/download/0.2.0/obs-frame-interleave-filter-0.2.0-obs30-Windows.zip)
 
 - **OCR - Text Recognition** 0.0.8 (GPL)<br/>
   OCR Text Recognition with Tesseract<br/>
@@ -202,10 +202,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Bemjo/OBS-RTX-SuperResolution/)
   [Download](https://github.com/Bemjo/OBS-RTX-SuperResolution/releases/download/v1.2/release.zip)
 
-- **Retro Effects** 1.0.1 (GPL)<br/>
+- **Retro Effects** 1.0.2 (GPL)<br/>
   Many Retro Shader Effects<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-retro-effects/)
-  [Download](https://github.com/FiniteSingularity/obs-retro-effects/releases/download/1.0.1/obs-retro-effects-1.0.1-windows-installer.zip)
+  [Download](https://github.com/FiniteSingularity/obs-retro-effects/releases/download/1.0.2/obs-retro-effects-1.0.2-windows-installer.zip)
 
 - **FreeFX** 0.12.0b299 (GPL)<br/>
   OBSOLETE: Powerful Filters (Shaders, etc) and Source Mirror Source (StreamFX Clone)<br/>
@@ -259,10 +259,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/5399/download?file=100890)
 
-- **Scene Tree Folder** 0.1.5 (GPL)<br/>
+- **Scene Tree Folder** 0.1.8 (GPL)<br/>
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
-  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.5/obs_scene_tree_view_win_v0_1_5.zip)
+  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.8/obs_scene_tree_view_win_v0_1_8.zip)
 
 - **Media Playlist Source** 0.1.3 (GPL)<br/>
   Media Source Playlist<br/>
@@ -284,17 +284,17 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
   [Download](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/download)
 
-- **Quick Access Utility (QAU)** 1.0.3 (GPL)<br/>
+- **Quick Access Utility (QAU)** 1.0.4 (GPL)<br/>
   Quick Source/Scene Access Dock<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-quick-access-utility)
-  [Download](https://github.com/FiniteSingularity/obs-quick-access-utility/releases/download/1.0.3/obs-quick-access-utility-1.0.3-windows-x64-Installer.exe)
+  [Download](https://github.com/FiniteSingularity/obs-quick-access-utility/releases/download/1.0.4/obs-quick-access-utility-1.0.4-windows-x64-Installer.exe)
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.32.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.32.3 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.2/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.3/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.1.5 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -343,7 +343,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
 
-- **Record Rename** 0.1.1 (GPL)<br/>
+- **Record Rename** 0.1.2 (GPL)<br/>
   Rename Recordings<br/>
   [Homepage](https://github.com/exeldro/obs-record-rename)
   [Download](https://obsproject.com/forum/resources/record-rename.2134/version/6280/download?file=113671)
@@ -384,10 +384,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-virtual-cam-filter)
   [Download](https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4086/download?file=81518)
 
-- **Main View Source** 0.2.4 (GPL)<br/>
+- **Main View Source** 0.3.0 (GPL)<br/>
   Duplicate Main View<br/>
   [Homepage](https://github.com/norihiro/obs-main-view-source)
-  [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.2.4/obs-main-view-source-0.2.4-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.3.0/obs-main-view-source-0.3.0-obs28-Windows.zip)
 
 - **Decklink Output Filter** 1.2.0 (GPL)<br/>
   Output Scenes/Sources to Blackmagic Decklink Cards<br/>
@@ -466,7 +466,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-draw)
   [Download](https://obsproject.com/forum/resources/draw.2081/version/6455/download?file=115370)
 
-- **OBS LowerThirdSwitcher** 1.0.0 (GPL)<br/>
+- **OBS LowerThirdSwitcher** 2.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
   [Homepage](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
   [Download](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
@@ -488,7 +488,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.26.1 (GPL)<br/>
+- **atkAudio** 0.30.1 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -500,10 +500,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Audio Video Sync Dock** 0.1.1 (GPL)<br/>
+- **Audio Video Sync Dock** 0.1.2 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
-  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.1/obs-audio-video-sync-dock-0.1.1-obs30-Windows.zip)
+  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.2/obs-audio-video-sync-dock-0.1.2-obs30-Windows.zip)
 
 - **Color Monitor** 0.9.5 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
@@ -552,15 +552,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-audio-pan-filter)
   [Download](https://github.com/norihiro/obs-audio-pan-filter/releases/download/0.2.3/obs-audio-pan-filter-0.2.3-obs27-Windows.zip)
 
-- **CleanStream** 0.1.3 (GPL)<br/>
+- **CleanStream** 0.2.0 (GPL)<br/>
   Um-Removal<br/>
   [Homepage](https://github.com/locaal-ai/obs-cleanstream)
-  [Download](https://github.com/locaal-ai/obs-cleanstream/releases/download/0.1.3/obs-cleanstream-0.1.3-windows-x64-Installer.exe)
+  [Download](https://github.com/locaal-ai/obs-cleanstream/releases/download/0.2.0/obs-cleanstream-0.2.0-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.4.4 (GPL)<br/>
+- **LocalVocal** 0.5.1 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/locaal-ai/obs-localvocal)
-  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.4.4/obs-localvocal-0.4.4-windows-x64-cuda-Installer.exe)
+  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.5.1/obs-localvocal-0.5.1-windows-x64-cuda-Installer.exe)
 
 - **CloudVocal** 0.0.1 (GPL)<br/>
   Cloud Transcription<br/>
