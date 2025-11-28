@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.162 (2025-11-20)
+Version 1.3.163 (2025-11-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -67,15 +67,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
   [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.1.1/blur-filter-obs-plugin-1.1.1-windows-x64-Installer.exe)
 
-- **Background Removal** 1.3.4 (GPL)<br/>
+- **Background Removal** 1.3.5 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.4/obs-backgroundremoval-1.3.4-windows-x64-gpu.zip)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.5/obs-backgroundremoval-1.3.5-windows-x64-gpu.zip)
 
-- **Live Background Removal Lite** 2.5.3 (GPL)<br/>
+- **Live Background Removal Lite** 2.6.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.5.3/live-backgroundremoval-lite-2.5.3-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.6.0/live-backgroundremoval-lite-2.6.0-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -259,10 +259,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/5399/download?file=100890)
 
-- **Scene Tree Folder** 0.1.8 (GPL)<br/>
+- **Scene Tree Folder** 0.1.9 (GPL)<br/>
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
-  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.8/obs_scene_tree_view_win_v0_1_8.zip)
+  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.9/obs_scene_tree_view_win_v0_1_9.zip)
 
 - **Media Playlist Source** 0.1.3 (GPL)<br/>
   Media Source Playlist<br/>
@@ -296,10 +296,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
   [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.3/advanced-scene-switcher-windows-x64-Installer.exe)
 
-- **Move (Transition)** 3.1.5 (GPL)<br/>
+- **Move (Transition)** 3.2.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
-  [Download](https://obsproject.com/forum/resources/move.913/version/6373/download?file=114664)
+  [Download](https://obsproject.com/forum/resources/move.913/version/6714/download?file=116821)
 
 - **Scene as a Transition** 1.1.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -343,7 +343,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-source-record)
   [Download](https://obsproject.com/forum/resources/source-record.1285/version/6239/download?file=113211)
 
-- **Record Rename** 0.1.2 (GPL)<br/>
+- **Record Rename** 0.1.3 (GPL)<br/>
   Rename Recordings<br/>
   [Homepage](https://github.com/exeldro/obs-record-rename)
   [Download](https://obsproject.com/forum/resources/record-rename.2134/version/6280/download?file=113671)
@@ -488,7 +488,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.30.1 (GPL)<br/>
+- **atkAudio** 0.31.2 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -525,6 +525,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.8.0/Waveform_v1.8.0_x86_64.zip)
 
+- **Audio Waves** 1.1.0 (GPL)<br/>
+  Audio Waveform Visualization<br/>
+  [Homepage](https://github.com/mmlTools/audio-wave)
+  [Download](https://github.com/mmlTools/audio-wave/releases/download/1.1.0/audio-wave-1.0.0-windows-x64.zip)
+
 - **Scale To Sound** 1.2.5 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
@@ -557,10 +562,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-cleanstream)
   [Download](https://github.com/locaal-ai/obs-cleanstream/releases/download/0.2.0/obs-cleanstream-0.2.0-windows-x64-Installer.exe)
 
-- **LocalVocal** 0.5.1 (GPL)<br/>
+- **LocalVocal** 0.5.3 (GPL)<br/>
   Local OpenAI Whisper Transcription<br/>
   [Homepage](https://github.com/locaal-ai/obs-localvocal)
-  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.5.1/obs-localvocal-0.5.1-windows-x64-cuda-Installer.exe)
+  [Download](https://github.com/locaal-ai/obs-localvocal/releases/download/0.5.3/obs-localvocal-0.5.3-windows-x64-cuda-Installer.exe)
 
 - **CloudVocal** 0.0.1 (GPL)<br/>
   Cloud Transcription<br/>
@@ -826,6 +831,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Place Text and Images on Canvas<br/>
   [Homepage](https://obsproject.com/forum/resources/iros-flexible-and-remotly-controllable-stream-overlay.1863/)
   [Download](https://obsproject.com/forum/resources/iros-flexible-and-remotly-controllable-stream-overlay.1863/)
+
+- **Local Webserver** 1.0.0 (GPL)<br/>
+  Run an embedded Webserver<br/>
+  [Homepage](https://github.com/mmlTools/local-webserver)
+  [Download](https://github.com/mmlTools/local-webserver/releases/download/1.0.0/local-webserver-1.0.0-windows-x64-Setup.exe)
 
 ### Lua Scripts
 
