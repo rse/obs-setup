@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.163 (2025-11-28)
+Version 1.3.164 (2025-12-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 32.0.2 (GPL)<br/>
+- **OBS Studio** 32.0.3 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.2/OBS-Studio-32.0.2-Windows-x64-Installer.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.3/OBS-Studio-32.0.3-Windows-x64-Installer.exe)
 
 ### Essential Extensions
 
@@ -291,10 +291,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.32.3 (GPL)<br/>
+- **Advanced Scene Switcher** 1.32.4 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.3/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.4/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.2.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -461,10 +461,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-main-view-source/)
   [Download](https://github.com/norihiro/obs-main-view-source/releases/download/0.3.0/obs-main-view-source-0.3.0-obs30-Windows-Installer.exe)
 
-- **Draw** 0.3.0 (GPL)<br/>
+- **Draw** 0.3.1 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
-  [Download](https://obsproject.com/forum/resources/draw.2081/version/6455/download?file=115370)
+  [Download](https://obsproject.com/forum/resources/draw.2081/version/6778/download?file=117078)
 
 - **OBS LowerThirdSwitcher** 2.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
@@ -488,7 +488,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.31.2 (GPL)<br/>
+- **atkAudio** 0.31.5 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -510,10 +510,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.5/obs-color-monitor-0.9.5-obs28-Windows.zip)
 
-- **Loudness Dock** 0.4.0 (GPL)<br/>
+- **Loudness Dock** 0.4.1 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
-  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.3.0/obs-loudness-dock-0.3.0-obs30-Windows.zip)
+  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.4.1/obs-loudness-dock-0.4.1-obs30-Windows.zip)
 
 - **Master Level Meter** 1.0.2 (GPL)<br/>
   Audio Loudness Meter<br/>
@@ -525,10 +525,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.8.0/Waveform_v1.8.0_x86_64.zip)
 
-- **Audio Waves** 1.1.0 (GPL)<br/>
+- **Audio Waves** 1.1.2 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/mmlTools/audio-wave)
-  [Download](https://github.com/mmlTools/audio-wave/releases/download/1.1.0/audio-wave-1.0.0-windows-x64.zip)
+  [Download](https://github.com/mmlTools/audio-wave/releases/download/1.1.2/audio-wave-1.1.2-windows-x64.zip)
 
 - **Scale To Sound** 1.2.5 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
