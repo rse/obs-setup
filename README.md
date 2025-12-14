@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.164 (2025-12-07)
+Version 1.3.165 (2025-12-14)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,10 +17,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 32.0.3 (GPL)<br/>
+- **OBS Studio** 32.0.4 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
-  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.3/OBS-Studio-32.0.3-Windows-x64-Installer.exe)
+  [Download](https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-x64-Installer.exe)
 
 ### Essential Extensions
 
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
   [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.5/obs-backgroundremoval-1.3.5-windows-x64-gpu.zip)
 
-- **Live Background Removal Lite** 2.6.0 (GPL)<br/>
+- **Live Background Removal Lite** 2.8.1 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.6.0/live-backgroundremoval-lite-2.6.0-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.8.1/live-backgroundremoval-lite-2.8.1-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -226,6 +226,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Webcam-based Heart Rate Detection<br/>
   [Homepage](https://github.com/Maciek03102003/StreamMyHeart)
   [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.4/stream-my-heart-1.0.4-windows-x64-cpu-Installer.exe)
+
+- **Smart Gamma** 0.2.2 (GPL)<br/>
+  Make dark scenes brighter<br/>
+  [Homepage](https://github.com/mirkonz/smart-gamma/)
+  [Download](https://github.com/mirkonz/smart-gamma/releases/download/0.2.2/smart-gamma-0.2.2-windows-x64.exe)
 
 ### Plugins: Scene/Source Management
 
@@ -488,7 +493,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.31.5 (GPL)<br/>
+- **atkAudio** 0.31.8 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
