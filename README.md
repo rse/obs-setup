@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.165 (2025-12-14)
+Version 1.3.166 (2025-12-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -72,10 +72,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
   [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.5/obs-backgroundremoval-1.3.5-windows-x64-gpu.zip)
 
-- **Live Background Removal Lite** 2.8.1 (GPL)<br/>
+- **Live Background Removal Lite** 3.0.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/2.8.1/live-backgroundremoval-lite-2.8.1-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/3.0.0/live-backgroundremoval-lite-3.0.0-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -227,10 +227,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Maciek03102003/StreamMyHeart)
   [Download](https://github.com/Maciek03102003/StreamMyHeart/releases/download/1.0.4/stream-my-heart-1.0.4-windows-x64-cpu-Installer.exe)
 
-- **Smart Gamma** 0.2.2 (GPL)<br/>
+- **Smart Gamma** 0.3.0 (GPL)<br/>
   Make dark scenes brighter<br/>
   [Homepage](https://github.com/mirkonz/smart-gamma/)
-  [Download](https://github.com/mirkonz/smart-gamma/releases/download/0.2.2/smart-gamma-0.2.2-windows-x64.exe)
+  [Download](https://github.com/mirkonz/smart-gamma/releases/download/0.3.0/smart-gamma-0.3.0-windows-x64.exe)
 
 ### Plugins: Scene/Source Management
 
@@ -296,10 +296,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.32.4 (GPL)<br/>
+- **Advanced Scene Switcher** 1.32.5 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.4/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.5/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.2.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -311,10 +311,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/andilippi/obs-scene-as-transition)
   [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/5695/download?file=104916)
 
-- **Transition Table** 0.2.7 (GPL)<br/>
+- **Transition Table** 0.3.1 (GPL)<br/>
   Override Scene Transitions<br/>
   [Homepage](https://github.com/exeldro/obs-transition-table)
-  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/5172/download?file=98263)
+  [Download](https://obsproject.com/forum/resources/transition-table.1174/version/6823/download?file=117271)
 
 - **Source Switcher** 0.4.3 (GPL)<br/>
   Source Switching between Multiple Sources<br/>
@@ -358,7 +358,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/miaulightouch/obs-virtual-cam)
   [Download](https://github.com/miaulightouch/obs-virtual-cam/releases/download/2.1.2/obs-virtualcam-2.1.2-windows-x64-Installer.exe)
 
-- **DroidCam Virtual Output** 0.2.1 (GPL)<br/>
+- **DroidCam Virtual Output** 0.2.2 (GPL)<br/>
   Kernel-Device-based (instead of DirectShow) Virtual Camera for Windows<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-virtual-output)
   [Download](https://github.com/dev47apps/droidcam-obs-virtual-output/releases)
@@ -456,10 +456,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/6493/download?file=115682)
 
-- **Downstream Keyer** 0.4.3 (GPL)<br/>
+- **Downstream Keyer** 0.4.4 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
-  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6508/download?file=115808)
+  [Download](https://obsproject.com/forum/resources/downstream-keyer.1254/version/6817/download?file=117237)
 
 - **Main View Source** 0.3.0 (GPL)<br/>
   Main View Duplication Source<br/>
