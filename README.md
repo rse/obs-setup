@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.166 (2025-12-19)
+Version 1.3.167 (2026-02-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -47,6 +47,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
+- **Zoominator** 1.2.0 (GPL)<br/>
+  Comprehensive Auto-Zooming<br/>
+  [Homepage](https://github.com/mmlTools/zoominator)
+  [Download](https://github.com/mmlTools/zoominator/releases/download/1.2.0/zoominator-1.2.0-windows-x64.zip)
+
 - **Composite Blur** 1.5.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
@@ -67,15 +72,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
   [Download](https://github.com/ashmanix/blur-filter-obs-plugin/releases/download/1.1.1/blur-filter-obs-plugin-1.1.1-windows-x64-Installer.exe)
 
-- **Background Removal** 1.3.5 (GPL)<br/>
+- **Background Removal** 1.3.6 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
-  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.5/obs-backgroundremoval-1.3.5-windows-x64-gpu.zip)
+  [Download](https://github.com/royshil/obs-backgroundremoval/releases/download/1.3.6/obs-backgroundremoval-1.3.6-windows-x64-gpu.zip)
 
-- **Live Background Removal Lite** 3.0.0 (GPL)<br/>
+- **Live Background Removal Lite** 3.9.0 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
-  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/3.0.0/live-backgroundremoval-lite-3.0.0-windows-x64.zip)
+  [Download](https://github.com/kaito-tokyo/live-backgroundremoval-lite/releases/download/3.9.0/live-backgroundremoval-lite-3.9.0-windows-x64.zip)
 
 - **Detect** 0.0.3 (GPL)<br/>
   AI-Based Object Detection (for Blurring and Zooming)<br/>
@@ -92,12 +97,12 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
   [Download](https://github.com/norihiro/obs-async-source-duplication/releases/download/0.4.1/obs-async-source-duplication-0.4.1-Windows-Installer.exe)
 
-- **Shaderfilter** 2.5.1 (GPL)<br/>
+- **Shaderfilter** 2.6.0 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
-  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.5.1/obs-shaderfilter-2.5.1-windows-installer.exe)
+  [Download](https://github.com/exeldro/obs-shaderfilter/releases/download/2.6.0/obs-shaderfilter-2.6.0-windows-installer.exe)
 
-- **Shadertastic** 0.1.5 (GPL)<br/>
+- **Shadertastic** 1.0.2 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://www.shadertastic.com/)
   [Download](https://github.com/xurei/shadertastic/)
@@ -232,6 +237,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/mirkonz/smart-gamma/)
   [Download](https://github.com/mirkonz/smart-gamma/releases/download/0.3.0/smart-gamma-0.3.0-windows-x64.exe)
 
+- **Flood Tuber** 0.2.0 (GPL)<br/>
+  PNGTuber animations<br/>
+  [Homepage](https://github.com/justflood/flood-tuber)
+  [Download](https://github.com/justflood/flood-tuber/releases/download/v0.2.0/FloodTuber-Installer-0.2.0.exe)
+
 ### Plugins: Scene/Source Management
 
 - **Scene Collection Manager** 0.1.2 (GPL)<br/>
@@ -244,10 +254,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/CodeYan01/source-defaults/)
   [Download](https://github.com/CodeYan01/source-defaults/releases/download/1.2.0/source-defaults-1.2.0-windows-x64.zip)
 
-- **Source Clone** 0.2.0 (GPL)<br/>
+- **Source Clone** 0.2.1 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-clone)
-  [Download](https://obsproject.com/forum/resources/source-clone.1632/version/5627/download?file=104019)
+  [Download](https://obsproject.com/forum/resources/source-clone.1632/version/6961/download?file=117809)
 
 - **Source Copy** 0.3.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
@@ -264,10 +274,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-dir-watch-media)
   [Download](https://obsproject.com/forum/resources/directory-watch-media.801/version/5399/download?file=100890)
 
-- **Scene Tree Folder** 0.1.9 (GPL)<br/>
+- **Scene Tree Folder** 0.2.0 (GPL)<br/>
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
-  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.1.9/obs_scene_tree_view_win_v0_1_9.zip)
+  [Download](https://github.com/DigitOtter/obs_scene_tree_view/releases/download/v0.2.0/obs_scene_tree_view_win_v0_2.0.zip)
 
 - **Media Playlist Source** 0.1.3 (GPL)<br/>
   Media Source Playlist<br/>
@@ -296,10 +306,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.32.5 (GPL)<br/>
+- **Advanced Scene Switcher** 1.32.6 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.5/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.6/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.2.0 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -409,6 +419,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
   [Download](https://github.com/exeldro/obs-audio-monitor/releases/download/0.10.0/audio-monitor-0.10.0-windows-x64-Installer.exe)
 
+- **Reorderable Audio Mixer** 1.1.1 (GPL)<br/>
+  Audio Mixer supporting Source Reordering<br/>
+  [Homepage](https://github.com/TheTomCanuck/reorderable-audio-mixer)
+  [Download](https://github.com/TheTomCanuck/reorderable-audio-mixer/releases/download/1.1.1/reorderable-audio-mixer-1.1.1-windows-x64.zip)
+
 - **Muted Notification** 1.0.2 (GPL)<br/>
   Play Sound when Parent Source is Muted<br/>
   [Homepage](https://git.vrsal.xyz/alex/urmuted)
@@ -471,6 +486,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-draw)
   [Download](https://obsproject.com/forum/resources/draw.2081/version/6778/download?file=117078)
 
+- **Instant Highlight Source Draw** 1.0.0 (GPL)<br/>
+  Draw on Source<br/>
+  [Homepage](https://github.com/mmlTools/draw-source)
+  [Download](https://github.com/mmlTools/draw-source/releases/download/v1.0.0/Instant.Higlights.Source.Draw.zip)
+
 - **OBS LowerThirdSwitcher** 2.0.0 (GPL)<br/>
   Scene-Based Lower Third Control<br/>
   [Homepage](https://github.com/levi-hrb/obs-plugin-lowerthirdswitcher)
@@ -493,7 +513,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.31.8 (GPL)<br/>
+- **atkAudio** 0.31.11 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -505,20 +525,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Monitoring
 
-- **Audio Video Sync Dock** 0.1.2 (GPL)<br/>
+- **Audio Video Sync Dock** 0.1.3 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
-  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.2/obs-audio-video-sync-dock-0.1.2-obs30-Windows.zip)
+  [Download](https://github.com/norihiro/obs-audio-video-sync-dock/releases/download/0.1.3/obs-audio-video-sync-dock-0.1.3-obs32-Windows.zip)
 
 - **Color Monitor** 0.9.5 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
   [Download](https://github.com/norihiro/obs-color-monitor/releases/download/0.9.5/obs-color-monitor-0.9.5-obs28-Windows.zip)
 
-- **Loudness Dock** 0.4.1 (GPL)<br/>
+- **Loudness Dock** 0.4.2 (GPL)<br/>
   Audio EBU R 128 Loudness Meter<br/>
   [Homepage](https://github.com/norihiro/obs-loudness-dock/)
-  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.4.1/obs-loudness-dock-0.4.1-obs30-Windows.zip)
+  [Download](https://github.com/norihiro/obs-loudness-dock/releases/download/0.4.2/obs-loudness-dock-0.4.2-obs32-Windows.zip)
 
 - **Master Level Meter** 1.0.2 (GPL)<br/>
   Audio Loudness Meter<br/>
@@ -530,10 +550,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/phandasm/waveform)
   [Download](https://github.com/phandasm/waveform/releases/download/v1.8.0/Waveform_v1.8.0_x86_64.zip)
 
-- **Audio Waves** 1.1.2 (GPL)<br/>
+- **Audio Waves** 2.0.0 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/mmlTools/audio-wave)
-  [Download](https://github.com/mmlTools/audio-wave/releases/download/1.1.2/audio-wave-1.1.2-windows-x64.zip)
+  [Download](https://github.com/mmlTools/audio-wave/releases/download/2.0.0/audio-wave-2.0.0-windows-x64.zip)
 
 - **Scale To Sound** 1.2.5 (GPL)<br/>
   OBSOLETE: Scale a Source to a Sound<br/>
@@ -547,10 +567,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Audio Output
 
-- **Asynchronous Audio Filter** 0.3.0 (GPL)<br/>
+- **Asynchronous Audio Filter** 0.4.0 (GPL)<br/>
   Asynchronous Audio Filter<br/>
   [Homepage](https://github.com/norihiro/obs-async-audio-filter)
-  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.3.0/obs-async-audio-filter-0.3.0-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-async-audio-filter/releases/download/0.4.0/obs-async-audio-filter-0.4.0-obs32-Windows.zip)
+
+- **Audio Stems Recorder** 1.3.0 (GPL)<br/>
+  Save All Audio Tracks as WAV files<br/>
+  [Homepage](https://github.com/mmlTools/audio-stems-recorder)
+  [Download](https://github.com/mmlTools/audio-stems-recorder/releases/download/1.3.0/audio-stems-recorder-1.3.0-windows-x64.zip)
 
 - **Mute Filter** 0.3.0 (GPL)<br/>
   Mute Unwanted Audio<br/>
@@ -688,7 +713,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/univrsal/input-overlay)
   [Download](https://github.com/univrsal/input-overlay/releases/download/v5.0.5/input-overlay-5.0.5-windows-x64-Installer.exe)
 
-- **Shutdown** 0.2.0 (GPL)<br/>
+- **Shutdown** 0.3.0 (GPL)<br/>
   Adds Shutdown Functionality to WebSocket API<br/>
   [Homepage](https://github.com/noris-plugins-for-obs/shutdown-plugin/)
   [Download](https://github.com/noris-plugins-for-obs/shutdown-plugin/)
@@ -775,10 +800,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://coyotemidi.com/)
   [Download](https://coyotemidi.com/download)
 
-- **OBS MIDI MG** 3.0.3 (GPL)<br/>
+- **OBS MIDI MG** 3.1.2 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.0.3/obs-midi-mg-3.0.3-windows-x64-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.1.2/obs-midi-mg-3.1.2-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
@@ -821,6 +846,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Automatically-Controlled Lower Thirds<br/>
   [Homepage](https://github.com/rse/lowerthird)
   [Download](https://github.com/rse/lowerthird/archive/refs/tags/0.9.5.tar.gz)
+
+- **Vinciflow** 3.6.0 (GPL)<br/>
+  Lower-Thirds Engine
+  [Homepage](https://github.com/mmlTools/vinci-flow)
+  [Download](https://github.com/mmlTools/vinci-flow/releases/download/3.6.0/vinci-flow-3.6.0-windows-x64.zip)
 
 - **Lower Thirds with Dockable Control Panel** 1.6 (GPL)<br/>
   Semi-Manually-Controlled Lower Thirds<br/>
