@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.168 (2026-03-14)
+Version 1.3.169 (2026-03-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -50,7 +50,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **Zoominator** 1.2.0 (GPL)<br/>
   Comprehensive Auto-Zooming<br/>
   [Homepage](https://github.com/mmlTools/zoominator)
-  [Download](https://github.com/mmlTools/zoominator/releases/download/1.2.0/zoominator-1.2.0-windows-x64.zip)
+  [Download](https://github.com/mmlTools/zoominator/releases/download/1.3.0/zoominator-1.3.0-windows-x64.zip)
 
 - **Composite Blur** 1.5.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -321,10 +321,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.32.8 (GPL)<br/>
+- **Advanced Scene Switcher** 1.32.9 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.8/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.9/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.2.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
@@ -396,7 +396,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **Aitum Stream Suite** 1.1.0 (GPL)<br/>
   Multiple RTMP Outputs, Vertical Canvas<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-stream-suite)
-  [Download](https://github.com/Aitum/obs-aitum-stream-suite/releases/download/1.1.0-beta1/aitum-stream-suite-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-aitum-stream-suite/releases/download/1.1.0/aitum-stream-suite-windows-installer.exe)
 
 - **Branch Output** 1.0.8 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
@@ -444,10 +444,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/ShmKnd/MasterLevelMeter/)
   [Download](https://github.com/ShmKnd/MasterLevelMeter/releases/download/v1.0.2a/MasterLevelMeter_Win_v1.0.2.zip)
 
-- **Mix Track to Source** 1.0.0 (GPL)<br/>
+- **Mix Track to Source** 1.0.1 (GPL)<br/>
   Create Audio Source of Master Tracks 1-6 for Filtering Master Tracks<br/>
   [Homepage](https://github.com/semnil/MixTrack2Source)
-  [Download](https://github.com/semnil/MixTrack2Source/releases/download/1.0.0/mix-track-to-source-1.0.0-windows-x64.zip)
+  [Download](https://github.com/semnil/MixTrack2Source/releases/download/1.0.1/mix-track-to-source-1.0.1-windows-x64.zip)
 
 - **Reorderable Audio Mixer** 1.1.1 (GPL)<br/>
   Audio Mixer supporting Source Reordering<br/>
@@ -543,7 +543,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.31.13 (GPL)<br/>
+- **atkAudio** 0.31.14 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -680,6 +680,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
   [Download](https://github.com/synap5e/obs-screenshot-plugin/releases/download/1.5.2/obs-screenshot-filter-1.5.2-windows-x64.zip)
+
+- **Better Screenshot** 1.1.0 (GPL)<br/>
+  Source Screenshot Filter<br/>
+  [Homepage](https://github.com/mmlTools/better-screenshot)
+  [Download](https://github.com/mmlTools/better-screenshot/releases/download/1.1.0/better-screenshot-1.1.0-windows-x64.zip)
 
 - **Ghostscript** 1.3 (GPL)<br/>
   OBSOLETE: PDF Rendering with Ghostscript<br/>
@@ -830,10 +835,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://coyotemidi.com/)
   [Download](https://coyotemidi.com/download)
 
-- **OBS MIDI MG** 3.1.4 (GPL)<br/>
+- **OBS MIDI MG** 3.1.5 (GPL)<br/>
   Remote Control OBS via MIDI<br/>
   [Homepage](https://github.com/nhielost/obs-midi-mg)
-  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.1.4/obs-midi-mg-3.1.4-windows-x64-Installer.exe)
+  [Download](https://github.com/nhielost/obs-midi-mg/releases/download/3.1.5/obs-midi-mg-3.1.5-windows-x64-Installer.exe)
 
 - **OSC for OBS** 3.1.3 (FREEWARE)<br/>
   Remote Control OBS via OSC<br/>
