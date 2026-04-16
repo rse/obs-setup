@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.169 (2026-03-27)
+Version 1.3.170 (2026-04-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -47,10 +47,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Zoominator** 1.2.0 (GPL)<br/>
+- **Zoominator** 1.5.0 (GPL)<br/>
   Comprehensive Auto-Zooming<br/>
   [Homepage](https://github.com/mmlTools/zoominator)
-  [Download](https://github.com/mmlTools/zoominator/releases/download/1.3.0/zoominator-1.3.0-windows-x64.zip)
+  [Download](https://github.com/mmlTools/zoominator/releases/download/1.5.0/zoominator-1.5.0-windows-x64.zip)
 
 - **Composite Blur** 1.5.2 (GPL)<br/>
   Comprehensive Blur Filter<br/>
@@ -172,10 +172,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/locaal-ai/obs-urlsource)
   [Download](https://github.com/locaal-ai/obs-urlsource/releases/download/0.4.0/obs-urlsource-0.4.0-windows-x64-Installer.exe)
 
-- **Markdown Source** 0.2.7 (GPL)<br/>
+- **Markdown Source** 0.3.0 (GPL)<br/>
   Render Markup Text<br/>
   [Homepage](https://github.com/exeldro/obs-markdown)
-  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/5994/download?file=110030)
+  [Download](https://obsproject.com/forum/resources/markdown-source.1764/version/7224/download?file=119064)
+
+- **HTML Source** 0.1.0 (GPL)<br/>
+  HTML as a Source<br/>
+  [Homepage](https://github.com/exeldro/obs-html-source)
+  [Download](https://obsproject.com/forum/resources/html-source.2441/version/7247/download?file=119144)
 
 - **3D Effect** 0.1.4 (GPL)<br/>
   3D Effect Filter<br/>
@@ -259,10 +264,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Management
 
-- **Scene Collection Manager** 0.1.2 (GPL)<br/>
+- **Scene Collection Manager** 0.2.0 (GPL)<br/>
   Filter/Backup/Restore Scene Collections<br/>
   [Homepage](https://github.com/exeldro/obs-scene-collection-manager)
-  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/5888/download?file=108688)
+  [Download](https://obsproject.com/forum/resources/scene-collection-manager.1434/version/7259/download?file=119188)
 
 - **Source Defaults** 1.2.0 (GPL)<br/>
   Source for Default<br/>
@@ -321,20 +326,20 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.32.9 (GPL)<br/>
+- **Advanced Scene Switcher** 1.33.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
-  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.9/advanced-scene-switcher-windows-x64-Installer.exe)
+  [Download](https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.33.1/advanced-scene-switcher-windows-x64-Installer.exe)
 
 - **Move (Transition)** 3.2.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
   [Download](https://obsproject.com/forum/resources/move.913/version/7055/download?file=118275)
 
-- **Scene as a Transition** 1.1.1 (GPL)<br/>
+- **Scene as a Transition** 1.3.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
   [Homepage](https://github.com/andilippi/obs-scene-as-transition)
-  [Download](https://obsproject.com/forum/resources/scene-as-transition.1704/version/5695/download?file=104916)
+  [Download](https://obsproject.com/forum/resources/streamup-scene-as-transition.1704/version/7269/download?file=119227)
 
 - **Transition Table** 0.3.1 (GPL)<br/>
   Override Scene Transitions<br/>
@@ -351,10 +356,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/exeldro/obs-media-controls)
   [Download](https://obsproject.com/forum/resources/media-controls.1032/version/6493/download?file=115682)
 
-- **Aitum Vertical** 1.6.2 (GPL)<br/>
+- **Aitum Vertical** 1.6.3 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
-  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.6.2/vertical-canvas-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-vertical-canvas/releases/download/1.6.3/vertical-canvas-windows-installer.exe)
 
 - **Browser Transition** 0.1.3 (GPL)<br/>
   Use a Browser Source as a Transition<br/>
@@ -368,10 +373,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Streaming/Recording
 
-- **Source Record** 0.4.7 (GPL)<br/>
+- **Source Record** 0.4.8 (GPL)<br/>
   Individual Source Recording<br/>
   [Homepage](https://github.com/exeldro/obs-source-record)
-  [Download](https://obsproject.com/forum/resources/source-record.1285/version/7132/download?file=118570)
+  [Download](https://obsproject.com/forum/resources/source-record.1285/version/7203/download?file=118928)
 
 - **Record Rename** 0.1.3 (GPL)<br/>
   Rename Recordings<br/>
@@ -393,15 +398,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
   [Download](https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.7/aitum-multistream-windows-installer.exe)
 
-- **Aitum Stream Suite** 1.1.0 (GPL)<br/>
+- **Aitum Stream Suite** 1.1.1 (GPL)<br/>
   Multiple RTMP Outputs, Vertical Canvas<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-stream-suite)
-  [Download](https://github.com/Aitum/obs-aitum-stream-suite/releases/download/1.1.0/aitum-stream-suite-windows-installer.exe)
+  [Download](https://github.com/Aitum/obs-aitum-stream-suite/releases/download/1.1.1/aitum-stream-suite-windows-installer.exe)
 
-- **Branch Output** 1.0.8 (GPL)<br/>
+- **Branch Output** 1.0.9 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
-  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.8/osi-branch-output-1.0.8-windows-x64-Installer.exe)
+  [Download](https://github.com/OPENSPHERE-Inc/branch-output/releases/download/1.0.9/osi-branch-output-1.0.9-windows-x64-Installer.exe)
 
 - **Multi RTMP** 0.5.0.4 (GPL)<br/>
   Multiple RTMP Outputs<br/>
@@ -444,10 +449,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/ShmKnd/MasterLevelMeter/)
   [Download](https://github.com/ShmKnd/MasterLevelMeter/releases/download/v1.0.2a/MasterLevelMeter_Win_v1.0.2.zip)
 
-- **Mix Track to Source** 1.0.1 (GPL)<br/>
+- **Mix Track to Source** 1.0.2 (GPL)<br/>
   Create Audio Source of Master Tracks 1-6 for Filtering Master Tracks<br/>
   [Homepage](https://github.com/semnil/MixTrack2Source)
-  [Download](https://github.com/semnil/MixTrack2Source/releases/download/1.0.1/mix-track-to-source-1.0.1-windows-x64.zip)
+  [Download](https://github.com/semnil/MixTrack2Source/releases/download/1.0.2/mix-track-to-source-1.0.2-windows-x64.zip)
 
 - **Reorderable Audio Mixer** 1.1.1 (GPL)<br/>
   Audio Mixer supporting Source Reordering<br/>
@@ -543,7 +548,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Andersama/obs-asio)
   [Download](https://github.com/Andersama/obs-asio/releases/download/v3.2.0/obs-asio-3.2.0-windows-x64-Installer.exe)
 
-- **atkAudio** 0.31.14 (GPL)<br/>
+- **atkAudio** 0.31.15 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
   [Download](https://github.com/atkAudio/PluginForObsRelease/)
@@ -590,10 +595,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
   [Download](https://github.com/dimtpap/obs-scale-to-sound/releases/download/1.2.5/obs-scale-to-sound-1.2.5-windows.zip)
 
-- **Image Reaction** 1.2.2 (GPL)<br/>
+- **Image Reaction** 1.3.0 (GPL)<br/>
   OBSOLETE: Switch Images to a Sound<br/>
   [Homepage](https://github.com/scaledteam/obs-image-reaction)
-  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.2.2/obs-image-reaction-windows64.zip)
+  [Download](https://github.com/scaledteam/obs-image-reaction/releases/download/1.3.0/obs-image-reaction-windows64.zip)
 
 ### Plugins: Audio Output
 
@@ -607,10 +612,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/mmlTools/audio-stems-recorder)
   [Download](https://github.com/mmlTools/audio-stems-recorder/releases/download/1.3.0/audio-stems-recorder-1.3.0-windows-x64.zip)
 
-- **Mute Filter** 0.3.0 (GPL)<br/>
+- **Mute Filter** 0.4.0 (GPL)<br/>
   Mute Unwanted Audio<br/>
   [Homepage](https://github.com/norihiro/obs-mute-filter)
-  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.3.0/obs-mute-filter-0.3.0-obs27-Windows.zip)
+  [Download](https://github.com/norihiro/obs-mute-filter/releases/download/0.4.0/obs-mute-filter-0.4.0-obs27-Windows.zip)
 
 - **Audio Pan Filter** 0.2.3 (GPL)<br/>
   Stereo Panning<br/>
@@ -659,10 +664,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/Davidj361/OBS-ChapterMarker)
   [Download](https://github.com/Davidj361/OBS-ChapterMarker/releases/download/1.0.3/ChapterMarker-win64.zip)
 
-- **StreamUP Chapter Marker Manager** 1.2.0 (GPL)<br/>
+- **StreamUP Chapter Marker Manager** 1.3.0 (GPL)<br/>
   Write Timestamps to Video Recorded Files<br/>
   [Homepage](https://github.com/StreamUPTips/obs-chapter-marker-manager)
-  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.2.0/streamup-chapter-marker-manager-windows-installer-v1.2.0.zip)
+  [Download](https://github.com/StreamUPTips/obs-chapter-marker-manager/releases/download/v1.3.0/streamup-chapter-marker-manager-windows-installer-v1.3.0.zip)
 
 - **Local Stream Markers** 1.10 (GPL)<br/>
   Write Stream Markers to CSV File<br/>
@@ -681,10 +686,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
   [Download](https://github.com/synap5e/obs-screenshot-plugin/releases/download/1.5.2/obs-screenshot-filter-1.5.2-windows-x64.zip)
 
-- **Better Screenshot** 1.1.0 (GPL)<br/>
+- **Better Screenshot** 1.2.0 (GPL)<br/>
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/mmlTools/better-screenshot)
-  [Download](https://github.com/mmlTools/better-screenshot/releases/download/1.1.0/better-screenshot-1.1.0-windows-x64.zip)
+  [Download](https://github.com/mmlTools/better-screenshot/releases/download/1.2.0/better-screenshot-1.2.0-windows-x64.zip)
 
 - **Ghostscript** 1.3 (GPL)<br/>
   OBSOLETE: PDF Rendering with Ghostscript<br/>
