@@ -23,13 +23,9 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Essential Extensions
 
-- **DistroAV (formerly OBS NDI)** 6.1.1 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 6.2.0 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/DistroAV/DistroAV/)
-
-- **OBS WebSocket** 4.9.1-compat (GPL)<br/>
-  OBSOLETE: Remote Control via OLD WebSockets (for StreamDeck, etc)<br/>
-  [Homepage](https://github.com/Palakis/obs-websocket)
 
 - **NVIDIA Video Effects SDK** 0.7.6 (Commercial)<br/>
   Video Effects for OBS Studio<br/>
@@ -41,7 +37,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Zoominator** 1.5.0 (GPL)<br/>
+- **Zoominator** 2.0.0 (GPL)<br/>
   Comprehensive Auto-Zooming<br/>
   [Homepage](https://github.com/mmlTools/zoominator)
 
@@ -65,7 +61,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
 
-- **Live Background Removal Lite** 3.9.3 (GPL)<br/>
+- **Live Background Removal Lite** 4.0.1 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/kaito-tokyo/live-backgroundremoval-lite/)
 
@@ -141,7 +137,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Fetch Live Data<br/>
   [Homepage](https://github.com/locaal-ai/obs-urlsource)
 
-- **Markdown Source** 0.3.0 (GPL)<br/>
+- **Markdown Source** 0.3.1 (GPL)<br/>
   Render Markup Text<br/>
   [Homepage](https://github.com/exeldro/obs-markdown)
 
@@ -205,7 +201,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   OpenCV based ArUco Marker Detection (Augmented Reality)<br/>
   [Homepage](https://github.com/mVolpe94/aruco-source-move)
 
-- **Adjustment Layer** 1.0.5 (GPL)<br/>
+- **Adjustment Layer** 1.0.6 (GPL)<br/>
   Apply effect filters on an adjustment layer to all Sources placed behind it<br/>
   [Homepage](https://github.com/HoraiChan/obs-adjustment-layer)
 
@@ -289,7 +285,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
 
-- **Aitum Vertical** 1.6.3 (GPL)<br/>
+- **Aitum Vertical** 1.6.4 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
 
@@ -319,11 +315,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Kernel-Device-based (instead of DirectShow) Virtual Camera for Windows<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-virtual-output)
 
-- **Aitum Multistream** 1.0.7 (GPL)<br/>
+- **Aitum Multistream** 1.0.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
 
-- **Aitum Stream Suite** 1.1.1 (GPL)<br/>
+- **Aitum Stream Suite** 1.1.2 (GPL)<br/>
   Multiple RTMP Outputs, Vertical Canvas<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-stream-suite)
 
@@ -355,7 +351,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Output Scenes/Sources to AJA Devices<br/>
   [Homepage](https://github.com/norihiro/obs-aja-output-filter)
 
-- **Audio Monitor** 0.10.0 (GPL)<br/>
+- **Audio Monitor** 0.10.1 (GPL)<br/>
   Export Source Audio To (Virtual) Speaker Device and Graphical Meter<br/>
   [Homepage](https://github.com/exeldro/obs-audio-monitor)
 
@@ -383,7 +379,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
 
-- **Teleport** 0.7.6 (GPL)<br/>
+- **Teleport** 0.7.7 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
 
@@ -443,7 +439,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
 
-- **atkAudio** 0.31.15 (GPL)<br/>
+- **atkAudio** 0.32.2 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
 
@@ -491,7 +487,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Asynchronous Audio Filter<br/>
   [Homepage](https://github.com/norihiro/obs-async-audio-filter)
 
-- **Audio Stems Recorder** 1.3.0 (GPL)<br/>
+- **Audio Stems Recorder** 1.4.0 (GPL)<br/>
   Save All Audio Tracks as WAV files<br/>
   [Homepage](https://github.com/mmlTools/audio-stems-recorder)
 
@@ -583,7 +579,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Play Lottie Animation Files<br/>
   [Homepage](https://github.com/GrandMastersOnline/obs-lottie)
 
-- **DroidCam OBS Camera** 2.4.2 (GPL)<br/>
+- **DroidCam OBS Camera** 2.5.0 (GPL)<br/>
   Connect Mobile Phone (Android/iOS) as Camera to OBS Studio<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-plugin)
 
@@ -717,7 +713,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Automatically-Controlled Lower Thirds<br/>
   [Homepage](https://github.com/rse/lowerthird)
 
-- **VinciFlow** 3.7.0 (GPL)<br/>
+- **VinciFlow** 3.8.0 (GPL)<br/>
   Lower-Thirds Engine
   [Homepage](https://github.com/mmlTools/vinci-flow)
 
@@ -763,7 +759,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Flexible Timer<br/>
   [Homepage](https://obsproject.com/forum/resources/comprehensive-stopwatch-countdown-timer.1364/)
 
-- **Ashmanix Countdown Timer** 2.1.1 (GPL)<br/>
+- **Ashmanix Countdown Timer** 2.2.1 (GPL)<br/>
   Flexible Timer<br/>
   [Homepage](https://github.com/ashmanix/obs-plugin-countdown/)
 
