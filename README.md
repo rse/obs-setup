@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.171 (2026-06-15)
+Version 1.3.172 (2026-10-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,13 +17,13 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 32.1.2 (GPL)<br/>
+- **OBS Studio** 33.0.0 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
 
 ### Essential Extensions
 
-- **DistroAV (formerly OBS NDI)** 6.2.0 (GPL)<br/>
+- **DistroAV (formerly OBS NDI)** 6.2.2 (GPL)<br/>
   Network Display Interface (NDI) input/output sources<br/>
   [Homepage](https://github.com/DistroAV/DistroAV/)
 
@@ -37,11 +37,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Zoominator** 2.0.0 (GPL)<br/>
+- **Zoominator** 2.0.6 (GPL)<br/>
   Comprehensive Auto-Zooming<br/>
   [Homepage](https://github.com/mmlTools/zoominator)
 
-- **Composite Blur** 1.5.2 (GPL)<br/>
+- **Composite Blur** 1.6.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
 
@@ -49,7 +49,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
 
-- **Advanced Masks** 1.5.4 (GPL)<br/>
+- **Advanced Masks** 1.6.1 (GPL)<br/>
   Comprehensive Mask Filters<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-advanced-masks)
 
@@ -57,7 +57,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/ashmanix/blur-filter-obs-plugin)
 
-- **Background Removal** 1.3.7 (GPL)<br/>
+- **Background Removal** 1.4.1 (GPL)<br/>
   AI-Based Greenscreen Effect<br/>
   [Homepage](https://github.com/royshil/obs-backgroundremoval)
 
@@ -81,7 +81,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
 
-- **Shadertastic** 1.1.0 (GPL)<br/>
+- **Shadertastic** 1.3.1 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://www.shadertastic.com/)
 
@@ -169,7 +169,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   NVIDIA RTX Super Resolution Upscaler<br/>
   [Homepage](https://github.com/Bemjo/OBS-RTX-SuperResolution/)
 
-- **Retro Effects** 1.0.2 (GPL)<br/>
+- **Retro Effects** 1.1.1 (GPL)<br/>
   Many Retro Shader Effects<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-retro-effects/)
 
@@ -201,7 +201,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   OpenCV based ArUco Marker Detection (Augmented Reality)<br/>
   [Homepage](https://github.com/mVolpe94/aruco-source-move)
 
-- **Adjustment Layer** 1.0.6 (GPL)<br/>
+- **Adjustment Layer** 1.1.1 (GPL)<br/>
   Apply effect filters on an adjustment layer to all Sources placed behind it<br/>
   [Homepage](https://github.com/HoraiChan/obs-adjustment-layer)
 
@@ -239,11 +239,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
 
+- **Scene Anchor** 1.0.1 (GPL)<br/>
+  Folder Tree<br/>
+  [Homepage](https://github.com/rockbenben/scene-anchor)
+
 - **Media Playlist Source** 0.1.3 (GPL)<br/>
   Media Source Playlist<br/>
   [Homepage](https://github.com/CodeYan01/media-playlist-source/)
 
-- **xObsAsyncImageSource** 1.0 (GPL)<br/>
+- **xObsAsyncImageSource** 1.1 (GPL)<br/>
   Load Images Asynchronously<br/>
   [Homepage](https://github.com/YorVeX/xObsAsyncImageSource)
 
@@ -261,13 +265,17 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.34.2 (GPL)<br/>
+- **Advanced Scene Switcher** 1.36.1 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
 
 - **Move (Transition)** 3.2.1 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
+
+- **Move Workflow** 2.0.1 (GPL)<br/>
+  Add workflow system that works with the Move filters</br/>
+  [Homepage](https://github.com/DizzyBHigh/move-workflow)
 
 - **Scene as a Transition** 1.3.1 (GPL)<br/>
   Use a Scene as a Transition<br/>
@@ -285,7 +293,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
 
-- **Aitum Vertical** 1.6.4 (GPL)<br/>
+- **Aitum Vertical** 1.6.6 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
 
@@ -319,11 +327,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
 
-- **Aitum Stream Suite** 1.1.2 (GPL)<br/>
+- **Aitum Stream Suite** 1.2.4 (GPL)<br/>
   Multiple RTMP Outputs, Vertical Canvas<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-stream-suite)
 
-- **Branch Output** 1.0.9 (GPL)<br/>
+- **Branch Output** 1.0.13 (GPL)<br/>
   Multiple RTMP/SRT Outputs as a Source Filter<br/>
   [Homepage](https://github.com/OPENSPHERE-Inc/branch-output)
 
@@ -331,7 +339,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/sorayuki/obs-multi-rtmp)
 
-- **GStreamer** 0.4.1/1.24.3 (GPL)<br/>
+- **GStreamer** 0.4.2/1.24.3 (GPL)<br/>
   GStreamer Integration<br/>
   [Homepage](https://github.com/fzwoch/obs-gstreamer)
 
@@ -379,7 +387,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Encode and publish RTSP/RTP Stream<br/>
   [Homepage](https://github.com/iamscottxu/obs-rtspserver)
 
-- **Teleport** 0.7.7 (GPL)<br/>
+- **Teleport** 0.8.0 (GPL)<br/>
   Send Frames within LAN (like NDI)<br/>
   [Homepage](https://github.com/fzwoch/obs-teleport)
 
@@ -401,6 +409,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Scene/Source as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-source-dock)
 
+- **Compact Stats Dock** 0.0.3 (GPL)<br/>
+  Compact Variant of the Stats Dock<br/>
+  [Homepage](https://github.com/xurei/compact-stats-for-obs)
+
 - **Scene Notes Dock** 0.3.0 (GPL)<br/>
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
@@ -417,7 +429,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
 
-- **Instant Highlight Source Draw** 1.0.0 (GPL)<br/>
+- **Maidsuit: Draw** 1.2.1 (GPL)<br/>
+  Scene Drawing<br/>
+  [Homepage](https://maidsuit.com/software/maidsuit-draw)
+
+- **Instant Highlight Source Draw** 2.0.1 (GPL)<br/>
   Draw on Source<br/>
   [Homepage](https://github.com/mmlTools/draw-source)
 
@@ -439,7 +455,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
 
-- **atkAudio** 0.32.2 (GPL)<br/>
+- **atkAudio** 0.35.0 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
 
@@ -465,7 +481,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Audio Loudness Meter<br/>
   [Homepage](https://github.com/ShmKnd/MasterLevelMeter/)
 
-- **Waveform** 1.8.0 (GPL)<br/>
+- **Waveform** 1.9.1 (GPL)<br/>
   Audio Waveform Visualization<br/>
   [Homepage](https://github.com/phandasm/waveform)
 
@@ -551,7 +567,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
 
-- **Better Screenshot** 1.2.0 (GPL)<br/>
+- **Better Screenshot** 1.2.3 (GPL)<br/>
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/mmlTools/better-screenshot)
 
@@ -593,7 +609,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Remote Control
 
-- **PTZControl** 0.18.2 (GPL)<br/>
+- **PTZControl** 0.19.2 (GPL)<br/>
   PTZ Camera Control<br/>
   [Homepage](https://github.com/glikely/obs-ptz)
 
@@ -713,7 +729,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Automatically-Controlled Lower Thirds<br/>
   [Homepage](https://github.com/rse/lowerthird)
 
-- **VinciFlow** 3.8.0 (GPL)<br/>
+- **VinciFlow** 3.8.2 (GPL)<br/>
   Lower-Thirds Engine
   [Homepage](https://github.com/mmlTools/vinci-flow)
 
