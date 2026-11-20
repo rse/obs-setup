@@ -2,7 +2,7 @@
 OBS Setup
 =========
 
-Version 1.3.172 (2026-10-25)
+Version 1.3.173 (2026-11-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s opinionated
 list of software components for installing a full-featured
@@ -17,7 +17,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Base Application
 
-- **OBS Studio** 33.0.0 (GPL)<br/>
+- **OBS Studio** 33.0.2 (GPL)<br/>
   Open Broadcaster Software (Video Mixing Application)<br/>
   [Homepage](https://obsproject.com/)
 
@@ -37,7 +37,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 
 ### Plugins: Visual Effects
 
-- **Zoominator** 2.0.6 (GPL)<br/>
+- **Zoominator** 2.3.0 (GPL)<br/>
   Comprehensive Auto-Zooming<br/>
   [Homepage](https://github.com/mmlTools/zoominator)
 
@@ -45,7 +45,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-composite-blur)
 
-- **Stroke Glow Shadow** 1.5.3 (GPL)<br/>
+- **Stroke Glow Shadow** 1.6.1 (GPL)<br/>
   Comprehensive Blur Filter<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-stroke-glow-shadow)
 
@@ -77,7 +77,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Asynchronous Source Duplication<br/>
   [Homepage](https://github.com/norihiro/obs-async-source-duplication)
 
-- **Shaderfilter** 2.6.0 (GPL)<br/>
+- **Shaderfilter** 2.6.1 (GPL)<br/>
   Shader Filter<br/>
   [Homepage](https://github.com/exeldro/obs-shaderfilter)
 
@@ -97,7 +97,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Source for Rendered Gradient<br/>
   [Homepage](https://github.com/exeldro/obs-gradient-source)
 
-- **SVG Source** 1.0.0 (GPL)<br/>
+- **SVG Source** 1.1.0 (GPL)<br/>
   Source for SVG Rendered<br/>
   [Homepage](https://github.com/FiniteSingularity/svg-source/)
 
@@ -105,7 +105,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Dynamic Delay a Source<br/>
   [Homepage](https://github.com/exeldro/obs-dynamic-delay)
 
-- **Time Warp Scan** 0.1.7 (GPL)<br/>
+- **Time Warp Scan** 0.1.8 (GPL)<br/>
   Time Warp Scan Source Filter<br/>
   [Homepage](https://github.com/exeldro/obs-time-warp-scan)
 
@@ -145,9 +145,13 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   HTML as a Source<br/>
   [Homepage](https://github.com/exeldro/obs-html-source)
 
-- **3D Effect** 0.1.4 (GPL)<br/>
+- **3D Effect** 0.1.5 (GPL)<br/>
   3D Effect Filter<br/>
   [Homepage](https://github.com/exeldro/obs-3d-effect)
+
+- **Blink Filter** 1.0.0 (GPL)<br/>
+  Blink a Source Filter<br/>
+  [Homepage](https://github.com/MistahRR/blink-filter-for-obs)
 
 - **9-Slice Filter** 2.0.0 (GPL)<br/>
   9-Slice Scaling Filter<br/>
@@ -193,7 +197,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Make dark scenes brighter<br/>
   [Homepage](https://github.com/mirkonz/smart-gamma/)
 
-- **Flood Tuber** 1.1.0 (GPL)<br/>
+- **Flood Tuber** 1.3.0 (GPL)<br/>
   PNGTuber animations<br/>
   [Homepage](https://github.com/justflood/flood-tuber)
 
@@ -201,7 +205,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   OpenCV based ArUco Marker Detection (Augmented Reality)<br/>
   [Homepage](https://github.com/mVolpe94/aruco-source-move)
 
-- **Adjustment Layer** 1.1.1 (GPL)<br/>
+- **Adjustment Layer** 1.1.2 (GPL)<br/>
   Apply effect filters on an adjustment layer to all Sources placed behind it<br/>
   [Homepage](https://github.com/HoraiChan/obs-adjustment-layer)
 
@@ -223,11 +227,11 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-clone)
 
-- **Source Copy** 0.3.0 (GPL)<br/>
+- **Source Copy** 0.4.0 (GPL)<br/>
   Scene/Source/Filter Copy & Paste<br/>
   [Homepage](https://github.com/exeldro/obs-source-copy)
 
-- **Replay Source** 1.8.1 (GPL)<br/>
+- **Replay Source** 1.8.2 (GPL)<br/>
   Instant Replay Sources from Memory<br/>
   [Homepage](https://github.com/exeldro/obs-replay-source)
 
@@ -238,6 +242,10 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
 - **Scene Tree Folder** 0.2.0 (GPL)<br/>
   Dock for Scene Tree View<br/>
   [Homepage](https://github.com/DigitOtter/obs_scene_tree_view/)
+
+- **Scene Inspector Dock** 1.2.0 (GPL)<br/>
+  Dock for Source Properties<br/>
+  [Homepage](https://github.com/prgmitchell/source-inspector-dock)
 
 - **Scene Anchor** 1.0.1 (GPL)<br/>
   Folder Tree<br/>
@@ -259,21 +267,21 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Save/Load Dock Settings<br/>
   [Homepage](https://github.com/dcmouser/obsPlugins/tree/main/jr/jrdockie)
 
-- **Quick Access Utility (QAU)** 1.0.4 (GPL)<br/>
+- **Quick Access Utility (QAU)** 1.1.1 (GPL)<br/>
   Quick Source/Scene Access Dock<br/>
   [Homepage](https://github.com/FiniteSingularity/obs-quick-access-utility)
 
 ### Plugins: Scene/Source Control
 
-- **Advanced Scene Switcher** 1.36.1 (GPL)<br/>
+- **Advanced Scene Switcher** 1.37.2 (GPL)<br/>
   Powerful Scene Switching<br/>
   [Homepage](https://obsproject.com/forum/resources/advanced-scene-switcher.395/)
 
-- **Move (Transition)** 3.2.1 (GPL)<br/>
+- **Move (Transition)** 3.2.2 (GPL)<br/>
   Move Sources to New Position (During Scene Transition or for Face Tracking)<br/>
   [Homepage](https://github.com/exeldro/obs-move-transition)
 
-- **Move Workflow** 2.0.1 (GPL)<br/>
+- **Move Workflow** 2.1.0 (GPL)<br/>
   Add workflow system that works with the Move filters</br/>
   [Homepage](https://github.com/DizzyBHigh/move-workflow)
 
@@ -293,7 +301,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Control Dock for Media Playing<br/>
   [Homepage](https://github.com/exeldro/obs-media-controls)
 
-- **Aitum Vertical** 1.6.6 (GPL)<br/>
+- **Aitum Vertical** 1.6.7 (GPL)<br/>
   Vertical Canvas for vertical video layouts<br/>
   [Homepage](https://github.com/Aitum/obs-vertical-canvas)
 
@@ -323,11 +331,15 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Kernel-Device-based (instead of DirectShow) Virtual Camera for Windows<br/>
   [Homepage](https://github.com/dev47apps/droidcam-obs-virtual-output)
 
+- **StreamAssistant Camera** 1.3.0 (GPL)<br/>
+  Use Mobile Phone Camera<br/>
+  [Homepage](https://github.com/prgmitchell/streamassistant-camera)
+
 - **Aitum Multistream** 1.0.8 (GPL)<br/>
   Multiple RTMP Outputs<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-multistream)
 
-- **Aitum Stream Suite** 1.2.4 (GPL)<br/>
+- **Aitum Stream Suite** 1.2.5 (GPL)<br/>
   Multiple RTMP Outputs, Vertical Canvas<br/>
   [Homepage](https://github.com/Aitum/obs-aitum-stream-suite)
 
@@ -417,7 +429,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Scene/Source Notes as Dock<br/>
   [Homepage](https://github.com/exeldro/obs-scene-notes-dock)
 
-- **Downstream Keyer** 0.4.4 (GPL)<br/>
+- **Downstream Keyer** 0.4.5 (GPL)<br/>
   Scene-Independent Overlay Sources<br/>
   [Homepage](https://github.com/exeldro/obs-downstream-keyer)
 
@@ -425,7 +437,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Main View Duplication Source<br/>
   [Homepage](https://github.com/norihiro/obs-main-view-source/)
 
-- **Draw** 0.3.1 (GPL)<br/>
+- **Draw** 0.3.3 (GPL)<br/>
   Scene Drawing in a Dock<br/>
   [Homepage](https://github.com/exeldro/obs-draw)
 
@@ -455,7 +467,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   ASIO Audio Support<br/>
   [Homepage](https://github.com/Andersama/obs-asio)
 
-- **atkAudio** 0.35.0 (GPL)<br/>
+- **atkAudio** 0.36.2 (GPL)<br/>
   VST3 Plugin Host for OBS<br/>
   [Homepage](https://www.atkaudio.com/products/atkaudio-plugin)
 
@@ -469,7 +481,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-audio-video-sync-dock/)
 
-- **Color Monitor** 0.9.5 (GPL)<br/>
+- **Color Monitor** 0.10.0 (GPL)<br/>
   Visualize Colors of Cameras for Debugging Purposes<br/>
   [Homepage](https://github.com/norihiro/obs-color-monitor)
 
@@ -493,7 +505,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   OBSOLETE: Scale a Source to a Sound<br/>
   [Homepage](https://github.com/Qufyy/obs-scale-to-sound)
 
-- **Image Reaction** 1.3.0 (GPL)<br/>
+- **Image Reaction** 1.4.1 (GPL)<br/>
   OBSOLETE: Switch Images to a Sound<br/>
   [Homepage](https://github.com/scaledteam/obs-image-reaction)
 
@@ -567,7 +579,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/synap5e/obs-screenshot-plugin)
 
-- **Better Screenshot** 1.2.3 (GPL)<br/>
+- **Better Screenshot** 1.3.0 (GPL)<br/>
   Source Screenshot Filter<br/>
   [Homepage](https://github.com/mmlTools/better-screenshot)
 
@@ -729,7 +741,7 @@ of my [companion Audio-Setup](https://github.com/rse/audio-setup)!
   Automatically-Controlled Lower Thirds<br/>
   [Homepage](https://github.com/rse/lowerthird)
 
-- **VinciFlow** 3.8.2 (GPL)<br/>
+- **VinciFlow** 4.0.0 (GPL)<br/>
   Lower-Thirds Engine
   [Homepage](https://github.com/mmlTools/vinci-flow)
 
